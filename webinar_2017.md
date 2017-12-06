@@ -4,8 +4,8 @@
 ### 目錄
 
 * [AI](#0) (22 Videos)
-* [Big Data](#1) (17 Videos)
-* [Compute](#2) (21 Videos)
+* [Big Data](#1) (18 Videos)
+* [Compute](#2) (22 Videos)
 * [Containers](#3) (6 Videos)
 * [Databases](#4) (15 Videos)
 * [DevOps](#5) (8 Videos)
@@ -13,7 +13,7 @@
 * [IOT](#7) (9 Videos)
 * [Lab/Networking](#8) (10 Videos)
 * [Management Tools](#9) (7 Videos)
-* [Mobile](#10) (6 Videos)
+* [Mobile](#10) (7 Videos)
 * [Security & Identity](#11) (12 Videos)
 * [Serverless](#12) (8 Videos)
 * [Storage](#13) (21 Videos)
@@ -78,6 +78,7 @@
 |10/10|<a href="https://www.youtube.com/watch?v=fORJ6y572gs" target="_blank">Serverless Analytics - Amazon Redshift Spectrum, AWS Glue, and Amazon QuickSight  <i class="fa fa-cc fa-1"></i></a>| 
 |11/07|<a href="https://www.youtube.com/watch?v=EVqYeQiKggY" target="_blank">Real-time Application Monitoring with Amazon Kinesis and Amazon CloudWatch  <i class="fa fa-cc fa-1"></i></a>| 
 |11/09|<a href="https://www.youtube.com/watch?v=lY5olliJ16E" target="_blank">Amazon Elasticsearch Service Security Deep Dive & VPC  <i class="fa fa-cc fa-1"></i></a>| 
+|12/05|<a href="https://www.youtube.com/watch?v=7Nwhyh5paek" target="_blank">Deploying Business Analytics at Enterprise Scale  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -107,6 +108,7 @@
 |11/09|<a href="https://www.youtube.com/watch?v=srofVz6xvkE" target="_blank">Set it and Forget it Auto Scaling Target Tracking Policies  <i class="fa fa-cc fa-1"></i></a>| 
 |11/09|<a href="https://www.youtube.com/watch?v=bWmOEQWg77g" target="_blank">Run Your CI/CD Pipeline at Scale for a Fraction of the Cost - AWS Online Tech Talk  <i class="fa fa-cc fa-1"></i></a>| 
 |11/09|<a href="https://www.youtube.com/watch?v=XZ65yY9jevM" target="_blank">Simplify Microsoft Windows Server Management with Amazon Lightsail  <i class="fa fa-cc fa-1"></i></a>| 
+|12/05|<a href="https://www.youtube.com/watch?v=yG09kT78Rig" target="_blank">Run Your HPC Workload at Scale for a Fraction of the Cost  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -244,6 +246,7 @@
 |09/19|<a href="https://www.youtube.com/watch?v=O11nhUm8MKo" target="_blank">Test Your Android App with Espresso and AWS Device Farm  <i class="fa fa-cc fa-1"></i></a>| 
 |09/19|<a href="https://www.youtube.com/watch?v=h_ZQzWns8cg" target="_blank">Amazon Cognito Public Beta: Built-in UI for User Sign-up/in and SAML Federation  <i class="fa fa-cc fa-1"></i></a>| 
 |11/09|<a href="https://www.youtube.com/watch?v=M5FKOuO75gU" target="_blank">Deep Dive on Amazon SES What's New  <i class="fa fa-cc fa-1"></i></a>| 
+|12/05|<a href="https://www.youtube.com/watch?v=e2lrbD0P8D8" target="_blank">User Based Multi Channel Engagement using Amazon Pinpoint and Amazon Cognito  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
