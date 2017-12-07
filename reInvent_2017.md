@@ -6,7 +6,7 @@
 * [! 2017 re:Invent](#0) (62 Videos)
 * [! Daily re:Cap](#1) (5 Videos)
 * [AdTech](#2) (4 Videos)
-* [Alexa](#3) (14 Videos)
+* [Alexa](#3) (15 Videos)
 * [Analytics & Big Data](#4) (43 Videos)
 * [Architecture](#5) (33 Videos)
 * [Automotive & Manufacturing](#6) (4 Videos)
@@ -16,7 +16,7 @@
 * [Containers](#10) (25 Videos)
 * [Content Delivery](#11) (16 Videos)
 * [Databases](#12) (36 Videos)
-* [Demo Theater](#13) (75 Videos)
+* [Demo Theater](#13) (76 Videos)
 * [Developer Community](#14) (6 Videos)
 * [Devops](#15) (36 Videos)
 * [Energy & Utilities](#16) (4 Videos)
@@ -161,9 +161,10 @@
 |ALX321|<a href="https://www.youtube.com/watch?v=HXtjdXjpJwI" target="_blank">Alexa State of the Science   <i class="fa fa-cc fa-1"></i></a>| 
 |ALX322|<a href="https://www.youtube.com/watch?v=fc0pYucDtkA" target="_blank">Natural Language Processing Plus Natural Language Generation: Th   <i class="fa fa-cc fa-1"></i></a>| 
 |ALX324|<a href="https://www.youtube.com/watch?v=xlf06o5ZREU" target="_blank">Alexa State of the Union   <i class="fa fa-cc fa-1"></i></a>| 
-|ALX325|<a href="https://www.youtube.com/watch?v=QYRNkjO86xI" target="_blank">Now Hear This: How Earplay Architects an Alexa Radio Drama   <i class="fa fa-cc fa-1"></i></a>| 
+|ALX325|<a href="https://www.youtube.com/watch?v=QYRNkjO86xI" target="_blank">Now Hear This: How Earplay Architects an Alexa Radio Drama  </a>| 
 |ALX326|<a href="https://www.youtube.com/watch?v=10sg6oDai9M" target="_blank">Applying Alexa's Natural Language To Your Challenges   <i class="fa fa-cc fa-1"></i></a>| 
-|ALX328|<a href="https://www.youtube.com/watch?v=f1ggPweJWPk" target="_blank">Smart Devices Everywhere   <i class="fa fa-cc fa-1"></i></a>| 
+|ALX328|<a href="https://www.youtube.com/watch?v=f1ggPweJWPk" target="_blank">Smart Devices Everywhere  </a>| 
+|ALX328-R|<a href="https://www.youtube.com/watch?v=QWfUooI8LUo" target="_blank">[REPEAT] Smart Devices Everywhere   <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -291,7 +292,7 @@
 
 | ClassId |       |
 |-|-|
-|BAP201|<a href="https://www.youtube.com/watch?v=PvBhi7ybXqE" target="_blank">KAR Auction Services’ Journey To The Cloud   <i class="fa fa-cc fa-1"></i></a>| 
+|BAP201|<a href="https://www.youtube.com/watch?v=PvBhi7ybXqE" target="_blank">KAR Auction Services’ Journey To The Cloud  </a>| 
 |BAP202|<a href="https://www.youtube.com/watch?v=rSzDFJGw5vg" target="_blank">Amazon Connect Delivers Personalized Customer Experiences for Yo   <i class="fa fa-cc fa-1"></i></a>| 
 |BAP203|<a href="https://www.youtube.com/watch?v=7PSim8kSkik" target="_blank">Secure File Collaboration and Management, Simplified with Amazon   <i class="fa fa-cc fa-1"></i></a>| 
 |BAP204|<a href="https://www.youtube.com/watch?v=JA5U0zt0n88" target="_blank">How Amazon Is Moving to Amazon Chime   <i class="fa fa-cc fa-1"></i></a>| 
@@ -520,6 +521,7 @@
 |DEM74|<a href="https://www.youtube.com/watch?v=Ul3J8VX7zmM" target="_blank">AWS re:Invent 2017: Data Visualization with Amazon QuickSight   <i class="fa fa-cc fa-1"></i></a>| 
 |DEM75|<a href="https://www.youtube.com/watch?v=jPHOpjSWJeM" target="_blank">AWS re:Invent 2017: Using the new visual editor for IAM policies   <i class="fa fa-cc fa-1"></i></a>| 
 |DEM76|<a href="https://www.youtube.com/watch?v=SHk6NC_9iSw" target="_blank">AWS re:Invent 2017: Building a Predictive API using a Pre-Trained MXNet Model and AW   <i class="fa fa-cc fa-1"></i></a>| 
+|DEM77|<a href="https://www.youtube.com/watch?v=oGawhLx3Dxo" target="_blank">AWS re:Invent 2017: Local Serverless Development using SAM Local   <i class="fa fa-cc fa-1"></i></a>| 
 |DEM78|<a href="https://www.youtube.com/watch?v=s4ptjYf22fA" target="_blank">AWS re:Invent 2017: Live Demo: Accelerating Data Movement into Amazon EFS   <i class="fa fa-cc fa-1"></i></a>| 
 |DEM79|<a href="https://www.youtube.com/watch?v=Mpxomm0BJx0" target="_blank">AWS re:Invent 2017: Live Demo: Amazon EBS and Elastic Volumes in Action   <i class="fa fa-cc fa-1"></i></a>| 
 
@@ -954,7 +956,7 @@
 |SID302|<a href="https://www.youtube.com/watch?v=e6sokCFRlns" target="_blank">Force Multiply Your Security Team with Automation and Alexa   <i class="fa fa-cc fa-1"></i></a>| 
 |SID303|<a href="https://www.youtube.com/watch?v=fx7WWYTBvXU" target="_blank">How You can use AWS’ Identity Services to be Successful on Your    <i class="fa fa-cc fa-1"></i></a>| 
 |SID304|<a href="https://www.youtube.com/watch?v=ZoCJ_VIsLQs" target="_blank">SecOps 2021 Today: Using AWS Services to Deliver SecOps   <i class="fa fa-cc fa-1"></i></a>| 
-|SID305|<a href="https://www.youtube.com/watch?v=iOL7hNy9dIA" target="_blank">How CrowdStrike Built a Real-time Security Monitoring Service on   <i class="fa fa-cc fa-1"></i></a>| 
+|SID305|<a href="https://www.youtube.com/watch?v=iOL7hNy9dIA" target="_blank">How CrowdStrike Built a Real-time Security Monitoring Service on  </a>| 
 |SID306|<a href="https://www.youtube.com/watch?v=_0BCJLIxowQ" target="_blank">How Chick-fil-A Embraces DevSecOps on AWS   <i class="fa fa-cc fa-1"></i></a>| 
 |SID310|<a href="https://www.youtube.com/watch?v=4M3TGcSua3k" target="_blank">Moving from the Shadows to the Throne   <i class="fa fa-cc fa-1"></i></a>| 
 |SID313|<a href="https://www.youtube.com/watch?v=h4eClhXPvoc" target="_blank">Continuous Compliance on AWS at Scale   <i class="fa fa-cc fa-1"></i></a>| 
@@ -1101,7 +1103,7 @@
 
 
 ### 產生時間
-* 2017-12-06
+* 2017-12-07
 
 
 

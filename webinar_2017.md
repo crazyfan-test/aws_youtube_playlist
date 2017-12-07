@@ -5,10 +5,10 @@
 
 * [AI](#0) (22 Videos)
 * [Big Data](#1) (18 Videos)
-* [Compute](#2) (22 Videos)
+* [Compute](#2) (23 Videos)
 * [Containers](#3) (6 Videos)
-* [Databases](#4) (15 Videos)
-* [DevOps](#5) (8 Videos)
+* [Databases](#4) (16 Videos)
+* [DevOps](#5) (9 Videos)
 * [Enterprise](#6) (12 Videos)
 * [IOT](#7) (9 Videos)
 * [Lab/Networking](#8) (10 Videos)
@@ -109,6 +109,7 @@
 |11/09|<a href="https://www.youtube.com/watch?v=bWmOEQWg77g" target="_blank">Run Your CI/CD Pipeline at Scale for a Fraction of the Cost - AWS Online Tech Talk  <i class="fa fa-cc fa-1"></i></a>| 
 |11/09|<a href="https://www.youtube.com/watch?v=XZ65yY9jevM" target="_blank">Simplify Microsoft Windows Server Management with Amazon Lightsail  <i class="fa fa-cc fa-1"></i></a>| 
 |12/05|<a href="https://www.youtube.com/watch?v=yG09kT78Rig" target="_blank">Run Your HPC Workload at Scale for a Fraction of the Cost  <i class="fa fa-cc fa-1"></i></a>| 
+|12/06|<a href="https://www.youtube.com/watch?v=bjehc2K5gyA" target="_blank">Elastic Load Balancing Deep Dive  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -146,6 +147,7 @@
 |10/26|<a href="https://www.youtube.com/watch?v=4Q2yqIPZsoQ" target="_blank">Consolidate MySQL Shards Into Amazon Aurora Using AWS Database Migration Service - AWS Tech Talks  <i class="fa fa-cc fa-1"></i></a>| 
 |11/09|<a href="https://www.youtube.com/watch?v=KL-9auR9fes" target="_blank">Deep Dive on Amazon DynamoDB  <i class="fa fa-cc fa-1"></i></a>| 
 |11/09|<a href="https://www.youtube.com/watch?v=cwT4_uT7OHw" target="_blank">Migrating Your Oracle Database to PostgreSQL  <i class="fa fa-cc fa-1"></i></a>| 
+|12/06|<a href="https://www.youtube.com/watch?v=gPNSYnxl6Ms" target="_blank">Scaling Redis Workloads with Amazon ElastiCache  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -162,6 +164,7 @@
 |09/19|<a href="https://www.youtube.com/watch?v=7UygHxU9fU8" target="_blank">AWS CodeStar: Develop, Build, and Deploy applications on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |10/11|<a href="https://www.youtube.com/watch?v=Ov2A6SEn06c" target="_blank">Remove Undifferentiated Heavy Lifting from Jenkins  <i class="fa fa-cc fa-1"></i></a>| 
 |12/04|<a href="https://www.youtube.com/watch?v=4KZd1LeU-fs" target="_blank">Leveraging APIs to build custom apps on X Ray  <i class="fa fa-cc fa-1"></i></a>| 
+|12/06|<a href="https://www.youtube.com/watch?v=fYxOd-awKXE" target="_blank">Launch Applications the Amazon Way - AWS Online Tech Talk  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -323,7 +326,7 @@
 
 
 ### 產生時間
-* 2017-12-06
+* 2017-12-07
 
 
 
