@@ -1,9 +1,9 @@
 
 
 
-### 目錄
+### Track
 
-* [AI](#0) (22 Videos)
+* [AI](#0) (20 Videos)
 * [Big Data](#1) (18 Videos)
 * [Compute](#2) (23 Videos)
 * [Containers](#3) (6 Videos)
@@ -11,12 +11,12 @@
 * [DevOps](#5) (9 Videos)
 * [Enterprise](#6) (12 Videos)
 * [IOT](#7) (9 Videos)
-* [Lab/Networking](#8) (10 Videos)
+* [Lab/Networking](#8) (11 Videos)
 * [Management Tools](#9) (7 Videos)
 * [Mobile](#10) (7 Videos)
 * [Security & Identity](#11) (12 Videos)
 * [Serverless](#12) (8 Videos)
-* [Storage](#13) (21 Videos)
+* [Storage](#13) (20 Videos)
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-### 影片列表
+### Sessions
 
 
 ### AI <a name="0"></a>
@@ -47,11 +47,9 @@
 |09/19|<a href="https://www.youtube.com/watch?v=HVgkHGfrJMQ" target="_blank">Exploring the Business Use Cases for Amazon Rekognition  <i class="fa fa-cc fa-1"></i></a>| 
 |09/19|<a href="https://www.youtube.com/watch?v=oGEa0M7CvOQ" target="_blank">Exploring the Business Use Cases for Amazon Machine Learning  <i class="fa fa-cc fa-1"></i></a>| 
 |09/26|<a href="https://www.youtube.com/watch?v=4fQRoBz0BnM" target="_blank">Introduction to Generative Adversarial Networks (GAN) with Apache MXNet  <i class="fa fa-cc fa-1"></i></a>| 
-|10/24|<a href="https://www.youtube.com/watch?v=KZRR6Os9FcM" target="_blank">Working with Amazon Lex Chatbots in Amazon Connect </a>| 
 |10/24|<a href="https://www.youtube.com/watch?v=vTAMSm06baA" target="_blank">Deep Learning on AWS with TensorFlow  <i class="fa fa-cc fa-1"></i></a>| 
 |10/25|<a href="https://www.youtube.com/watch?v=rLw2oXEKJG8" target="_blank">Working with Amazon Lex Chatbots in Amazon Connect  <i class="fa fa-cc fa-1"></i></a>| 
 |11/14|<a href="https://www.youtube.com/watch?v=4PbSZRYXa3o" target="_blank">Sentiment Analysis Using Apache MXNet and Gluon  <i class="fa fa-cc fa-1"></i></a>| 
-|11/14|<a href="https://www.youtube.com/watch?v=MsoAlRCmhlI" target="_blank">Bringing Characters to Life with Amazon Polly Text to Speech </a>| 
 |11/15|<a href="https://www.youtube.com/watch?v=4gsx7EeMxWs" target="_blank">Bringing Characters to Life with Amazon Polly Text to Speech  <i class="fa fa-cc fa-1"></i></a>| 
 
 
@@ -220,6 +218,7 @@
 |09/19|<a href="https://www.youtube.com/watch?v=_D5MQJWHUbU" target="_blank">Scaling to millions of users with Amazon CloudFront  <i class="fa fa-cc fa-1"></i></a>| 
 |09/19|<a href="https://www.youtube.com/watch?v=hm01zCUPohM" target="_blank">Introduction to Microsoft SQL Server in AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |11/15|<a href="https://www.youtube.com/watch?v=iCCsOuLY2GI" target="_blank">Hands on Lab: Deploy  .NET Code to AWS from Visual Studio  <i class="fa fa-cc fa-1"></i></a>| 
+|12/06|<a href="https://www.youtube.com/watch?v=p_UD13ptDuA" target="_blank">VMware Cloud on AWS: Networking and Storage Best Practices  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -294,7 +293,6 @@
 
 | Date |       |
 |-|-|
-|06/30|<a href="https://www.youtube.com/watch?v=NhI0g8vI5M2" target="_blank">Deep Dive on Elastic File System </a>| 
 |07/12|<a href="https://www.youtube.com/watch?v=0mcwC3OdL78" target="_blank">Deep Dive on Amazon S3  <i class="fa fa-cc fa-1"></i></a>| 
 |08/15|<a href="https://www.youtube.com/watch?v=SXcKsFELbwE" target="_blank">Deep Dive on Amazon Elastic File System  <i class="fa fa-cc fa-1"></i></a>| 
 |08/15|<a href="https://www.youtube.com/watch?v=Vi_1Or7QuOg" target="_blank">Deep Dive on Amazon EBS Elastic Volumes  <i class="fa fa-cc fa-1"></i></a>| 
@@ -315,18 +313,6 @@
 |10/25|<a href="https://www.youtube.com/watch?v=x49xEZU77sY" target="_blank">Replacing Tape Backups with AWS Storage Gateway  <i class="fa fa-cc fa-1"></i></a>| 
 |10/26|<a href="https://www.youtube.com/watch?v=HRaBJe1-96w" target="_blank">Deploy Compliance Controls When Archiving Large Scale Data Stores  <i class="fa fa-cc fa-1"></i></a>| 
 |11/15|<a href="https://www.youtube.com/watch?v=2Bkt7MssTlE" target="_blank">Disaster Recovery Options with AWS  <i class="fa fa-cc fa-1"></i></a>| 
-
-
-
-
-
-
-
-
-
-
-### 產生時間
-* 2017-12-07
 
 
 
