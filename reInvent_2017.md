@@ -6,8 +6,8 @@
 * [! 2017 re:Invent](#0) (62 Videos)
 * [! Daily re:Cap](#1) (5 Videos)
 * [AdTech](#2) (4 Videos)
-* [Alexa](#3) (6 Videos)
-* [Analytics & Big Data](#4) (35 Videos)
+* [Alexa](#3) (5 Videos)
+* [Analytics & Big Data](#4) (34 Videos)
 * [Architecture](#5) (33 Videos)
 * [Automotive & Manufacturing](#6) (4 Videos)
 * [AWS Marketplace & Service Catalog](#7) (7 Videos)
@@ -28,19 +28,20 @@
 * [GPSTechnical](#22) (26 Videos)
 * [Healthcare](#23) (6 Videos)
 * [IoT](#24) (20 Videos)
-* [Life Sciences](#25) (7 Videos)
-* [Machine Learning](#26) (35 Videos)
-* [Media & Entertainment](#27) (6 Videos)
-* [Mobile](#28) (14 Videos)
-* [Networking](#29) (15 Videos)
-* [Public Sector](#30) (7 Videos)
-* [Retail & CPG](#31) (4 Videos)
-* [Security, Compliance & Identity](#32) (39 Videos)
-* [Serverless](#33) (27 Videos)
-* [Storage](#34) (26 Videos)
-* [Telecommunications](#35) (4 Videos)
-* [We Power Tech](#36) (2 Videos)
-* [Windows](#37) (11 Videos)
+* [Launchpad Live Streams on twitch.tv/aws](#25) (64 Videos)
+* [Life Sciences](#26) (7 Videos)
+* [Machine Learning](#27) (35 Videos)
+* [Media & Entertainment](#28) (6 Videos)
+* [Mobile](#29) (14 Videos)
+* [Networking](#30) (15 Videos)
+* [Public Sector](#31) (7 Videos)
+* [Retail & CPG](#32) (4 Videos)
+* [Security, Compliance & Identity](#33) (39 Videos)
+* [Serverless](#34) (27 Videos)
+* [Storage](#35) (26 Videos)
+* [Telecommunications](#36) (4 Videos)
+* [We Power Tech](#37) (2 Videos)
+* [Windows](#38) (11 Videos)
 
 
 
@@ -154,7 +155,6 @@
 |ALX317|<a href="https://www.youtube.com/watch?v=R7LNY7IUilA" target="_blank">How Capital One Rethought Multimodal Voice Experiences and Broug   <i class="fa fa-cc fa-1"></i></a>| 
 |ALX322|<a href="https://www.youtube.com/watch?v=fc0pYucDtkA" target="_blank">Natural Language Processing Plus Natural Language Generation: Th   <i class="fa fa-cc fa-1"></i></a>| 
 |ALX324|<a href="https://www.youtube.com/watch?v=xlf06o5ZREU" target="_blank">Alexa State of the Union   <i class="fa fa-cc fa-1"></i></a>| 
-|ALX328|<a href="https://www.youtube.com/watch?v=f1ggPweJWPk" target="_blank">Smart Devices Everywhere  </a>| 
 |ALX328-R|<a href="https://www.youtube.com/watch?v=QWfUooI8LUo" target="_blank">[REPEAT] Smart Devices Everywhere   <i class="fa fa-cc fa-1"></i></a>| 
 
 
@@ -187,15 +187,14 @@
 |ABD310|<a href="https://www.youtube.com/watch?v=tONmArf07QI" target="_blank">How FINRA Secures Its Big Data and Data Science Platform on AWS   <i class="fa fa-cc fa-1"></i></a>| 
 |ABD311|<a href="https://www.youtube.com/watch?v=G4Dgzlo3gQI" target="_blank">Deploying Business Analytics at Enterprise Scale with Amazon Qui   <i class="fa fa-cc fa-1"></i></a>| 
 |ABD312|<a href="https://www.youtube.com/watch?v=qOZi3Z6baKQ" target="_blank">Deep Dive: Migrating Big Data Workloads to AWS   <i class="fa fa-cc fa-1"></i></a>| 
-|ABD315|<a href="https://www.youtube.com/watch?v=eQBHIINW8VY" target="_blank">Building Serverless ETL Pipelines with AWS Glue   <i class="fa fa-cc fa-1"></i></a>| 
 |ABD316|<a href="https://www.youtube.com/watch?v=ydbufLwzQUw" target="_blank">American Heart Association: Finding Cures to Heart Disease Throu   <i class="fa fa-cc fa-1"></i></a>| 
 |ABD318|<a href="https://www.youtube.com/watch?v=0vdW1ORLWyk" target="_blank">Architecting a data lake with Amazon S3, Amazon Kinesis, and Ama   <i class="fa fa-cc fa-1"></i></a>| 
 |ABD319|<a href="https://www.youtube.com/watch?v=U01QSQJmJbQ" target="_blank">Tooling Up for Efficiency: DIY Solutions @ Netflix   <i class="fa fa-cc fa-1"></i></a>| 
 |ABD320|<a href="https://www.youtube.com/watch?v=p8qSWE_nAAE" target="_blank">Netflix Keystone SPaaS: Real-time Stream Processing as a Service   <i class="fa fa-cc fa-1"></i></a>| 
 |ABD327|<a href="https://www.youtube.com/watch?v=3Xg3yu5xnMY" target="_blank">Migrating Your Traditional Data Warehouse to a Modern Data Lake   <i class="fa fa-cc fa-1"></i></a>| 
 |ABD329|<a href="https://www.youtube.com/watch?v=lWK96BNx3Qk" target="_blank">A Look Under the Hood – How Amazon.com Uses AWS Services for Ana   <i class="fa fa-cc fa-1"></i></a>| 
-|ABD331|<a href="https://www.youtube.com/watch?v=oJUpUQ_yNVw" target="_blank">Log Analytics at Expedia Using Amazon Elasticsearch Service   <i class="fa fa-cc fa-1"></i></a>| 
 |ABD337|<a href="https://www.youtube.com/watch?v=BAsLEsEVThM" target="_blank">Making the Shift from DevOps to Practical DevSecOps   <i class="fa fa-cc fa-1"></i></a>| 
+|ABD339|<a href="https://www.youtube.com/watch?v=JIviltfpul0" target="_blank">Deep Dive and Best Practices for Amazon Athena   <i class="fa fa-cc fa-1"></i></a>| 
 |ABD401|<a href="https://www.youtube.com/watch?v=tuDt7eLC5n4" target="_blank">How Netflix Monitors Applications in Near Real-Time with Amazon    <i class="fa fa-cc fa-1"></i></a>| 
 |ABD402|<a href="https://www.youtube.com/watch?v=U486YxlDoeM" target="_blank">How Esri Optimizes Massive Image Archives for Analytics in the C   <i class="fa fa-cc fa-1"></i></a>| 
 |ABD403|<a href="https://www.youtube.com/watch?v=zxYjVxv1OS4" target="_blank">Best Practices for Distributed Machine Learning and Predictive A   <i class="fa fa-cc fa-1"></i></a>| 
@@ -775,7 +774,79 @@
 
 
 
-### Life Sciences <a name="25"></a>
+### Launchpad Live Streams on twitch.tv/aws <a name="25"></a>
+
+| ClassId |       |
+|-|-|
+|---|<a href="https://www.youtube.com/watch?v=im4fs4eOWkY" target="_blank">2017 Year-to-Date Launch Recap  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=Jm2CwW4_b8M" target="_blank">AWS Certified Cloud Practitioner  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=NNqVBo9k8n4" target="_blank">AWS Cloud9  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=nS9D9BxmW00" target="_blank">AWS Educate  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=GHZWrneWXx8" target="_blank">AWS Elemental: MediaPackage, MediaLive, MediaStore,....  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=y9mzpGAoOuE" target="_blank">AWS Fargate  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=gLo4hyzVKqk" target="_blank">AWS GameDay Hackathon  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=OkTwYDPIboE" target="_blank">AWS Greengrass  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=yDlNfKTSt9Y" target="_blank">AWS IoT 1-Click  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=uc2RAvyrRCE" target="_blank">AWS IoT Analytics  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=JQFl97ZRdWA" target="_blank">AWS IoT Device Management & AWS IoT Device Defender  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=NZIBcknEcCE" target="_blank">AWS Makers Studio  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=eJ747OOW7LQ" target="_blank">AWS Networking  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=3KqAaXD72Tg" target="_blank">AWS Serverless Application Repository  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=4SBTtvcAbec" target="_blank">Alexa Skills  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=IEipfjh_Ge8" target="_blank">Alexa for Business  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=m1z6GOezK1E" target="_blank">Amazon Comprehend  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=8vagCXkp7uI" target="_blank">Amazon EC2 & Lightsail  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=eDDwQjH1agw" target="_blank">Amazon EC2 Spot  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=EoC60KddIXE" target="_blank">Amazon ECS for Kubernetes (EKS)  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=VOCKTeMKoI0" target="_blank">Amazon Elastic File System  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=DF0PayBKhAQ" target="_blank">Amazon FreeRTOS  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=2_8ZK_64hBc" target="_blank">Amazon Glacier Select & S3 Select  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=T91u6VNUHUc" target="_blank">Amazon GuardDuty  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=P0O3zBNbtk0" target="_blank">Amazon Kinesis Video Streams  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=HzImChia0Yg" target="_blank">Amazon Neptune  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=KJB6qhvrg0w" target="_blank">Amazon Rekognition  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=jISET2RwPpg" target="_blank">Amazon SageMaker </a>| 
+|---|<a href="https://www.youtube.com/watch?v=UxMmxBe-Bls" target="_blank">Amazon Sumerian  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=jAt0X3J5c5E" target="_blank">Amazon Transcribe  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=bFyLMtdBItA" target="_blank">Amazon Translate  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=XBO1v9tUnE4" target="_blank">Andy Jassy Keynote Recap  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=wbHXH8dzgyI" target="_blank">Announcement: API Gateway Canary Release Deployments, CodeDeploy Serverless & Lambda  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=za6J9Zsp1vM" target="_blank">Announcement: AWS AppSync  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=qpbAAqsRX-k" target="_blank">Announcement: AWS Systems Manager  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=K7z0rYtTqgc" target="_blank">Announcement: Amazon MQ  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=YF2-moQNq-8" target="_blank">Announcement: CloudTrail Support for Lambda Invoke API Activity  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=_tGb100o_xA" target="_blank">Announcement: WAF Partner Rules  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=1CPOKmptJnA" target="_blank">Aurora Serverless & Aurora Multi-Master  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=yOQmpfRxJ00" target="_blank">Cognito Frontline & Adaptive Authentication  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=VL2JrEO2lBo" target="_blank">Community Heroes: Drew Firment & Markus Ostertag  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=iSKh7gnPKX8" target="_blank">Community Heroes: Francisco Edilton & Habeeb Rahman  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=O1u8xyLXQeY" target="_blank">Customer Spotlight: Bynder  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=1zS6R_7Gq3g" target="_blank">Customer Spotlight: Cloud Conformit  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=rS0N9H0ekds" target="_blank">Customer Spotlight: Typeform  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=HJ0OjjNOUno" target="_blank">Datree.io Spotlight  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=orOc2VvFAAU" target="_blank">Day 1 Kickoff  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=527nImbU32U" target="_blank">Day 1 Recap  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=A5IrN8x0Dtc" target="_blank">Day 2 Recap  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=kCmCRf5q-CY" target="_blank">Day 3 Launchpad Recap  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=PYDmx_8csJ4" target="_blank">DynamoDB Backup-Restore & Global Tables  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=cTusmFntybM" target="_blank">How CloudFormation Builds re:Invent  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=NBzo7hIp_uM" target="_blank">IOpipe Spotlight  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=VEL0deNbxwM" target="_blank">Interview with Werner Vogels, Amazon.com  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=m9cZckGVQB0" target="_blank">Kinesis Firehose to Splunk Integration  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=l5NBLL3jbtQ" target="_blank">Launchpad Final Recap  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=VMdWzFoxSGI" target="_blank">Machine Learning Discussion  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=N-3ZhOb6vvM" target="_blank">Non-profit Hackathon Spotlight  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=2gwlaDeoN44" target="_blank">Plaid Spotlight  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=SxQvh15K0SI" target="_blank">Robocar Rally Hackathon  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=I7x0fzoU_dQ" target="_blank">Twitch Developer Chat  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=JfJExPp9aSo" target="_blank">Twitch Developer Chat: Drops Demo - Lego Loot Crate Edition  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=n6RUoDUSo3c" target="_blank">Twitch Developer Chat: Extensions Demo  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=4nnMyetpUYA" target="_blank">Werner Vogels Keynote Recap  <i class="fa fa-cc fa-1"></i></a>| 
+
+
+
+
+### Life Sciences <a name="26"></a>
 
 | ClassId |       |
 |-|-|
@@ -790,7 +861,7 @@
 
 
 
-### Machine Learning <a name="26"></a>
+### Machine Learning <a name="27"></a>
 
 | ClassId |       |
 |-|-|
@@ -833,7 +904,7 @@
 
 
 
-### Media & Entertainment <a name="27"></a>
+### Media & Entertainment <a name="28"></a>
 
 | ClassId |       |
 |-|-|
@@ -847,7 +918,7 @@
 
 
 
-### Mobile <a name="28"></a>
+### Mobile <a name="29"></a>
 
 | ClassId |       |
 |-|-|
@@ -869,7 +940,7 @@
 
 
 
-### Networking <a name="29"></a>
+### Networking <a name="30"></a>
 
 | ClassId |       |
 |-|-|
@@ -892,7 +963,7 @@
 
 
 
-### Public Sector <a name="30"></a>
+### Public Sector <a name="31"></a>
 
 | ClassId |       |
 |-|-|
@@ -907,7 +978,7 @@
 
 
 
-### Retail & CPG <a name="31"></a>
+### Retail & CPG <a name="32"></a>
 
 | ClassId |       |
 |-|-|
@@ -919,7 +990,7 @@
 
 
 
-### Security, Compliance & Identity <a name="32"></a>
+### Security, Compliance & Identity <a name="33"></a>
 
 | ClassId |       |
 |-|-|
@@ -966,7 +1037,7 @@
 
 
 
-### Serverless <a name="33"></a>
+### Serverless <a name="34"></a>
 
 | ClassId |       |
 |-|-|
@@ -1001,7 +1072,7 @@
 
 
 
-### Storage <a name="34"></a>
+### Storage <a name="35"></a>
 
 | ClassId |       |
 |-|-|
@@ -1035,7 +1106,7 @@
 
 
 
-### Telecommunications <a name="35"></a>
+### Telecommunications <a name="36"></a>
 
 | ClassId |       |
 |-|-|
@@ -1047,7 +1118,7 @@
 
 
 
-### We Power Tech <a name="36"></a>
+### We Power Tech <a name="37"></a>
 
 | ClassId |       |
 |-|-|
@@ -1057,7 +1128,7 @@
 
 
 
-### Windows <a name="37"></a>
+### Windows <a name="38"></a>
 
 | ClassId |       |
 |-|-|
