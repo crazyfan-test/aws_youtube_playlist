@@ -1,9 +1,9 @@
 
 
 
-### Track
+### Tracks
 
-* [! 2017 re:Invent](#0) (62 Videos)
+* [! 2017 re:Invent](#0) (66 Videos)
 * [! Daily re:Cap](#1) (5 Videos)
 * [AdTech](#2) (4 Videos)
 * [Alexa](#3) (5 Videos)
@@ -13,12 +13,12 @@
 * [AWS Marketplace & Service Catalog](#7) (7 Videos)
 * [Business Apps](#8) (11 Videos)
 * [Compute](#9) (27 Videos)
-* [Containers](#10) (24 Videos)
-* [Content Delivery](#11) (16 Videos)
+* [Containers](#10) (26 Videos)
+* [Content Delivery](#11) (19 Videos)
 * [Databases](#12) (36 Videos)
-* [Demo Theater](#13) (76 Videos)
+* [Demo Theater](#13) (79 Videos)
 * [Developer Community](#14) (6 Videos)
-* [Devops](#15) (36 Videos)
+* [Devops](#15) (37 Videos)
 * [Energy & Utilities](#16) (4 Videos)
 * [Enterprise](#17) (42 Videos)
 * [Financial Services](#18) (8 Videos)
@@ -30,9 +30,9 @@
 * [IoT](#24) (20 Videos)
 * [Launchpad Live Streams on twitch.tv/aws](#25) (64 Videos)
 * [Life Sciences](#26) (7 Videos)
-* [Machine Learning](#27) (35 Videos)
+* [Machine Learning](#27) (37 Videos)
 * [Media & Entertainment](#28) (6 Videos)
-* [Mobile](#29) (14 Videos)
+* [Mobile](#29) (16 Videos)
 * [Networking](#30) (15 Videos)
 * [Public Sector](#31) (7 Videos)
 * [Retail & CPG](#32) (4 Videos)
@@ -40,7 +40,7 @@
 * [Serverless](#34) (27 Videos)
 * [Storage](#35) (26 Videos)
 * [Telecommunications](#36) (4 Videos)
-* [We Power Tech](#37) (2 Videos)
+* [We Power Tech](#37) (4 Videos)
 * [Windows](#38) (11 Videos)
 
 
@@ -68,6 +68,9 @@
 |---|<a href="https://www.youtube.com/watch?v=shayW-DQnSg" target="_blank">Alexa: Hack Your Office - Build Alexa Skills That Help You at Work  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=4XL1VZymTA8" target="_blank">Amazon Aurora Multi-Master  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=Q0cqKl6ktIg" target="_blank">Amazon Aurora Serverless  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=knMaOOaWjd0" target="_blank">Amazon EC2 Elastic GPUs  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=EreYy4EA3EI" target="_blank">Amazon EC2 Instances </a>| 
+|---|<a href="https://www.youtube.com/watch?v=M96L-x6P64A" target="_blank">Amazon EC2 Spot Instances  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=Rl6UwE7kLio" target="_blank">Amazon Neptune: Fast, Reliable Graph Database Built for the Cloud  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=StITmP8Jn8Q" target="_blank">Analytics for IoT Devices </a>| 
 |---|<a href="https://www.youtube.com/watch?v=RhEVld4GwzU" target="_blank">Announcing AWS DeepLens  <i class="fa fa-cc fa-1"></i></a>| 
@@ -93,6 +96,7 @@
 |---|<a href="https://www.youtube.com/watch?v=lM4zhNO5Rbg" target="_blank">Introducing Amazon SageMaker  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=oVo-IKiM8Xk" target="_blank">Introducing Amazon Transcribe  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=k9rBj6IP9-M" target="_blank">Introducing Amazon Translate  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=I-KEn6gKm7E" target="_blank">Introducing Amazon for Business  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=U03zsa0g3ZE" target="_blank">JAM Sessions & Lounge  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=Z717SYEHf38" target="_blank">John Nichols Describes PG&E’s Efforts to Use AWS to Innovate Faster & Save Money for Customers  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=krYc2wX51MQ" target="_blank">Let’s Go Purple for re:Invent 2017  <i class="fa fa-cc fa-1"></i></a>| 
@@ -335,6 +339,7 @@
 |CON202-R|<a href="https://www.youtube.com/watch?v=N6vSrHJ1dM0" target="_blank">[REPEAT] Getting Started with Docker and Amazon ECS   <i class="fa fa-cc fa-1"></i></a>| 
 |CON203|<a href="https://www.youtube.com/watch?v=o88QStlI1oM" target="_blank">Driving innovation with container architecture   <i class="fa fa-cc fa-1"></i></a>| 
 |CON205|<a href="https://www.youtube.com/watch?v=Vi2h5zgDDss" target="_blank">Birds of a Feather: Containers and Open Source at AWS   <i class="fa fa-cc fa-1"></i></a>| 
+|CON206|<a href="https://www.youtube.com/watch?v=PPjUA7URu2Q" target="_blank">Docker on AWS   <i class="fa fa-cc fa-1"></i></a>| 
 |CON207|<a href="https://www.youtube.com/watch?v=QjEXZ-SRifY" target="_blank">Digital Transformation: Adapt or Perish   <i class="fa fa-cc fa-1"></i></a>| 
 |CON208|<a href="https://www.youtube.com/watch?v=YpKaFLYv71A" target="_blank">Building Microservices on AWS   <i class="fa fa-cc fa-1"></i></a>| 
 |CON214|<a href="https://www.youtube.com/watch?v=0SceSgOTyrw" target="_blank">NEW LAUNCH! Introducing Amazon Fargate   <i class="fa fa-cc fa-1"></i></a>| 
@@ -352,6 +357,7 @@
 |CON402|<a href="https://www.youtube.com/watch?v=t8DK5HZsyVA" target="_blank">Advanced Patterns in Microservices Implementation with Amazon EC   <i class="fa fa-cc fa-1"></i></a>| 
 |CON404|<a href="https://www.youtube.com/watch?v=PONU2xAR5pE" target="_blank">Deep Dive into Container Scheduling with Amazon ECS   <i class="fa fa-cc fa-1"></i></a>| 
 |CON406|<a href="https://www.youtube.com/watch?v=Ofu22X7qHnc" target="_blank">Architecting Container Infrastructure for Security and Complianc   <i class="fa fa-cc fa-1"></i></a>| 
+|CON409|<a href="https://www.youtube.com/watch?v=vrYLrx-a_Wg" target="_blank">Deep Dive into Amazon EKS   <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -362,6 +368,9 @@
 |-|-|
 |CTD201|<a href="https://www.youtube.com/watch?v=wRaPw1tx6LA" target="_blank">Introduction to Amazon CloudFront and AWS Lambda@Edge   <i class="fa fa-cc fa-1"></i></a>| 
 |CTD202|<a href="https://www.youtube.com/watch?v=qolCLsoG4lg" target="_blank">Learn How AWS is Enabling the World's Most Advanced Media Workfl   <i class="fa fa-cc fa-1"></i></a>| 
+|CTD203|<a href="https://www.youtube.com/watch?v=O0c0m_0vlU8" target="_blank">NEW LAUNCH! Hear how OwnZones is using AWS Elemental MediaConver   <i class="fa fa-cc fa-1"></i></a>| 
+|CTD204|<a href="https://www.youtube.com/watch?v=iBJE_hcGx4M" target="_blank">NEW LAUNCH! Hear how the Pac-12 is using AWS Elemental MediaStor   <i class="fa fa-cc fa-1"></i></a>| 
+|CTD206|<a href="https://www.youtube.com/watch?v=7tcTrNFrrds" target="_blank">NEW LAUNCH! Learn how Fubo is monetizing their content with serv   <i class="fa fa-cc fa-1"></i></a>| 
 |CTD208|<a href="https://www.youtube.com/watch?v=TnG-rGj8r6k" target="_blank">In Space, Everyone Can See NASA Stream (in 4K)   <i class="fa fa-cc fa-1"></i></a>| 
 |CTD301|<a href="https://www.youtube.com/watch?v=8U3QdNSFJDU" target="_blank">Amazon CloudFront Flash Talks: Best Practices on Configuring, Se   <i class="fa fa-cc fa-1"></i></a>| 
 |CTD302|<a href="https://www.youtube.com/watch?v=US2x6CalT7Y" target="_blank">Case Study: How Hulu reinvented television using the AWS Cloud   <i class="fa fa-cc fa-1"></i></a>| 
@@ -504,6 +513,9 @@
 |DEM77|<a href="https://www.youtube.com/watch?v=oGawhLx3Dxo" target="_blank">Local Serverless Development using SAM Local   <i class="fa fa-cc fa-1"></i></a>| 
 |DEM78|<a href="https://www.youtube.com/watch?v=s4ptjYf22fA" target="_blank">Live Demo: Accelerating Data Movement into Amazon EFS   <i class="fa fa-cc fa-1"></i></a>| 
 |DEM79|<a href="https://www.youtube.com/watch?v=Mpxomm0BJx0" target="_blank">Live Demo: Amazon EBS and Elastic Volumes in Action   <i class="fa fa-cc fa-1"></i></a>| 
+|DEM83|<a href="https://www.youtube.com/watch?v=XlzyQvh_KKQ" target="_blank">NEW LAUNCH! Enabling security cameras to stream video to AWS   <i class="fa fa-cc fa-1"></i></a>| 
+|DEM85|<a href="https://www.youtube.com/watch?v=-9mvx_ry24s" target="_blank">AWS Elemental MediaLive   <i class="fa fa-cc fa-1"></i></a>| 
+|DEM86|<a href="https://www.youtube.com/watch?v=gQtsZKI888s" target="_blank">Accelerate Digital Experience with Serverless Computing   <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -560,6 +572,7 @@
 |DEV339|<a href="https://www.youtube.com/watch?v=Q7zF6sT5Bis" target="_blank">Using AWS Management Tools to Enable Governance, Compliance, Ope   <i class="fa fa-cc fa-1"></i></a>| 
 |DEV340|<a href="https://www.youtube.com/watch?v=IBvsizhKtFk" target="_blank">How Amazon.com Uses AWS Management Tools   <i class="fa fa-cc fa-1"></i></a>| 
 |DEV345|<a href="https://www.youtube.com/watch?v=gsjCWrCUjNg" target="_blank">Tools Won’t Fix Your Broken DevOps   <i class="fa fa-cc fa-1"></i></a>| 
+|DEV346|<a href="https://www.youtube.com/watch?v=R3qN6t_a2so" target="_blank">NEW LAUNCH! Gain Operational Insights and Take Action on AWS Res   <i class="fa fa-cc fa-1"></i></a>| 
 |DEV402|<a href="https://www.youtube.com/watch?v=QNlkAClqYiY" target="_blank">Deep-Dive for AWS X-Ray   <i class="fa fa-cc fa-1"></i></a>| 
 |DEV403|<a href="https://www.youtube.com/watch?v=BnXyQFv-nYo" target="_blank">Security Validation through Continuous Delivery at Verizon   <i class="fa fa-cc fa-1"></i></a>| 
 
@@ -872,6 +885,7 @@
 |MCL207|<a href="https://www.youtube.com/watch?v=Y1i39z-kfrk" target="_blank">Amazon Lex Integration with IVR   <i class="fa fa-cc fa-1"></i></a>| 
 |MCL209|<a href="https://www.youtube.com/watch?v=NyktzGwY7NE" target="_blank">NEW LAUNCH! Introducing Amazon Translate – Now in Preview   <i class="fa fa-cc fa-1"></i></a>| 
 |MCL210|<a href="https://www.youtube.com/watch?v=Q7N2iVfgA0U" target="_blank">Machine Learning State of the Union   <i class="fa fa-cc fa-1"></i></a>| 
+|MCL211|<a href="https://www.youtube.com/watch?v=UtPyq7Oi8gk" target="_blank">NEW LAUNCH! Introducing Amazon Sumerian – Build VR/AR and 3D App   <i class="fa fa-cc fa-1"></i></a>| 
 |MCL215|<a href="https://www.youtube.com/watch?v=1ZJ_f1bDdog" target="_blank">NEW LAUNCH! Introducing Amazon Transcribe – Now in Preview   <i class="fa fa-cc fa-1"></i></a>| 
 |MCL251|<a href="https://www.youtube.com/watch?v=prpDfnguAY8" target="_blank">An Eye in the Sky: How Radiant Solutions Processes Satellite   <i class="fa fa-cc fa-1"></i></a>| 
 |MCL301|<a href="https://www.youtube.com/watch?v=TeLvFqLW_0A" target="_blank">Building a Voice-Enabled Customer Service Chatbot Using Amazon L   <i class="fa fa-cc fa-1"></i></a>| 
@@ -892,6 +906,7 @@
 |MCL336|<a href="https://www.youtube.com/watch?v=jDQesbX8Wb8" target="_blank">NEW LAUNCH! Feature updates for Amazon Rekognition   <i class="fa fa-cc fa-1"></i></a>| 
 |MCL337|<a href="https://www.youtube.com/watch?v=mINfveR9VVE" target="_blank">Tensors for Large-scale Topic Modeling and Deep Learning   <i class="fa fa-cc fa-1"></i></a>| 
 |MCL339|<a href="https://www.youtube.com/watch?v=LF0cMXDbmDs" target="_blank">NEW LAUNCH! Amazon Rekognition Video eliminates manual catalogin   <i class="fa fa-cc fa-1"></i></a>| 
+|MCL340|<a href="https://www.youtube.com/watch?v=SIUd6ig3650" target="_blank">NEW LAUNCH! Amazon Sumerian – A Deep Dive Behind the Scenes   <i class="fa fa-cc fa-1"></i></a>| 
 |MCL341|<a href="https://www.youtube.com/watch?v=VT4tM0-7L80" target="_blank">NEW LAUNCH! Infinitely Scalable Machine Learning Algorithms with   <i class="fa fa-cc fa-1"></i></a>| 
 |MCL342|<a href="https://www.youtube.com/watch?v=KqAug2jtmDY" target="_blank">NEW LAUNCH! Graph-based Approaches for Cyber Investigative Analy   <i class="fa fa-cc fa-1"></i></a>| 
 |MCL343|<a href="https://www.youtube.com/watch?v=Ku_CTsCWxFA" target="_blank">NEW LAUNCH! Natural Language Processing for Data Analytics   <i class="fa fa-cc fa-1"></i></a>| 
@@ -935,7 +950,9 @@
 |MBL307|<a href="https://www.youtube.com/watch?v=BK1-EUzt7wY" target="_blank">Tracking and Optimizing Ad Monetization for Your Mobile App   <i class="fa fa-cc fa-1"></i></a>| 
 |MBL308|<a href="https://www.youtube.com/watch?v=_-mZPwmR94I" target="_blank">Integrating Video in Mobile Apps and Websites   <i class="fa fa-cc fa-1"></i></a>| 
 |MBL310|<a href="https://www.youtube.com/watch?v=unOEnvnsjv4" target="_blank">Building Hybrid and Web apps using JavaScript with AWS Mobile   <i class="fa fa-cc fa-1"></i></a>| 
+|MBL402|<a href="https://www.youtube.com/watch?v=mQBtbHKSdAQ" target="_blank">NEW LAUNCH! Data Driven Apps with GraphQL: AWS AppSync Deep Dive   <i class="fa fa-cc fa-1"></i></a>| 
 |MBL403|<a href="https://www.youtube.com/watch?v=vAjf3lyjf8c" target="_blank">Analytics, Authentication and Data with JavaScript: AWS Amplify   <i class="fa fa-cc fa-1"></i></a>| 
+|MBL404|<a href="https://www.youtube.com/watch?v=FtkVlIal_m0" target="_blank">NEW LAUNCH! Realtime and Offline application development using G   <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -1026,7 +1043,7 @@
 |SID327|<a href="https://www.youtube.com/watch?v=aEE4RLnpQU8" target="_blank">How Zocdoc Achieved Security and Compliance at Scale With Infras   <i class="fa fa-cc fa-1"></i></a>| 
 |SID328|<a href="https://www.youtube.com/watch?v=goX61THbKuA" target="_blank">Cloud Adoption in Regulated Financial Services   <i class="fa fa-cc fa-1"></i></a>| 
 |SID329|<a href="https://www.youtube.com/watch?v=gTZgxsCTfbk" target="_blank">A Deep Dive into AWS Encryption Services   <i class="fa fa-cc fa-1"></i></a>| 
-|SID330-R|<a href="https://www.youtube.com/watch?v=X1eZjXQ55ec" target="_blank">[REPEAT] Best Practices for Implementing Your Encryption Strateg   <i class="fa fa-cc fa-1"></i></a>| 
+|SID330|<a href="https://www.youtube.com/watch?v=X1eZjXQ55ec" target="_blank">Best Practices for Implementing AWS Key Management Service   <i class="fa fa-cc fa-1"></i></a>| 
 |SID331|<a href="https://www.youtube.com/watch?v=71fD8Oenwxc" target="_blank">Architecting Security and Governance Across a Multi-Account Stra   <i class="fa fa-cc fa-1"></i></a>| 
 |SID332|<a href="https://www.youtube.com/watch?v=jLQjQpUYw6g" target="_blank">Identity Management for Your Users and Apps: A Deep Dive on Amaz   <i class="fa fa-cc fa-1"></i></a>| 
 |SID344|<a href="https://www.youtube.com/watch?v=CJexxdv054c" target="_blank">Soup to Nuts: Identity Federation for AWS   <i class="fa fa-cc fa-1"></i></a>| 
@@ -1122,7 +1139,9 @@
 
 | ClassId |       |
 |-|-|
+|WPT201|<a href="https://www.youtube.com/watch?v=4wVSB5pWds0" target="_blank">Gender Identity in Tech   <i class="fa fa-cc fa-1"></i></a>| 
 |WPT202|<a href="https://www.youtube.com/watch?v=PE6L7e3XP5Q" target="_blank">Underrepresented: Bridging the Racial Digital Divide   <i class="fa fa-cc fa-1"></i></a>| 
+|WPT203|<a href="https://www.youtube.com/watch?v=59mrwbw1qyY" target="_blank">Diversity in Tech: Lightning Talks   <i class="fa fa-cc fa-1"></i></a>| 
 |WPT204|<a href="https://www.youtube.com/watch?v=IrSirlGsB1Y" target="_blank">She Powers Tech: Women Supporting Women in Tech   <i class="fa fa-cc fa-1"></i></a>| 
 
 

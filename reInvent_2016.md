@@ -1,6 +1,6 @@
 
 
-### 目錄
+### Tracks
 
 * [AWS re:Invent 2016](#0) (24 videos) 
 * [Alexa](#1) (9 videos) 
@@ -39,7 +39,7 @@
 
 
 
-### 影片列表
+### Sessions
 
 
 ### AWS re:Invent 2016<a name="0"></a>

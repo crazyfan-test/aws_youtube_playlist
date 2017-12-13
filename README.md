@@ -1,6 +1,6 @@
 # README #
 
-AWS re:Invent & webinar 影片資源的整理
+Collections of videos from AWS re:Invent & webinar
 
 
 ## re:Invent
@@ -16,7 +16,7 @@ AWS re:Invent & webinar 影片資源的整理
 
 * [webinar 2017](webinar_2017.md)
 
-## 資料來源
+## Source
 
 * [Amazon Web Services](https://www.youtube.com/user/AmazonWebServices)
 * [Amazon Web Services - Webinar Channel](https://www.youtube.com/user/AWSwebinars)
