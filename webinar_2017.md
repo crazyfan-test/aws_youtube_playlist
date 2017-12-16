@@ -3,20 +3,20 @@
 
 ### Tracks
 
-* [AI](#0) (20 Videos)
+* [AI](#0) (21 Videos)
 * [Big Data](#1) (18 Videos)
-* [Compute](#2) (23 Videos)
-* [Containers](#3) (6 Videos)
+* [Compute](#2) (24 Videos)
+* [Containers](#3) (7 Videos)
 * [Databases](#4) (16 Videos)
 * [DevOps](#5) (9 Videos)
-* [Enterprise](#6) (12 Videos)
+* [Enterprise](#6) (13 Videos)
 * [IOT](#7) (9 Videos)
-* [Lab/Networking](#8) (11 Videos)
+* [Lab/Networking](#8) (12 Videos)
 * [Management Tools](#9) (7 Videos)
 * [Mobile](#10) (7 Videos)
-* [Security & Identity](#11) (12 Videos)
+* [Security & Identity](#11) (15 Videos)
 * [Serverless](#12) (8 Videos)
-* [Storage](#13) (20 Videos)
+* [Storage](#13) (22 Videos)
 
 
 
@@ -51,6 +51,7 @@
 |10/25|<a href="https://www.youtube.com/watch?v=rLw2oXEKJG8" target="_blank">Working with Amazon Lex Chatbots in Amazon Connect  <i class="fa fa-cc fa-1"></i></a>| 
 |11/14|<a href="https://www.youtube.com/watch?v=4PbSZRYXa3o" target="_blank">Sentiment Analysis Using Apache MXNet and Gluon  <i class="fa fa-cc fa-1"></i></a>| 
 |11/15|<a href="https://www.youtube.com/watch?v=4gsx7EeMxWs" target="_blank">Bringing Characters to Life with Amazon Polly Text to Speech  <i class="fa fa-cc fa-1"></i></a>| 
+|12/12|<a href="https://www.youtube.com/watch?v=KY0oinhLUYU" target="_blank">Getting Started with ML in AdTech  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -108,6 +109,7 @@
 |11/09|<a href="https://www.youtube.com/watch?v=XZ65yY9jevM" target="_blank">Simplify Microsoft Windows Server Management with Amazon Lightsail  <i class="fa fa-cc fa-1"></i></a>| 
 |12/05|<a href="https://www.youtube.com/watch?v=yG09kT78Rig" target="_blank">Run Your HPC Workload at Scale for a Fraction of the Cost  <i class="fa fa-cc fa-1"></i></a>| 
 |12/06|<a href="https://www.youtube.com/watch?v=bjehc2K5gyA" target="_blank">Elastic Load Balancing Deep Dive  <i class="fa fa-cc fa-1"></i></a>| 
+|12/12|<a href="https://www.youtube.com/watch?v=R-n4dDGfQd4" target="_blank">Deep Dive on New Amazon EC2 Instances and Virtualization Technologies  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -122,6 +124,7 @@
 |09/19|<a href="https://www.youtube.com/watch?v=w7YEYiRH-Ds" target="_blank">Batch Processing with Containers on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |10/26|<a href="https://www.youtube.com/watch?v=ekxSiLYwHfo" target="_blank">Using the New Network Load Balancer with Amazon ECS  <i class="fa fa-cc fa-1"></i></a>| 
 |11/09|<a href="https://www.youtube.com/watch?v=JAlD2fNOPB4" target="_blank">Managing Container Images with Amazon ECR  <i class="fa fa-cc fa-1"></i></a>| 
+|12/12|<a href="https://www.youtube.com/watch?v=e_5olTyjTCU" target="_blank">Containers on AWS: What You Missed at re:Invent 2017  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -183,6 +186,7 @@
 |10/26|<a href="https://www.youtube.com/watch?v=IBjrQcVcNRY" target="_blank">Working Together, Simplified with Amazon Chime  <i class="fa fa-cc fa-1"></i></a>| 
 |10/26|<a href="https://www.youtube.com/watch?v=2WmDQG3vp0c" target="_blank">How to Manage Organizational Change and Cultural Impact During a Cloud Transformation  <i class="fa fa-cc fa-1"></i></a>| 
 |11/14|<a href="https://www.youtube.com/watch?v=oAcyUg0GXdQ" target="_blank">Everything About Licensing Windows Workloads on AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|12/12|<a href="https://www.youtube.com/watch?v=JAn_Fbl6Gbg" target="_blank">Commercial Management and Cost Optimization on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -219,6 +223,7 @@
 |09/19|<a href="https://www.youtube.com/watch?v=hm01zCUPohM" target="_blank">Introduction to Microsoft SQL Server in AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |11/15|<a href="https://www.youtube.com/watch?v=iCCsOuLY2GI" target="_blank">Hands on Lab: Deploy  .NET Code to AWS from Visual Studio  <i class="fa fa-cc fa-1"></i></a>| 
 |12/06|<a href="https://www.youtube.com/watch?v=p_UD13ptDuA" target="_blank">VMware Cloud on AWS: Networking and Storage Best Practices  <i class="fa fa-cc fa-1"></i></a>| 
+|12/15|<a href="https://www.youtube.com/watch?v=aoTd-TBBIGI" target="_blank">VMware Cloud on AWS: Networking and Storage Best Practices  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -269,6 +274,9 @@
 |09/28|<a href="https://www.youtube.com/watch?v=uIGXYtBWaA0" target="_blank">How to use AWS WAF to Mitigate OWASP Top 10 attacks  <i class="fa fa-cc fa-1"></i></a>| 
 |10/25|<a href="https://www.youtube.com/watch?v=hEVks207ALM" target="_blank">CloudHSM: Secure Scalable Key Storage in AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |11/15|<a href="https://www.youtube.com/watch?v=gSXLxqnjUSA" target="_blank">How to Integrate AWS Directory Service with Office365  <i class="fa fa-cc fa-1"></i></a>| 
+|12/12|<a href="https://www.youtube.com/watch?v=t80i_B-7G1M" target="_blank">Centrally Protect Your AWS Resources with Amazon GuardDuty  <i class="fa fa-cc fa-1"></i></a>| 
+|12/13|<a href="https://www.youtube.com/watch?v=JiT6Nu-Y3kU" target="_blank">Cloud Native DDoS Mitigation  <i class="fa fa-cc fa-1"></i></a>| 
+|12/13|<a href="https://www.youtube.com/watch?v=jXT4rWMLqvM" target="_blank">Centralized IAM Governance using CloudFormation StackSets </a>| 
 
 
 
@@ -313,6 +321,8 @@
 |10/25|<a href="https://www.youtube.com/watch?v=x49xEZU77sY" target="_blank">Replacing Tape Backups with AWS Storage Gateway  <i class="fa fa-cc fa-1"></i></a>| 
 |10/26|<a href="https://www.youtube.com/watch?v=HRaBJe1-96w" target="_blank">Deploy Compliance Controls When Archiving Large Scale Data Stores  <i class="fa fa-cc fa-1"></i></a>| 
 |11/15|<a href="https://www.youtube.com/watch?v=2Bkt7MssTlE" target="_blank">Disaster Recovery Options with AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|12/13|<a href="https://www.youtube.com/watch?v=CiBd2zbHPAU" target="_blank">New Features in Amazon S3 & Glacier  <i class="fa fa-cc fa-1"></i></a>| 
+|12/15|<a href="https://www.youtube.com/watch?v=_snUm9g5jG0" target="_blank">Moving your File Data to Amazon EFS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
