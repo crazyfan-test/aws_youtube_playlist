@@ -10,7 +10,7 @@
 * [Databases](#4) (16 Videos)
 * [DevOps](#5) (9 Videos)
 * [Enterprise](#6) (13 Videos)
-* [IOT](#7) (9 Videos)
+* [IOT](#7) (10 Videos)
 * [Lab/Networking](#8) (12 Videos)
 * [Management Tools](#9) (7 Videos)
 * [Mobile](#10) (7 Videos)
@@ -204,6 +204,7 @@
 |09/27|<a href="https://www.youtube.com/watch?v=1N7Y_gxZ9Wg" target="_blank">AWS Greengrass Technical Deep Dive with Demo  <i class="fa fa-cc fa-1"></i></a>| 
 |10/24|<a href="https://www.youtube.com/watch?v=OrfRWeDPDM4" target="_blank">Precipitating the Cloud: Local IoT Framework with Intel® and AWS Greengrass  <i class="fa fa-cc fa-1"></i></a>| 
 |11/14|<a href="https://www.youtube.com/watch?v=k8XtS71_XjM" target="_blank">Essential Capabilities IoT Cloud Platform  <i class="fa fa-cc fa-1"></i></a>| 
+|12/18|<a href="https://www.youtube.com/watch?v=OKZ0b-39f2g" target="_blank">Essential Capabilities of an IoT Cloud Platform  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
