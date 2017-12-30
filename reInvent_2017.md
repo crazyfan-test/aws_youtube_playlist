@@ -3,8 +3,8 @@
 
 ### Tracks
 
-* [AWS re:Invent 2017](#0) (36 Videos)
-* [Keynotes](#1) (4 Videos)
+* [AWS re:Invent 2017](#0) (37 Videos)
+* [Keynotes](#1) (3 Videos)
 * [Daily re:Cap](#2) (4 Videos)
 * [Product Launches](#3) (27 Videos)
 * [Promos](#4) (2 Videos)
@@ -17,7 +17,7 @@
 * [Automotive & Manufacturing](#11) (4 Videos)
 * [AWS Marketplace & Service Catalog](#12) (6 Videos)
 * [Business Apps](#13) (11 Videos)
-* [Compute](#14) (28 Videos)
+* [Compute](#14) (26 Videos)
 * [Containers](#15) (24 Videos)
 * [Content Delivery](#16) (19 Videos)
 * [Databases](#17) (36 Videos)
@@ -33,11 +33,11 @@
 * [Healthcare](#27) (6 Videos)
 * [IoT](#28) (21 Videos)
 * [Life Sciences](#29) (7 Videos)
-* [Machine Learning](#30) (37 Videos)
+* [Machine Learning](#30) (36 Videos)
 * [Media & Entertainment](#31) (6 Videos)
 * [Mobile](#32) (16 Videos)
 * [Networking](#33) (15 Videos)
-* [Public Sector](#34) (8 Videos)
+* [Public Sector](#34) (11 Videos)
 * [Retail & CPG](#35) (4 Videos)
 * [Security, Compliance & Identity](#36) (40 Videos)
 * [Serverless](#37) (27 Videos)
@@ -71,6 +71,7 @@
 |---|<a href="https://www.youtube.com/watch?v=mkKkSRIxU8M" target="_blank">Dr. Walter Scott Shares How DigitalGlobe Uses Amazon SageMaker  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=GUxXstOjCZA" target="_blank">Expanded Live Stream Coverage on twitch.tv/aws  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=dmz_FkT7K7k" target="_blank">Expo Overview  <i class="fa fa-cc fa-1"></i></a>| 
+|---|<a href="https://www.youtube.com/watch?v=Y7TVnwFU_qY" target="_blank">Fireside Chat: Steve Schmidt, Jenny Brinkley, and Greg Peters of Netflix  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=nuFcH646Gk0" target="_blank">Game Day  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=6GwalUWEXqE" target="_blank">Global Partner Summit at AWS re:Invent 2017  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=7HJoBkva7ZI" target="_blank">Interactive Streaming on twitch.tv/aws </a>| 
@@ -106,7 +107,6 @@
 |---|<a href="https://www.youtube.com/watch?v=1IxDLeFQKPk" target="_blank">AWS re:Invent 2017 Keynote - Andy Jassy  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=dfEcd3zqPOA" target="_blank">AWS re:Invent 2017 Keynote - Tuesday Night Live with Peter DeSantis  <i class="fa fa-cc fa-1"></i></a>| 
 |---|<a href="https://www.youtube.com/watch?v=nFKVzEAm-ts" target="_blank">AWS re:Invent 2017 Keynote - Werner Vogels  <i class="fa fa-cc fa-1"></i></a>| 
-|---|<a href="https://www.youtube.com/watch?v=Y7TVnwFU_qY" target="_blank">Fireside Chat: Steve Schmidt, Jenny Brinkley, and Greg Peters of Netflix  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -430,7 +430,7 @@
 |ARC403|<a href="https://www.youtube.com/watch?v=heMpwts3Rdk" target="_blank">Encoding Artifacts to the Oscars: Taking on Terabyte-Scale, 1-Gb   <i class="fa fa-cc fa-1"></i></a>| 
 |ARC404|<a href="https://www.youtube.com/watch?v=REygSMiK0pg" target="_blank">Metering the Hybrid Cloud   <i class="fa fa-cc fa-1"></i></a>| 
 |ARC405|<a href="https://www.youtube.com/watch?v=CiUoQX9s9Ec" target="_blank">Building a Photorealistic Real-Time 3D Configurator with Server-   <i class="fa fa-cc fa-1"></i></a>| 
-|ARC406|<a href="https://www.youtube.com/watch?v=qcuH2ikQkaM" target="_blank">Amazon.com - Replacing 100s of Oracle DBs with Just One: DynamoD   <i class="fa fa-cc fa-1"></i></a>| 
+|ARC406|<a href="https://www.youtube.com/watch?v=qcuH2ikQkaM" target="_blank">Amazon.com - Replacing 100s of Oracle DBs with Just One: DynamoDB   <i class="fa fa-cc fa-1"></i></a>| 
 |ARC407|<a href="https://www.youtube.com/watch?v=kmVUbngCyOw" target="_blank">Deconstructing SaaS: A Deep Dive into Building Multi-tenant Solu   <i class="fa fa-cc fa-1"></i></a>| 
 
 
@@ -500,9 +500,7 @@
 |CMP301|<a href="https://www.youtube.com/watch?v=mZy6E2I5Rek" target="_blank">Deep Dive on Amazon EC2 Instances, Featuring Performance Optimiz   <i class="fa fa-cc fa-1"></i></a>| 
 |CMP303|<a href="https://www.youtube.com/watch?v=CHwHskml9mI" target="_blank">Innovate Faster with Salesforce Heroku and AWS   <i class="fa fa-cc fa-1"></i></a>| 
 |CMP304|<a href="https://www.youtube.com/watch?v=TUJCQRejA28" target="_blank">Deep Dive: Backing Up Amazon EC2 with Amazon EBS Snapshots   <i class="fa fa-cc fa-1"></i></a>| 
-|CMP306|<a href="https://www.youtube.com/watch?v=ZjIgBoooANs" target="_blank">Architectures for HPC/HTC Workloads on AWS   <i class="fa fa-cc fa-1"></i></a>| 
 |CMP307|<a href="https://www.youtube.com/watch?v=BlNPZQh2wXs" target="_blank">Save up to 90% and Run Production Workloads on Spot   <i class="fa fa-cc fa-1"></i></a>| 
-|CMP308|<a href="https://www.youtube.com/watch?v=c8AL4VE1lno" target="_blank">FPGA Accelerated Computing Using Amazon EC2 F1 Instances   <i class="fa fa-cc fa-1"></i></a>| 
 |CMP309|<a href="https://www.youtube.com/watch?v=JouA10QJiNc" target="_blank">How Netflix Encodes at Scale   <i class="fa fa-cc fa-1"></i></a>| 
 |CMP311|<a href="https://www.youtube.com/watch?v=qOLOhvlpMyU" target="_blank">Auto Scaling Prime Time: Target Tracking Hits the Bullseye at Ne   <i class="fa fa-cc fa-1"></i></a>| 
 |CMP314|<a href="https://www.youtube.com/watch?v=puihnsCDvPs" target="_blank">Bringing Deep Learning to the Cloud with Amazon EC2   <i class="fa fa-cc fa-1"></i></a>| 
@@ -907,7 +905,6 @@
 | ClassId |       |
 |-|-|
 |MCL202|<a href="https://www.youtube.com/watch?v=9Q4u7qQBSgA" target="_blank">Ally Bank & Cognizant: Transforming Customer Experience Using Am   <i class="fa fa-cc fa-1"></i></a>| 
-|MCL204|<a href="https://www.youtube.com/watch?v=LwjaPKo1Qkk" target="_blank">The Unusual Suspect: How Washington County Sheriff’s Office is u   <i class="fa fa-cc fa-1"></i></a>| 
 |MCL205|<a href="https://www.youtube.com/watch?v=f6HasfL9Sgk" target="_blank">Introduction to Deep Learning   <i class="fa fa-cc fa-1"></i></a>| 
 |MCL206|<a href="https://www.youtube.com/watch?v=HTjkjMr8vzQ" target="_blank">Creating Next Generation Speech-Enabled Applications with Amazon   <i class="fa fa-cc fa-1"></i></a>| 
 |MCL207|<a href="https://www.youtube.com/watch?v=Y1i39z-kfrk" target="_blank">Amazon Lex Integration with IVR   <i class="fa fa-cc fa-1"></i></a>| 
@@ -1012,7 +1009,10 @@
 
 | ClassId |       |
 |-|-|
+|CMP306|<a href="https://www.youtube.com/watch?v=ZjIgBoooANs" target="_blank">Architectures for HPC/HTC Workloads on AWS   <i class="fa fa-cc fa-1"></i></a>| 
+|CMP308|<a href="https://www.youtube.com/watch?v=c8AL4VE1lno" target="_blank">FPGA Accelerated Computing Using Amazon EC2 F1 Instances   <i class="fa fa-cc fa-1"></i></a>| 
 |GPSBUS213|<a href="https://www.youtube.com/watch?v=FpxhNXVL6Fw" target="_blank">GPS: Success in the Public Sector Market   <i class="fa fa-cc fa-1"></i></a>| 
+|MCL204|<a href="https://www.youtube.com/watch?v=LwjaPKo1Qkk" target="_blank">The Unusual Suspect: How Washington County Sheriff’s Office is u   <i class="fa fa-cc fa-1"></i></a>| 
 |WPS01|<a href="https://www.youtube.com/watch?v=lYUIF5ln-vE" target="_blank">WWPS Breakfast   <i class="fa fa-cc fa-1"></i></a>| 
 |WPS203|<a href="https://www.youtube.com/watch?v=aJCgOqnkZJM" target="_blank">Building Your Tech Talent Pipeline   <i class="fa fa-cc fa-1"></i></a>| 
 |WPS204|<a href="https://www.youtube.com/watch?v=Ud73Sq1zzkQ" target="_blank">Effective Emergency Response in AWS   <i class="fa fa-cc fa-1"></i></a>| 
