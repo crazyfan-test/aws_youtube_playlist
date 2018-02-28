@@ -4,7 +4,7 @@
 ### Tracks
 
 * [Analytics & Big Data](#0) (3 Videos)
-* [Compute](#1) (3 Videos)
+* [Compute](#1) (4 Videos)
 * [Containers](#2) (1 Videos)
 * [Databases](#3) (4 Videos)
 * [DevOps](#4) (2 Videos)
@@ -13,9 +13,9 @@
 * [Machine Learning](#7) (4 Videos)
 * [Mobile](#8) (2 Videos)
 * [Networking](#9) (1 Videos)
-* [Security, Identity & Compliance](#10) (1 Videos)
+* [Security, Identity & Compliance](#10) (2 Videos)
 * [Serverless](#11) (2 Videos)
-* [Storage](#12) (1 Videos)
+* [Storage](#12) (2 Videos)
 
 
 
@@ -44,6 +44,7 @@
 |01/31|<a href="https://www.youtube.com/watch?v=7tp9lZK8ZD4" target="_blank">Introducing the New Simplified Access Model for EC2 Spot Instances  <i class="fa fa-cc fa-1"></i></a>| 
 |02/05|<a href="https://www.youtube.com/watch?v=eWFEJmsddV0" target="_blank">The Nitro Project: Next-Generation EC2 Infrastructure  <i class="fa fa-cc fa-1"></i></a>| 
 |02/26|<a href="https://www.youtube.com/watch?v=AwxXL2-zDbI" target="_blank">Building an Immersive VR Streaming Solution on AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|02/27|<a href="https://www.youtube.com/watch?v=By8y9HFUGPM" target="_blank">Building High Availability Apps on Lightsail: Load Balancing and Block Storage  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -136,6 +137,7 @@
 | Date |       |
 |-|-|
 |01/31|<a href="https://www.youtube.com/watch?v=8jyhsnh0ALQ" target="_blank">Deep Dive on AWS Single Sign-On  <i class="fa fa-cc fa-1"></i></a>| 
+|02/27|<a href="https://www.youtube.com/watch?v=o2YaIsps5LY" target="_blank">Deep Dive on Amazon GuardDuty  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -155,6 +157,7 @@
 | Date |       |
 |-|-|
 |01/31|<a href="https://www.youtube.com/watch?v=krpzxDAlOdA" target="_blank">Improving Backup & DR – AWS Storage Gateway  <i class="fa fa-cc fa-1"></i></a>| 
+|02/27|<a href="https://www.youtube.com/watch?v=lK_t_dhUh5I" target="_blank">Disaster Recovery Options with AWS (with Live Demos)  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
