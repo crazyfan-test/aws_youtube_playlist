@@ -4,11 +4,11 @@
 ### Tracks
 
 * [Analytics & Big Data](#0) (3 Videos)
-* [Compute](#1) (4 Videos)
+* [Compute](#1) (5 Videos)
 * [Containers](#2) (1 Videos)
 * [Databases](#3) (4 Videos)
 * [DevOps](#4) (2 Videos)
-* [Enterprise](#5) (3 Videos)
+* [Enterprise](#5) (4 Videos)
 * [IoT](#6) (2 Videos)
 * [Machine Learning](#7) (4 Videos)
 * [Mobile](#8) (2 Videos)
@@ -45,6 +45,7 @@
 |02/05|<a href="https://www.youtube.com/watch?v=eWFEJmsddV0" target="_blank">The Nitro Project: Next-Generation EC2 Infrastructure  <i class="fa fa-cc fa-1"></i></a>| 
 |02/26|<a href="https://www.youtube.com/watch?v=AwxXL2-zDbI" target="_blank">Building an Immersive VR Streaming Solution on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |02/27|<a href="https://www.youtube.com/watch?v=By8y9HFUGPM" target="_blank">Building High Availability Apps on Lightsail: Load Balancing and Block Storage  <i class="fa fa-cc fa-1"></i></a>| 
+|02/28|<a href="https://www.youtube.com/watch?v=cu6uZp-qBt4" target="_blank">Introduction to Microsoft Workloads on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -87,6 +88,7 @@
 |01/29|<a href="https://www.youtube.com/watch?v=-AClOpVKcBQ" target="_blank">Achieving Business Value with AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |01/31|<a href="https://www.youtube.com/watch?v=bmnVBpEK1f8" target="_blank">Preparing Your Team for a Cloud Transformation  <i class="fa fa-cc fa-1"></i></a>| 
 |02/26|<a href="https://www.youtube.com/watch?v=40IQdla2fr8" target="_blank">Be an SAP HANA Super Hero  <i class="fa fa-cc fa-1"></i></a>| 
+|02/28|<a href="https://www.youtube.com/watch?v=QSdhrjaFZeI" target="_blank">Deep Dive on AWS Migration Hub  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
