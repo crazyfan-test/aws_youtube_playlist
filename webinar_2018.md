@@ -13,9 +13,9 @@
 * [Machine Learning](#7) (4 Videos)
 * [Mobile](#8) (2 Videos)
 * [Networking](#9) (1 Videos)
-* [Security, Identity & Compliance](#10) (2 Videos)
+* [Security, Identity & Compliance](#10) (3 Videos)
 * [Serverless](#11) (2 Videos)
-* [Storage](#12) (2 Videos)
+* [Storage](#12) (3 Videos)
 
 
 
@@ -140,6 +140,7 @@
 |-|-|
 |01/31|<a href="https://www.youtube.com/watch?v=8jyhsnh0ALQ" target="_blank">Deep Dive on AWS Single Sign-On  <i class="fa fa-cc fa-1"></i></a>| 
 |02/27|<a href="https://www.youtube.com/watch?v=o2YaIsps5LY" target="_blank">Deep Dive on Amazon GuardDuty  <i class="fa fa-cc fa-1"></i></a>| 
+|03/01|<a href="https://www.youtube.com/watch?v=Ygq4u0B0rF0" target="_blank">How to Secure Sensitive Customer Data Using Amazon CloudFront  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -160,6 +161,7 @@
 |-|-|
 |01/31|<a href="https://www.youtube.com/watch?v=krpzxDAlOdA" target="_blank">Improving Backup & DR – AWS Storage Gateway  <i class="fa fa-cc fa-1"></i></a>| 
 |02/27|<a href="https://www.youtube.com/watch?v=lK_t_dhUh5I" target="_blank">Disaster Recovery Options with AWS (with Live Demos)  <i class="fa fa-cc fa-1"></i></a>| 
+|03/01|<a href="https://www.youtube.com/watch?v=hgmFoRf33uA" target="_blank">AWS Services for Data Migration  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
