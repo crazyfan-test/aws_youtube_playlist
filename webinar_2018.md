@@ -5,17 +5,17 @@
 
 * [Analytics & Big Data](#0) (5 Videos)
 * [Compute](#1) (6 Videos)
-* [Containers](#2) (2 Videos)
-* [Databases](#3) (5 Videos)
-* [DevOps](#4) (3 Videos)
-* [Enterprise](#5) (5 Videos)
+* [Containers](#2) (3 Videos)
+* [Databases](#3) (7 Videos)
+* [DevOps](#4) (4 Videos)
+* [Enterprise](#5) (7 Videos)
 * [IoT](#6) (3 Videos)
-* [Machine Learning](#7) (7 Videos)
+* [Machine Learning](#7) (9 Videos)
 * [Management Tools](#8) (1 Videos)
 * [Mobile](#9) (3 Videos)
 * [Networking](#10) (2 Videos)
 * [Security, Identity & Compliance](#11) (5 Videos)
-* [Serverless](#12) (3 Videos)
+* [Serverless](#12) (4 Videos)
 * [Storage](#13) (4 Videos)
 
 
@@ -60,6 +60,7 @@
 |-|-|
 |03/19|<a href="https://www.youtube.com/watch?v=rV_NCvs9iGE" target="_blank">Running Kubernetes with Amazon EKS  <i class="fa fa-cc fa-1"></i></a>| 
 |03/29|<a href="https://www.youtube.com/watch?v=wrZvlJlcZio" target="_blank">Introducing AWS Fargate  <i class="fa fa-cc fa-1"></i></a>| 
+|04/26|<a href="https://www.youtube.com/watch?v=WLD7wqJzKEw" target="_blank">New Features for Building Powerful Containerized Microservices on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -73,6 +74,8 @@
 |02/22|<a href="https://www.youtube.com/watch?v=C6c1Ys_1M0M" target="_blank">What’s New for Amazon DynamoDB - 2018 Q1 Update  <i class="fa fa-cc fa-1"></i></a>| 
 |02/22|<a href="https://www.youtube.com/watch?v=odLQn2G3vdI" target="_blank">Introducing Performance Insights - Cloud-Based Database Performance Monitoring  <i class="fa fa-cc fa-1"></i></a>| 
 |03/21|<a href="https://www.youtube.com/watch?v=VeGrQelhMbI" target="_blank">Best Practices for Migrating Oracle Databases to the Cloud  <i class="fa fa-cc fa-1"></i></a>| 
+|04/26|<a href="https://www.youtube.com/watch?v=NJa0_XKFRF0" target="_blank">Intro to Open Source Databases on AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|04/26|<a href="https://www.youtube.com/watch?v=OeCzNhsV1OY" target="_blank">ElastiCache: Deep Dive Best Practices and Usage Patterns  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -84,6 +87,7 @@
 |01/25|<a href="https://www.youtube.com/watch?v=FvclLeg2vEQ" target="_blank">Introducing AWS Cloud9  <i class="fa fa-cc fa-1"></i></a>| 
 |02/22|<a href="https://www.youtube.com/watch?v=fTHZF2SOHAc" target="_blank">Continuous Integration Best Practices for Software Development Teams  <i class="fa fa-cc fa-1"></i></a>| 
 |03/21|<a href="https://www.youtube.com/watch?v=WgcFt9JvL3U" target="_blank">Life of a Code Change to a Tier 1 Service  <i class="fa fa-cc fa-1"></i></a>| 
+|04/26|<a href="https://www.youtube.com/watch?v=YhIBVzSEDpo" target="_blank">Debug your Container and Serverless Applications with AWS X-Ray in 5 Minutes  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -97,6 +101,8 @@
 |02/26|<a href="https://www.youtube.com/watch?v=40IQdla2fr8" target="_blank">Be an SAP HANA Super Hero  <i class="fa fa-cc fa-1"></i></a>| 
 |02/28|<a href="https://www.youtube.com/watch?v=QSdhrjaFZeI" target="_blank">Deep Dive on AWS Migration Hub  <i class="fa fa-cc fa-1"></i></a>| 
 |03/29|<a href="https://www.youtube.com/watch?v=IzCdl-D3-mk" target="_blank">Improve Efficiency by Migrating Messaging to Amazon MQ  <i class="fa fa-cc fa-1"></i></a>| 
+|04/26|<a href="https://www.youtube.com/watch?v=GUbp8rnHY8E" target="_blank">An Overview of Best Practices of Large-Scale Migrations  <i class="fa fa-cc fa-1"></i></a>| 
+|04/26|<a href="https://www.youtube.com/watch?v=0hJdq62SbUw" target="_blank">Deploy your Desktops and Apps on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -123,6 +129,8 @@
 |03/20|<a href="https://www.youtube.com/watch?v=aFE_tejgegU" target="_blank">Working with Scalable Machine Learning Algorithms in Amazon SageMaker  <i class="fa fa-cc fa-1"></i></a>| 
 |03/24|<a href="https://www.youtube.com/watch?v=kWgCbjtsAAM" target="_blank">Enabling Deep Learning in IoT Applications with Apache MXNet  <i class="fa fa-cc fa-1"></i></a>| 
 |03/29|<a href="https://www.youtube.com/watch?v=BJm5HabJjsI" target="_blank">Media Processing Workflows at High Velocity and Scale using ML  <i class="fa fa-cc fa-1"></i></a>| 
+|04/26|<a href="https://www.youtube.com/watch?v=0ibJUauXoqE" target="_blank">Automate for Efficiency with Amazon Transcribe and Amazon Translate  <i class="fa fa-cc fa-1"></i></a>| 
+|04/26|<a href="https://www.youtube.com/watch?v=reGMxkZhp-M" target="_blank">Perform Machine Learning at the IoT Edge using AWS Greengrass and Amazon Sagemaker - Tech Talk  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -177,6 +185,7 @@
 |01/25|<a href="https://www.youtube.com/watch?v=k0qPbUYY-XU" target="_blank">Overview of Serverless Application Deployment Patterns  <i class="fa fa-cc fa-1"></i></a>| 
 |02/22|<a href="https://www.youtube.com/watch?v=4nrRt0dOcFk" target="_blank">Become a Serverless Black Belt - Optimizing Your Serverless Applications  <i class="fa fa-cc fa-1"></i></a>| 
 |03/20|<a href="https://www.youtube.com/watch?v=EpxO8wo9tA4" target="_blank">Operating Your Serverless API in Production at Scale  <i class="fa fa-cc fa-1"></i></a>| 
+|04/26|<a href="https://www.youtube.com/watch?v=FSr7ToE_hz8" target="_blank">Tips and Tricks for Building and Deploying Serverless Apps In Minutes  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
