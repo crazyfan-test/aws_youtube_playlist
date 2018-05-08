@@ -4,19 +4,19 @@
 ### Tracks
 
 * [Analytics & Big Data](#0) (5 Videos)
-* [Compute](#1) (6 Videos)
+* [Compute](#1) (9 Videos)
 * [Containers](#2) (3 Videos)
 * [Databases](#3) (7 Videos)
 * [DevOps](#4) (4 Videos)
 * [Enterprise](#5) (7 Videos)
-* [IoT](#6) (3 Videos)
+* [IoT](#6) (4 Videos)
 * [Machine Learning](#7) (9 Videos)
 * [Management Tools](#8) (1 Videos)
-* [Mobile](#9) (3 Videos)
-* [Networking](#10) (2 Videos)
-* [Security, Identity & Compliance](#11) (5 Videos)
+* [Mobile](#9) (4 Videos)
+* [Networking](#10) (3 Videos)
+* [Security, Identity & Compliance](#11) (7 Videos)
 * [Serverless](#12) (4 Videos)
-* [Storage](#13) (4 Videos)
+* [Storage](#13) (5 Videos)
 
 
 
@@ -50,6 +50,9 @@
 |02/27|<a href="https://www.youtube.com/watch?v=By8y9HFUGPM" target="_blank">Building High Availability Apps on Lightsail: Load Balancing and Block Storage  <i class="fa fa-cc fa-1"></i></a>| 
 |02/28|<a href="https://www.youtube.com/watch?v=cu6uZp-qBt4" target="_blank">Introduction to Microsoft Workloads on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |03/29|<a href="https://www.youtube.com/watch?v=m7xTGuDVVsw" target="_blank">High Performance Computing in the Cloud  <i class="fa fa-cc fa-1"></i></a>| 
+|05/02|<a href="https://www.youtube.com/watch?v=DH7NJcG2jak" target="_blank">How to Bring Microsoft Apps to AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|05/03|<a href="https://www.youtube.com/watch?v=z5M-ahXYu3o" target="_blank">Deep Dive on Amazon EC2 Accelerated Computing  <i class="fa fa-cc fa-1"></i></a>| 
+|05/03|<a href="https://www.youtube.com/watch?v=FyY_Lyc5Ddg" target="_blank">Best Practices for Running Amazon EC2 Spot Instances with Amazon EMR  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -114,6 +117,7 @@
 |01/26|<a href="https://www.youtube.com/watch?v=rR5BDYDul5E" target="_blank">Secure Cloud & Local Connectivity for Microcontroller-based Devices  <i class="fa fa-cc fa-1"></i></a>| 
 |02/22|<a href="https://www.youtube.com/watch?v=8xsuOw0jw00" target="_blank">Manage IoT Devices throughout Their Lifecycle  <i class="fa fa-cc fa-1"></i></a>| 
 |03/24|<a href="https://www.youtube.com/watch?v=so__4NuLV1M" target="_blank">Learn Step by Step How iDevices Uses AWS IoT Analytics  <i class="fa fa-cc fa-1"></i></a>| 
+|05/03|<a href="https://www.youtube.com/watch?v=FADeK-X8DnQ" target="_blank">How to Easily and Securely Connect Devices to AWS IoT  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -151,6 +155,7 @@
 |01/26|<a href="https://www.youtube.com/watch?v=iZws_5qzfD4" target="_blank">Ionic and React Hybrid Web/Native Mobile Applications with Mobile Hub  <i class="fa fa-cc fa-1"></i></a>| 
 |02/22|<a href="https://www.youtube.com/watch?v=olAPj6EIlag" target="_blank">Introduction to AWS AppSync and GraphQL  <i class="fa fa-cc fa-1"></i></a>| 
 |03/24|<a href="https://www.youtube.com/watch?v=3NSU2dUEQ24" target="_blank">New Mobile CLI and Console Experience  <i class="fa fa-cc fa-1"></i></a>| 
+|05/03|<a href="https://www.youtube.com/watch?v=MD6GaLT8PnE" target="_blank">Offline GraphQL Apps with AWS AppSync  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -161,6 +166,7 @@
 |-|-|
 |01/31|<a href="https://www.youtube.com/watch?v=IRHxy-vwjPA" target="_blank">Deep Dive on AWS PrivateLink  <i class="fa fa-cc fa-1"></i></a>| 
 |03/29|<a href="https://www.youtube.com/watch?v=b1gq9jTqInA" target="_blank">Deep Dive on New AWS Networking Features  <i class="fa fa-cc fa-1"></i></a>| 
+|05/03|<a href="https://www.youtube.com/watch?v=5m8oFxH_Ryk" target="_blank">Taking Serverless to the Edge  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -174,6 +180,8 @@
 |03/01|<a href="https://www.youtube.com/watch?v=Ygq4u0B0rF0" target="_blank">How to Secure Sensitive Customer Data Using Amazon CloudFront  <i class="fa fa-cc fa-1"></i></a>| 
 |03/29|<a href="https://www.youtube.com/watch?v=113PCU8Ef6s" target="_blank">Navigating GDPR Compliance on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |03/29|<a href="https://www.youtube.com/watch?v=2apSeOjDwZo" target="_blank">The Evolution of Identity and Access Management on AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|05/03|<a href="https://www.youtube.com/watch?v=WI4EVgShkn0" target="_blank">Protect Your Game Servers from DDoS Attacks  <i class="fa fa-cc fa-1"></i></a>| 
+|05/03|<a href="https://www.youtube.com/watch?v=f7RB6k7cP6k" target="_blank">Amazon GuardDuty - Let's Attack My Account!  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -198,6 +206,7 @@
 |02/27|<a href="https://www.youtube.com/watch?v=lK_t_dhUh5I" target="_blank">Disaster Recovery Options with AWS (with Live Demos)  <i class="fa fa-cc fa-1"></i></a>| 
 |03/01|<a href="https://www.youtube.com/watch?v=hgmFoRf33uA" target="_blank">AWS Services for Data Migration  <i class="fa fa-cc fa-1"></i></a>| 
 |03/29|<a href="https://www.youtube.com/watch?v=1MjTuaVBVmk" target="_blank">Transforming Data Lakes with Amazon S3 Select & Amazon Glacier Select  <i class="fa fa-cc fa-1"></i></a>| 
+|05/02|<a href="https://www.youtube.com/watch?v=IQ7ifDInA_E" target="_blank">Building Data Lakes That Cost Less and Deliver Results Faster  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
