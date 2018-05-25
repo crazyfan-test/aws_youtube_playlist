@@ -3,10 +3,10 @@
 
 ### Tracks
 
-* [Analytics & Big Data](#0) (5 Videos)
+* [Analytics & Big Data](#0) (6 Videos)
 * [Compute](#1) (9 Videos)
 * [Containers](#2) (3 Videos)
-* [Databases](#3) (7 Videos)
+* [Databases](#3) (8 Videos)
 * [DevOps](#4) (4 Videos)
 * [Enterprise](#5) (7 Videos)
 * [IoT](#6) (4 Videos)
@@ -16,7 +16,7 @@
 * [Networking](#10) (3 Videos)
 * [Security, Identity & Compliance](#11) (7 Videos)
 * [Serverless](#12) (4 Videos)
-* [Storage](#13) (5 Videos)
+* [Storage](#13) (6 Videos)
 
 
 
@@ -36,6 +36,7 @@
 |02/22|<a href="https://www.youtube.com/watch?v=wwOQvjogc7Q" target="_blank">Social Media Analytics using Amazon QuickSight  <i class="fa fa-cc fa-1"></i></a>| 
 |03/21|<a href="https://www.youtube.com/watch?v=SOTFnRezIH0" target="_blank">Amazon Elasticsearch Service Deep Dive  <i class="fa fa-cc fa-1"></i></a>| 
 |03/29|<a href="https://www.youtube.com/watch?v=Gn7lxQiSZPQ" target="_blank">Deep Dive on Amazon Athena  <i class="fa fa-cc fa-1"></i></a>| 
+|05/21|<a href="https://www.youtube.com/watch?v=E2SeK-tvMTE" target="_blank">Integrating Amazon Elasticsearch with your DevOps Tooling  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -79,6 +80,7 @@
 |03/21|<a href="https://www.youtube.com/watch?v=VeGrQelhMbI" target="_blank">Best Practices for Migrating Oracle Databases to the Cloud  <i class="fa fa-cc fa-1"></i></a>| 
 |04/26|<a href="https://www.youtube.com/watch?v=NJa0_XKFRF0" target="_blank">Intro to Open Source Databases on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |04/26|<a href="https://www.youtube.com/watch?v=OeCzNhsV1OY" target="_blank">ElastiCache: Deep Dive Best Practices and Usage Patterns  <i class="fa fa-cc fa-1"></i></a>| 
+|05/21|<a href="https://www.youtube.com/watch?v=3uuibqK8IJs" target="_blank">How to Migrate from Cassandra to Amazon DynamoDB  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -207,6 +209,7 @@
 |03/01|<a href="https://www.youtube.com/watch?v=hgmFoRf33uA" target="_blank">AWS Services for Data Migration  <i class="fa fa-cc fa-1"></i></a>| 
 |03/29|<a href="https://www.youtube.com/watch?v=1MjTuaVBVmk" target="_blank">Transforming Data Lakes with Amazon S3 Select & Amazon Glacier Select  <i class="fa fa-cc fa-1"></i></a>| 
 |05/02|<a href="https://www.youtube.com/watch?v=IQ7ifDInA_E" target="_blank">Building Data Lakes That Cost Less and Deliver Results Faster  <i class="fa fa-cc fa-1"></i></a>| 
+|05/08|<a href="https://www.youtube.com/watch?v=BlRS-giRSH8" target="_blank">Integrating On-Premises Vendors with AWS for Backup  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
