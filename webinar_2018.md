@@ -3,20 +3,20 @@
 
 ### Tracks
 
-* [Analytics & Big Data](#0) (6 Videos)
-* [Compute](#1) (9 Videos)
-* [Containers](#2) (3 Videos)
-* [Databases](#3) (8 Videos)
-* [DevOps](#4) (4 Videos)
-* [Enterprise](#5) (7 Videos)
-* [IoT](#6) (4 Videos)
-* [Machine Learning](#7) (9 Videos)
-* [Management Tools](#8) (1 Videos)
-* [Mobile](#9) (4 Videos)
-* [Networking](#10) (3 Videos)
-* [Security, Identity & Compliance](#11) (7 Videos)
-* [Serverless](#12) (4 Videos)
-* [Storage](#13) (6 Videos)
+* [Analytics & Big Data](#0) (8 Videos)
+* [Compute](#1) (11 Videos)
+* [Containers](#2) (4 Videos)
+* [Databases](#3) (9 Videos)
+* [DevOps](#4) (5 Videos)
+* [Enterprise](#5) (8 Videos)
+* [IoT](#6) (5 Videos)
+* [Machine Learning](#7) (11 Videos)
+* [Management Tools](#8) (2 Videos)
+* [Mobile](#9) (5 Videos)
+* [Networking](#10) (4 Videos)
+* [Security, Identity & Compliance](#11) (8 Videos)
+* [Serverless](#12) (5 Videos)
+* [Storage](#13) (7 Videos)
 
 
 
@@ -37,6 +37,8 @@
 |03/21|<a href="https://www.youtube.com/watch?v=SOTFnRezIH0" target="_blank">Amazon Elasticsearch Service Deep Dive  <i class="fa fa-cc fa-1"></i></a>| 
 |03/29|<a href="https://www.youtube.com/watch?v=Gn7lxQiSZPQ" target="_blank">Deep Dive on Amazon Athena  <i class="fa fa-cc fa-1"></i></a>| 
 |05/21|<a href="https://www.youtube.com/watch?v=E2SeK-tvMTE" target="_blank">Integrating Amazon Elasticsearch with your DevOps Tooling  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=w3Y5QOldqJs" target="_blank">Data Warehousing and Data Lake Analytics, Together  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=YdmcFyjrhYI" target="_blank">Data Transformation Patterns in AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -54,6 +56,8 @@
 |05/02|<a href="https://www.youtube.com/watch?v=DH7NJcG2jak" target="_blank">How to Bring Microsoft Apps to AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |05/03|<a href="https://www.youtube.com/watch?v=z5M-ahXYu3o" target="_blank">Deep Dive on Amazon EC2 Accelerated Computing  <i class="fa fa-cc fa-1"></i></a>| 
 |05/03|<a href="https://www.youtube.com/watch?v=FyY_Lyc5Ddg" target="_blank">Best Practices for Running Amazon EC2 Spot Instances with Amazon EMR  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=ljJlxccq-xg" target="_blank">Creating and Managing a WordPress Website with Amazon Lightsail  <i class="fa fa-cc fa-1"></i></a>| 
+|05/30|<a href="https://www.youtube.com/watch?v=fscMSO_vQ7o" target="_blank">Accelerating Life Sciences with HPC on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -65,6 +69,7 @@
 |03/19|<a href="https://www.youtube.com/watch?v=rV_NCvs9iGE" target="_blank">Running Kubernetes with Amazon EKS  <i class="fa fa-cc fa-1"></i></a>| 
 |03/29|<a href="https://www.youtube.com/watch?v=wrZvlJlcZio" target="_blank">Introducing AWS Fargate  <i class="fa fa-cc fa-1"></i></a>| 
 |04/26|<a href="https://www.youtube.com/watch?v=WLD7wqJzKEw" target="_blank">New Features for Building Powerful Containerized Microservices on AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=2SxKKDXKrXQ" target="_blank">Building Microservices with the 12 Factor App Pattern on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -81,6 +86,7 @@
 |04/26|<a href="https://www.youtube.com/watch?v=NJa0_XKFRF0" target="_blank">Intro to Open Source Databases on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |04/26|<a href="https://www.youtube.com/watch?v=OeCzNhsV1OY" target="_blank">ElastiCache: Deep Dive Best Practices and Usage Patterns  <i class="fa fa-cc fa-1"></i></a>| 
 |05/21|<a href="https://www.youtube.com/watch?v=3uuibqK8IJs" target="_blank">How to Migrate from Cassandra to Amazon DynamoDB  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=XT4iSTZJgCQ" target="_blank">10 Hacks for Optimizing MySQL in the Cloud  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -93,6 +99,7 @@
 |02/22|<a href="https://www.youtube.com/watch?v=fTHZF2SOHAc" target="_blank">Continuous Integration Best Practices for Software Development Teams  <i class="fa fa-cc fa-1"></i></a>| 
 |03/21|<a href="https://www.youtube.com/watch?v=WgcFt9JvL3U" target="_blank">Life of a Code Change to a Tier 1 Service  <i class="fa fa-cc fa-1"></i></a>| 
 |04/26|<a href="https://www.youtube.com/watch?v=YhIBVzSEDpo" target="_blank">Debug your Container and Serverless Applications with AWS X-Ray in 5 Minutes  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=IBeqDaMDjf0" target="_blank">.NET Serverless Development on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -108,6 +115,7 @@
 |03/29|<a href="https://www.youtube.com/watch?v=IzCdl-D3-mk" target="_blank">Improve Efficiency by Migrating Messaging to Amazon MQ  <i class="fa fa-cc fa-1"></i></a>| 
 |04/26|<a href="https://www.youtube.com/watch?v=GUbp8rnHY8E" target="_blank">An Overview of Best Practices of Large-Scale Migrations  <i class="fa fa-cc fa-1"></i></a>| 
 |04/26|<a href="https://www.youtube.com/watch?v=0hJdq62SbUw" target="_blank">Deploy your Desktops and Apps on AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=5Shl1RYE34E" target="_blank">Hybrid Cloud Customer Use Cases on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -120,6 +128,7 @@
 |02/22|<a href="https://www.youtube.com/watch?v=8xsuOw0jw00" target="_blank">Manage IoT Devices throughout Their Lifecycle  <i class="fa fa-cc fa-1"></i></a>| 
 |03/24|<a href="https://www.youtube.com/watch?v=so__4NuLV1M" target="_blank">Learn Step by Step How iDevices Uses AWS IoT Analytics  <i class="fa fa-cc fa-1"></i></a>| 
 |05/03|<a href="https://www.youtube.com/watch?v=FADeK-X8DnQ" target="_blank">How to Easily and Securely Connect Devices to AWS IoT  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=X7q8V7lTmKU" target="_blank">Using AWS IoT for Industrial Applications  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -137,6 +146,8 @@
 |03/29|<a href="https://www.youtube.com/watch?v=BJm5HabJjsI" target="_blank">Media Processing Workflows at High Velocity and Scale using ML  <i class="fa fa-cc fa-1"></i></a>| 
 |04/26|<a href="https://www.youtube.com/watch?v=0ibJUauXoqE" target="_blank">Automate for Efficiency with Amazon Transcribe and Amazon Translate  <i class="fa fa-cc fa-1"></i></a>| 
 |04/26|<a href="https://www.youtube.com/watch?v=reGMxkZhp-M" target="_blank">Perform Machine Learning at the IoT Edge using AWS Greengrass and Amazon Sagemaker - Tech Talk  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=9fHAXqcUjy8" target="_blank">Introducing AWS DeepLens  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=dada2WzCNPM" target="_blank">Using Apache Spark with Amazon SageMaker  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -146,6 +157,7 @@
 | Date |       |
 |-|-|
 |03/19|<a href="https://www.youtube.com/watch?v=4paIhD2VzKA" target="_blank">Achieving Global Consistency Using AWS CloudFormation StackSets  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=e1EajHh7OWc" target="_blank">Gaining Better Observability of Your VMs with Amazon CloudWatch  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -158,6 +170,7 @@
 |02/22|<a href="https://www.youtube.com/watch?v=olAPj6EIlag" target="_blank">Introduction to AWS AppSync and GraphQL  <i class="fa fa-cc fa-1"></i></a>| 
 |03/24|<a href="https://www.youtube.com/watch?v=3NSU2dUEQ24" target="_blank">New Mobile CLI and Console Experience  <i class="fa fa-cc fa-1"></i></a>| 
 |05/03|<a href="https://www.youtube.com/watch?v=MD6GaLT8PnE" target="_blank">Offline GraphQL Apps with AWS AppSync  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=epyxK6iCzZY" target="_blank">Deep Dive on Amazon Pinpoint Segmentation and Endpoint Management  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -169,6 +182,7 @@
 |01/31|<a href="https://www.youtube.com/watch?v=IRHxy-vwjPA" target="_blank">Deep Dive on AWS PrivateLink  <i class="fa fa-cc fa-1"></i></a>| 
 |03/29|<a href="https://www.youtube.com/watch?v=b1gq9jTqInA" target="_blank">Deep Dive on New AWS Networking Features  <i class="fa fa-cc fa-1"></i></a>| 
 |05/03|<a href="https://www.youtube.com/watch?v=5m8oFxH_Ryk" target="_blank">Taking Serverless to the Edge  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=5U44o5vWuT4" target="_blank">Making Private Connectivity the New Norm via AWS PrivateLink  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -184,6 +198,7 @@
 |03/29|<a href="https://www.youtube.com/watch?v=2apSeOjDwZo" target="_blank">The Evolution of Identity and Access Management on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |05/03|<a href="https://www.youtube.com/watch?v=WI4EVgShkn0" target="_blank">Protect Your Game Servers from DDoS Attacks  <i class="fa fa-cc fa-1"></i></a>| 
 |05/03|<a href="https://www.youtube.com/watch?v=f7RB6k7cP6k" target="_blank">Amazon GuardDuty - Let's Attack My Account!  <i class="fa fa-cc fa-1"></i></a>| 
+|05/30|<a href="https://www.youtube.com/watch?v=nDDBcP-iiSs" target="_blank">Introducing AWS Certificate Manager Private Certificate Authority (CA)  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -196,6 +211,7 @@
 |02/22|<a href="https://www.youtube.com/watch?v=4nrRt0dOcFk" target="_blank">Become a Serverless Black Belt - Optimizing Your Serverless Applications  <i class="fa fa-cc fa-1"></i></a>| 
 |03/20|<a href="https://www.youtube.com/watch?v=EpxO8wo9tA4" target="_blank">Operating Your Serverless API in Production at Scale  <i class="fa fa-cc fa-1"></i></a>| 
 |04/26|<a href="https://www.youtube.com/watch?v=FSr7ToE_hz8" target="_blank">Tips and Tricks for Building and Deploying Serverless Apps In Minutes  <i class="fa fa-cc fa-1"></i></a>| 
+|05/30|<a href="https://www.youtube.com/watch?v=xkDcBssNd1g" target="_blank">Building API-Driven Microservices with Amazon API Gateway  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -210,6 +226,7 @@
 |03/29|<a href="https://www.youtube.com/watch?v=1MjTuaVBVmk" target="_blank">Transforming Data Lakes with Amazon S3 Select & Amazon Glacier Select  <i class="fa fa-cc fa-1"></i></a>| 
 |05/02|<a href="https://www.youtube.com/watch?v=IQ7ifDInA_E" target="_blank">Building Data Lakes That Cost Less and Deliver Results Faster  <i class="fa fa-cc fa-1"></i></a>| 
 |05/08|<a href="https://www.youtube.com/watch?v=BlRS-giRSH8" target="_blank">Integrating On-Premises Vendors with AWS for Backup  <i class="fa fa-cc fa-1"></i></a>| 
+|05/30|<a href="https://www.youtube.com/watch?v=wdlTDFOKM4k" target="_blank">Accelerate Productivity by Computing at the Edge  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
