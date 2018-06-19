@@ -3,20 +3,20 @@
 
 ### Tracks
 
-* [Analytics & Big Data](#0) (8 Videos)
+* [Analytics & Big Data](#0) (9 Videos)
 * [Compute](#1) (11 Videos)
 * [Containers](#2) (4 Videos)
-* [Databases](#3) (9 Videos)
+* [Databases](#3) (10 Videos)
 * [DevOps](#4) (5 Videos)
-* [Enterprise](#5) (8 Videos)
+* [Enterprise](#5) (9 Videos)
 * [IoT](#6) (5 Videos)
 * [Machine Learning](#7) (11 Videos)
 * [Management Tools](#8) (2 Videos)
 * [Mobile](#9) (5 Videos)
 * [Networking](#10) (4 Videos)
-* [Security, Identity & Compliance](#11) (8 Videos)
+* [Security, Identity & Compliance](#11) (9 Videos)
 * [Serverless](#12) (5 Videos)
-* [Storage](#13) (7 Videos)
+* [Storage](#13) (8 Videos)
 
 
 
@@ -39,6 +39,7 @@
 |05/21|<a href="https://www.youtube.com/watch?v=E2SeK-tvMTE" target="_blank">Integrating Amazon Elasticsearch with your DevOps Tooling  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=w3Y5QOldqJs" target="_blank">Data Warehousing and Data Lake Analytics, Together  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=YdmcFyjrhYI" target="_blank">Data Transformation Patterns in AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|06/18|<a href="https://www.youtube.com/watch?v=OmNIbjEU5us" target="_blank">Get Started with Real-Time Streaming Data in Under 5 Minutes  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -87,6 +88,7 @@
 |04/26|<a href="https://www.youtube.com/watch?v=OeCzNhsV1OY" target="_blank">ElastiCache: Deep Dive Best Practices and Usage Patterns  <i class="fa fa-cc fa-1"></i></a>| 
 |05/21|<a href="https://www.youtube.com/watch?v=3uuibqK8IJs" target="_blank">How to Migrate from Cassandra to Amazon DynamoDB  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=XT4iSTZJgCQ" target="_blank">10 Hacks for Optimizing MySQL in the Cloud  <i class="fa fa-cc fa-1"></i></a>| 
+|06/18|<a href="https://www.youtube.com/watch?v=n5K_FfrFjLo" target="_blank">Oracle to Amazon Aurora Migration, Step by Step  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -116,6 +118,7 @@
 |04/26|<a href="https://www.youtube.com/watch?v=GUbp8rnHY8E" target="_blank">An Overview of Best Practices of Large-Scale Migrations  <i class="fa fa-cc fa-1"></i></a>| 
 |04/26|<a href="https://www.youtube.com/watch?v=0hJdq62SbUw" target="_blank">Deploy your Desktops and Apps on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=5Shl1RYE34E" target="_blank">Hybrid Cloud Customer Use Cases on AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|06/19|<a href="https://www.youtube.com/watch?v=547J_kbfhs4" target="_blank">De-risking Enterprise Migration with AWS Managed Services  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -198,6 +201,7 @@
 |03/29|<a href="https://www.youtube.com/watch?v=2apSeOjDwZo" target="_blank">The Evolution of Identity and Access Management on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |05/03|<a href="https://www.youtube.com/watch?v=WI4EVgShkn0" target="_blank">Protect Your Game Servers from DDoS Attacks  <i class="fa fa-cc fa-1"></i></a>| 
 |05/03|<a href="https://www.youtube.com/watch?v=f7RB6k7cP6k" target="_blank">Amazon GuardDuty - Let's Attack My Account!  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=1nir_Mdy3bQ" target="_blank">Introducing AWS Firewall Manager  <i class="fa fa-cc fa-1"></i></a>| 
 |05/30|<a href="https://www.youtube.com/watch?v=nDDBcP-iiSs" target="_blank">Introducing AWS Certificate Manager Private Certificate Authority (CA)  <i class="fa fa-cc fa-1"></i></a>| 
 
 
@@ -227,6 +231,7 @@
 |05/02|<a href="https://www.youtube.com/watch?v=IQ7ifDInA_E" target="_blank">Building Data Lakes That Cost Less and Deliver Results Faster  <i class="fa fa-cc fa-1"></i></a>| 
 |05/08|<a href="https://www.youtube.com/watch?v=BlRS-giRSH8" target="_blank">Integrating On-Premises Vendors with AWS for Backup  <i class="fa fa-cc fa-1"></i></a>| 
 |05/30|<a href="https://www.youtube.com/watch?v=wdlTDFOKM4k" target="_blank">Accelerate Productivity by Computing at the Edge  <i class="fa fa-cc fa-1"></i></a>| 
+|06/02|<a href="https://www.youtube.com/watch?v=I9PiE-P6ddw" target="_blank">Learn to Build a Cloud-Scale Website Powered by Amazon EFS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
