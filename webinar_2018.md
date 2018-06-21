@@ -7,15 +7,15 @@
 * [Compute](#1) (11 Videos)
 * [Containers](#2) (4 Videos)
 * [Databases](#3) (10 Videos)
-* [DevOps](#4) (5 Videos)
-* [Enterprise](#5) (9 Videos)
+* [DevOps](#4) (6 Videos)
+* [Enterprise](#5) (10 Videos)
 * [IoT](#6) (5 Videos)
-* [Machine Learning](#7) (11 Videos)
-* [Management Tools](#8) (2 Videos)
+* [Machine Learning](#7) (12 Videos)
+* [Management Tools](#8) (3 Videos)
 * [Mobile](#9) (5 Videos)
 * [Networking](#10) (4 Videos)
 * [Security, Identity & Compliance](#11) (9 Videos)
-* [Serverless](#12) (5 Videos)
+* [Serverless](#12) (6 Videos)
 * [Storage](#13) (8 Videos)
 
 
@@ -102,6 +102,7 @@
 |03/21|<a href="https://www.youtube.com/watch?v=WgcFt9JvL3U" target="_blank">Life of a Code Change to a Tier 1 Service  <i class="fa fa-cc fa-1"></i></a>| 
 |04/26|<a href="https://www.youtube.com/watch?v=YhIBVzSEDpo" target="_blank">Debug your Container and Serverless Applications with AWS X-Ray in 5 Minutes  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=IBeqDaMDjf0" target="_blank">.NET Serverless Development on AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|06/20|<a href="https://www.youtube.com/watch?v=aI_cAR75aRU" target="_blank">Set Up a CI/CD Pipeline for Deploying Containers Using the AWS Developer Tools - Online Tech Talks  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -119,6 +120,7 @@
 |04/26|<a href="https://www.youtube.com/watch?v=0hJdq62SbUw" target="_blank">Deploy your Desktops and Apps on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=5Shl1RYE34E" target="_blank">Hybrid Cloud Customer Use Cases on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |06/19|<a href="https://www.youtube.com/watch?v=547J_kbfhs4" target="_blank">De-risking Enterprise Migration with AWS Managed Services  <i class="fa fa-cc fa-1"></i></a>| 
+|06/20|<a href="https://www.youtube.com/watch?v=RSv9H59AsoI" target="_blank">Launch AWS Faster using Automated Landing Zones  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -151,6 +153,7 @@
 |04/26|<a href="https://www.youtube.com/watch?v=reGMxkZhp-M" target="_blank">Perform Machine Learning at the IoT Edge using AWS Greengrass and Amazon Sagemaker - Tech Talk  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=9fHAXqcUjy8" target="_blank">Introducing AWS DeepLens  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=dada2WzCNPM" target="_blank">Using Apache Spark with Amazon SageMaker  <i class="fa fa-cc fa-1"></i></a>| 
+|06/19|<a href="https://www.youtube.com/watch?v=7_pIUE4wjZI" target="_blank">Integrating Amazon SageMaker into your Enterprise  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -161,6 +164,7 @@
 |-|-|
 |03/19|<a href="https://www.youtube.com/watch?v=4paIhD2VzKA" target="_blank">Achieving Global Consistency Using AWS CloudFormation StackSets  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=e1EajHh7OWc" target="_blank">Gaining Better Observability of Your VMs with Amazon CloudWatch  <i class="fa fa-cc fa-1"></i></a>| 
+|06/20|<a href="https://www.youtube.com/watch?v=S8BddpQCXUM" target="_blank">Optimizing Application Performance and Costs with Auto Scaling  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -216,6 +220,7 @@
 |03/20|<a href="https://www.youtube.com/watch?v=EpxO8wo9tA4" target="_blank">Operating Your Serverless API in Production at Scale  <i class="fa fa-cc fa-1"></i></a>| 
 |04/26|<a href="https://www.youtube.com/watch?v=FSr7ToE_hz8" target="_blank">Tips and Tricks for Building and Deploying Serverless Apps In Minutes  <i class="fa fa-cc fa-1"></i></a>| 
 |05/30|<a href="https://www.youtube.com/watch?v=xkDcBssNd1g" target="_blank">Building API-Driven Microservices with Amazon API Gateway  <i class="fa fa-cc fa-1"></i></a>| 
+|06/20|<a href="https://www.youtube.com/watch?v=1NU7vyJw9LU" target="_blank">Productionize Serverless Application Building and Deployments with AWS SAM  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
