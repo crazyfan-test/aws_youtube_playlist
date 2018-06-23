@@ -3,14 +3,14 @@
 
 ### Tracks
 
-* [Analytics & Big Data](#0) (9 Videos)
+* [Analytics & Big Data](#0) (10 Videos)
 * [Compute](#1) (11 Videos)
 * [Containers](#2) (4 Videos)
 * [Databases](#3) (10 Videos)
 * [DevOps](#4) (6 Videos)
-* [Enterprise](#5) (10 Videos)
+* [Enterprise](#5) (12 Videos)
 * [IoT](#6) (5 Videos)
-* [Machine Learning](#7) (12 Videos)
+* [Machine Learning](#7) (13 Videos)
 * [Management Tools](#8) (3 Videos)
 * [Mobile](#9) (5 Videos)
 * [Networking](#10) (4 Videos)
@@ -40,6 +40,7 @@
 |05/29|<a href="https://www.youtube.com/watch?v=w3Y5QOldqJs" target="_blank">Data Warehousing and Data Lake Analytics, Together  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=YdmcFyjrhYI" target="_blank">Data Transformation Patterns in AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |06/18|<a href="https://www.youtube.com/watch?v=OmNIbjEU5us" target="_blank">Get Started with Real-Time Streaming Data in Under 5 Minutes  <i class="fa fa-cc fa-1"></i></a>| 
+|06/22|<a href="https://www.youtube.com/watch?v=lz52nb_3oiI" target="_blank">Insights For Everyone - Deploying Data across your Organization  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -121,6 +122,8 @@
 |05/29|<a href="https://www.youtube.com/watch?v=5Shl1RYE34E" target="_blank">Hybrid Cloud Customer Use Cases on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |06/19|<a href="https://www.youtube.com/watch?v=547J_kbfhs4" target="_blank">De-risking Enterprise Migration with AWS Managed Services  <i class="fa fa-cc fa-1"></i></a>| 
 |06/20|<a href="https://www.youtube.com/watch?v=RSv9H59AsoI" target="_blank">Launch AWS Faster using Automated Landing Zones  <i class="fa fa-cc fa-1"></i></a>| 
+|06/20|<a href="https://www.youtube.com/watch?v=EY8O2VNN8M4" target="_blank">Leading Your Team Through a Cloud Transformation  <i class="fa fa-cc fa-1"></i></a>| 
+|06/20|<a href="https://www.youtube.com/watch?v=-HX-EI5uhsQ" target="_blank">Enabling New Retail Customer Experiences with Big Data  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -154,6 +157,7 @@
 |05/29|<a href="https://www.youtube.com/watch?v=9fHAXqcUjy8" target="_blank">Introducing AWS DeepLens  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=dada2WzCNPM" target="_blank">Using Apache Spark with Amazon SageMaker  <i class="fa fa-cc fa-1"></i></a>| 
 |06/19|<a href="https://www.youtube.com/watch?v=7_pIUE4wjZI" target="_blank">Integrating Amazon SageMaker into your Enterprise  <i class="fa fa-cc fa-1"></i></a>| 
+|06/20|<a href="https://www.youtube.com/watch?v=T63LDIRbwxw" target="_blank">Building Text Analytics Applications on AWS using Amazon Comprehend  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
