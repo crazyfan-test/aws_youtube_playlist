@@ -4,19 +4,19 @@
 ### Tracks
 
 * [Analytics & Big Data](#0) (10 Videos)
-* [Compute](#1) (11 Videos)
-* [Containers](#2) (4 Videos)
+* [Compute](#1) (13 Videos)
+* [Containers](#2) (5 Videos)
 * [Databases](#3) (10 Videos)
 * [DevOps](#4) (6 Videos)
-* [Enterprise](#5) (12 Videos)
-* [IoT](#6) (5 Videos)
+* [Enterprise](#5) (13 Videos)
+* [IoT](#6) (6 Videos)
 * [Machine Learning](#7) (13 Videos)
 * [Management Tools](#8) (3 Videos)
-* [Mobile](#9) (5 Videos)
+* [Mobile](#9) (6 Videos)
 * [Networking](#10) (4 Videos)
-* [Security, Identity & Compliance](#11) (9 Videos)
+* [Security, Identity & Compliance](#11) (11 Videos)
 * [Serverless](#12) (6 Videos)
-* [Storage](#13) (8 Videos)
+* [Storage](#13) (10 Videos)
 
 
 
@@ -60,6 +60,8 @@
 |05/03|<a href="https://www.youtube.com/watch?v=FyY_Lyc5Ddg" target="_blank">Best Practices for Running Amazon EC2 Spot Instances with Amazon EMR  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=ljJlxccq-xg" target="_blank">Creating and Managing a WordPress Website with Amazon Lightsail  <i class="fa fa-cc fa-1"></i></a>| 
 |05/30|<a href="https://www.youtube.com/watch?v=fscMSO_vQ7o" target="_blank">Accelerating Life Sciences with HPC on AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|06/25|<a href="https://www.youtube.com/watch?v=Pr7HQFZpTx0" target="_blank">Accelerating Containerized Workloads with Amazon EC2 Spot Instances  <i class="fa fa-cc fa-1"></i></a>| 
+|06/26|<a href="https://www.youtube.com/watch?v=fy8jomT8Hzc" target="_blank">Ensuring Your Windows Server Workloads Are Well-Architected  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -72,6 +74,7 @@
 |03/29|<a href="https://www.youtube.com/watch?v=wrZvlJlcZio" target="_blank">Introducing AWS Fargate  <i class="fa fa-cc fa-1"></i></a>| 
 |04/26|<a href="https://www.youtube.com/watch?v=WLD7wqJzKEw" target="_blank">New Features for Building Powerful Containerized Microservices on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=2SxKKDXKrXQ" target="_blank">Building Microservices with the 12 Factor App Pattern on AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|06/25|<a href="https://www.youtube.com/watch?v=77RW-R6GkVk" target="_blank">Moving your Containers to Amazon EKS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -124,6 +127,7 @@
 |06/20|<a href="https://www.youtube.com/watch?v=RSv9H59AsoI" target="_blank">Launch AWS Faster using Automated Landing Zones  <i class="fa fa-cc fa-1"></i></a>| 
 |06/20|<a href="https://www.youtube.com/watch?v=EY8O2VNN8M4" target="_blank">Leading Your Team Through a Cloud Transformation  <i class="fa fa-cc fa-1"></i></a>| 
 |06/20|<a href="https://www.youtube.com/watch?v=-HX-EI5uhsQ" target="_blank">Enabling New Retail Customer Experiences with Big Data  <i class="fa fa-cc fa-1"></i></a>| 
+|06/28|<a href="https://www.youtube.com/watch?v=wdNkERgoSjw" target="_blank">End User Collaboration on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -137,6 +141,7 @@
 |03/24|<a href="https://www.youtube.com/watch?v=so__4NuLV1M" target="_blank">Learn Step by Step How iDevices Uses AWS IoT Analytics  <i class="fa fa-cc fa-1"></i></a>| 
 |05/03|<a href="https://www.youtube.com/watch?v=FADeK-X8DnQ" target="_blank">How to Easily and Securely Connect Devices to AWS IoT  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=X7q8V7lTmKU" target="_blank">Using AWS IoT for Industrial Applications  <i class="fa fa-cc fa-1"></i></a>| 
+|06/27|<a href="https://www.youtube.com/watch?v=tKThetksvVI" target="_blank">AWS IoT in the Connected Home  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -182,6 +187,7 @@
 |03/24|<a href="https://www.youtube.com/watch?v=3NSU2dUEQ24" target="_blank">New Mobile CLI and Console Experience  <i class="fa fa-cc fa-1"></i></a>| 
 |05/03|<a href="https://www.youtube.com/watch?v=MD6GaLT8PnE" target="_blank">Offline GraphQL Apps with AWS AppSync  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=epyxK6iCzZY" target="_blank">Deep Dive on Amazon Pinpoint Segmentation and Endpoint Management  <i class="fa fa-cc fa-1"></i></a>| 
+|06/25|<a href="https://www.youtube.com/watch?v=Bncqqf3bg1M" target="_blank">AI-powered Social Sentiment Marketing with Amazon Pinpoint  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -211,6 +217,8 @@
 |05/03|<a href="https://www.youtube.com/watch?v=f7RB6k7cP6k" target="_blank">Amazon GuardDuty - Let's Attack My Account!  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=1nir_Mdy3bQ" target="_blank">Introducing AWS Firewall Manager  <i class="fa fa-cc fa-1"></i></a>| 
 |05/30|<a href="https://www.youtube.com/watch?v=nDDBcP-iiSs" target="_blank">Introducing AWS Certificate Manager Private Certificate Authority (CA)  <i class="fa fa-cc fa-1"></i></a>| 
+|06/26|<a href="https://www.youtube.com/watch?v=Y3Gn_iP3FlE" target="_blank">Understanding AWS Secrets Manager  <i class="fa fa-cc fa-1"></i></a>| 
+|06/28|<a href="https://www.youtube.com/watch?v=4P_J3OiH42g" target="_blank">Using Amazon Inspector to Discover Potential Security Issues  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -241,6 +249,8 @@
 |05/08|<a href="https://www.youtube.com/watch?v=BlRS-giRSH8" target="_blank">Integrating On-Premises Vendors with AWS for Backup  <i class="fa fa-cc fa-1"></i></a>| 
 |05/30|<a href="https://www.youtube.com/watch?v=wdlTDFOKM4k" target="_blank">Accelerate Productivity by Computing at the Edge  <i class="fa fa-cc fa-1"></i></a>| 
 |06/02|<a href="https://www.youtube.com/watch?v=I9PiE-P6ddw" target="_blank">Learn to Build a Cloud-Scale Website Powered by Amazon EFS  <i class="fa fa-cc fa-1"></i></a>| 
+|06/27|<a href="https://www.youtube.com/watch?v=ZwIHHEpHltU" target="_blank">Deep Dive: Hybrid Cloud Storage with AWS Storage Gateway  <i class="fa fa-cc fa-1"></i></a>| 
+|06/29|<a href="https://www.youtube.com/watch?v=NxlPHlT3Pag" target="_blank">Big Data and Analytics Workloads on Amazon EFS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
