@@ -3,14 +3,14 @@
 
 ### Tracks
 
-* [Analytics & Big Data](#0) (10 Videos)
-* [Compute](#1) (13 Videos)
-* [Containers](#2) (5 Videos)
+* [Compute](#0) (13 Videos)
+* [Containers](#1) (5 Videos)
+* [Data Lakes & Analytics](#2) (11 Videos)
 * [Databases](#3) (10 Videos)
 * [DevOps](#4) (6 Videos)
 * [Enterprise](#5) (13 Videos)
 * [IoT](#6) (6 Videos)
-* [Machine Learning](#7) (13 Videos)
+* [Machine Learning](#7) (14 Videos)
 * [Management Tools](#8) (3 Videos)
 * [Mobile](#9) (6 Videos)
 * [Networking](#10) (4 Videos)
@@ -27,25 +27,7 @@
 ### Sessions
 
 
-### Analytics & Big Data <a name="0"></a>
-
-| Date |       |
-|-|-|
-|01/22|<a href="https://www.youtube.com/watch?v=bwM4pj57mC0" target="_blank">Analyze your Data Lake, Fast @ Any Scale  <i class="fa fa-cc fa-1"></i></a>| 
-|01/25|<a href="https://www.youtube.com/watch?v=EzxRtfSKlUA" target="_blank">Deep Dive - Amazon Kinesis Video Streams  <i class="fa fa-cc fa-1"></i></a>| 
-|02/22|<a href="https://www.youtube.com/watch?v=wwOQvjogc7Q" target="_blank">Social Media Analytics using Amazon QuickSight  <i class="fa fa-cc fa-1"></i></a>| 
-|03/21|<a href="https://www.youtube.com/watch?v=SOTFnRezIH0" target="_blank">Amazon Elasticsearch Service Deep Dive  <i class="fa fa-cc fa-1"></i></a>| 
-|03/29|<a href="https://www.youtube.com/watch?v=Gn7lxQiSZPQ" target="_blank">Deep Dive on Amazon Athena  <i class="fa fa-cc fa-1"></i></a>| 
-|05/21|<a href="https://www.youtube.com/watch?v=E2SeK-tvMTE" target="_blank">Integrating Amazon Elasticsearch with your DevOps Tooling  <i class="fa fa-cc fa-1"></i></a>| 
-|05/29|<a href="https://www.youtube.com/watch?v=w3Y5QOldqJs" target="_blank">Data Warehousing and Data Lake Analytics, Together  <i class="fa fa-cc fa-1"></i></a>| 
-|05/29|<a href="https://www.youtube.com/watch?v=YdmcFyjrhYI" target="_blank">Data Transformation Patterns in AWS  <i class="fa fa-cc fa-1"></i></a>| 
-|06/18|<a href="https://www.youtube.com/watch?v=OmNIbjEU5us" target="_blank">Get Started with Real-Time Streaming Data in Under 5 Minutes  <i class="fa fa-cc fa-1"></i></a>| 
-|06/22|<a href="https://www.youtube.com/watch?v=lz52nb_3oiI" target="_blank">Insights For Everyone - Deploying Data across your Organization  <i class="fa fa-cc fa-1"></i></a>| 
-
-
-
-
-### Compute <a name="1"></a>
+### Compute <a name="0"></a>
 
 | Date |       |
 |-|-|
@@ -66,7 +48,7 @@
 
 
 
-### Containers <a name="2"></a>
+### Containers <a name="1"></a>
 
 | Date |       |
 |-|-|
@@ -75,6 +57,25 @@
 |04/26|<a href="https://www.youtube.com/watch?v=WLD7wqJzKEw" target="_blank">New Features for Building Powerful Containerized Microservices on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=2SxKKDXKrXQ" target="_blank">Building Microservices with the 12 Factor App Pattern on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |06/25|<a href="https://www.youtube.com/watch?v=77RW-R6GkVk" target="_blank">Moving your Containers to Amazon EKS  <i class="fa fa-cc fa-1"></i></a>| 
+
+
+
+
+### Data Lakes & Analytics <a name="2"></a>
+
+| Date |       |
+|-|-|
+|01/22|<a href="https://www.youtube.com/watch?v=bwM4pj57mC0" target="_blank">Analyze your Data Lake, Fast @ Any Scale  <i class="fa fa-cc fa-1"></i></a>| 
+|01/25|<a href="https://www.youtube.com/watch?v=EzxRtfSKlUA" target="_blank">Deep Dive - Amazon Kinesis Video Streams  <i class="fa fa-cc fa-1"></i></a>| 
+|02/22|<a href="https://www.youtube.com/watch?v=wwOQvjogc7Q" target="_blank">Social Media Analytics using Amazon QuickSight  <i class="fa fa-cc fa-1"></i></a>| 
+|03/21|<a href="https://www.youtube.com/watch?v=SOTFnRezIH0" target="_blank">Amazon Elasticsearch Service Deep Dive  <i class="fa fa-cc fa-1"></i></a>| 
+|03/29|<a href="https://www.youtube.com/watch?v=Gn7lxQiSZPQ" target="_blank">Deep Dive on Amazon Athena  <i class="fa fa-cc fa-1"></i></a>| 
+|05/21|<a href="https://www.youtube.com/watch?v=E2SeK-tvMTE" target="_blank">Integrating Amazon Elasticsearch with your DevOps Tooling  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=w3Y5QOldqJs" target="_blank">Data Warehousing and Data Lake Analytics, Together  <i class="fa fa-cc fa-1"></i></a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=YdmcFyjrhYI" target="_blank">Data Transformation Patterns in AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|06/18|<a href="https://www.youtube.com/watch?v=OmNIbjEU5us" target="_blank">Get Started with Real-Time Streaming Data in Under 5 Minutes  <i class="fa fa-cc fa-1"></i></a>| 
+|06/22|<a href="https://www.youtube.com/watch?v=lz52nb_3oiI" target="_blank">Insights For Everyone - Deploying Data across your Organization  <i class="fa fa-cc fa-1"></i></a>| 
+|07/23|<a href="https://www.youtube.com/watch?v=2m_RS3oneI8" target="_blank">Large Scale Machine Learning with Spark on EMR  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -163,6 +164,7 @@
 |05/29|<a href="https://www.youtube.com/watch?v=dada2WzCNPM" target="_blank">Using Apache Spark with Amazon SageMaker  <i class="fa fa-cc fa-1"></i></a>| 
 |06/19|<a href="https://www.youtube.com/watch?v=7_pIUE4wjZI" target="_blank">Integrating Amazon SageMaker into your Enterprise  <i class="fa fa-cc fa-1"></i></a>| 
 |06/20|<a href="https://www.youtube.com/watch?v=T63LDIRbwxw" target="_blank">Building Text Analytics Applications on AWS using Amazon Comprehend  <i class="fa fa-cc fa-1"></i></a>| 
+|07/23|<a href="https://www.youtube.com/watch?v=sJPsONqlcUE" target="_blank">Leveraging ML Services to Enhance Content Discovery and Recommendations  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -172,8 +174,8 @@
 | Date |       |
 |-|-|
 |03/19|<a href="https://www.youtube.com/watch?v=4paIhD2VzKA" target="_blank">Achieving Global Consistency Using AWS CloudFormation StackSets  <i class="fa fa-cc fa-1"></i></a>| 
-|05/29|<a href="https://www.youtube.com/watch?v=e1EajHh7OWc" target="_blank">Gaining Better Observability of Your VMs with Amazon CloudWatch  <i class="fa fa-cc fa-1"></i></a>| 
 |06/20|<a href="https://www.youtube.com/watch?v=S8BddpQCXUM" target="_blank">Optimizing Application Performance and Costs with Auto Scaling  <i class="fa fa-cc fa-1"></i></a>| 
+|07/17|<a href="https://www.youtube.com/watch?v=1Ck_me4azMw" target="_blank">Gaining Better Observability of Your VMs with Amazon CloudWatch  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
