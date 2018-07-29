@@ -4,18 +4,18 @@
 ### Tracks
 
 * [Compute](#0) (13 Videos)
-* [Containers](#1) (5 Videos)
-* [Data Lakes & Analytics](#2) (11 Videos)
-* [Databases](#3) (10 Videos)
-* [DevOps](#4) (6 Videos)
+* [Containers](#1) (6 Videos)
+* [Data Lakes & Analytics](#2) (13 Videos)
+* [Databases](#3) (12 Videos)
+* [DevOps](#4) (7 Videos)
 * [Enterprise](#5) (13 Videos)
 * [IoT](#6) (6 Videos)
-* [Machine Learning](#7) (14 Videos)
+* [Machine Learning](#7) (16 Videos)
 * [Management Tools](#8) (3 Videos)
 * [Mobile](#9) (6 Videos)
 * [Networking](#10) (4 Videos)
 * [Security, Identity & Compliance](#11) (11 Videos)
-* [Serverless](#12) (6 Videos)
+* [Serverless](#12) (7 Videos)
 * [Storage](#13) (10 Videos)
 
 
@@ -57,6 +57,7 @@
 |04/26|<a href="https://www.youtube.com/watch?v=WLD7wqJzKEw" target="_blank">New Features for Building Powerful Containerized Microservices on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=2SxKKDXKrXQ" target="_blank">Building Microservices with the 12 Factor App Pattern on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |06/25|<a href="https://www.youtube.com/watch?v=77RW-R6GkVk" target="_blank">Moving your Containers to Amazon EKS  <i class="fa fa-cc fa-1"></i></a>| 
+|07/25|<a href="https://www.youtube.com/watch?v=x7lQGc-x7II" target="_blank">How Harry's Shaved Off Their Operational Overhead by Moving to AWS Fargate  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -76,6 +77,8 @@
 |06/18|<a href="https://www.youtube.com/watch?v=OmNIbjEU5us" target="_blank">Get Started with Real-Time Streaming Data in Under 5 Minutes  <i class="fa fa-cc fa-1"></i></a>| 
 |06/22|<a href="https://www.youtube.com/watch?v=lz52nb_3oiI" target="_blank">Insights For Everyone - Deploying Data across your Organization  <i class="fa fa-cc fa-1"></i></a>| 
 |07/23|<a href="https://www.youtube.com/watch?v=2m_RS3oneI8" target="_blank">Large Scale Machine Learning with Spark on EMR  <i class="fa fa-cc fa-1"></i></a>| 
+|07/26|<a href="https://www.youtube.com/watch?v=WaOrQtxLXfs" target="_blank">Introduction to Amazon QuickSight: Business Analytics for Everyone  <i class="fa fa-cc fa-1"></i></a>| 
+|07/26|<a href="https://www.youtube.com/watch?v=_OFvpVW6eDI" target="_blank">Multi-Tenant Analytics on Amazon EMR  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -94,6 +97,8 @@
 |05/21|<a href="https://www.youtube.com/watch?v=3uuibqK8IJs" target="_blank">How to Migrate from Cassandra to Amazon DynamoDB  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=XT4iSTZJgCQ" target="_blank">10 Hacks for Optimizing MySQL in the Cloud  <i class="fa fa-cc fa-1"></i></a>| 
 |06/18|<a href="https://www.youtube.com/watch?v=n5K_FfrFjLo" target="_blank">Oracle to Amazon Aurora Migration, Step by Step  <i class="fa fa-cc fa-1"></i></a>| 
+|07/25|<a href="https://www.youtube.com/watch?v=clnz4oVaGlY" target="_blank">Purpose-Built Databases: Choose the Right Tool for Each Job  <i class="fa fa-cc fa-1"></i></a>| 
+|07/25|<a href="https://www.youtube.com/watch?v=pm_LkmNqO5w" target="_blank">Migrating IBM Db2 Databases to AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -108,6 +113,7 @@
 |04/26|<a href="https://www.youtube.com/watch?v=YhIBVzSEDpo" target="_blank">Debug your Container and Serverless Applications with AWS X-Ray in 5 Minutes  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=IBeqDaMDjf0" target="_blank">.NET Serverless Development on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |06/20|<a href="https://www.youtube.com/watch?v=aI_cAR75aRU" target="_blank">Set Up a CI/CD Pipeline for Deploying Containers Using the AWS Developer Tools - Online Tech Talks  <i class="fa fa-cc fa-1"></i></a>| 
+|07/24|<a href="https://www.youtube.com/watch?v=YDOrsVJiDxA" target="_blank">Optimize Your Jenkins Build Farm  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -165,6 +171,8 @@
 |06/19|<a href="https://www.youtube.com/watch?v=7_pIUE4wjZI" target="_blank">Integrating Amazon SageMaker into your Enterprise  <i class="fa fa-cc fa-1"></i></a>| 
 |06/20|<a href="https://www.youtube.com/watch?v=T63LDIRbwxw" target="_blank">Building Text Analytics Applications on AWS using Amazon Comprehend  <i class="fa fa-cc fa-1"></i></a>| 
 |07/23|<a href="https://www.youtube.com/watch?v=sJPsONqlcUE" target="_blank">Leveraging ML Services to Enhance Content Discovery and Recommendations  <i class="fa fa-cc fa-1"></i></a>| 
+|07/24|<a href="https://www.youtube.com/watch?v=ynYnZywayC4" target="_blank">Hyperparameter Tuning with Amazon SageMaker's Automatic Model Tuning  <i class="fa fa-cc fa-1"></i></a>| 
+|07/25|<a href="https://www.youtube.com/watch?v=qCwH94INUFM" target="_blank">Build Intelligent Applications with Machine Learning on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -235,6 +243,7 @@
 |04/26|<a href="https://www.youtube.com/watch?v=FSr7ToE_hz8" target="_blank">Tips and Tricks for Building and Deploying Serverless Apps In Minutes  <i class="fa fa-cc fa-1"></i></a>| 
 |05/30|<a href="https://www.youtube.com/watch?v=xkDcBssNd1g" target="_blank">Building API-Driven Microservices with Amazon API Gateway  <i class="fa fa-cc fa-1"></i></a>| 
 |06/20|<a href="https://www.youtube.com/watch?v=1NU7vyJw9LU" target="_blank">Productionize Serverless Application Building and Deployments with AWS SAM  <i class="fa fa-cc fa-1"></i></a>| 
+|07/25|<a href="https://www.youtube.com/watch?v=IrRMEclU8kU" target="_blank">Getting Started with Serverless Computing Using AWS Lambda  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
