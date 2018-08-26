@@ -4,8 +4,8 @@
 ### Tracks
 
 * [Compute](#0) (15 Videos)
-* [Containers](#1) (6 Videos)
-* [Data Lakes & Analytics](#2) (14 Videos)
+* [Containers](#1) (7 Videos)
+* [Data Lakes & Analytics](#2) (15 Videos)
 * [Databases](#3) (14 Videos)
 * [DevOps](#4) (8 Videos)
 * [Enterprise](#5) (15 Videos)
@@ -60,6 +60,7 @@
 |05/29|<a href="https://www.youtube.com/watch?v=2SxKKDXKrXQ" target="_blank">Building Microservices with the 12 Factor App Pattern on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |06/25|<a href="https://www.youtube.com/watch?v=77RW-R6GkVk" target="_blank">Moving your Containers to Amazon EKS  <i class="fa fa-cc fa-1"></i></a>| 
 |07/25|<a href="https://www.youtube.com/watch?v=x7lQGc-x7II" target="_blank">How Harry's Shaved Off Their Operational Overhead by Moving to AWS Fargate  <i class="fa fa-cc fa-1"></i></a>| 
+|08/23|<a href="https://www.youtube.com/watch?v=TZRpWhFAXX0" target="_blank">Distributed Tracing for Kubernetes Applications on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -82,6 +83,7 @@
 |07/26|<a href="https://www.youtube.com/watch?v=WaOrQtxLXfs" target="_blank">Introduction to Amazon QuickSight: Business Analytics for Everyone  <i class="fa fa-cc fa-1"></i></a>| 
 |07/26|<a href="https://www.youtube.com/watch?v=_OFvpVW6eDI" target="_blank">Multi-Tenant Analytics on Amazon EMR  <i class="fa fa-cc fa-1"></i></a>| 
 |08/22|<a href="https://www.youtube.com/watch?v=Hur-p3kGDTA" target="_blank">Deep Dive on Amazon Redshift  <i class="fa fa-cc fa-1"></i></a>| 
+|08/24|<a href="https://www.youtube.com/watch?v=b7V7URHnoM0" target="_blank">Deep Dive on Amazon Athena  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
