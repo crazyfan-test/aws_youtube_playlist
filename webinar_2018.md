@@ -3,20 +3,20 @@
 
 ### Tracks
 
-* [Compute](#0) (15 Videos)
+* [Compute](#0) (16 Videos)
 * [Containers](#1) (7 Videos)
-* [Data Lakes & Analytics](#2) (15 Videos)
+* [Data Lakes & Analytics](#2) (16 Videos)
 * [Databases](#3) (14 Videos)
 * [DevOps](#4) (8 Videos)
-* [Enterprise](#5) (15 Videos)
-* [IoT](#6) (7 Videos)
+* [Enterprise](#5) (17 Videos)
+* [IoT](#6) (8 Videos)
 * [Machine Learning](#7) (18 Videos)
 * [Management Tools](#8) (3 Videos)
-* [Mobile](#9) (6 Videos)
+* [Mobile](#9) (7 Videos)
 * [Networking](#10) (4 Videos)
-* [Security, Identity & Compliance](#11) (12 Videos)
+* [Security, Identity & Compliance](#11) (13 Videos)
 * [Serverless](#12) (8 Videos)
-* [Storage](#13) (11 Videos)
+* [Storage](#13) (15 Videos)
 
 
 
@@ -46,6 +46,7 @@
 |06/26|<a href="https://www.youtube.com/watch?v=fy8jomT8Hzc" target="_blank">Ensuring Your Windows Server Workloads Are Well-Architected  <i class="fa fa-cc fa-1"></i></a>| 
 |07/31|<a href="https://www.youtube.com/watch?v=HeTuYfoXWik" target="_blank">Accelerate Machine Learning Workloads Using Amazon EC2 P3 Instances  <i class="fa fa-cc fa-1"></i></a>| 
 |07/31|<a href="https://www.youtube.com/watch?v=QX3PDkOqXLE" target="_blank">Technical Deep Dive on Amazon EC2 Fleet  <i class="fa fa-cc fa-1"></i></a>| 
+|08/30|<a href="https://www.youtube.com/watch?v=pamsb-g6m94" target="_blank">High Performance Computing on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -84,6 +85,7 @@
 |07/26|<a href="https://www.youtube.com/watch?v=_OFvpVW6eDI" target="_blank">Multi-Tenant Analytics on Amazon EMR  <i class="fa fa-cc fa-1"></i></a>| 
 |08/22|<a href="https://www.youtube.com/watch?v=Hur-p3kGDTA" target="_blank">Deep Dive on Amazon Redshift  <i class="fa fa-cc fa-1"></i></a>| 
 |08/24|<a href="https://www.youtube.com/watch?v=b7V7URHnoM0" target="_blank">Deep Dive on Amazon Athena  <i class="fa fa-cc fa-1"></i></a>| 
+|09/04|<a href="https://www.youtube.com/watch?v=NdEDRGLmnW4" target="_blank">Office Hours: Amazon Aurora - Opening up the Hood on AWS' Fastest Growing Service - Tech Talks  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -145,6 +147,8 @@
 |06/28|<a href="https://www.youtube.com/watch?v=wdNkERgoSjw" target="_blank">End User Collaboration on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |07/31|<a href="https://www.youtube.com/watch?v=9ygiKS3b5pw" target="_blank">Use Amazon Linux WorkSpaces to Build and Deploy Code Faster  <i class="fa fa-cc fa-1"></i></a>| 
 |08/01|<a href="https://www.youtube.com/watch?v=6SmocpAsL94" target="_blank">Enterprise DevOps: Applying ITIL to Rapid Innovation  <i class="fa fa-cc fa-1"></i></a>| 
+|08/27|<a href="https://www.youtube.com/watch?v=3zJgOkiseI8" target="_blank">Migrating Microsoft Workloads Like an Expert  <i class="fa fa-cc fa-1"></i></a>| 
+|08/28|<a href="https://www.youtube.com/watch?v=7Rn2M06Zj0Q" target="_blank">Empower Your Organization with Alexa for Business  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -160,6 +164,7 @@
 |05/29|<a href="https://www.youtube.com/watch?v=X7q8V7lTmKU" target="_blank">Using AWS IoT for Industrial Applications  <i class="fa fa-cc fa-1"></i></a>| 
 |06/27|<a href="https://www.youtube.com/watch?v=tKThetksvVI" target="_blank">AWS IoT in the Connected Home  <i class="fa fa-cc fa-1"></i></a>| 
 |07/30|<a href="https://www.youtube.com/watch?v=3EfSx8_nyzc" target="_blank">Using AWS IoT & Alexa Skills Kit to Voice-Control Connected Home Devices  <i class="fa fa-cc fa-1"></i></a>| 
+|08/27|<a href="https://www.youtube.com/watch?v=bBJ2ISaGIyQ" target="_blank">Using Predictive Analytics in Industrial IoT Applications  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -211,6 +216,7 @@
 |05/03|<a href="https://www.youtube.com/watch?v=MD6GaLT8PnE" target="_blank">Offline GraphQL Apps with AWS AppSync  <i class="fa fa-cc fa-1"></i></a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=epyxK6iCzZY" target="_blank">Deep Dive on Amazon Pinpoint Segmentation and Endpoint Management  <i class="fa fa-cc fa-1"></i></a>| 
 |06/25|<a href="https://www.youtube.com/watch?v=Bncqqf3bg1M" target="_blank">AI-powered Social Sentiment Marketing with Amazon Pinpoint  <i class="fa fa-cc fa-1"></i></a>| 
+|08/29|<a href="https://www.youtube.com/watch?v=uiTQL7Ne8rY" target="_blank">Building Serverless Web Applications with AWS Amplify  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -243,6 +249,7 @@
 |06/26|<a href="https://www.youtube.com/watch?v=Y3Gn_iP3FlE" target="_blank">Understanding AWS Secrets Manager  <i class="fa fa-cc fa-1"></i></a>| 
 |06/28|<a href="https://www.youtube.com/watch?v=4P_J3OiH42g" target="_blank">Using Amazon Inspector to Discover Potential Security Issues  <i class="fa fa-cc fa-1"></i></a>| 
 |07/30|<a href="https://www.youtube.com/watch?v=jysDM2L1IN4" target="_blank">Get Started with Well-Architected Security Best Practices  <i class="fa fa-cc fa-1"></i></a>| 
+|08/27|<a href="https://www.youtube.com/watch?v=eLQIVLTALDk" target="_blank">Automate Threat Mitigation Using AWS WAF and Amazon GuardDuty  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -278,6 +285,10 @@
 |06/27|<a href="https://www.youtube.com/watch?v=ZwIHHEpHltU" target="_blank">Deep Dive: Hybrid Cloud Storage with AWS Storage Gateway  <i class="fa fa-cc fa-1"></i></a>| 
 |06/29|<a href="https://www.youtube.com/watch?v=NxlPHlT3Pag" target="_blank">Big Data and Analytics Workloads on Amazon EFS  <i class="fa fa-cc fa-1"></i></a>| 
 |07/30|<a href="https://www.youtube.com/watch?v=x4YQ-kWc2tI" target="_blank">Best Practices for Security in Amazon S3  <i class="fa fa-cc fa-1"></i></a>| 
+|08/27|<a href="https://www.youtube.com/watch?v=_PaDb0obstM" target="_blank">Hybrid Cloud Storage with AWS Storage Gateway & Amazon S3  <i class="fa fa-cc fa-1"></i></a>| 
+|08/27|<a href="https://www.youtube.com/watch?v=88Kk80zUHIE" target="_blank">Data Protection Best Practices with EBS Snapshots  <i class="fa fa-cc fa-1"></i></a>| 
+|08/28|<a href="https://www.youtube.com/watch?v=1HYaET7QrMw" target="_blank">AWS Office Hours: Backing up to AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|08/31|<a href="https://www.youtube.com/watch?v=zyDDIyaCN6g" target="_blank">Data Transfer Services: AWS Snow Family Briefing  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
