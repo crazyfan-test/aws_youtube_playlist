@@ -4,18 +4,18 @@
 ### Tracks
 
 * [Compute](#0) (16 Videos)
-* [Containers](#1) (7 Videos)
-* [Data Lakes & Analytics](#2) (16 Videos)
-* [Databases](#3) (14 Videos)
-* [DevOps](#4) (8 Videos)
+* [Containers](#1) (8 Videos)
+* [Data Lakes & Analytics](#2) (18 Videos)
+* [Databases](#3) (17 Videos)
+* [DevOps](#4) (9 Videos)
 * [Enterprise](#5) (17 Videos)
 * [IoT](#6) (8 Videos)
-* [Machine Learning](#7) (18 Videos)
-* [Management Tools](#8) (3 Videos)
+* [Machine Learning](#7) (21 Videos)
+* [Management Tools](#8) (4 Videos)
 * [Mobile](#9) (7 Videos)
 * [Networking](#10) (4 Videos)
 * [Security, Identity & Compliance](#11) (13 Videos)
-* [Serverless](#12) (8 Videos)
+* [Serverless](#12) (9 Videos)
 * [Storage](#13) (15 Videos)
 
 
@@ -62,6 +62,7 @@
 |06/25|<a href="https://www.youtube.com/watch?v=77RW-R6GkVk" target="_blank">Moving your Containers to Amazon EKS  <i class="fa fa-cc fa-1"></i></a>| 
 |07/25|<a href="https://www.youtube.com/watch?v=x7lQGc-x7II" target="_blank">How Harry's Shaved Off Their Operational Overhead by Moving to AWS Fargate  <i class="fa fa-cc fa-1"></i></a>| 
 |08/23|<a href="https://www.youtube.com/watch?v=TZRpWhFAXX0" target="_blank">Distributed Tracing for Kubernetes Applications on AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|09/20|<a href="https://www.youtube.com/watch?v=CarajwQKKFs" target="_blank">How Talroo Used AWS Fargate to Improve their Application Scaling  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -86,6 +87,8 @@
 |08/22|<a href="https://www.youtube.com/watch?v=Hur-p3kGDTA" target="_blank">Deep Dive on Amazon Redshift  <i class="fa fa-cc fa-1"></i></a>| 
 |08/24|<a href="https://www.youtube.com/watch?v=b7V7URHnoM0" target="_blank">Deep Dive on Amazon Athena  <i class="fa fa-cc fa-1"></i></a>| 
 |09/04|<a href="https://www.youtube.com/watch?v=NdEDRGLmnW4" target="_blank">Office Hours: Amazon Aurora - Opening up the Hood on AWS' Fastest Growing Service - Tech Talks  <i class="fa fa-cc fa-1"></i></a>| 
+|09/17|<a href="https://www.youtube.com/watch?v=iunkVDfZZXQ" target="_blank">Secure Your Amazon Elasticsearch Service Domain  <i class="fa fa-cc fa-1"></i></a>| 
+|09/20|<a href="https://www.youtube.com/watch?v=FwFlFVBUSkU" target="_blank">New Innovations from Amazon Kinesis for Real-Time Analytics  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -108,6 +111,9 @@
 |07/25|<a href="https://www.youtube.com/watch?v=pm_LkmNqO5w" target="_blank">Migrating IBM Db2 Databases to AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |08/20|<a href="https://www.youtube.com/watch?v=bi0blhC8igg" target="_blank">Optimizing PostgreSQL on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |08/21|<a href="https://www.youtube.com/watch?v=20xXnoQA2j4" target="_blank">Accelerate Database Development and Testing on AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|09/17|<a href="https://www.youtube.com/watch?v=NIay_iY-hjs" target="_blank">Applied Live Migration to DynamoDB from Cassandra  <i class="fa fa-cc fa-1"></i></a>| 
+|09/18|<a href="https://www.youtube.com/watch?v=3Ovx5vJ17ws" target="_blank">Scaling Your Redis Workloads with Redis Cluster  <i class="fa fa-cc fa-1"></i></a>| 
+|09/20|<a href="https://www.youtube.com/watch?v=ViCzuCihPWI" target="_blank">Fireside Chat: Relational Database Innovation at AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -124,6 +130,7 @@
 |06/20|<a href="https://www.youtube.com/watch?v=aI_cAR75aRU" target="_blank">Set Up a CI/CD Pipeline for Deploying Containers Using the AWS Developer Tools - Online Tech Talks  <i class="fa fa-cc fa-1"></i></a>| 
 |07/24|<a href="https://www.youtube.com/watch?v=YDOrsVJiDxA" target="_blank">Optimize Your Jenkins Build Farm  <i class="fa fa-cc fa-1"></i></a>| 
 |08/22|<a href="https://www.youtube.com/watch?v=3HKbXz0RwSg" target="_blank">Amazon CI/CD Practices for Software Development Teams  <i class="fa fa-cc fa-1"></i></a>| 
+|09/19|<a href="https://www.youtube.com/watch?v=w6tGKBGamqE" target="_blank">Serverless Application Debugging and Delivery  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -191,6 +198,9 @@
 |07/25|<a href="https://www.youtube.com/watch?v=qCwH94INUFM" target="_blank">Build Intelligent Applications with Machine Learning on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |08/20|<a href="https://www.youtube.com/watch?v=HS7U6IugXmE" target="_blank">Machine Learning Models with TensorFlow Using Amazon SageMaker  <i class="fa fa-cc fa-1"></i></a>| 
 |08/21|<a href="https://www.youtube.com/watch?v=L02mW3EBSbU" target="_blank">Automate for Efficiency with AI Language Services  <i class="fa fa-cc fa-1"></i></a>| 
+|09/17|<a href="https://www.youtube.com/watch?v=JS3xm2BP0SA" target="_blank">Build Intelligent Applications with Machine Learning on AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|09/18|<a href="https://www.youtube.com/watch?v=v2ZF3IYNTzQ" target="_blank">How to Integrate Natural Language Processing and Elasticsearch for Better Analytics - Tech Talks  <i class="fa fa-cc fa-1"></i></a>| 
+|09/20|<a href="https://www.youtube.com/watch?v=R0vC31OXt-g" target="_blank">Build, Train and Deploy Machine Learning Models on AWS with Amazon SageMaker  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -202,6 +212,7 @@
 |03/19|<a href="https://www.youtube.com/watch?v=4paIhD2VzKA" target="_blank">Achieving Global Consistency Using AWS CloudFormation StackSets  <i class="fa fa-cc fa-1"></i></a>| 
 |06/20|<a href="https://www.youtube.com/watch?v=S8BddpQCXUM" target="_blank">Optimizing Application Performance and Costs with Auto Scaling  <i class="fa fa-cc fa-1"></i></a>| 
 |07/17|<a href="https://www.youtube.com/watch?v=1Ck_me4azMw" target="_blank">Gaining Better Observability of Your VMs with Amazon CloudWatch  <i class="fa fa-cc fa-1"></i></a>| 
+|09/20|<a href="https://www.youtube.com/watch?v=qd49Ahonhq4" target="_blank">Automated Windows and Linux Patching  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -266,6 +277,7 @@
 |06/20|<a href="https://www.youtube.com/watch?v=1NU7vyJw9LU" target="_blank">Productionize Serverless Application Building and Deployments with AWS SAM  <i class="fa fa-cc fa-1"></i></a>| 
 |07/25|<a href="https://www.youtube.com/watch?v=IrRMEclU8kU" target="_blank">Getting Started with Serverless Computing Using AWS Lambda  <i class="fa fa-cc fa-1"></i></a>| 
 |08/21|<a href="https://www.youtube.com/watch?v=jL_Sje01A5M" target="_blank">Serverless Streams, Topics, Queues, & APIs! Pick the Right Serverless Application Pattern  <i class="fa fa-cc fa-1"></i></a>| 
+|09/18|<a href="https://www.youtube.com/watch?v=9ElpSPXk-g8" target="_blank">Best Practices for Building Enterprise Grade APIs with Amazon API Gateway  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
