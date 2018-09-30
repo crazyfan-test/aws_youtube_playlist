@@ -3,20 +3,20 @@
 
 ### Tracks
 
-* [Compute](#0) (16 Videos)
+* [Compute](#0) (19 Videos)
 * [Containers](#1) (8 Videos)
 * [Data Lakes & Analytics](#2) (18 Videos)
 * [Databases](#3) (17 Videos)
 * [DevOps](#4) (9 Videos)
-* [Enterprise](#5) (17 Videos)
-* [IoT](#6) (8 Videos)
+* [Enterprise](#5) (19 Videos)
+* [IoT](#6) (10 Videos)
 * [Machine Learning](#7) (21 Videos)
 * [Management Tools](#8) (4 Videos)
 * [Mobile](#9) (7 Videos)
 * [Networking](#10) (4 Videos)
-* [Security, Identity & Compliance](#11) (13 Videos)
+* [Security, Identity & Compliance](#11) (15 Videos)
 * [Serverless](#12) (9 Videos)
-* [Storage](#13) (15 Videos)
+* [Storage](#13) (18 Videos)
 
 
 
@@ -47,6 +47,9 @@
 |07/31|<a href="https://www.youtube.com/watch?v=HeTuYfoXWik" target="_blank">Accelerate Machine Learning Workloads Using Amazon EC2 P3 Instances  <i class="fa fa-cc fa-1"></i></a>| 
 |07/31|<a href="https://www.youtube.com/watch?v=QX3PDkOqXLE" target="_blank">Technical Deep Dive on Amazon EC2 Fleet  <i class="fa fa-cc fa-1"></i></a>| 
 |08/30|<a href="https://www.youtube.com/watch?v=pamsb-g6m94" target="_blank">High Performance Computing on AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|09/24|<a href="https://www.youtube.com/watch?v=ja_xYQU8hVg" target="_blank">Accelerating Product Development with HPC on AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|09/26|<a href="https://www.youtube.com/watch?v=EmW0C6QPujE" target="_blank">Introducing New Amazon EC2 T3 Instances  <i class="fa fa-cc fa-1"></i></a>| 
+|09/27|<a href="https://www.youtube.com/watch?v=wEDbGYnsqAg" target="_blank">Hybrid Cloud Customer Use Cases on AWS: Part 2  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -156,6 +159,8 @@
 |08/01|<a href="https://www.youtube.com/watch?v=6SmocpAsL94" target="_blank">Enterprise DevOps: Applying ITIL to Rapid Innovation  <i class="fa fa-cc fa-1"></i></a>| 
 |08/27|<a href="https://www.youtube.com/watch?v=3zJgOkiseI8" target="_blank">Migrating Microsoft Workloads Like an Expert  <i class="fa fa-cc fa-1"></i></a>| 
 |08/28|<a href="https://www.youtube.com/watch?v=7Rn2M06Zj0Q" target="_blank">Empower Your Organization with Alexa for Business  <i class="fa fa-cc fa-1"></i></a>| 
+|09/26|<a href="https://www.youtube.com/watch?v=F9BEVNXuavo" target="_blank">Transforming Product Development with the Cloud  <i class="fa fa-cc fa-1"></i></a>| 
+|09/27|<a href="https://www.youtube.com/watch?v=Xl5GhSO3CHo" target="_blank">Fueling High Performance Computing (HPC) on AWS with GPUs  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -172,6 +177,8 @@
 |06/27|<a href="https://www.youtube.com/watch?v=tKThetksvVI" target="_blank">AWS IoT in the Connected Home  <i class="fa fa-cc fa-1"></i></a>| 
 |07/30|<a href="https://www.youtube.com/watch?v=3EfSx8_nyzc" target="_blank">Using AWS IoT & Alexa Skills Kit to Voice-Control Connected Home Devices  <i class="fa fa-cc fa-1"></i></a>| 
 |08/27|<a href="https://www.youtube.com/watch?v=bBJ2ISaGIyQ" target="_blank">Using Predictive Analytics in Industrial IoT Applications  <i class="fa fa-cc fa-1"></i></a>| 
+|09/24|<a href="https://www.youtube.com/watch?v=ER-6eR_gDVY" target="_blank">Manage Security of Your IoT Devices with AWS IoT Device Defender  <i class="fa fa-cc fa-1"></i></a>| 
+|09/26|<a href="https://www.youtube.com/watch?v=EInKJ8q1aPo" target="_blank">Over-the-Air Updates with Amazon FreeRTOS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -261,6 +268,8 @@
 |06/28|<a href="https://www.youtube.com/watch?v=4P_J3OiH42g" target="_blank">Using Amazon Inspector to Discover Potential Security Issues  <i class="fa fa-cc fa-1"></i></a>| 
 |07/30|<a href="https://www.youtube.com/watch?v=jysDM2L1IN4" target="_blank">Get Started with Well-Architected Security Best Practices  <i class="fa fa-cc fa-1"></i></a>| 
 |08/27|<a href="https://www.youtube.com/watch?v=eLQIVLTALDk" target="_blank">Automate Threat Mitigation Using AWS WAF and Amazon GuardDuty  <i class="fa fa-cc fa-1"></i></a>| 
+|09/24|<a href="https://www.youtube.com/watch?v=Zrnro4ohXdA" target="_blank">Enhanced Security Analytics Using AWS WAF Full Logging  <i class="fa fa-cc fa-1"></i></a>| 
+|09/27|<a href="https://www.youtube.com/watch?v=LChSrke5U2o" target="_blank">Threat Response Scenarios Using Amazon GuardDuty  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -301,6 +310,9 @@
 |08/27|<a href="https://www.youtube.com/watch?v=88Kk80zUHIE" target="_blank">Data Protection Best Practices with EBS Snapshots  <i class="fa fa-cc fa-1"></i></a>| 
 |08/28|<a href="https://www.youtube.com/watch?v=1HYaET7QrMw" target="_blank">AWS Office Hours: Backing up to AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |08/31|<a href="https://www.youtube.com/watch?v=zyDDIyaCN6g" target="_blank">Data Transfer Services: AWS Snow Family Briefing  <i class="fa fa-cc fa-1"></i></a>| 
+|09/25|<a href="https://www.youtube.com/watch?v=Cx3zZhOFbI0" target="_blank">Integrating File Services to Power Your Media & Entertainment Workloads  <i class="fa fa-cc fa-1"></i></a>| 
+|09/26|<a href="https://www.youtube.com/watch?v=usx682u-45U" target="_blank">Ditch Your NAS! Move to Amazon EFS  <i class="fa fa-cc fa-1"></i></a>| 
+|09/26|<a href="https://www.youtube.com/watch?v=LWiAwIa2H7c" target="_blank">Deep Dive on Amazon Elastic File System (EFS)  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
