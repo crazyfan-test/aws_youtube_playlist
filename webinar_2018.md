@@ -3,20 +3,21 @@
 
 ### Tracks
 
-* [Compute](#0) (19 Videos)
-* [Containers](#1) (8 Videos)
-* [Data Lakes & Analytics](#2) (18 Videos)
-* [Databases](#3) (17 Videos)
-* [DevOps](#4) (9 Videos)
-* [Enterprise](#5) (19 Videos)
-* [IoT](#6) (10 Videos)
-* [Machine Learning](#7) (21 Videos)
-* [Management Tools](#8) (4 Videos)
-* [Mobile](#9) (7 Videos)
-* [Networking](#10) (4 Videos)
-* [Security, Identity & Compliance](#11) (15 Videos)
-* [Serverless](#12) (9 Videos)
-* [Storage](#13) (18 Videos)
+* [AR/VR](#0) (1 Videos)
+* [Compute](#1) (19 Videos)
+* [Containers](#2) (8 Videos)
+* [Data Lakes & Analytics](#3) (20 Videos)
+* [Databases](#4) (19 Videos)
+* [DevOps](#5) (9 Videos)
+* [Enterprise](#6) (19 Videos)
+* [IoT](#7) (10 Videos)
+* [Machine Learning](#8) (21 Videos)
+* [Management Tools](#9) (4 Videos)
+* [Mobile](#10) (7 Videos)
+* [Networking](#11) (4 Videos)
+* [Security, Identity & Compliance](#12) (15 Videos)
+* [Serverless](#13) (10 Videos)
+* [Storage](#14) (18 Videos)
 
 
 
@@ -27,7 +28,16 @@
 ### Sessions
 
 
-### Compute <a name="0"></a>
+### AR/VR <a name="0"></a>
+
+| Date |       |
+|-|-|
+|10/16|<a href="https://www.youtube.com/watch?v=suxDrzZEtkQ" target="_blank">Creating and Publishing AR, VR and 3D Applications with Amazon Sumerian  <i class="fa fa-cc fa-1"></i></a>| 
+
+
+
+
+### Compute <a name="1"></a>
 
 | Date |       |
 |-|-|
@@ -54,7 +64,7 @@
 
 
 
-### Containers <a name="1"></a>
+### Containers <a name="2"></a>
 
 | Date |       |
 |-|-|
@@ -70,7 +80,7 @@
 
 
 
-### Data Lakes & Analytics <a name="2"></a>
+### Data Lakes & Analytics <a name="3"></a>
 
 | Date |       |
 |-|-|
@@ -92,11 +102,13 @@
 |09/04|<a href="https://www.youtube.com/watch?v=NdEDRGLmnW4" target="_blank">Office Hours: Amazon Aurora - Opening up the Hood on AWS' Fastest Growing Service - Tech Talks  <i class="fa fa-cc fa-1"></i></a>| 
 |09/17|<a href="https://www.youtube.com/watch?v=iunkVDfZZXQ" target="_blank">Secure Your Amazon Elasticsearch Service Domain  <i class="fa fa-cc fa-1"></i></a>| 
 |09/20|<a href="https://www.youtube.com/watch?v=FwFlFVBUSkU" target="_blank">New Innovations from Amazon Kinesis for Real-Time Analytics  <i class="fa fa-cc fa-1"></i></a>| 
+|10/16|<a href="https://www.youtube.com/watch?v=PEt7m0e41kw" target="_blank">Customer Showcase: The Secret Sauce Behind GroupM's Marketing Analytics Platform - Tech Talk  <i class="fa fa-cc fa-1"></i></a>| 
+|10/17|<a href="https://www.youtube.com/watch?v=6PRRcwKBsUE" target="_blank">Fireside Chat: The Evolution of Amazon Redshift  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
 
-### Databases <a name="3"></a>
+### Databases <a name="4"></a>
 
 | Date |       |
 |-|-|
@@ -117,11 +129,13 @@
 |09/17|<a href="https://www.youtube.com/watch?v=NIay_iY-hjs" target="_blank">Applied Live Migration to DynamoDB from Cassandra  <i class="fa fa-cc fa-1"></i></a>| 
 |09/18|<a href="https://www.youtube.com/watch?v=3Ovx5vJ17ws" target="_blank">Scaling Your Redis Workloads with Redis Cluster  <i class="fa fa-cc fa-1"></i></a>| 
 |09/20|<a href="https://www.youtube.com/watch?v=ViCzuCihPWI" target="_blank">Fireside Chat: Relational Database Innovation at AWS  <i class="fa fa-cc fa-1"></i></a>| 
+|10/16|<a href="https://www.youtube.com/watch?v=VEu7FDmhRsc" target="_blank">Supercharge Query Caching with AWS Database Services  <i class="fa fa-cc fa-1"></i></a>| 
+|10/17|<a href="https://www.youtube.com/watch?v=WuDGvG_4kC8" target="_blank">Why and How to Migrate from Apache Cassandra to Amazon DynamoDB  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
 
-### DevOps <a name="4"></a>
+### DevOps <a name="5"></a>
 
 | Date |       |
 |-|-|
@@ -138,7 +152,7 @@
 
 
 
-### Enterprise <a name="5"></a>
+### Enterprise <a name="6"></a>
 
 | Date |       |
 |-|-|
@@ -165,7 +179,7 @@
 
 
 
-### IoT <a name="6"></a>
+### IoT <a name="7"></a>
 
 | Date |       |
 |-|-|
@@ -183,7 +197,7 @@
 
 
 
-### Machine Learning <a name="7"></a>
+### Machine Learning <a name="8"></a>
 
 | Date |       |
 |-|-|
@@ -212,7 +226,7 @@
 
 
 
-### Management Tools <a name="8"></a>
+### Management Tools <a name="9"></a>
 
 | Date |       |
 |-|-|
@@ -224,7 +238,7 @@
 
 
 
-### Mobile <a name="9"></a>
+### Mobile <a name="10"></a>
 
 | Date |       |
 |-|-|
@@ -239,7 +253,7 @@
 
 
 
-### Networking <a name="10"></a>
+### Networking <a name="11"></a>
 
 | Date |       |
 |-|-|
@@ -251,7 +265,7 @@
 
 
 
-### Security, Identity & Compliance <a name="11"></a>
+### Security, Identity & Compliance <a name="12"></a>
 
 | Date |       |
 |-|-|
@@ -274,7 +288,7 @@
 
 
 
-### Serverless <a name="12"></a>
+### Serverless <a name="13"></a>
 
 | Date |       |
 |-|-|
@@ -287,11 +301,12 @@
 |07/25|<a href="https://www.youtube.com/watch?v=IrRMEclU8kU" target="_blank">Getting Started with Serverless Computing Using AWS Lambda  <i class="fa fa-cc fa-1"></i></a>| 
 |08/21|<a href="https://www.youtube.com/watch?v=jL_Sje01A5M" target="_blank">Serverless Streams, Topics, Queues, & APIs! Pick the Right Serverless Application Pattern  <i class="fa fa-cc fa-1"></i></a>| 
 |09/18|<a href="https://www.youtube.com/watch?v=9ElpSPXk-g8" target="_blank">Best Practices for Building Enterprise Grade APIs with Amazon API Gateway  <i class="fa fa-cc fa-1"></i></a>| 
+|10/16|<a href="https://www.youtube.com/watch?v=l9Lw8y5P5ok" target="_blank">Build Enterprise-Grade Serverless Apps  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
 
-### Storage <a name="13"></a>
+### Storage <a name="14"></a>
 
 | Date |       |
 |-|-|
