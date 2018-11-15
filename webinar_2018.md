@@ -3,11 +3,11 @@
 
 ### Tracks
 
-* [AR/VR](#0) (1 Videos)
+* [AR/VR](#0) (2 Videos)
 * [Compute](#1) (20 Videos)
-* [Containers](#2) (8 Videos)
-* [Data Lakes & Analytics](#3) (20 Videos)
-* [Databases](#4) (19 Videos)
+* [Containers](#2) (10 Videos)
+* [Data Lakes & Analytics](#3) (22 Videos)
+* [Databases](#4) (20 Videos)
 * [DevOps](#5) (9 Videos)
 * [End-User Computing](#6) (1 Videos)
 * [Enterprise](#7) (20 Videos)
@@ -18,7 +18,7 @@
 * [Mobile](#12) (7 Videos)
 * [Networking & Content Delivery](#13) (6 Videos)
 * [Security, Identity & Compliance](#14) (16 Videos)
-* [Serverless](#15) (10 Videos)
+* [Serverless](#15) (11 Videos)
 * [Storage](#16) (19 Videos)
 
 
@@ -35,6 +35,7 @@
 | Date |       |
 |-|-|
 |10/16|<a href="https://www.youtube.com/watch?v=suxDrzZEtkQ" target="_blank">Creating and Publishing AR, VR and 3D Applications with Amazon Sumerian  <i class="fa fa-cc fa-1"></i></a>| 
+|11/14|<a href="https://www.youtube.com/watch?v=OGmy3E2kMok" target="_blank">How to Create a Chatbot Using Amazon Sumerian and Sumerian Hosts  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -79,6 +80,8 @@
 |07/25|<a href="https://www.youtube.com/watch?v=x7lQGc-x7II" target="_blank">How Harry's Shaved Off Their Operational Overhead by Moving to AWS Fargate  <i class="fa fa-cc fa-1"></i></a>| 
 |08/23|<a href="https://www.youtube.com/watch?v=TZRpWhFAXX0" target="_blank">Distributed Tracing for Kubernetes Applications on AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |09/20|<a href="https://www.youtube.com/watch?v=CarajwQKKFs" target="_blank">How Talroo Used AWS Fargate to Improve their Application Scaling  <i class="fa fa-cc fa-1"></i></a>| 
+|11/15|<a href="https://www.youtube.com/watch?v=1xdEp-FR7lM" target="_blank">Scaling a Containerized Application Seamlessly with AWS Fargate  <i class="fa fa-cc fa-1"></i></a>| 
+|11/15|<a href="https://www.youtube.com/watch?v=42wH1nRKPT0" target="_blank">Customer Showcase: How 99designs Used AWS Fargate to Manage their Containerized Application  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -107,6 +110,8 @@
 |09/20|<a href="https://www.youtube.com/watch?v=FwFlFVBUSkU" target="_blank">New Innovations from Amazon Kinesis for Real-Time Analytics  <i class="fa fa-cc fa-1"></i></a>| 
 |10/16|<a href="https://www.youtube.com/watch?v=PEt7m0e41kw" target="_blank">Customer Showcase: The Secret Sauce Behind GroupM's Marketing Analytics Platform - Tech Talk  <i class="fa fa-cc fa-1"></i></a>| 
 |10/17|<a href="https://www.youtube.com/watch?v=6PRRcwKBsUE" target="_blank">Fireside Chat: The Evolution of Amazon Redshift  <i class="fa fa-cc fa-1"></i></a>| 
+|11/12|<a href="https://www.youtube.com/watch?v=WXmghnE1_vU" target="_blank">Search Your DynamoDB Data with Amazon Elasticsearch Service  <i class="fa fa-cc fa-1"></i></a>| 
+|11/15|<a href="https://www.youtube.com/watch?v=ARDJ2js8rBw" target="_blank">Best Practices for Migrating Big Data Workloads to AWS  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -134,6 +139,7 @@
 |09/20|<a href="https://www.youtube.com/watch?v=ViCzuCihPWI" target="_blank">Fireside Chat: Relational Database Innovation at AWS  <i class="fa fa-cc fa-1"></i></a>| 
 |10/16|<a href="https://www.youtube.com/watch?v=VEu7FDmhRsc" target="_blank">Supercharge Query Caching with AWS Database Services  <i class="fa fa-cc fa-1"></i></a>| 
 |10/17|<a href="https://www.youtube.com/watch?v=WuDGvG_4kC8" target="_blank">Why and How to Migrate from Apache Cassandra to Amazon DynamoDB  <i class="fa fa-cc fa-1"></i></a>| 
+|11/12|<a href="https://www.youtube.com/watch?v=UmvHhlspRZg" target="_blank">Modernize your SQL Server 2008/R2 Databases with AWS Database Services  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
@@ -329,6 +335,7 @@
 |08/21|<a href="https://www.youtube.com/watch?v=jL_Sje01A5M" target="_blank">Serverless Streams, Topics, Queues, & APIs! Pick the Right Serverless Application Pattern  <i class="fa fa-cc fa-1"></i></a>| 
 |09/18|<a href="https://www.youtube.com/watch?v=9ElpSPXk-g8" target="_blank">Best Practices for Building Enterprise Grade APIs with Amazon API Gateway  <i class="fa fa-cc fa-1"></i></a>| 
 |10/16|<a href="https://www.youtube.com/watch?v=l9Lw8y5P5ok" target="_blank">Build Enterprise-Grade Serverless Apps  <i class="fa fa-cc fa-1"></i></a>| 
+|11/15|<a href="https://www.youtube.com/watch?v=T4RWwD5oHUc" target="_blank">Serverless Workflows for the Enterprise  <i class="fa fa-cc fa-1"></i></a>| 
 
 
 
