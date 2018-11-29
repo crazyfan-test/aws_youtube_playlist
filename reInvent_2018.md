@@ -6,7 +6,7 @@
 * [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#0) (51 Videos)
 * [Customer Keynotes](#1) (4 Videos)
 * [Daily re:Cap](#2) (10 Videos)
-* [GPS-Technical](#3) (3 Videos)
+* [GPS-Technical](#3) (4 Videos)
 * [Launch Announcements](#4) (13 Videos)
 
 
@@ -114,6 +114,7 @@
 |GPSTEC307|<a href="https://www.youtube.com/watch?v=-mSXdTJuiJg" target="_blank">Networking, Storage, Data Protection Deep Dive w/ VMware Cloud on AWS  </a>| 
 |GPSTEC321|<a href="https://www.youtube.com/watch?v=UH5r1rEz9Gg" target="_blank">Meet Preston, and Explore Your Digital Twin in Virtual Reality () </a>| 
 |GPSTEC402|<a href="https://www.youtube.com/watch?v=ATJ87z7g7xA" target="_blank">Understanding and Hardening the Attack Surface at the Edge () </a>| 
+|GPSTEC403|<a href="https://www.youtube.com/watch?v=CGte0Yw_4tM" target="_blank">Architecting a Scalable Control Plane on AWS () </a>| 
 
 
 
