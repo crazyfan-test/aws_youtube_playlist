@@ -1,0 +1,123 @@
+
+
+
+### Tracks
+
+* [Customer Keynotes](#0) (5 Videos)
+* [Daily re:Cap](#1) (10 Videos)
+* [GPS-Technical](#2) (1 Videos)
+* [Launch Announcements](#3) (5 Videos)
+* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#4) (40 Videos)
+
+
+
+
+
+
+
+### Sessions
+
+
+### Customer Keynotes <a name="0"></a>
+
+| Date |       |
+|-|-|
+|11/28|<a href="https://www.youtube.com/watch?v=BOSIMpalcs8" target="_blank">Bernd Heinemann, Board Member at Allianz, Speaks at Global Partner Summit </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=XiPd1y9ULic" target="_blank">Keith Bigelow, GM and SVP at GE Healthcare, Speaks at Monday Night Live </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=iwIQNoarVas" target="_blank">Pebbles Sy-Manalang, CIO of Globe Telecom, Speaks at Global Partner Summit </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=MCLrA401vHw" target="_blank">Chris Dyl, Director of Platform at Epic Games, Speaks at Monday Night Live </a>| 
+|11/29|<a href="https://www.youtube.com/watch?v=_-2E8iDEqFY" target="_blank">Announcing Amazon Forecast </a>| 
+
+
+
+
+### Daily re:Cap <a name="1"></a>
+
+| Date |       |
+|-|-|
+|11/28|<a href="https://www.youtube.com/watch?v=aQL5CcDdU2U" target="_blank">Daily re:Cap - Sunday Nov. 25, 2018 </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=fJJ44WaSviw" target="_blank">Daily re:Port - Harley Ride </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=AI32-DDvmO4" target="_blank">Daily re:Port - Tatonka Challenge </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=dx4jTmcKkp8" target="_blank">Daily re:Port - Air Drumming </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=YjtwRqKLr6w" target="_blank">Daily re:Port - Midnight Madness </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=EbOXY93zgYI" target="_blank">Daily re:Port - Alexa Hack Day </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=ssTEC-M2PWk" target="_blank">Daily re:Cap - Monday Nov. 26, 2018 </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=5g6FsBDTGIQ" target="_blank">Daily re:Port - Welcome Reception </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=WNcJRyTwcB4" target="_blank">Daily re:Port - Monday Night Live </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=QUBK3hIFfgg" target="_blank">Daily re:Port - 4K & 8K Run </a>| 
+
+
+
+
+### GPS-Technical <a name="2"></a>
+
+| Date |       |
+|-|-|
+|11/27|<a href="https://www.youtube.com/watch?v=-mSXdTJuiJg" target="_blank">Networking, Storage, Data Protection Deep Dive w/ VMware Cloud on AWS GPSTEC307 </a>| 
+
+
+
+
+### Launch Announcements <a name="3"></a>
+
+| Date |       |
+|-|-|
+|11/27|<a href="https://www.youtube.com/watch?v=RjhrugELYW8" target="_blank">Announcing Amazon SageMaker Neo </a>| 
+|11/29|<a href="https://www.youtube.com/watch?v=PHX7q4pMGbo" target="_blank">Announcing Amazon Textract </a>| 
+|11/29|<a href="https://www.youtube.com/watch?v=rAMg6I5Hp4M" target="_blank">Announcing Machine Learning Solutions in AWS Marketplace </a>| 
+|11/29|<a href="https://www.youtube.com/watch?v=C1iJYz7oijo" target="_blank">Announcing AWS DeepRacer Demo </a>| 
+|11/29|<a href="https://www.youtube.com/watch?v=dwUJVYEhxGM" target="_blank">Announcing AWS DeepRacer (Demo) </a>| 
+
+
+
+
+### Nov. 26 – Nov. 30, 2018 Las Vegas, NV <a name="4"></a>
+
+| Date |       |
+|-|-|
+|05/21|<a href="https://www.youtube.com/watch?v=_wT07_5Z8i8" target="_blank">How to re:Invent - Episode 1: What's New? </a>| 
+|07/12|<a href="https://www.youtube.com/watch?v=pdnZOUDRXgQ" target="_blank">How to re:Invent - Episode 2: Breakout Content Secret Sauce </a>| 
+|07/23|<a href="https://www.youtube.com/watch?v=OCffvjjGGT0" target="_blank">How to re:Invent - Episode 3: Training & Certification Round-Up </a>| 
+|09/07|<a href="https://www.youtube.com/watch?v=P5LA2P3SpbI" target="_blank">Campus & Schedule Overview </a>| 
+|09/07|<a href="https://www.youtube.com/watch?v=OBXv9KcXmwc" target="_blank">Community Activities </a>| 
+|09/07|<a href="https://www.youtube.com/watch?v=Fe-PS2mA8_0" target="_blank">After Hour Events </a>| 
+|09/07|<a href="https://www.youtube.com/watch?v=02ond0tHUPo" target="_blank">How to re:Invent - Episode 4: Inclusion & Diversity at re:Invent </a>| 
+|11/01|<a href="https://www.youtube.com/watch?v=JOS_LD6mVzY" target="_blank">AWS Quest Puzzlehunt Launch </a>| 
+|11/02|<a href="https://www.youtube.com/watch?v=cCj8nhFrXdQ" target="_blank">How to re:Invent - Episode 5: Deep Dive with Our Community Heroes and Jeff Barr </a>| 
+|11/14|<a href="https://www.youtube.com/watch?v=qZWSwt71YFQ" target="_blank">Community Hero </a>| 
+|11/14|<a href="https://www.youtube.com/watch?v=n_PtTv2R3Zw" target="_blank">Tips & Tricks for Surviving re:Invent </a>| 
+|11/14|<a href="https://www.youtube.com/watch?v=lvRCSHWGUxU" target="_blank">Transportation </a>| 
+|11/14|<a href="https://www.youtube.com/watch?v=xhv0Lqi6mFg" target="_blank">Overflow Program </a>| 
+|11/15|<a href="https://www.youtube.com/watch?v=B7Du2Jmr1Bc" target="_blank">Interview with Jeff Barr </a>| 
+|11/15|<a href="https://www.youtube.com/watch?v=4_V_6uFVJA8" target="_blank">Trivia Night with Jeff Barr, re:Play, Broomball, and More! </a>| 
+|11/16|<a href="https://www.youtube.com/watch?v=pVmlJksOCLo" target="_blank">Hackathon & Jam Sessions </a>| 
+|11/16|<a href="https://www.youtube.com/watch?v=kOI7hRHb8ww" target="_blank">Preparing for re:Invent </a>| 
+|11/19|<a href="https://www.youtube.com/watch?v=p603k7dvQ-8" target="_blank">Expo Hall, The Quad, and Welcome Reception </a>| 
+|11/19|<a href="https://www.youtube.com/watch?v=229qDUWYwXQ" target="_blank">Navigating the re:Invent Campus </a>| 
+|11/22|<a href="https://www.youtube.com/watch?v=F4VGt6xOVpk" target="_blank">Badge Pickup </a>| 
+|11/22|<a href="https://www.youtube.com/watch?v=GplG7NRMKdk" target="_blank">re:Play </a>| 
+|11/25|<a href="https://www.youtube.com/watch?v=nfyNNrKicRo" target="_blank">Onsite Help with Schedule Experts </a>| 
+|11/26|<a href="https://www.youtube.com/watch?v=fJJ44WaSviw" target="_blank">Daily re:Port - Harley Ride </a>| 
+|11/26|<a href="https://www.youtube.com/watch?v=AI32-DDvmO4" target="_blank">Daily re:Port - Tatonka Challenge </a>| 
+|11/26|<a href="https://www.youtube.com/watch?v=dx4jTmcKkp8" target="_blank">Daily re:Port - Air Drumming </a>| 
+|11/26|<a href="https://www.youtube.com/watch?v=YjtwRqKLr6w" target="_blank">Daily re:Port - Midnight Madness </a>| 
+|11/26|<a href="https://www.youtube.com/watch?v=aQL5CcDdU2U" target="_blank">Daily re:Cap - Sunday Nov. 25, 2018 </a>| 
+|11/27|<a href="https://www.youtube.com/watch?v=EbOXY93zgYI" target="_blank">Daily re:Port - Alexa Hack Day </a>| 
+|11/27|<a href="https://www.youtube.com/watch?v=ssTEC-M2PWk" target="_blank">Daily re:Cap - Monday Nov. 26, 2018 </a>| 
+|11/27|<a href="https://www.youtube.com/watch?v=WNcJRyTwcB4" target="_blank">Daily re:Port - Monday Night Live </a>| 
+|11/27|<a href="https://www.youtube.com/watch?v=5g6FsBDTGIQ" target="_blank">Daily re:Port - Welcome Reception </a>| 
+|11/27|<a href="https://www.youtube.com/watch?v=RjhrugELYW8" target="_blank">Announcing Amazon SageMaker Neo </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=QUBK3hIFfgg" target="_blank">Daily re:Port - 4K & 8K Run </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=P0NxPK97xic" target="_blank">Daily re:Port - Bootcamps </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=mDNHK-SzXEM" target="_blank">Monday Night Live with Peter DeSantis </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=ThM_EXpnC4U" target="_blank">Daily re:Port - Pub Crawl </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=R55wqHI5pZk" target="_blank">Daily re:Cap - Tuesday Nov. 27, 2018 </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=sjxZAdm1utM" target="_blank">Announcing AWS RoboMaker </a>| 
+|11/28|<a href="https://www.youtube.com/watch?v=7NJs7CsstHc" target="_blank">Global Partner Keynote </a>| 
+|11/29|<a href="https://www.youtube.com/watch?v=ZOIkOnW640A" target="_blank">Keynote - Andy Jassy </a>| 
+
+
+
+
+
+
