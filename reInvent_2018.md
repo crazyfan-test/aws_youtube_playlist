@@ -23,7 +23,10 @@
 
 | ClassId |       |
 |-|-|
-|---|<a href="https://www.youtube.com/watch?v=7NJs7CsstHc" target="_blank">AWS re:Invent 2018 Keynote: Werner Vogels </a>| 
+|---|<a href="https://www.youtube.com/watch?v=ZOIkOnW640A" target="_blank">AWS re:Invent 2018 Keynote: Andy Jassy </a>| 
+|---|<a href="https://www.youtube.com/watch?v=femopq3JWJg" target="_blank">AWS re:Invent 2018 Keynote: Werner Vogels </a>| 
+|---|<a href="https://www.youtube.com/watch?v=mDNHK-SzXEM" target="_blank">AWS re:Invent 2018 Keynote: Monday Night Live with Peter DeSantis </a>| 
+|---|<a href="https://www.youtube.com/watch?v=7NJs7CsstHc" target="_blank">AWS re:Invent 2018 Keynote: Global Partner Keynote </a>| 
 |---|<a href="https://www.youtube.com/watch?v=jD0Z9D9Y0Sc" target="_blank">AWS DeepRacer - Highlights from </a>| 
 |---|<a href="https://www.youtube.com/watch?v=swusfj91Kis" target="_blank">AWS DeepRacer League 2018 Championship Cup Final Race </a>| 
 |---|<a href="https://www.youtube.com/watch?v=JOS_LD6mVzY" target="_blank">AWS Quest Puzzlehunt Launch </a>| 
@@ -68,9 +71,6 @@
 |---|<a href="https://www.youtube.com/watch?v=B7Du2Jmr1Bc" target="_blank">Interview with Jeff Barr </a>| 
 |---|<a href="https://www.youtube.com/watch?v=dZ5FLzOIQF0" target="_blank">Introducing Amazon Elastic Inference </a>| 
 |---|<a href="https://www.youtube.com/watch?v=9tArgQrJBzE" target="_blank">Introducing Amazon Personalize </a>| 
-|---|<a href="https://www.youtube.com/watch?v=ZOIkOnW640A" target="_blank">Keynote with Andy Jassy </a>| 
-|---|<a href="https://www.youtube.com/watch?v=femopq3JWJg" target="_blank">Keynote with Werner Vogels </a>| 
-|---|<a href="https://www.youtube.com/watch?v=mDNHK-SzXEM" target="_blank">Monday Night Live with Peter DeSantis </a>| 
 |---|<a href="https://www.youtube.com/watch?v=229qDUWYwXQ" target="_blank">Navigating the re:Invent Campus </a>| 
 |---|<a href="https://www.youtube.com/watch?v=a42kxHSX4Xw" target="_blank">Now Go Build with Werner Vogels EP1 - Jakarta </a>| 
 |---|<a href="https://www.youtube.com/watch?v=nfyNNrKicRo" target="_blank">Onsite Help with Schedule Experts </a>| 
