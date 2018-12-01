@@ -3,12 +3,14 @@
 
 ### Tracks
 
-* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#0) (57 Videos)
+* [Keynotes](#0) (4 Videos)
 * [Customer Keynotes](#1) (4 Videos)
-* [Daily re:Cap](#2) (10 Videos)
-* [GPS-Technical](#3) (4 Videos)
-* [Launch Announcements](#4) (13 Videos)
-* [twitch.tv/aws](#5) (21 Videos)
+* [Customer Speakers](#2) (4 Videos)
+* [Daily re:Cap](#3) (25 Videos)
+* [GPS-Technical](#4) (7 Videos)
+* [Launch Announcements](#5) (15 Videos)
+* [twitch.tv/aws](#6) (80 Videos)
+* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#7) (69 Videos)
 
 
 
@@ -19,7 +21,202 @@
 ### Sessions
 
 
-### Nov. 26 – Nov. 30, 2018 Las Vegas, NV <a name="0"></a>
+### Keynotes <a name="0"></a>
+
+| ClassId |       |
+|-|-|
+|---|<a href="https://www.youtube.com/watch?v=ZOIkOnW640A" target="_blank">AWS re:Invent 2018 Keynote: Andy Jassy </a>| 
+|---|<a href="https://www.youtube.com/watch?v=femopq3JWJg" target="_blank">AWS re:Invent 2018 Keynote: Werner Vogels </a>| 
+|---|<a href="https://www.youtube.com/watch?v=mDNHK-SzXEM" target="_blank">AWS re:Invent 2018 Keynote: Monday Night Live with Peter DeSantis </a>| 
+|---|<a href="https://www.youtube.com/watch?v=7NJs7CsstHc" target="_blank">AWS re:Invent 2018 Keynote: Global Partner Keynote </a>| 
+
+
+
+
+### Customer Keynotes <a name="1"></a>
+
+| ClassId |       |
+|-|-|
+|---|<a href="https://www.youtube.com/watch?v=BOSIMpalcs8" target="_blank">Bernd Heinemann, Board Member at Allianz, Speaks at Global Partner Summit </a>| 
+|---|<a href="https://www.youtube.com/watch?v=MCLrA401vHw" target="_blank">Chris Dyl, Director of Platform at Epic Games, Speaks at Monday Night Live </a>| 
+|---|<a href="https://www.youtube.com/watch?v=XiPd1y9ULic" target="_blank">Keith Bigelow, GM and SVP at GE Healthcare, Speaks at Monday Night Live </a>| 
+|---|<a href="https://www.youtube.com/watch?v=iwIQNoarVas" target="_blank">Pebbles Sy-Manalang, CIO of Globe Telecom, Speaks at Global Partner Summit </a>| 
+
+
+
+
+### Customer Speakers <a name="2"></a>
+
+| ClassId |       |
+|-|-|
+|---|<a href="https://www.youtube.com/watch?v=BOSIMpalcs8" target="_blank">Bernd Heinemann, Board Member at Allianz, Speaks at Global Partner Summit </a>| 
+|---|<a href="https://www.youtube.com/watch?v=MCLrA401vHw" target="_blank">Chris Dyl, Director of Platform at Epic Games, Speaks at Monday Night Live </a>| 
+|---|<a href="https://www.youtube.com/watch?v=XiPd1y9ULic" target="_blank">Keith Bigelow, GM and SVP at GE Healthcare, Speaks at Monday Night Live </a>| 
+|---|<a href="https://www.youtube.com/watch?v=iwIQNoarVas" target="_blank">Pebbles Sy-Manalang, CIO of Globe Telecom, Speaks at Global Partner Summit </a>| 
+
+
+
+
+### Daily re:Cap <a name="3"></a>
+
+| ClassId |       |
+|-|-|
+|---|<a href="https://www.youtube.com/watch?v=ssTEC-M2PWk" target="_blank">Daily re:Cap - Monday Nov. 26, 2018 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=aQL5CcDdU2U" target="_blank">Daily re:Cap - Sunday Nov. 25, 2018 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=03gXt7dETlg" target="_blank">Daily re:Cap - Thursday Nov. 29, 2018 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=R55wqHI5pZk" target="_blank">Daily re:Cap - Tuesday Nov. 27, 2018 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=q1TvskkIN4Q" target="_blank">Daily re:Cap - Wednesday Nov. 28, 2018 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=QUBK3hIFfgg" target="_blank">Daily re:Port - 4K & 8K Run </a>| 
+|---|<a href="https://www.youtube.com/watch?v=lRGSHtHtcrk" target="_blank">Daily re:Port - AWS DeepRacer </a>| 
+|---|<a href="https://www.youtube.com/watch?v=dx4jTmcKkp8" target="_blank">Daily re:Port - Air Drumming </a>| 
+|---|<a href="https://www.youtube.com/watch?v=EbOXY93zgYI" target="_blank">Daily re:Port - Alexa Hack Day </a>| 
+|---|<a href="https://www.youtube.com/watch?v=0IMGSivtHZs" target="_blank">Daily re:Port - Board Game Night & Tweetup </a>| 
+|---|<a href="https://www.youtube.com/watch?v=P0NxPK97xic" target="_blank">Daily re:Port - Bootcamps </a>| 
+|---|<a href="https://www.youtube.com/watch?v=QGqS4P8vkFA" target="_blank">Daily re:Port - Builders Fair </a>| 
+|---|<a href="https://www.youtube.com/watch?v=_bZVSRMnrOU" target="_blank">Daily re:Port - Camp re:Invent Trivia Challenge with Jeff Barr </a>| 
+|---|<a href="https://www.youtube.com/watch?v=nHrqXatUM0A" target="_blank">Daily re:Port - Executive Summit </a>| 
+|---|<a href="https://www.youtube.com/watch?v=fJJ44WaSviw" target="_blank">Daily re:Port - Harley Ride </a>| 
+|---|<a href="https://www.youtube.com/watch?v=YjtwRqKLr6w" target="_blank">Daily re:Port - Midnight Madness </a>| 
+|---|<a href="https://www.youtube.com/watch?v=WNcJRyTwcB4" target="_blank">Daily re:Port - Monday Night Live </a>| 
+|---|<a href="https://www.youtube.com/watch?v=b8LaNGk1NZY" target="_blank">Daily re:Port - NPO Hackathon for Social Good </a>| 
+|---|<a href="https://www.youtube.com/watch?v=ThM_EXpnC4U" target="_blank">Daily re:Port - Pub Crawl </a>| 
+|---|<a href="https://www.youtube.com/watch?v=8Rm2BKfJMnw" target="_blank">Daily re:Port - RoboMaker </a>| 
+|---|<a href="https://www.youtube.com/watch?v=ibOE5rXVhKM" target="_blank">Daily re:Port - Table Tennis Tournament </a>| 
+|---|<a href="https://www.youtube.com/watch?v=AI32-DDvmO4" target="_blank">Daily re:Port - Tatonka Challenge </a>| 
+|---|<a href="https://www.youtube.com/watch?v=5g6FsBDTGIQ" target="_blank">Daily re:Port - Welcome Reception </a>| 
+|---|<a href="https://www.youtube.com/watch?v=0jlylnQCAN0" target="_blank">Weekly re:Mix </a>| 
+|---|<a href="https://www.youtube.com/watch?v=kAK4aAHlJkg" target="_blank">re:Play featuring Skrillex </a>| 
+
+
+
+
+### GPS-Technical <a name="4"></a>
+
+| ClassId |       |
+|-|-|
+|GPSTEC306|<a href="https://www.youtube.com/watch?v=kmXaC9ZE9Bk" target="_blank">PrivateLink for Partners: Connectivity, Scale, Security  </a>| 
+|GPSTEC307|<a href="https://www.youtube.com/watch?v=-mSXdTJuiJg" target="_blank">Networking, Storage, Data Protection Deep Dive w/ VMware Cloud on AWS  </a>| 
+|GPSTEC309|<a href="https://www.youtube.com/watch?v=PJ1WXx1SACM" target="_blank">Day Two Operations of Kubernetes on AWS  </a>| 
+|GPSTEC316|<a href="https://www.youtube.com/watch?v=CwX9mjupbJo" target="_blank">How Peak.AI Uses Amazon SageMaker for Product Personalization  </a>| 
+|GPSTEC321|<a href="https://www.youtube.com/watch?v=UH5r1rEz9Gg" target="_blank">Meet Preston, and Explore Your Digital Twin in Virtual Reality  </a>| 
+|GPSTEC402|<a href="https://www.youtube.com/watch?v=ATJ87z7g7xA" target="_blank">Understanding and Hardening the Attack Surface at the Edge  </a>| 
+|GPSTEC403|<a href="https://www.youtube.com/watch?v=CGte0Yw_4tM" target="_blank">Architecting a Scalable Control Plane on AWS  </a>| 
+
+
+
+
+### Launch Announcements <a name="5"></a>
+
+| ClassId |       |
+|-|-|
+|---|<a href="https://www.youtube.com/watch?v=C1iJYz7oijo" target="_blank">Announcing AWS DeepRacer </a>| 
+|---|<a href="https://www.youtube.com/watch?v=dwUJVYEhxGM" target="_blank">Announcing AWS DeepRacer (Demo) </a>| 
+|---|<a href="https://www.youtube.com/watch?v=uVF73MXYay8" target="_blank">Announcing AWS Lake Formation </a>| 
+|---|<a href="https://www.youtube.com/watch?v=fAOl0oo9DXk" target="_blank">Announcing AWS Marketplace for Containers </a>| 
+|---|<a href="https://www.youtube.com/watch?v=niVsU9Tcp6E" target="_blank">Announcing AWS Private Marketplace </a>| 
+|---|<a href="https://www.youtube.com/watch?v=_-2E8iDEqFY" target="_blank">Announcing Amazon Forecast </a>| 
+|---|<a href="https://www.youtube.com/watch?v=RjhrugELYW8" target="_blank">Announcing Amazon SageMaker Neo </a>| 
+|---|<a href="https://www.youtube.com/watch?v=6skqe2IuI34" target="_blank">Announcing Amazon SageMaker RL </a>| 
+|---|<a href="https://www.youtube.com/watch?v=PHX7q4pMGbo" target="_blank">Announcing Amazon Textract </a>| 
+|---|<a href="https://www.youtube.com/watch?v=oTPpIyXoE3k" target="_blank">Announcing Amazon Timestream </a>| 
+|---|<a href="https://www.youtube.com/watch?v=rAMg6I5Hp4M" target="_blank">Announcing Machine Learning Solutions in AWS Marketplace </a>| 
+|---|<a href="https://www.youtube.com/watch?v=a4l1UCo3YHE" target="_blank">Introducing AWS Security Hub </a>| 
+|---|<a href="https://www.youtube.com/watch?v=dZ5FLzOIQF0" target="_blank">Introducing Amazon Elastic Inference </a>| 
+|---|<a href="https://www.youtube.com/watch?v=9tArgQrJBzE" target="_blank">Introducing Amazon Personalize </a>| 
+|---|<a href="https://www.youtube.com/watch?v=gjiozYXHKc8" target="_blank">Introducing Amazon SageMaker Ground Truth </a>| 
+
+
+
+
+### twitch.tv/aws <a name="6"></a>
+
+| ClassId |       |
+|-|-|
+|---|<a href="https://www.youtube.com/watch?v=6snjo4IzZcQ" target="_blank">AWS re:Invent 2018 Keynote: Werner Vogels </a>| 
+|---|<a href="https://www.youtube.com/watch?v=HSJNK8aTpgU" target="_blank">AWS Amplify Console and New Features in AWS AppSync </a>| 
+|---|<a href="https://www.youtube.com/watch?v=sdCntQUPYzE" target="_blank">AWS Announces New Amazon S3 Features </a>| 
+|---|<a href="https://www.youtube.com/watch?v=5VPIzKDyLvo" target="_blank">AWS Developer Tools Improve Continuous Delivery Support for AWS Fargate and Amazon ECS </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Wlgm6VzTXbk" target="_blank">AWS Elemental MediaConnect is now Generally Available </a>| 
+|---|<a href="https://www.youtube.com/watch?v=l7f06LQx32A" target="_blank">AWS Marketplace Launch Recap </a>| 
+|---|<a href="https://www.youtube.com/watch?v=8Ccl620paFQ" target="_blank">AWS Serverless Launches </a>| 
+|---|<a href="https://www.youtube.com/watch?v=PjwNApiZ6U4" target="_blank">AWS re:Invent Recap | 11/27/2018 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=_Fgxl52OZes" target="_blank">Amazon EFS </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Q5KE1RJv8vA" target="_blank">Amazon Kinesis Data Analytics for Java applications is now Generally Available </a>| 
+|---|<a href="https://www.youtube.com/watch?v=4-sI24EbvHk" target="_blank">Amazon RDS on VMware Now in Preview </a>| 
+|---|<a href="https://www.youtube.com/watch?v=lSnqxsRMe20" target="_blank">Amazon Sumerian </a>| 
+|---|<a href="https://www.youtube.com/watch?v=YtDSTKiU1u8" target="_blank">Announcing 8 new languages and a Custom Terminology for Amazon Translate </a>| 
+|---|<a href="https://www.youtube.com/watch?v=WM0iZ7-96oQ" target="_blank">Announcing AWS IoT Events </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Gy-5LtX_yfY" target="_blank">Announcing AWS IoT SiteWise </a>| 
+|---|<a href="https://www.youtube.com/watch?v=GMZhY28gW4M" target="_blank">Announcing AWS RoboMaker </a>| 
+|---|<a href="https://www.youtube.com/watch?v=K3PPzf9ePko" target="_blank">Announcing AWS Security Hub </a>| 
+|---|<a href="https://www.youtube.com/watch?v=qMeSp-ZBDAg" target="_blank">Announcing Amazon DynamoDB Support for Transactions </a>| 
+|---|<a href="https://www.youtube.com/watch?v=21tG9tjbxTM" target="_blank">Announcing Two New AWS Online Data Transfer Services & New Edge Computing Capabilities </a>| 
+|---|<a href="https://www.youtube.com/watch?v=jtyyTI1Psoo" target="_blank">Announcing three new Amazon EC2 instances, C5n, P3dn, and A1 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=B_-8TT23a6E" target="_blank">Community Day Session 1 |  Red Team vs. Blue Team on AWS </a>| 
+|---|<a href="https://www.youtube.com/watch?v=HQaYSSQ2Y1U" target="_blank">Community Day Session 2 | ProTips for Scaling AWS Training to Accelerate Adoption </a>| 
+|---|<a href="https://www.youtube.com/watch?v=yIDsCwrmY8g" target="_blank">Community Day Session 3 | Applying Principles of Chaos Engineering to Serverless </a>| 
+|---|<a href="https://www.youtube.com/watch?v=s2NYVwAs4Fo" target="_blank">Community Day Session 4 | Building Fraud Detection Systems with AWS Batch and Containers </a>| 
+|---|<a href="https://www.youtube.com/watch?v=beyjIbwxfCE" target="_blank">Containers on AWS  Kubernetes and ECS </a>| 
+|---|<a href="https://www.youtube.com/watch?v=9Qz15ifiL3g" target="_blank">Customer Spotlight: Disney Streaming Services uses Amazon Pinpoint for powerful user engagement </a>| 
+|---|<a href="https://www.youtube.com/watch?v=TPyLJLOrHlE" target="_blank">Developing Mobile Apps on AWS </a>| 
+|---|<a href="https://www.youtube.com/watch?v=APq9PaaZJPA" target="_blank">Easily Build Scalable Blockchain & Ledger Solutions </a>| 
+|---|<a href="https://www.youtube.com/watch?v=b1GGOgpqA38" target="_blank">Edge Computing with AWS IoT </a>| 
+|---|<a href="https://www.youtube.com/watch?v=SqF8lBTFwJY" target="_blank">Evangelism Power Hour </a>| 
+|---|<a href="https://www.youtube.com/watch?v=DrrvPqX_Qr8" target="_blank">Firecracker is now Open Source </a>| 
+|---|<a href="https://www.youtube.com/watch?v=acNYag40u6Q" target="_blank">Future of AI - Automatic Diagnosis of Speech Disorders with Machine Learning Algorithms </a>| 
+|---|<a href="https://www.youtube.com/watch?v=cA8jYfpfZ1g" target="_blank">Future of AI - Creating Movie Magic with Computational Simulations </a>| 
+|---|<a href="https://www.youtube.com/watch?v=0uyxGGD3wo0" target="_blank">Future of AI - Designing for a Data-Driven Economy </a>| 
+|---|<a href="https://www.youtube.com/watch?v=cD_Y_8IfT_A" target="_blank">Future of AI - Pragmatic Quantum Machine Learning Today </a>| 
+|---|<a href="https://www.youtube.com/watch?v=ZsgFqE4cV38" target="_blank">Future of AI - The Evolution of Language and Information Technology </a>| 
+|---|<a href="https://www.youtube.com/watch?v=yYNh369pJTY" target="_blank">Future of AI | The Future of Mixed-Autonomy Traffic </a>| 
+|---|<a href="https://www.youtube.com/watch?v=5Z6GMmuxVg8" target="_blank">Human-in-the-Loop for Machine Learning </a>| 
+|---|<a href="https://www.youtube.com/watch?v=cq0dTR8kL44" target="_blank">Industrial IoT Applications </a>| 
+|---|<a href="https://www.youtube.com/watch?v=qTE1PbdY3hY" target="_blank">Introducing AWS Cloud Map and AWS App Mesh </a>| 
+|---|<a href="https://www.youtube.com/watch?v=X-6v4RZy-TE" target="_blank">Introducing AWS DeepRacer </a>| 
+|---|<a href="https://www.youtube.com/watch?v=bJ2LnuMABKg" target="_blank">Introducing AWS Global Accelerator and Elastic Fabric Adapter </a>| 
+|---|<a href="https://www.youtube.com/watch?v=QisrRmvK3yw" target="_blank">Introducing AWS Ground Station </a>| 
+|---|<a href="https://www.youtube.com/watch?v=SeZ78yX8SC8" target="_blank">Introducing AWS Lake Formation and Managed Streaming for Kafka </a>| 
+|---|<a href="https://www.youtube.com/watch?v=hpz8mkwEa_Y" target="_blank">Introducing AWS Outposts </a>| 
+|---|<a href="https://www.youtube.com/watch?v=05QKFsD6qss" target="_blank">Introducing Amazon Personalize & Amazon Forecast </a>| 
+|---|<a href="https://www.youtube.com/watch?v=hagvdqofRU4" target="_blank">Introducing Amazon Textract: Now in Preview </a>| 
+|---|<a href="https://www.youtube.com/watch?v=B6kmBLDck8w" target="_blank">Introducing Dashboard Embedding and ML Insights with Amazon QuickSight </a>| 
+|---|<a href="https://www.youtube.com/watch?v=ejJIlLJHqpo" target="_blank">Introducing Dynamic Training </a>| 
+|---|<a href="https://www.youtube.com/watch?v=1CN0y2bfHac" target="_blank">Introducing DynamoDB On-Demand </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Aa9OOwQduLI" target="_blank">Introducing S3 Batch Operations and S3 Intelligent-Tiering </a>| 
+|---|<a href="https://www.youtube.com/watch?v=z6UrYVFTVdY" target="_blank">Kick Off | 11/28/18 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=8FzC-8XD6OM" target="_blank">Kick off and Recent Launches </a>| 
+|---|<a href="https://www.youtube.com/watch?v=EOfGF1JpMEg" target="_blank">Live from the AWS DeepRacer MGM Speedway </a>| 
+|---|<a href="https://www.youtube.com/watch?v=2JRixikAXVg" target="_blank">Making Capacity Intuitive </a>| 
+|---|<a href="https://www.youtube.com/watch?v=pa_rZChSC8s" target="_blank">Meet an Engineer | Forrest Brazeal, Senior Cloud Architect, Trek10 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=BS1NvjmT_Zs" target="_blank">Meet an Engineer | Marcia Villalba, Senior Full-Stack Developer, Rovio </a>| 
+|---|<a href="https://www.youtube.com/watch?v=8ZcDx-aMfPA" target="_blank">Meet an Engineer | Tim Bray, Senior Principal Engineer, AWS </a>| 
+|---|<a href="https://www.youtube.com/watch?v=v5ghuYLwiN8" target="_blank">Meet an Engineer | Travis Brown, Solutions Architect Manager, Twitch </a>| 
+|---|<a href="https://www.youtube.com/watch?v=kwxeiUdIbvg" target="_blank">Meet an Engineer| Jerry Hargrove, Cloud Architect & Evangelist, Lucid </a>| 
+|---|<a href="https://www.youtube.com/watch?v=avFySraL5ZY" target="_blank">Meet an Engineer| Nell Waliczek, Principal Software Engineer, AWS AR/VR </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Thcdt4EdaKI" target="_blank">Meet-a- Engineer | Becky Weiss, Senior Principal Engineer, AWS </a>| 
+|---|<a href="https://www.youtube.com/watch?v=4LeO4m8LC88" target="_blank">Meet-an-Engineer: Clare Liguori, Principal Engineer, AWS Containers </a>| 
+|---|<a href="https://www.youtube.com/watch?v=NtViHfC4zPI" target="_blank">Modern Application Development </a>| 
+|---|<a href="https://www.youtube.com/watch?v=fmQiMdH-fV8" target="_blank">Monitor All Your Things with Amazon CloudWatch </a>| 
+|---|<a href="https://www.youtube.com/watch?v=MuWe2INvIXw" target="_blank">New Data Processing Capabilities in Amazon SageMaker for Training & Inference </a>| 
+|---|<a href="https://www.youtube.com/watch?v=1sPAEU6-gQo" target="_blank">Orchestrate ML Workflows in Amazon SageMaker & AWS Step Functions </a>| 
+|---|<a href="https://www.youtube.com/watch?v=EobTxuqVHJ8" target="_blank">Purpose-Built Databases: Choose the Right Tool for Each Job </a>| 
+|---|<a href="https://www.youtube.com/watch?v=zsitzG6Qiag" target="_blank">Simplify the DNS for your Hybrid Cloud and Easily Scale Across VPCs </a>| 
+|---|<a href="https://www.youtube.com/watch?v=oiAajSwZf3Q" target="_blank">Startup Spotlight: Gremlin </a>| 
+|---|<a href="https://www.youtube.com/watch?v=rvexgbQzIxs" target="_blank">Thursday Recap </a>| 
+|---|<a href="https://www.youtube.com/watch?v=cN_R5JteUgA" target="_blank">What's New in Amazon Aurora </a>| 
+|---|<a href="https://www.youtube.com/watch?v=E2wkd5L9bgA" target="_blank">Windows and .NET innovation on AWS with 10 New Launches </a>| 
+|---|<a href="https://www.youtube.com/watch?v=4cSB7ksjG9w" target="_blank">re:Invent Quick Stats 11/28/18 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=hkz-dXuDPqg" target="_blank">re:Invent Quick Stats | 11/28/2018 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=sl88eREm42k" target="_blank">re:Invent Recap  Wednesday </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Ks5lud7Rye4" target="_blank">re:Invent Spotlight The NAB Cloud Guild </a>| 
+|---|<a href="https://www.youtube.com/watch?v=EIfFPw5qb1Q" target="_blank">re:Invent Spotlight | AWS Educate </a>| 
+|---|<a href="https://www.youtube.com/watch?v=r_fFs2zmw8Q" target="_blank">re:Invent Spotlight | Non-profit Hackathon </a>| 
+|---|<a href="https://www.youtube.com/watch?v=h1OThy53uks" target="_blank">re:Invent Spotlight | Twitch Developers </a>| 
+
+
+
+
+### Nov. 26 – Nov. 30, 2018 Las Vegas, NV <a name="7"></a>
 
 | ClassId |       |
 |-|-|
@@ -31,16 +228,25 @@
 |---|<a href="https://www.youtube.com/watch?v=swusfj91Kis" target="_blank">AWS DeepRacer League 2018 Championship Cup Final Race </a>| 
 |---|<a href="https://www.youtube.com/watch?v=JOS_LD6mVzY" target="_blank">AWS Quest Puzzlehunt Launch </a>| 
 |---|<a href="https://www.youtube.com/watch?v=Fe-PS2mA8_0" target="_blank">After Hour Events </a>| 
+|---|<a href="https://www.youtube.com/watch?v=C1iJYz7oijo" target="_blank">Announcing AWS DeepRacer </a>| 
 |---|<a href="https://www.youtube.com/watch?v=dwUJVYEhxGM" target="_blank">Announcing AWS DeepRacer (Demo) </a>| 
 |---|<a href="https://www.youtube.com/watch?v=uVF73MXYay8" target="_blank">Announcing AWS Lake Formation </a>| 
+|---|<a href="https://www.youtube.com/watch?v=fAOl0oo9DXk" target="_blank">Announcing AWS Marketplace for Containers </a>| 
+|---|<a href="https://www.youtube.com/watch?v=niVsU9Tcp6E" target="_blank">Announcing AWS Private Marketplace </a>| 
 |---|<a href="https://www.youtube.com/watch?v=sjxZAdm1utM" target="_blank">Announcing AWS RoboMaker </a>| 
+|---|<a href="https://www.youtube.com/watch?v=_-2E8iDEqFY" target="_blank">Announcing Amazon Forecast </a>| 
 |---|<a href="https://www.youtube.com/watch?v=RjhrugELYW8" target="_blank">Announcing Amazon SageMaker Neo </a>| 
+|---|<a href="https://www.youtube.com/watch?v=6skqe2IuI34" target="_blank">Announcing Amazon SageMaker RL </a>| 
+|---|<a href="https://www.youtube.com/watch?v=PHX7q4pMGbo" target="_blank">Announcing Amazon Textract </a>| 
+|---|<a href="https://www.youtube.com/watch?v=oTPpIyXoE3k" target="_blank">Announcing Amazon Timestream </a>| 
+|---|<a href="https://www.youtube.com/watch?v=rAMg6I5Hp4M" target="_blank">Announcing Machine Learning Solutions in AWS Marketplace </a>| 
 |---|<a href="https://www.youtube.com/watch?v=F4VGt6xOVpk" target="_blank">Badge Pickup </a>| 
 |---|<a href="https://www.youtube.com/watch?v=P5LA2P3SpbI" target="_blank">Campus & Schedule Overview </a>| 
 |---|<a href="https://www.youtube.com/watch?v=OBXv9KcXmwc" target="_blank">Community Activities </a>| 
 |---|<a href="https://www.youtube.com/watch?v=qZWSwt71YFQ" target="_blank">Community Hero </a>| 
 |---|<a href="https://www.youtube.com/watch?v=ssTEC-M2PWk" target="_blank">Daily re:Cap - Monday Nov. 26, 2018 </a>| 
 |---|<a href="https://www.youtube.com/watch?v=aQL5CcDdU2U" target="_blank">Daily re:Cap - Sunday Nov. 25, 2018 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=03gXt7dETlg" target="_blank">Daily re:Cap - Thursday Nov. 29, 2018 </a>| 
 |---|<a href="https://www.youtube.com/watch?v=R55wqHI5pZk" target="_blank">Daily re:Cap - Tuesday Nov. 27, 2018 </a>| 
 |---|<a href="https://www.youtube.com/watch?v=q1TvskkIN4Q" target="_blank">Daily re:Cap - Wednesday Nov. 28, 2018 </a>| 
 |---|<a href="https://www.youtube.com/watch?v=QUBK3hIFfgg" target="_blank">Daily re:Port - 4K & 8K Run </a>| 
@@ -50,7 +256,7 @@
 |---|<a href="https://www.youtube.com/watch?v=0IMGSivtHZs" target="_blank">Daily re:Port - Board Game Night & Tweetup </a>| 
 |---|<a href="https://www.youtube.com/watch?v=P0NxPK97xic" target="_blank">Daily re:Port - Bootcamps </a>| 
 |---|<a href="https://www.youtube.com/watch?v=QGqS4P8vkFA" target="_blank">Daily re:Port - Builders Fair </a>| 
-|---|<a href="https://www.youtube.com/watch?v=_bZVSRMnrOU" target="_blank">Daily re:Port - Camp re:Invent Trivia Challenge </a>| 
+|---|<a href="https://www.youtube.com/watch?v=_bZVSRMnrOU" target="_blank">Daily re:Port - Camp re:Invent Trivia Challenge with Jeff Barr </a>| 
 |---|<a href="https://www.youtube.com/watch?v=nHrqXatUM0A" target="_blank">Daily re:Port - Executive Summit </a>| 
 |---|<a href="https://www.youtube.com/watch?v=fJJ44WaSviw" target="_blank">Daily re:Port - Harley Ride </a>| 
 |---|<a href="https://www.youtube.com/watch?v=YjtwRqKLr6w" target="_blank">Daily re:Port - Midnight Madness </a>| 
@@ -71,6 +277,7 @@
 |---|<a href="https://www.youtube.com/watch?v=B7Du2Jmr1Bc" target="_blank">Interview with Jeff Barr </a>| 
 |---|<a href="https://www.youtube.com/watch?v=dZ5FLzOIQF0" target="_blank">Introducing Amazon Elastic Inference </a>| 
 |---|<a href="https://www.youtube.com/watch?v=9tArgQrJBzE" target="_blank">Introducing Amazon Personalize </a>| 
+|---|<a href="https://www.youtube.com/watch?v=gjiozYXHKc8" target="_blank">Introducing Amazon SageMaker Ground Truth </a>| 
 |---|<a href="https://www.youtube.com/watch?v=229qDUWYwXQ" target="_blank">Navigating the re:Invent Campus </a>| 
 |---|<a href="https://www.youtube.com/watch?v=a42kxHSX4Xw" target="_blank">Now Go Build with Werner Vogels EP1 - Jakarta </a>| 
 |---|<a href="https://www.youtube.com/watch?v=nfyNNrKicRo" target="_blank">Onsite Help with Schedule Experts </a>| 
@@ -79,99 +286,9 @@
 |---|<a href="https://www.youtube.com/watch?v=n_PtTv2R3Zw" target="_blank">Tips & Tricks for Surviving re:Invent </a>| 
 |---|<a href="https://www.youtube.com/watch?v=lvRCSHWGUxU" target="_blank">Transportation </a>| 
 |---|<a href="https://www.youtube.com/watch?v=4_V_6uFVJA8" target="_blank">Trivia Night with Jeff Barr, re:Play, Broomball, and More! </a>| 
+|---|<a href="https://www.youtube.com/watch?v=0jlylnQCAN0" target="_blank">Weekly re:Mix </a>| 
 |---|<a href="https://www.youtube.com/watch?v=GplG7NRMKdk" target="_blank">re:Play </a>| 
-
-
-
-
-### Customer Keynotes <a name="1"></a>
-
-| ClassId |       |
-|-|-|
-|---|<a href="https://www.youtube.com/watch?v=BOSIMpalcs8" target="_blank">Bernd Heinemann, Board Member at Allianz, Speaks at Global Partner Summit </a>| 
-|---|<a href="https://www.youtube.com/watch?v=MCLrA401vHw" target="_blank">Chris Dyl, Director of Platform at Epic Games, Speaks at Monday Night Live </a>| 
-|---|<a href="https://www.youtube.com/watch?v=XiPd1y9ULic" target="_blank">Keith Bigelow, GM and SVP at GE Healthcare, Speaks at Monday Night Live </a>| 
-|---|<a href="https://www.youtube.com/watch?v=iwIQNoarVas" target="_blank">Pebbles Sy-Manalang, CIO of Globe Telecom, Speaks at Global Partner Summit </a>| 
-
-
-
-
-### Daily re:Cap <a name="2"></a>
-
-| ClassId |       |
-|-|-|
-|---|<a href="https://www.youtube.com/watch?v=ssTEC-M2PWk" target="_blank">Daily re:Cap - Monday Nov. 26, 2018 </a>| 
-|---|<a href="https://www.youtube.com/watch?v=aQL5CcDdU2U" target="_blank">Daily re:Cap - Sunday Nov. 25, 2018 </a>| 
-|---|<a href="https://www.youtube.com/watch?v=QUBK3hIFfgg" target="_blank">Daily re:Port - 4K & 8K Run </a>| 
-|---|<a href="https://www.youtube.com/watch?v=dx4jTmcKkp8" target="_blank">Daily re:Port - Air Drumming </a>| 
-|---|<a href="https://www.youtube.com/watch?v=EbOXY93zgYI" target="_blank">Daily re:Port - Alexa Hack Day </a>| 
-|---|<a href="https://www.youtube.com/watch?v=fJJ44WaSviw" target="_blank">Daily re:Port - Harley Ride </a>| 
-|---|<a href="https://www.youtube.com/watch?v=YjtwRqKLr6w" target="_blank">Daily re:Port - Midnight Madness </a>| 
-|---|<a href="https://www.youtube.com/watch?v=WNcJRyTwcB4" target="_blank">Daily re:Port - Monday Night Live </a>| 
-|---|<a href="https://www.youtube.com/watch?v=AI32-DDvmO4" target="_blank">Daily re:Port - Tatonka Challenge </a>| 
-|---|<a href="https://www.youtube.com/watch?v=5g6FsBDTGIQ" target="_blank">Daily re:Port - Welcome Reception </a>| 
-
-
-
-
-### GPS-Technical <a name="3"></a>
-
-| ClassId |       |
-|-|-|
-|GPSTEC307|<a href="https://www.youtube.com/watch?v=-mSXdTJuiJg" target="_blank">Networking, Storage, Data Protection Deep Dive w/ VMware Cloud on AWS  </a>| 
-|GPSTEC321|<a href="https://www.youtube.com/watch?v=UH5r1rEz9Gg" target="_blank">Meet Preston, and Explore Your Digital Twin in Virtual Reality  </a>| 
-|GPSTEC402|<a href="https://www.youtube.com/watch?v=ATJ87z7g7xA" target="_blank">Understanding and Hardening the Attack Surface at the Edge  </a>| 
-|GPSTEC403|<a href="https://www.youtube.com/watch?v=CGte0Yw_4tM" target="_blank">Architecting a Scalable Control Plane on AWS  </a>| 
-
-
-
-
-### Launch Announcements <a name="4"></a>
-
-| ClassId |       |
-|-|-|
-|---|<a href="https://www.youtube.com/watch?v=C1iJYz7oijo" target="_blank">Announcing AWS DeepRacer </a>| 
-|---|<a href="https://www.youtube.com/watch?v=dwUJVYEhxGM" target="_blank">Announcing AWS DeepRacer (Demo) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=uVF73MXYay8" target="_blank">Announcing AWS Lake Formation </a>| 
-|---|<a href="https://www.youtube.com/watch?v=_-2E8iDEqFY" target="_blank">Announcing Amazon Forecast </a>| 
-|---|<a href="https://www.youtube.com/watch?v=RjhrugELYW8" target="_blank">Announcing Amazon SageMaker Neo </a>| 
-|---|<a href="https://www.youtube.com/watch?v=6skqe2IuI34" target="_blank">Announcing Amazon SageMaker RL </a>| 
-|---|<a href="https://www.youtube.com/watch?v=PHX7q4pMGbo" target="_blank">Announcing Amazon Textract </a>| 
-|---|<a href="https://www.youtube.com/watch?v=oTPpIyXoE3k" target="_blank">Announcing Amazon Timestream </a>| 
-|---|<a href="https://www.youtube.com/watch?v=rAMg6I5Hp4M" target="_blank">Announcing Machine Learning Solutions in AWS Marketplace </a>| 
-|---|<a href="https://www.youtube.com/watch?v=a4l1UCo3YHE" target="_blank">Introducing AWS Security Hub </a>| 
-|---|<a href="https://www.youtube.com/watch?v=dZ5FLzOIQF0" target="_blank">Introducing Amazon Elastic Inference </a>| 
-|---|<a href="https://www.youtube.com/watch?v=9tArgQrJBzE" target="_blank">Introducing Amazon Personalize </a>| 
-|---|<a href="https://www.youtube.com/watch?v=gjiozYXHKc8" target="_blank">Introducing Amazon SageMaker Ground Truth </a>| 
-
-
-
-
-### twitch.tv/aws <a name="5"></a>
-
-| ClassId |       |
-|-|-|
-|---|<a href="https://www.youtube.com/watch?v=sdCntQUPYzE" target="_blank">AWS Announces New Amazon S3 Features </a>| 
-|---|<a href="https://www.youtube.com/watch?v=Wlgm6VzTXbk" target="_blank">AWS Elemental MediaConnect is now Generally Available </a>| 
-|---|<a href="https://www.youtube.com/watch?v=4-sI24EbvHk" target="_blank">Amazon RDS on VMware Now in Preview </a>| 
-|---|<a href="https://www.youtube.com/watch?v=qMeSp-ZBDAg" target="_blank">Announcing Amazon DynamoDB Support for Transactions </a>| 
-|---|<a href="https://www.youtube.com/watch?v=21tG9tjbxTM" target="_blank">Announcing Two New AWS Online Data Transfer Services & New Edge Computing Capabilities </a>| 
-|---|<a href="https://www.youtube.com/watch?v=B_-8TT23a6E" target="_blank">Community Day Session 1 |  Red Team vs. Blue Team on AWS </a>| 
-|---|<a href="https://www.youtube.com/watch?v=HQaYSSQ2Y1U" target="_blank">Community Day Session 2 | ProTips for Scaling AWS Training to Accelerate Adoption </a>| 
-|---|<a href="https://www.youtube.com/watch?v=yIDsCwrmY8g" target="_blank">Community Day Session 3 | Applying Principles of Chaos Engineering to Serverless </a>| 
-|---|<a href="https://www.youtube.com/watch?v=s2NYVwAs4Fo" target="_blank">Community Day Session 4 | Building Fraud Detection Systems with AWS Batch and Containers </a>| 
-|---|<a href="https://www.youtube.com/watch?v=DrrvPqX_Qr8" target="_blank">Firecracker is now Open Source </a>| 
-|---|<a href="https://www.youtube.com/watch?v=cA8jYfpfZ1g" target="_blank">Future of AI - Creating Movie Magic with Computational Simulations </a>| 
-|---|<a href="https://www.youtube.com/watch?v=0uyxGGD3wo0" target="_blank">Future of AI - Designing for a Data-Driven Economy </a>| 
-|---|<a href="https://www.youtube.com/watch?v=cD_Y_8IfT_A" target="_blank">Future of AI - Pragmatic Quantum Machine Learning Today </a>| 
-|---|<a href="https://www.youtube.com/watch?v=ZsgFqE4cV38" target="_blank">Future of AI - The Evolution of Language and Information Technology </a>| 
-|---|<a href="https://www.youtube.com/watch?v=cq0dTR8kL44" target="_blank">Industrial IoT Applications </a>| 
-|---|<a href="https://www.youtube.com/watch?v=B6kmBLDck8w" target="_blank">Introducing Dashboard Embedding and ML Insights with Amazon QuickSight </a>| 
-|---|<a href="https://www.youtube.com/watch?v=8FzC-8XD6OM" target="_blank">Kick off and Recent Launches </a>| 
-|---|<a href="https://www.youtube.com/watch?v=Thcdt4EdaKI" target="_blank">Meet-a- Engineer | Becky Weiss, Senior Principal Engineer, AWS </a>| 
-|---|<a href="https://www.youtube.com/watch?v=EobTxuqVHJ8" target="_blank">Purpose-Built Databases: Choose the Right Tool for Each Job </a>| 
-|---|<a href="https://www.youtube.com/watch?v=Ks5lud7Rye4" target="_blank">re:Invent Spotlight The NAB Cloud Guild </a>| 
-|---|<a href="https://www.youtube.com/watch?v=h1OThy53uks" target="_blank">re:Invent Spotlight | Twitch Developers </a>| 
+|---|<a href="https://www.youtube.com/watch?v=kAK4aAHlJkg" target="_blank">re:Play featuring Skrillex </a>| 
 
 
 
