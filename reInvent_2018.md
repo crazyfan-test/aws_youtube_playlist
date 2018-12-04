@@ -4,13 +4,12 @@
 ### Tracks
 
 * [Keynotes](#0) (4 Videos)
-* [Customer Keynotes](#1) (4 Videos)
-* [Customer Speakers](#2) (4 Videos)
-* [Daily re:Cap](#3) (25 Videos)
-* [GPS-Technical](#4) (7 Videos)
-* [Launch Announcements](#5) (15 Videos)
-* [twitch.tv/aws](#6) (80 Videos)
-* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#7) (69 Videos)
+* [Customer Speakers](#1) (4 Videos)
+* [Daily re:Cap](#2) (25 Videos)
+* [GPS-Technical](#3) (7 Videos)
+* [Launch Announcements](#4) (15 Videos)
+* [twitch.tv/aws](#5) (80 Videos)
+* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#6) (74 Videos)
 
 
 
@@ -33,7 +32,7 @@
 
 
 
-### Customer Keynotes <a name="1"></a>
+### Customer Speakers <a name="1"></a>
 
 | ClassId |       |
 |-|-|
@@ -45,19 +44,7 @@
 
 
 
-### Customer Speakers <a name="2"></a>
-
-| ClassId |       |
-|-|-|
-|---|<a href="https://www.youtube.com/watch?v=BOSIMpalcs8" target="_blank">Bernd Heinemann, Board Member at Allianz, Speaks at Global Partner Summit </a>| 
-|---|<a href="https://www.youtube.com/watch?v=MCLrA401vHw" target="_blank">Chris Dyl, Director of Platform at Epic Games, Speaks at Monday Night Live </a>| 
-|---|<a href="https://www.youtube.com/watch?v=XiPd1y9ULic" target="_blank">Keith Bigelow, GM and SVP at GE Healthcare, Speaks at Monday Night Live </a>| 
-|---|<a href="https://www.youtube.com/watch?v=iwIQNoarVas" target="_blank">Pebbles Sy-Manalang, CIO of Globe Telecom, Speaks at Global Partner Summit </a>| 
-
-
-
-
-### Daily re:Cap <a name="3"></a>
+### Daily re:Cap <a name="2"></a>
 
 | ClassId |       |
 |-|-|
@@ -90,7 +77,7 @@
 
 
 
-### GPS-Technical <a name="4"></a>
+### GPS-Technical <a name="3"></a>
 
 | ClassId |       |
 |-|-|
@@ -105,7 +92,7 @@
 
 
 
-### Launch Announcements <a name="5"></a>
+### Launch Announcements <a name="4"></a>
 
 | ClassId |       |
 |-|-|
@@ -128,7 +115,7 @@
 
 
 
-### twitch.tv/aws <a name="6"></a>
+### twitch.tv/aws <a name="5"></a>
 
 | ClassId |       |
 |-|-|
@@ -216,7 +203,7 @@
 
 
 
-### Nov. 26 – Nov. 30, 2018 Las Vegas, NV <a name="7"></a>
+### Nov. 26 – Nov. 30, 2018 Las Vegas, NV <a name="6"></a>
 
 | ClassId |       |
 |-|-|
@@ -241,7 +228,9 @@
 |---|<a href="https://www.youtube.com/watch?v=oTPpIyXoE3k" target="_blank">Announcing Amazon Timestream </a>| 
 |---|<a href="https://www.youtube.com/watch?v=rAMg6I5Hp4M" target="_blank">Announcing Machine Learning Solutions in AWS Marketplace </a>| 
 |---|<a href="https://www.youtube.com/watch?v=F4VGt6xOVpk" target="_blank">Badge Pickup </a>| 
+|---|<a href="https://www.youtube.com/watch?v=BOSIMpalcs8" target="_blank">Bernd Heinemann, Board Member at Allianz, Speaks at Global Partner Summit </a>| 
 |---|<a href="https://www.youtube.com/watch?v=P5LA2P3SpbI" target="_blank">Campus & Schedule Overview </a>| 
+|---|<a href="https://www.youtube.com/watch?v=MCLrA401vHw" target="_blank">Chris Dyl, Director of Platform at Epic Games, Speaks at Monday Night Live </a>| 
 |---|<a href="https://www.youtube.com/watch?v=OBXv9KcXmwc" target="_blank">Community Activities </a>| 
 |---|<a href="https://www.youtube.com/watch?v=qZWSwt71YFQ" target="_blank">Community Hero </a>| 
 |---|<a href="https://www.youtube.com/watch?v=ssTEC-M2PWk" target="_blank">Daily re:Cap - Monday Nov. 26, 2018 </a>| 
@@ -267,6 +256,7 @@
 |---|<a href="https://www.youtube.com/watch?v=ibOE5rXVhKM" target="_blank">Daily re:Port - Table Tennis Tournament </a>| 
 |---|<a href="https://www.youtube.com/watch?v=AI32-DDvmO4" target="_blank">Daily re:Port - Tatonka Challenge </a>| 
 |---|<a href="https://www.youtube.com/watch?v=5g6FsBDTGIQ" target="_blank">Daily re:Port - Welcome Reception </a>| 
+|---|<a href="https://www.youtube.com/watch?v=F61GtueelP4" target="_blank">Ethan Kaplan from Fender Shares How AWS Helps Brings Music to More Customers </a>| 
 |---|<a href="https://www.youtube.com/watch?v=p603k7dvQ-8" target="_blank">Expo Hall, The Quad, and Welcome Reception </a>| 
 |---|<a href="https://www.youtube.com/watch?v=pVmlJksOCLo" target="_blank">Hackathon & Jam Sessions </a>| 
 |---|<a href="https://www.youtube.com/watch?v=_wT07_5Z8i8" target="_blank">How to re:Invent - Episode 1: What's New? </a>| 
@@ -278,10 +268,12 @@
 |---|<a href="https://www.youtube.com/watch?v=dZ5FLzOIQF0" target="_blank">Introducing Amazon Elastic Inference </a>| 
 |---|<a href="https://www.youtube.com/watch?v=9tArgQrJBzE" target="_blank">Introducing Amazon Personalize </a>| 
 |---|<a href="https://www.youtube.com/watch?v=gjiozYXHKc8" target="_blank">Introducing Amazon SageMaker Ground Truth </a>| 
+|---|<a href="https://www.youtube.com/watch?v=XiPd1y9ULic" target="_blank">Keith Bigelow, GM and SVP at GE Healthcare, Speaks at Monday Night Live </a>| 
 |---|<a href="https://www.youtube.com/watch?v=229qDUWYwXQ" target="_blank">Navigating the re:Invent Campus </a>| 
 |---|<a href="https://www.youtube.com/watch?v=a42kxHSX4Xw" target="_blank">Now Go Build with Werner Vogels EP1 - Jakarta </a>| 
 |---|<a href="https://www.youtube.com/watch?v=nfyNNrKicRo" target="_blank">Onsite Help with Schedule Experts </a>| 
 |---|<a href="https://www.youtube.com/watch?v=xhv0Lqi6mFg" target="_blank">Overflow Program </a>| 
+|---|<a href="https://www.youtube.com/watch?v=iwIQNoarVas" target="_blank">Pebbles Sy-Manalang, CIO of Globe Telecom, Speaks at Global Partner Summit </a>| 
 |---|<a href="https://www.youtube.com/watch?v=kOI7hRHb8ww" target="_blank">Preparing for re:Invent </a>| 
 |---|<a href="https://www.youtube.com/watch?v=n_PtTv2R3Zw" target="_blank">Tips & Tricks for Surviving re:Invent </a>| 
 |---|<a href="https://www.youtube.com/watch?v=lvRCSHWGUxU" target="_blank">Transportation </a>| 
