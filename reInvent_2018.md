@@ -624,7 +624,7 @@
 |FSV305|<a href="https://www.youtube.com/watch?v=_UiyIJqDXXQ" target="_blank">HSBC Uses Serverless to Process Millions of Transactions in Real Time  </a>| 
 |FSV306-S|<a href="https://www.youtube.com/watch?v=Oqh32dYavwU" target="_blank">Implementation of Amazon Connect, Powered by Accenture  </a>| 
 |FSV307-S|<a href="https://www.youtube.com/watch?v=h9mFw4rHxq4" target="_blank">Vanguard's Journey with Tableau to the AWS Cloud  </a>| 
-|FSV308-S-|<a href="https://www.youtube.com/watch?v=ahCCTkj86zo" target="_blank">Embracing New Operating Models at Vanguard (i) </a>| 
+|FSV308-S-i|<a href="https://www.youtube.com/watch?v=ahCCTkj86zo" target="_blank">Embracing New Operating Models at Vanguard  </a>| 
 |FSV325|<a href="https://www.youtube.com/watch?v=eQ549RvQDeI" target="_blank">How Nubank Automates Fine-Grained Security with IAM, AWS Lambda, & CI/CD  </a>| 
 
 
@@ -705,7 +705,7 @@
 |HLC201-iL|<a href="https://www.youtube.com/watch?v=vnvHx-8yYHE" target="_blank">Leadership Session: Innovation-Driven Healthcare  </a>| 
 |HLC202S|<a href="https://www.youtube.com/watch?v=_jzn9edFyYs" target="_blank">Merck & Co. – Driving Business Innovation with Adaptive Data Foundation  </a>| 
 |HLC301-i|<a href="https://www.youtube.com/watch?v=wNB5gu7klUo" target="_blank">Architecting for Healthcare Compliance on AWS  </a>| 
-|HLC302-S-|<a href="https://www.youtube.com/watch?v=tXxspEUalyo" target="_blank">Automating Compliance on AWS (i) </a>| 
+|HLC302-S-i|<a href="https://www.youtube.com/watch?v=tXxspEUalyo" target="_blank">Automating Compliance on AWS  </a>| 
 |HLC303|<a href="https://www.youtube.com/watch?v=DY4rczIYZws" target="_blank">Data  & Analysis with Amazon Neptune: A Study in Healthcare Billing  </a>| 
 
 
@@ -746,7 +746,7 @@
 | ClassId |       |
 |-|-|
 |LFS201-iL|<a href="https://www.youtube.com/watch?v=UHyBd9_LrdA" target="_blank">Leadership Session: Accelerating Transformation in Life Sciences  </a>| 
-|LFS301-S-|<a href="https://www.youtube.com/watch?v=830o6r9eJrk" target="_blank">Enabling Patient Centricity for Pfizer through AWS Cloud (i) </a>| 
+|LFS301-S-i|<a href="https://www.youtube.com/watch?v=830o6r9eJrk" target="_blank">Enabling Patient Centricity for Pfizer through AWS Cloud  </a>| 
 |LFS302-S|<a href="https://www.youtube.com/watch?v=mBLdbe8s7UI" target="_blank">Drug Discovery Innovation in a Precompetitive Cloud Platform  </a>| 
 |LFS304-i|<a href="https://www.youtube.com/watch?v=0JTNb1cg3_U" target="_blank">Building IoT Devices for Regulated Industries  </a>| 
 
@@ -841,7 +841,7 @@
 | ClassId |       |
 |-|-|
 |PUT201|<a href="https://www.youtube.com/watch?v=qW0N76RZAwY" target="_blank">Customer Journey w/ AWS Analytics to Drive Revenue & Retention  </a>| 
-|PUT202-S-|<a href="https://www.youtube.com/watch?v=KbvOL1dRG8I" target="_blank">Building the Virtual Power Plant, One Home at a Time (i) </a>| 
+|PUT202-S-i|<a href="https://www.youtube.com/watch?v=KbvOL1dRG8I" target="_blank">Building the Virtual Power Plant, One Home at a Time  </a>| 
 |PUT301-i|<a href="https://www.youtube.com/watch?v=YkLeepisXOM" target="_blank">Enhanced Customer Insights Using Natural Language Processing  </a>| 
 |PUT302-i|<a href="https://www.youtube.com/watch?v=RLfhvM1GyQw" target="_blank">How AWS Improves Energy Efficiency  with the Alexa Connected Home  </a>| 
 |PUT304|<a href="https://www.youtube.com/watch?v=uL4GvNg3w2s" target="_blank">Distributed Solar Systems at EDF Renewables and AWS IoT: A Natural Fit  </a>| 
@@ -853,7 +853,7 @@
 
 | ClassId |       |
 |-|-|
-|---|<a href="https://www.youtube.com/watch?v=sRDM55vsQlU" target="_blank">Worldwide Public Sector Breakfast Hosted by Teresa Carlson (WPS01) </a>| 
+|WPS01|<a href="https://www.youtube.com/watch?v=sRDM55vsQlU" target="_blank">Worldwide Public Sector Breakfast Hosted by Teresa Carlson  </a>| 
 |WPS202|<a href="https://www.youtube.com/watch?v=23aC4yA82uY" target="_blank">Modernizing Public Sector in the Cloud  </a>| 
 |WPS203|<a href="https://www.youtube.com/watch?v=3bdggjvGBJ8" target="_blank">You've Decided to Buy Cloud Services, Now What?  </a>| 
 |WPS204|<a href="https://www.youtube.com/watch?v=sm0oGh2sIb0" target="_blank">Building a Governance, Risk, and Compliance Strategy with AWS  </a>| 
@@ -953,24 +953,24 @@
 
 | ClassId |       |
 |-|-|
-|---|<a href="https://www.youtube.com/watch?v=7y1wrVxTuYo" target="_blank">#BUIDLing the Decentralized Future on Ethereum (STP05) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=zxrxHcbn9GY" target="_blank">Aetion’s Journey to AWS CodePipeline, AWS CloudFormation, & Amazon ECS (STP04) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=e4qYgVfj6P8" target="_blank">Application Release Management at Deliveroo (STP02) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=xo6Zp0jL--s" target="_blank">Crypto 101/201 (STP12) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=yFU_Va3Zs9A" target="_blank">Data Engineering the Startup Way (STP06) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=n9WHg0TdnT4" target="_blank">Data Teams: The Moral Compass of AI (STP01) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=2WkxDdVkBNg" target="_blank">How Bill.com Uses Amazon SageMaker & AWS Glue to Enable Machine Learning -STP10 </a>| 
-|---|<a href="https://www.youtube.com/watch?v=tPemFSYO0Dw" target="_blank">How Coinbase Builds Out Its Blockchain Infrastructure (STP14) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=rlobQYMb7zY" target="_blank">How Robinhood Used AWS to Make a Self-Service Data Platform (STP08) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=tTkimBL-thE" target="_blank">How iflix Uses AWS Elemental Services to Redefine the Future of TV (STP09) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=iwWM8rPax-E" target="_blank">How the Cloud Helps Nubank Support Millions of Daily Customers (STP15) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=vq6J5xYvuxM" target="_blank">Kabbage’s Long Strange Trip to Data Democratization (STP07) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=GpXC97EP2WE" target="_blank">Lending at Affirm: Powered by Machine Learning and Amazon EMR (STP17) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=aK349Hwixf4" target="_blank">Leveraging Amazon SageMaker to Drive Rapid Innovation (STP03) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=rG8Z1M8BDmo" target="_blank">Managing 1,000 Servers without a Driver’s License (STP19) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=t6nR_SZe03w" target="_blank">Reddit’s Serverless & Compute Infrastructure at Scale (STP18) </a>| 
-|---|<a href="https://www.youtube.com/watch?v=hIPOLeEjVQY" target="_blank">Scaling a Fantasy Sports Platform with Amazon ElastiCache & Amazon Aurora STP11 </a>| 
-|---|<a href="https://www.youtube.com/watch?v=O4mDgWQ_WA4" target="_blank">Securing Microservices on Amazon ECS at BuzzFeed (STP16) </a>| 
+|STP01|<a href="https://www.youtube.com/watch?v=n9WHg0TdnT4" target="_blank">Data Teams: The Moral Compass of AI  </a>| 
+|STP02|<a href="https://www.youtube.com/watch?v=e4qYgVfj6P8" target="_blank">Application Release Management at Deliveroo  </a>| 
+|STP03|<a href="https://www.youtube.com/watch?v=aK349Hwixf4" target="_blank">Leveraging Amazon SageMaker to Drive Rapid Innovation  </a>| 
+|STP04|<a href="https://www.youtube.com/watch?v=zxrxHcbn9GY" target="_blank">Aetion’s Journey to AWS CodePipeline, AWS CloudFormation, & Amazon ECS  </a>| 
+|STP05|<a href="https://www.youtube.com/watch?v=7y1wrVxTuYo" target="_blank">#BUIDLing the Decentralized Future on Ethereum  </a>| 
+|STP06|<a href="https://www.youtube.com/watch?v=yFU_Va3Zs9A" target="_blank">Data Engineering the Startup Way  </a>| 
+|STP07|<a href="https://www.youtube.com/watch?v=vq6J5xYvuxM" target="_blank">Kabbage’s Long Strange Trip to Data Democratization  </a>| 
+|STP08|<a href="https://www.youtube.com/watch?v=rlobQYMb7zY" target="_blank">How Robinhood Used AWS to Make a Self-Service Data Platform  </a>| 
+|STP09|<a href="https://www.youtube.com/watch?v=tTkimBL-thE" target="_blank">How iflix Uses AWS Elemental Services to Redefine the Future of TV  </a>| 
+|STP10|<a href="https://www.youtube.com/watch?v=2WkxDdVkBNg" target="_blank">How Bill.com Uses Amazon SageMaker & AWS Glue to Enable Machine Learning - </a>| 
+|STP11|<a href="https://www.youtube.com/watch?v=hIPOLeEjVQY" target="_blank">Scaling a Fantasy Sports Platform with Amazon ElastiCache & Amazon Aurora  </a>| 
+|STP12|<a href="https://www.youtube.com/watch?v=xo6Zp0jL--s" target="_blank">Crypto 101/201  </a>| 
+|STP14|<a href="https://www.youtube.com/watch?v=tPemFSYO0Dw" target="_blank">How Coinbase Builds Out Its Blockchain Infrastructure  </a>| 
+|STP15|<a href="https://www.youtube.com/watch?v=iwWM8rPax-E" target="_blank">How the Cloud Helps Nubank Support Millions of Daily Customers  </a>| 
+|STP16|<a href="https://www.youtube.com/watch?v=O4mDgWQ_WA4" target="_blank">Securing Microservices on Amazon ECS at BuzzFeed  </a>| 
+|STP17|<a href="https://www.youtube.com/watch?v=GpXC97EP2WE" target="_blank">Lending at Affirm: Powered by Machine Learning and Amazon EMR  </a>| 
+|STP18|<a href="https://www.youtube.com/watch?v=t6nR_SZe03w" target="_blank">Reddit’s Serverless & Compute Infrastructure at Scale  </a>| 
+|STP19|<a href="https://www.youtube.com/watch?v=rG8Z1M8BDmo" target="_blank">Managing 1,000 Servers without a Driver’s License  </a>| 
 
 
 
