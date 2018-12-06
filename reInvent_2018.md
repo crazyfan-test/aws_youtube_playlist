@@ -12,44 +12,47 @@
 * [ARVR](#6) (3 Videos)
 * [AdTech](#7) (2 Videos)
 * [Alexa](#8) (9 Videos)
-* [Application Integration](#9) (8 Videos)
-* [Artificial Intelligence & Machine Learning](#10) (37 Videos)
-* [Automotive](#11) (2 Videos)
-* [Breakout Sessions](#12) (1 Videos)
-* [Business Apps](#13) (13 Videos)
-* [Compute](#14) (23 Videos)
-* [Containers](#15) (18 Videos)
-* [Content Delivery](#16) (10 Videos)
-* [Databases](#17) (35 Videos)
-* [Developer Community](#18) (8 Videos)
-* [Devops](#19) (34 Videos)
-* [Digital User Engagement](#20) (2 Videos)
-* [Enterprise & Hybrid](#21) (32 Videos)
-* [Financial Services](#22) (10 Videos)
-* [GPS-Marketplace](#23) (1 Videos)
-* [GPS-Marketplace, Global Partner Summit](#24) (1 Videos)
-* [GPS-Technical](#25) (7 Videos)
-* [GPS-Technical, Global Partner Summit](#26) (16 Videos)
-* [Gaming](#27) (3 Videos)
-* [Healthcare](#28) (5 Videos)
-* [IoT](#29) (22 Videos)
-* [Life Sciences](#30) (4 Videos)
-* [Manufacturing](#31) (4 Videos)
-* [Media & Entertainment](#32) (5 Videos)
-* [Mobile](#33) (14 Videos)
-* [Networking](#34) (19 Videos)
-* [Oil & Gas](#35) (1 Videos)
-* [Power & Utilities](#36) (5 Videos)
-* [Public Sector](#37) (8 Videos)
-* [Retail & Wholesale](#38) (3 Videos)
-* [Robotics](#39) (2 Videos)
-* [Security, Identity, and Compliance](#40) (32 Videos)
-* [Serverless](#41) (15 Videos)
-* [Startup Central](#42) (18 Videos)
-* [Telecommunications](#43) (3 Videos)
-* [We Power Tech](#44) (4 Videos)
-* [Windows & .NET](#45) (11 Videos)
-* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#46) (76 Videos)
+* [Analytics](#9) (32 Videos)
+* [Application Integration](#10) (8 Videos)
+* [Architecture](#11) (19 Videos)
+* [Artificial Intelligence & Machine Learning](#12) (37 Videos)
+* [Automotive](#13) (4 Videos)
+* [Business Apps](#14) (13 Videos)
+* [Compute](#15) (23 Videos)
+* [Containers](#16) (18 Videos)
+* [Content Delivery](#17) (10 Videos)
+* [Databases](#18) (35 Videos)
+* [Developer Community](#19) (8 Videos)
+* [Devops](#20) (34 Videos)
+* [Digital User Engagement](#21) (2 Videos)
+* [Enterprise & Hybrid](#22) (32 Videos)
+* [Financial Services](#23) (10 Videos)
+* [GPS-Marketplace](#24) (1 Videos)
+* [GPS-Marketplace, Global Partner Summit](#25) (1 Videos)
+* [GPS-Technical](#26) (7 Videos)
+* [GPS-Technical, Global Partner Summit](#27) (16 Videos)
+* [Gaming](#28) (3 Videos)
+* [Global China Region](#29) (1 Videos)
+* [Healthcare](#30) (5 Videos)
+* [IoT](#31) (22 Videos)
+* [Life Sciences](#32) (4 Videos)
+* [Manufacturing](#33) (4 Videos)
+* [Media & Entertainment](#34) (5 Videos)
+* [Mobile](#35) (14 Videos)
+* [Networking](#36) (20 Videos)
+* [Oil & Gas](#37) (1 Videos)
+* [Power & Utilities](#38) (5 Videos)
+* [Public Sector](#39) (8 Videos)
+* [Retail & Wholesale](#40) (3 Videos)
+* [Robotics](#41) (2 Videos)
+* [Security, Identity, and Compliance](#42) (32 Videos)
+* [Serverless](#43) (15 Videos)
+* [Startup Central](#44) (18 Videos)
+* [Storage](#45) (27 Videos)
+* [Telecommunications](#46) (3 Videos)
+* [We Power Tech](#47) (4 Videos)
+* [Windows & .NET](#48) (11 Videos)
+* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#49) (76 Videos)
 
 
 
@@ -285,7 +288,47 @@
 
 
 
-### Application Integration <a name="9"></a>
+### Analytics <a name="9"></a>
+
+| ClassId |       |
+|-|-|
+|ANT201-R1|<a href="https://www.youtube.com/watch?v=ovPheIbY7U8" target="_blank">Big Data Analytics Architectural Patterns & Best Practices  </a>| 
+|ANT202|<a href="https://www.youtube.com/watch?v=owJ-ipdTbko" target="_blank">Modern Cloud Data Warehousing (Intuit): Optimize Analytics Practices  </a>| 
+|ANT202-R|<a href="https://www.youtube.com/watch?v=QZ4LAZCbsrQ" target="_blank">Modern Cloud Data Warehousing ft. Equinox Fitness Clubs  </a>| 
+|ANT203|<a href="https://www.youtube.com/watch?v=u_7xMcZl3D0" target="_blank">Search at Nike with Amazon Elasticsearch Service  </a>| 
+|ANT204|<a href="https://www.youtube.com/watch?v=7TBiXZlIo0I" target="_blank">Build Data Engineering Platforms with Amazon EMR  </a>| 
+|ANT205|<a href="https://www.youtube.com/watch?v=RxYtS0nOYow" target="_blank">Technology Trends: Data Lakes and Analytics  </a>| 
+|ANT206|<a href="https://www.youtube.com/watch?v=PitJL9vOotc" target="_blank">How Amazon Uses AWS Services for Analytics at a Massive Scale  </a>| 
+|ANT208|<a href="https://www.youtube.com/watch?v=mrLsGq0HFVk" target="_blank">Serverless Video Ingestion & Analytics with Amazon Kinesis Video Streams  </a>| 
+|ANT209-S|<a href="https://www.youtube.com/watch?v=JMhDb_uh3Zg" target="_blank">Security Challenges & Use Cases in the Modern Application  </a>| 
+|ANT210-S|<a href="https://www.youtube.com/watch?v=s_FjVRfKJL4" target="_blank">WuXi NextCODE Scales up Genomic Sequencing on AWS  </a>| 
+|ANT308|<a href="https://www.youtube.com/watch?v=S_xeHvP7uMo" target="_blank">Building Serverless Analytics Pipelines with AWS Glue  </a>| 
+|ANT309|<a href="https://www.youtube.com/watch?v=JsNR8uBVSiA" target="_blank">Build and Govern Your Data Lakes with AWS Glue  </a>| 
+|ANT310|<a href="https://www.youtube.com/watch?v=jhYIxM2KiLs" target="_blank">Architecting for Real-Time Insights with Amazon Kinesis  </a>| 
+|ANT311|<a href="https://www.youtube.com/watch?v=rJaijdRf7KI" target="_blank">NFL & Forwood Safety Deploy Analytics at Scale w/ Amazon QuickSight  </a>| 
+|ANT312|<a href="https://www.youtube.com/watch?v=Ewv8GQ8KCyI" target="_blank">Hadoop/Spark to Amazon EMR, Architect It for Security & Governance  </a>| 
+|ANT316|<a href="https://www.youtube.com/watch?v=v5lkNHib7bw" target="_blank">Effective Data Lakes: Challenges and Design Patterns  </a>| 
+|ANT322-R1|<a href="https://www.youtube.com/watch?v=jKPlGznbfZ0" target="_blank">High Performance Data Streaming with Amazon Kinesis: Best Practices  </a>| 
+|ANT323-R1|<a href="https://www.youtube.com/watch?v=fSjAfp-uqSs" target="_blank">[REPEAT 1] Build Your Own Log Analytics Solutions on AWS  </a>| 
+|ANT324|<a href="https://www.youtube.com/watch?v=gGJ4zxeG9PI" target="_blank">Amazon Athena: What's New and How SendGrid Innovates  </a>| 
+|ANT327|<a href="https://www.youtube.com/watch?v=U8Z_pfMRnBA" target="_blank">Best Practices to Secure Data Lake on AWS  </a>| 
+|ANT328-S|<a href="https://www.youtube.com/watch?v=uV4lzz1Z0C8" target="_blank">How Instacart’s Catalog Flourished While Hyper-Growing  </a>| 
+|ANT329-S|<a href="https://www.youtube.com/watch?v=24F_Rx5IlHM" target="_blank">TIBCO: AI and Data Science Innovation with Amazon SageMaker  </a>| 
+|ANT330-S|<a href="https://www.youtube.com/watch?v=JIbKpPalq1c" target="_blank">“Cloud First” Helps Hub Intl Grow the Business with Splunk on AWS  </a>| 
+|ANT334-R1|<a href="https://www.youtube.com/watch?v=95kQkS51VnU" target="_blank">Get the Most out of Your Amazon Elasticsearch Service Domain  </a>| 
+|ANT335-S|<a href="https://www.youtube.com/watch?v=xcyNB5hki2o" target="_blank">How to Automate Security Learning at Scale  </a>| 
+|ANT337-S|<a href="https://www.youtube.com/watch?v=By9XdNyXyGg" target="_blank">How to Quickly Get Insights from IoT Data on AWS  </a>| 
+|ANT340-R1|<a href="https://www.youtube.com/watch?v=ISl9sTzxoSo" target="_blank">[REPEAT 1] A Deep Dive into What's New with Amazon EMR  </a>| 
+|ANT350-R|<a href="https://www.youtube.com/watch?v=z2LxhuL54nM" target="_blank">[REPEAT] What's New with Amazon Redshift ft. Dow Jones  </a>| 
+|ANT350-R1|<a href="https://www.youtube.com/watch?v=MS1zleTPmA0" target="_blank">[REPEAT 1] What's New with Amazon Redshift ft. McDonald's  </a>| 
+|ANT396|<a href="https://www.youtube.com/watch?v=nsiLMqg654s" target="_blank">[NEW LAUNCH!] Intro to AWS Lake Formation - Build a secure data lake  </a>| 
+|ANT398|<a href="https://www.youtube.com/watch?v=zhsVfsykBHc" target="_blank">[NEW LAUNCH!] Amazon Managed Streaming for Kafka (Amazon MSK)  </a>| 
+|ANT401-R1|<a href="https://www.youtube.com/watch?v=TJDtQom7SAA" target="_blank">[REPEAT 1] Deep Dive and Best Practices for Amazon Redshift  </a>| 
+
+
+
+
+### Application Integration <a name="10"></a>
 
 | ClassId |       |
 |-|-|
@@ -301,7 +344,34 @@
 
 
 
-### Artificial Intelligence & Machine Learning <a name="10"></a>
+### Architecture <a name="11"></a>
+
+| ClassId |       |
+|-|-|
+|ARC202-R2|<a href="https://www.youtube.com/watch?v=Vo1ytbsNsa4" target="_blank">Running Lean Architectures: How to Optimize for Cost Efficiency  </a>| 
+|ARC205-R1|<a href="https://www.youtube.com/watch?v=Ma3xWDXTxRg" target="_blank">[REPEAT 1] Scaling Up to Your First 10 Million Users  </a>| 
+|ARC209-R2|<a href="https://www.youtube.com/watch?v=2e29I3dA8o4" target="_blank">Architecture Patterns for Multi-Region Active-Active Applications  </a>| 
+|ARC212|<a href="https://www.youtube.com/watch?v=4Gr7hv24jK4" target="_blank">Trends in Digital Transformation  </a>| 
+|ARC217|<a href="https://www.youtube.com/watch?v=gH46jrFfiCc" target="_blank">Foundations of AWS Global Cloud Infrastructure  </a>| 
+|ARC218-S|<a href="https://www.youtube.com/watch?v=6ZkTKtuPExI" target="_blank">Enabling a Digital Platform with Microservices Architecture  </a>| 
+|ARC305-R2|<a href="https://www.youtube.com/watch?v=08AjVGGQaKQ" target="_blank">[REPEAT 2] Serverless Architectural Patterns and Best Practices  </a>| 
+|ARC307|<a href="https://www.youtube.com/watch?v=286XyWx5xdQ" target="_blank">How Intuit TurboTax Ran Entirely on AWS for 2017 Taxes  </a>| 
+|ARC309-R1|<a href="https://www.youtube.com/watch?v=8K7GZFff_V0" target="_blank">[REPEAT 1] From One to Many: Evolving VPC Design  </a>| 
+|ARC314|<a href="https://www.youtube.com/watch?v=MJpZZm62ZKw" target="_blank">Globalizing Player Accounts at Riot Games While Maintaining Availability  </a>| 
+|ARC318|<a href="https://www.youtube.com/watch?v=WKH6px3sOIs" target="_blank">Inference at the Edge: A Case Study at the Amazon Spheres  </a>| 
+|ARC324-R|<a href="https://www.youtube.com/watch?v=flToi0DX6Po" target="_blank">Architecting Next Generation Serverless SaaS Solutions on AWS  </a>| 
+|ARC330-S|<a href="https://www.youtube.com/watch?v=PeintltcYtA" target="_blank">Bridge OLTP & Stream Processing w/ Kinesis, AWS Lambda, MongoDB Atlas  </a>| 
+|ARC333|<a href="https://www.youtube.com/watch?v=EOhLRmB4KBw" target="_blank">From Russia with Love: Fox Sports World Cup Production  </a>| 
+|ARC334|<a href="https://www.youtube.com/watch?v=IdR6N9B-S1E" target="_blank">Scaling Push Messaging for Millions of Netflix Devices  </a>| 
+|ARC337|<a href="https://www.youtube.com/watch?v=O8xLxNje30M" target="_blank">Close Loops & Opening Minds: How to Take Control of Systems, Big & Small  </a>| 
+|ARC338|<a href="https://www.youtube.com/watch?v=swQbA4zub20" target="_blank">How AWS Minimizes the Blast Radius of Failures  </a>| 
+|ARC407|<a href="https://www.youtube.com/watch?v=NxDjKKj4bQE" target="_blank">A Chronicle of Airbnb Architecture Evolution  </a>| 
+|ARC418-R1|<a href="https://www.youtube.com/watch?v=mwQ5lipGTBI" target="_blank">Deconstructing SaaS: Building Multi-Tenant Solutions on AWS  </a>| 
+
+
+
+
+### Artificial Intelligence & Machine Learning <a name="12"></a>
 
 | ClassId |       |
 |-|-|
@@ -346,26 +416,19 @@
 
 
 
-### Automotive <a name="11"></a>
+### Automotive <a name="13"></a>
 
 | ClassId |       |
 |-|-|
+|AMT201-L|<a href="https://www.youtube.com/watch?v=b18lYqRniAk" target="_blank">AWS Automotive: Paving the Way for the Future of the Auto Industry  </a>| 
 |AMT301|<a href="https://www.youtube.com/watch?v=vccM1dPF3pE" target="_blank">Alexa, Where's My Car? Test Drive of AWS Connected Vehicle Solution  </a>| 
 |AMT302|<a href="https://www.youtube.com/watch?v=lSbNLtB1MzU" target="_blank">Easy Rider: How ML, Serverless, and IoT Drive Mobility as a Service  </a>| 
+|AMT305|<a href="https://www.youtube.com/watch?v=UpxYJY1m_tU" target="_blank">Building BMW Group's Customer Engagement Platform on AWS  </a>| 
 
 
 
 
-### Breakout Sessions <a name="12"></a>
-
-| ClassId |       |
-|-|-|
-|GCR201|<a href="https://www.youtube.com/watch?v=DX2iBANLfWw" target="_blank">Update on AWS China Regions and Technical Best Practices  </a>| 
-
-
-
-
-### Business Apps <a name="13"></a>
+### Business Apps <a name="14"></a>
 
 | ClassId |       |
 |-|-|
@@ -386,7 +449,7 @@
 
 
 
-### Compute <a name="14"></a>
+### Compute <a name="15"></a>
 
 | ClassId |       |
 |-|-|
@@ -417,7 +480,7 @@
 
 
 
-### Containers <a name="15"></a>
+### Containers <a name="16"></a>
 
 | ClassId |       |
 |-|-|
@@ -443,7 +506,7 @@
 
 
 
-### Content Delivery <a name="16"></a>
+### Content Delivery <a name="17"></a>
 
 | ClassId |       |
 |-|-|
@@ -461,7 +524,7 @@
 
 
 
-### Databases <a name="17"></a>
+### Databases <a name="18"></a>
 
 | ClassId |       |
 |-|-|
@@ -504,7 +567,7 @@
 
 
 
-### Developer Community <a name="18"></a>
+### Developer Community <a name="19"></a>
 
 | ClassId |       |
 |-|-|
@@ -520,7 +583,7 @@
 
 
 
-### Devops <a name="19"></a>
+### Devops <a name="20"></a>
 
 | ClassId |       |
 |-|-|
@@ -562,7 +625,7 @@
 
 
 
-### Digital User Engagement <a name="20"></a>
+### Digital User Engagement <a name="21"></a>
 
 | ClassId |       |
 |-|-|
@@ -572,7 +635,7 @@
 
 
 
-### Enterprise & Hybrid <a name="21"></a>
+### Enterprise & Hybrid <a name="22"></a>
 
 | ClassId |       |
 |-|-|
@@ -612,7 +675,7 @@
 
 
 
-### Financial Services <a name="22"></a>
+### Financial Services <a name="23"></a>
 
 | ClassId |       |
 |-|-|
@@ -630,7 +693,7 @@
 
 
 
-### GPS-Marketplace <a name="23"></a>
+### GPS-Marketplace <a name="24"></a>
 
 | ClassId |       |
 |-|-|
@@ -639,7 +702,7 @@
 
 
 
-### GPS-Marketplace, Global Partner Summit <a name="24"></a>
+### GPS-Marketplace, Global Partner Summit <a name="25"></a>
 
 | ClassId |       |
 |-|-|
@@ -648,7 +711,7 @@
 
 
 
-### GPS-Technical <a name="25"></a>
+### GPS-Technical <a name="26"></a>
 
 | ClassId |       |
 |-|-|
@@ -663,7 +726,7 @@
 
 
 
-### GPS-Technical, Global Partner Summit <a name="26"></a>
+### GPS-Technical, Global Partner Summit <a name="27"></a>
 
 | ClassId |       |
 |-|-|
@@ -687,7 +750,7 @@
 
 
 
-### Gaming <a name="27"></a>
+### Gaming <a name="28"></a>
 
 | ClassId |       |
 |-|-|
@@ -698,7 +761,16 @@
 
 
 
-### Healthcare <a name="28"></a>
+### Global China Region <a name="29"></a>
+
+| ClassId |       |
+|-|-|
+|GCR201|<a href="https://www.youtube.com/watch?v=DX2iBANLfWw" target="_blank">Update on AWS China Regions and Technical Best Practices  </a>| 
+
+
+
+
+### Healthcare <a name="30"></a>
 
 | ClassId |       |
 |-|-|
@@ -711,7 +783,7 @@
 
 
 
-### IoT <a name="29"></a>
+### IoT <a name="31"></a>
 
 | ClassId |       |
 |-|-|
@@ -741,7 +813,7 @@
 
 
 
-### Life Sciences <a name="30"></a>
+### Life Sciences <a name="32"></a>
 
 | ClassId |       |
 |-|-|
@@ -753,7 +825,7 @@
 
 
 
-### Manufacturing <a name="31"></a>
+### Manufacturing <a name="33"></a>
 
 | ClassId |       |
 |-|-|
@@ -765,7 +837,7 @@
 
 
 
-### Media & Entertainment <a name="32"></a>
+### Media & Entertainment <a name="34"></a>
 
 | ClassId |       |
 |-|-|
@@ -778,7 +850,7 @@
 
 
 
-### Mobile <a name="33"></a>
+### Mobile <a name="35"></a>
 
 | ClassId |       |
 |-|-|
@@ -800,13 +872,14 @@
 
 
 
-### Networking <a name="34"></a>
+### Networking <a name="36"></a>
 
 | ClassId |       |
 |-|-|
 |NET201|<a href="https://www.youtube.com/watch?v=jZAvKgqlrjY" target="_blank">Your Virtual Data Center: VPC Fundamentals and Connectivity Options  </a>| 
 |NET202|<a href="https://www.youtube.com/watch?v=2DF_EXmxbLM" target="_blank">Securing Your Virtual Data Center in the Cloud  </a>| 
 |NET209-L|<a href="https://www.youtube.com/watch?v=UPKhCWZo-xg" target="_blank">Leadership Session: Networking  </a>| 
+|NET215|<a href="https://www.youtube.com/watch?v=D1n5kDTWidQ" target="_blank">Introduction to Amazon Route 53 Resolver for Hybrid Cloud  </a>| 
 |NET301|<a href="https://www.youtube.com/watch?v=85DbVGLXw3Y" target="_blank">Best Practices for AWS PrivateLink  </a>| 
 |NET302|<a href="https://www.youtube.com/watch?v=LNYY3bMSiHM" target="_blank">Extending Data Centers to Cloud: Connectivity Options & Best Practices  </a>| 
 |NET303|<a href="https://www.youtube.com/watch?v=fnxXNZdf6ew" target="_blank">Advanced VPC Design and New Capabilities for Amazon VPC  </a>| 
@@ -827,7 +900,7 @@
 
 
 
-### Oil & Gas <a name="35"></a>
+### Oil & Gas <a name="37"></a>
 
 | ClassId |       |
 |-|-|
@@ -836,7 +909,7 @@
 
 
 
-### Power & Utilities <a name="36"></a>
+### Power & Utilities <a name="38"></a>
 
 | ClassId |       |
 |-|-|
@@ -849,7 +922,7 @@
 
 
 
-### Public Sector <a name="37"></a>
+### Public Sector <a name="39"></a>
 
 | ClassId |       |
 |-|-|
@@ -865,7 +938,7 @@
 
 
 
-### Retail & Wholesale <a name="38"></a>
+### Retail & Wholesale <a name="40"></a>
 
 | ClassId |       |
 |-|-|
@@ -876,7 +949,7 @@
 
 
 
-### Robotics <a name="39"></a>
+### Robotics <a name="41"></a>
 
 | ClassId |       |
 |-|-|
@@ -886,7 +959,7 @@
 
 
 
-### Security, Identity, and Compliance <a name="40"></a>
+### Security, Identity, and Compliance <a name="42"></a>
 
 | ClassId |       |
 |-|-|
@@ -926,7 +999,7 @@
 
 
 
-### Serverless <a name="41"></a>
+### Serverless <a name="43"></a>
 
 | ClassId |       |
 |-|-|
@@ -949,7 +1022,7 @@
 
 
 
-### Startup Central <a name="42"></a>
+### Startup Central <a name="44"></a>
 
 | ClassId |       |
 |-|-|
@@ -975,7 +1048,42 @@
 
 
 
-### Telecommunications <a name="43"></a>
+### Storage <a name="45"></a>
+
+| ClassId |       |
+|-|-|
+|---|<a href="https://www.youtube.com/watch?v=FEaFuN03g-o" target="_blank">[NEW LAUNCH!] Cost Efficiencies w/ Amazon S3 Storage & S3 Intelligent-Tiering </a>| 
+|DEM103|<a href="https://www.youtube.com/watch?v=sEefsQjOIzE" target="_blank">How to Move Data to Amazon S3 and Access It On-Premises  </a>| 
+|STG201|<a href="https://www.youtube.com/watch?v=ikB76aOM2M0" target="_blank">Tape Is a Four Letter Word: Back Up to the Cloud in Under an Hour  </a>| 
+|STG202|<a href="https://www.youtube.com/watch?v=OiZBtDfe5eg" target="_blank">Optimizing Storage for Enterprise Workloads and Migrations  </a>| 
+|STG203-R2|<a href="https://www.youtube.com/watch?v=rHeTn9pHNKo" target="_blank">[REPEAT 2] Best Practices for Amazon S3 and Amazon Glacier  </a>| 
+|STG204-R1|<a href="https://www.youtube.com/watch?v=0fa0nt0Pe58" target="_blank">Data Lake Implementation: Processing & Querying Data in Place  </a>| 
+|STG205-R1|<a href="https://www.youtube.com/watch?v=DMgRLUm_R9I" target="_blank">Migrating Data to the Cloud: Exploring Your Options from AWS  </a>| 
+|STG206-S|<a href="https://www.youtube.com/watch?v=005swRWF2aw" target="_blank">A Deeper Look at How Veeam is Evolving Availability on AWS  </a>| 
+|STG207-S|<a href="https://www.youtube.com/watch?v=uc0FHqY8YyM" target="_blank">How UCSD Simplified Data Protection with Rubrik and AWS  </a>| 
+|STG210-S|<a href="https://www.youtube.com/watch?v=kZsA9sg5hRs" target="_blank">Realize the Promise of Hybrid Cloud with Pure Storage  </a>| 
+|STG212|<a href="https://www.youtube.com/watch?v=GQ2mFuwaYdM" target="_blank">[NEW LAUNCH!] S3 Batch Operations: Managing Objects in Amazon S3 at Scale  </a>| 
+|STG213-L|<a href="https://www.youtube.com/watch?v=gidUa4lJd9Y" target="_blank">What's New in Amazon S3, Amazon EFS, Amazon EBS, & more  </a>| 
+|STG301-R1|<a href="https://www.youtube.com/watch?v=4FQvJ2q6_oA" target="_blank">[REPEAT 1] Deep Dive on Amazon Elastic File System (Amazon EFS)  </a>| 
+|STG302|<a href="https://www.youtube.com/watch?v=oN5wlrrrOE8" target="_blank">Driving Machine Learning and Analytics Use Cases with AWS Storage  </a>| 
+|STG303-R1|<a href="https://www.youtube.com/watch?v=x25FSsXrBqU" target="_blank">[REPEAT 1] Deep Dive on Amazon S3 Security and Management  </a>| 
+|STG304-S|<a href="https://www.youtube.com/watch?v=AhZ23x2f23Q" target="_blank">Protecting Amazon EC2 Instances, Relational DBs & NoSQL Workloads  </a>| 
+|STG305-R|<a href="https://www.youtube.com/watch?v=o6TpM-FWs38" target="_blank">Deep Dive: Hybrid Cloud Storage Arch. w/Storage Gateway, ft. CME Grp.  </a>| 
+|STG305-R1|<a href="https://www.youtube.com/watch?v=0zwdRvtQ1Tk" target="_blank">Deep Dive: Hybrid Cloud Storage Arch. w/Storage Gateway, + Kellogg's  </a>| 
+|STG309|<a href="https://www.youtube.com/watch?v=ua1dCSeViEo" target="_blank">Building a Data Lake for Your Enterprise, ft. Sysco  </a>| 
+|STG310-R1|<a href="https://www.youtube.com/watch?v=BuJa6Vl8cn8" target="_blank">[REPEAT 1] Deep Dive on Amazon Elastic Block Storage (Amazon EBS)  </a>| 
+|STG311|<a href="https://www.youtube.com/watch?v=naPWVBDuuqw" target="_blank">Lessons Learned from a Large-Scale Legacy Migration with Sysco  </a>| 
+|STG312|<a href="https://www.youtube.com/watch?v=S4e3yruYqUM" target="_blank">Got Files? Deploy Your File Workloads Quickly & Easily with AWS  </a>| 
+|STG317|<a href="https://www.youtube.com/watch?v=FSO9r0UbH2E" target="_blank">[NEW LAUNCH!] Amazon FSx for Lustre: A new fully managed file system  </a>| 
+|STG322-R1|<a href="https://www.youtube.com/watch?v=hAftP5QqppQ" target="_blank">[NEW LAUNCH!] Deep Dive on Amazon FSx for Windows File Server  </a>| 
+|STG324|<a href="https://www.youtube.com/watch?v=PA3PuU3beFI" target="_blank">[NEW LAUNCH!] AWS DataSync - Automate & accelerate online data transfer  </a>| 
+|STG326|<a href="https://www.youtube.com/watch?v=OyUqm8wOTjs" target="_blank">[NEW LAUNCH!] AWS Transfer for SFTP, a Fully Managed SFTP Service  </a>| 
+|STG391|<a href="https://www.youtube.com/watch?v=OR5-uTvfhsM" target="_blank">Post-Production Media Delivery at Scale with AWS  </a>| 
+
+
+
+
+### Telecommunications <a name="46"></a>
 
 | ClassId |       |
 |-|-|
@@ -986,7 +1094,7 @@
 
 
 
-### We Power Tech <a name="44"></a>
+### We Power Tech <a name="47"></a>
 
 | ClassId |       |
 |-|-|
@@ -998,7 +1106,7 @@
 
 
 
-### Windows & .NET <a name="45"></a>
+### Windows & .NET <a name="48"></a>
 
 | ClassId |       |
 |-|-|
@@ -1017,7 +1125,7 @@
 
 
 
-### Nov. 26 – Nov. 30, 2018 Las Vegas, NV <a name="46"></a>
+### Nov. 26 – Nov. 30, 2018 Las Vegas, NV <a name="49"></a>
 
 | ClassId |       |
 |-|-|
