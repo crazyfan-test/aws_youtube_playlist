@@ -23,9 +23,9 @@
 * [Content Delivery](#17) (10 Videos)
 * [Databases](#18) (35 Videos)
 * [Developer Community](#19) (8 Videos)
-* [Devops](#20) (34 Videos)
+* [Devops](#20) (35 Videos)
 * [Digital User Engagement](#21) (2 Videos)
-* [Enterprise & Hybrid](#22) (32 Videos)
+* [Enterprise & Hybrid](#22) (33 Videos)
 * [Financial Services](#23) (10 Videos)
 * [GPS-Marketplace](#24) (1 Videos)
 * [GPS-Marketplace, Global Partner Summit](#25) (1 Videos)
@@ -45,7 +45,7 @@
 * [Public Sector](#39) (8 Videos)
 * [Retail & Wholesale](#40) (3 Videos)
 * [Robotics](#41) (2 Videos)
-* [Security, Identity, and Compliance](#42) (32 Videos)
+* [Security, Identity, and Compliance](#42) (33 Videos)
 * [Serverless](#43) (15 Videos)
 * [Startup Central](#44) (18 Videos)
 * [Storage](#45) (27 Videos)
@@ -170,6 +170,7 @@
 |---|<a href="https://www.youtube.com/watch?v=qMeSp-ZBDAg" target="_blank">Announcing Amazon DynamoDB Support for Transactions </a>| 
 |---|<a href="https://www.youtube.com/watch?v=21tG9tjbxTM" target="_blank">Announcing Two New AWS Online Data Transfer Services & New Edge Computing Capabilities </a>| 
 |---|<a href="https://www.youtube.com/watch?v=jtyyTI1Psoo" target="_blank">Announcing three new Amazon EC2 instances, C5n, P3dn, and A1 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=yYNh369pJTY" target="_blank">Chest X-Ray Analysis with Machine Learning </a>| 
 |---|<a href="https://www.youtube.com/watch?v=B_-8TT23a6E" target="_blank">Community Day Session 1 |  Red Team vs. Blue Team on AWS </a>| 
 |---|<a href="https://www.youtube.com/watch?v=HQaYSSQ2Y1U" target="_blank">Community Day Session 2 | ProTips for Scaling AWS Training to Accelerate Adoption </a>| 
 |---|<a href="https://www.youtube.com/watch?v=yIDsCwrmY8g" target="_blank">Community Day Session 3 | Applying Principles of Chaos Engineering to Serverless </a>| 
@@ -186,7 +187,6 @@
 |---|<a href="https://www.youtube.com/watch?v=0uyxGGD3wo0" target="_blank">Future of AI - Designing for a Data-Driven Economy </a>| 
 |---|<a href="https://www.youtube.com/watch?v=cD_Y_8IfT_A" target="_blank">Future of AI - Pragmatic Quantum Machine Learning Today </a>| 
 |---|<a href="https://www.youtube.com/watch?v=ZsgFqE4cV38" target="_blank">Future of AI - The Evolution of Language and Information Technology </a>| 
-|---|<a href="https://www.youtube.com/watch?v=yYNh369pJTY" target="_blank">Future of AI | The Future of Mixed-Autonomy Traffic </a>| 
 |---|<a href="https://www.youtube.com/watch?v=5Z6GMmuxVg8" target="_blank">Human-in-the-Loop for Machine Learning </a>| 
 |---|<a href="https://www.youtube.com/watch?v=cq0dTR8kL44" target="_blank">Industrial IoT Applications </a>| 
 |---|<a href="https://www.youtube.com/watch?v=qTE1PbdY3hY" target="_blank">Introducing AWS Cloud Map and AWS App Mesh </a>| 
@@ -211,7 +211,7 @@
 |---|<a href="https://www.youtube.com/watch?v=v5ghuYLwiN8" target="_blank">Meet an Engineer | Travis Brown, Solutions Architect Manager, Twitch </a>| 
 |---|<a href="https://www.youtube.com/watch?v=kwxeiUdIbvg" target="_blank">Meet an Engineer| Jerry Hargrove, Cloud Architect & Evangelist, Lucid </a>| 
 |---|<a href="https://www.youtube.com/watch?v=avFySraL5ZY" target="_blank">Meet an Engineer| Nell Waliczek, Principal Software Engineer, AWS AR/VR </a>| 
-|---|<a href="https://www.youtube.com/watch?v=Thcdt4EdaKI" target="_blank">Meet-a- Engineer | Becky Weiss, Senior Principal Engineer, AWS </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Thcdt4EdaKI" target="_blank">Meet-an-Engineer | Becky Weiss, Senior Principal Engineer, AWS </a>| 
 |---|<a href="https://www.youtube.com/watch?v=4LeO4m8LC88" target="_blank">Meet-an-Engineer: Clare Liguori, Principal Engineer, AWS Containers </a>| 
 |---|<a href="https://www.youtube.com/watch?v=NtViHfC4zPI" target="_blank">Modern Application Development </a>| 
 |---|<a href="https://www.youtube.com/watch?v=fmQiMdH-fV8" target="_blank">Monitor All Your Things with Amazon CloudWatch </a>| 
@@ -410,7 +410,7 @@
 |AIM405-R1|<a href="https://www.youtube.com/watch?v=PeKl8bXkFCQ" target="_blank">[REPEAT 1] Better Analytics Through Natural Language Processing  </a>| 
 |AIM406|<a href="https://www.youtube.com/watch?v=nYKTWlcPk6M" target="_blank">Unlock the Potential of Your Media Assets, Fox Entertainment Group  </a>| 
 |AIM407-R|<a href="https://www.youtube.com/watch?v=9d0wfBYFM3Q" target="_blank">Deep Learning Applications Using Apache MXNet, Featuring Workday  </a>| 
-|AIM407-R1|<a href="https://www.youtube.com/watch?v=dKcyAjCtXqc" target="_blank">Build Learning Applications Using Apache MXNet  </a>| 
+|AIM407-R1|<a href="https://www.youtube.com/watch?v=dKcyAjCtXqc" target="_blank">Build Deep Learning Applications Using Apache MXNet -ft. Chick-fil-A  </a>| 
 |DEM115|<a href="https://www.youtube.com/watch?v=gGhtGWQLbmI" target="_blank">Quickly Build a Chatbot with Amazon Lex  </a>| 
 
 
@@ -420,9 +420,9 @@
 
 | ClassId |       |
 |-|-|
-|AMT201-L|<a href="https://www.youtube.com/watch?v=b18lYqRniAk" target="_blank">AWS Automotive: Paving the Way for the Future of the Auto Industry  </a>| 
 |AMT301|<a href="https://www.youtube.com/watch?v=vccM1dPF3pE" target="_blank">Alexa, Where's My Car? Test Drive of AWS Connected Vehicle Solution  </a>| 
 |AMT302|<a href="https://www.youtube.com/watch?v=lSbNLtB1MzU" target="_blank">Easy Rider: How ML, Serverless, and IoT Drive Mobility as a Service  </a>| 
+|AMT304|<a href="https://www.youtube.com/watch?v=kWnXAXAYzOM" target="_blank">Building Volkswagen Group's Digital Ecosystem  </a>| 
 |AMT305|<a href="https://www.youtube.com/watch?v=UpxYJY1m_tU" target="_blank">Building BMW Group's Customer Engagement Platform on AWS  </a>| 
 
 
@@ -617,6 +617,7 @@
 |DEV327-R1|<a href="https://www.youtube.com/watch?v=EJVNuR2GRBc" target="_blank">Advanced Infrastructure as Code Programming on AWS  </a>| 
 |DEV328|<a href="https://www.youtube.com/watch?v=jvAAiWxYQwg" target="_blank">Streamlining Application Development with AWS Service Catalog  </a>| 
 |DEV348|<a href="https://www.youtube.com/watch?v=RW3aFO_3ONI" target="_blank">Undifferentiated Heavy Lifting from CI/CD Toolsets w/ Corteva   </a>| 
+|DEV349-R1|<a href="https://www.youtube.com/watch?v=NKr5fij85e8" target="_blank">Safeguard the Integrity of Your Code for Fast & Secure Deployments  </a>| 
 |DEV349-R2|<a href="https://www.youtube.com/watch?v=Rln_B1ZKJqo" target="_blank">Safeguard the Integrity of Your Code for Fast & Secure Deployments  </a>| 
 |DEV370|<a href="https://www.youtube.com/watch?v=xA1qPQg3WTc" target="_blank">Role of Central Teams in DevOps Organizations  </a>| 
 |DEV372|<a href="https://www.youtube.com/watch?v=Lh-kVC2r2AU" target="_blank">Infrastructure Is Code with the AWS Cloud Development Kit  </a>| 
@@ -659,6 +660,7 @@
 |ENT309-S|<a href="https://www.youtube.com/watch?v=ha7MIKaYkR0" target="_blank">Zendesk: Building a World-Class Cloud Center of Excellence  </a>| 
 |ENT310-S|<a href="https://www.youtube.com/watch?v=v4Cylq_US54" target="_blank">Best Practices for Scalable Monitoring  </a>| 
 |ENT311-R|<a href="https://www.youtube.com/watch?v=qyhuMDozWXk" target="_blank">[REPEAT] Enterprise DevOps: Patterns of Efficiency  </a>| 
+|ENT311-R1|<a href="https://www.youtube.com/watch?v=bjOEDItOdjI" target="_blank">[REPEAT 1] Enterprise DevOps: Patterns of Efficiency  </a>| 
 |ENT312-R|<a href="https://www.youtube.com/watch?v=RY9ERVyNsyI" target="_blank">[REPEAT] Cloud Ops Engineer: A Day in the Life  </a>| 
 |ENT313-S|<a href="https://www.youtube.com/watch?v=DozYpeGYk9w" target="_blank">Running Production Workloads in VMware Cloud on AWS  </a>| 
 |ENT314-R1|<a href="https://www.youtube.com/watch?v=w_fZU6hSQkA" target="_blank">[REPEAT 1] The Future of Enterprise Applications is Serverless  </a>| 
@@ -984,6 +986,7 @@
 |SEC318|<a href="https://www.youtube.com/watch?v=B6UWXCK4FfU" target="_blank">Verizon is Accelerating Cloud Adoption w/ AWS Service Catalog Connector </a>| 
 |SEC319|<a href="https://www.youtube.com/watch?v=oKYL40bHt3g" target="_blank">Meeting Enterprise Security Requirements w/ AWS Native Security Services  </a>| 
 |SEC320|<a href="https://www.youtube.com/watch?v=Rm4mvVeOYYk" target="_blank">Policy Verification and Enforcement at Scale with AWS  </a>| 
+|SEC321|<a href="https://www.youtube.com/watch?v=3nn6d7x5Xi8" target="_blank">Zocdoc Achieves Auto Threat Detection & Remediation w/ Security as Code  </a>| 
 |SEC322-R1|<a href="https://www.youtube.com/watch?v=ecT4eyy0CyU" target="_blank">[REPEAT 1] Using AWS Lambda as a Security Team  </a>| 
 |SEC323|<a href="https://www.youtube.com/watch?v=YWzmoDzzg4U" target="_blank">Augmenting Security & Improving Operational Health w/ AWS CloudTrail  </a>| 
 |SEC324|<a href="https://www.youtube.com/watch?v=OOi3c5wD4ug" target="_blank">How Vanguard Matured IAM Controls to Support Micro Accounts  </a>| 
