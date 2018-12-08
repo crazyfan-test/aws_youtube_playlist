@@ -15,7 +15,7 @@
 * [Analytics](#9) (32 Videos)
 * [Application Integration](#10) (8 Videos)
 * [Architecture](#11) (19 Videos)
-* [Artificial Intelligence & Machine Learning](#12) (37 Videos)
+* [Artificial Intelligence & Machine Learning](#12) (38 Videos)
 * [Automotive](#13) (4 Videos)
 * [Business Apps](#14) (13 Videos)
 * [Compute](#15) (23 Videos)
@@ -278,7 +278,7 @@
 |ALX201-R1|<a href="https://www.youtube.com/watch?v=MsibLQOdqlQ" target="_blank">Alexa Everywhere: A Year in Review  </a>| 
 |ALX302|<a href="https://www.youtube.com/watch?v=B0aMlEPhFF4" target="_blank">Best Practices for Making Money with Alexa Skills  </a>| 
 |ALX305|<a href="https://www.youtube.com/watch?v=MEJFxo0CAYs" target="_blank">Voice Assistants Beyond Speakers - Alexa into Your Unique Product  </a>| 
-|ALX312|<a href="https://www.youtube.com/watch?v=A5dKs0bTFKI" target="_blank">Lessons Escape the Room That Apply to Making Money w/ Your Alexa Skills </a>| 
+|ALX312-R1|<a href="https://www.youtube.com/watch?v=A5dKs0bTFKI" target="_blank">Escape the Room That Apply to Making Money w/ Your Alexa Skills </a>| 
 |ALX313|<a href="https://www.youtube.com/watch?v=7fWkXlXJ0iM" target="_blank">Use Alexa to Reach New Customers by Developing for Multiple Screens  </a>| 
 |ALX313-R1|<a href="https://www.youtube.com/watch?v=tzJ_SHObBMk" target="_blank">Use Alexa to Reach New Customers by Developing for Multiple Screens  </a>| 
 |ALX315-R2|<a href="https://www.youtube.com/watch?v=KQuMrfePbDQ" target="_blank">Home Skill API: Connect Any Device to Alexa & Control Any Feature  </a>| 
@@ -383,8 +383,8 @@
 |AIM301-R|<a href="https://www.youtube.com/watch?v=4SJBcZQX8uA" target="_blank">Deep Learning for Developers: An Introduction, Featuring Samsung SDS  </a>| 
 |AIM301-R1|<a href="https://www.youtube.com/watch?v=ThWdx4h_8aE" target="_blank">Deep Learning for Developers: Introduction, Featuring Samsung SDS  </a>| 
 |AIM302|<a href="https://www.youtube.com/watch?v=EAz-qAL5z2U" target="_blank">Machine Learning at the Edge  </a>| 
-|AIM303|<a href="https://www.youtube.com/watch?v=9epnmJ6RFpQ" target="_blank">Smart & Interactive Apps w/ Intelligent Language Services on AWS  </a>| 
 |AIM303-R1|<a href="https://www.youtube.com/watch?v=QP-zMvZb8OA" target="_blank">Smart & Interactive Apps with Intelligent Language Services on AWS  </a>| 
+|AIM303-R2|<a href="https://www.youtube.com/watch?v=9epnmJ6RFpQ" target="_blank">Smart & Interactive Apps w/ Intelligent Language Services on AWS  </a>| 
 |AIM304|<a href="https://www.youtube.com/watch?v=Sd0_OaAZ-4Y" target="_blank">Transform the Modern Contact Center Using Machine Learning & Analytics  </a>| 
 |AIM307-R|<a href="https://www.youtube.com/watch?v=yNVmUevq04I" target="_blank">[REPEAT] Deep Dive on Amazon Rekognition, ft. Tinder & News UK  </a>| 
 |AIM307-R1|<a href="https://www.youtube.com/watch?v=jFgtImmEH7w" target="_blank">[REPEAT 1] Deep Dive on Amazon Rekognition, ft. Pinterest  </a>| 
@@ -399,6 +399,7 @@
 |AIM386-S|<a href="https://www.youtube.com/watch?v=TJkASddBjGY" target="_blank">Accelerate AI/ML Adoption with Intel Processors and C3IoT on AWS  </a>| 
 |AIM390|<a href="https://www.youtube.com/watch?v=NmEH95EDDCw" target="_blank">Machine Learning Your Eight-Year-Old Would Be Proud Of  </a>| 
 |AIM396-S|<a href="https://www.youtube.com/watch?v=o22GdMiUsls" target="_blank">ML Best Practices: Prepare Data, Build Models, and Manage Lifecycle  </a>| 
+|AIM398|<a href="https://www.youtube.com/watch?v=cJ3eUPOXV4Q" target="_blank">[NEW LAUNCH!] Introducing Amazon Comprehend Medical  </a>| 
 |AIM401-R|<a href="https://www.youtube.com/watch?v=uu-VKHlv0_E" target="_blank">[REPEAT] Deep Learning Applications Using TensorFlow  </a>| 
 |AIM401-R2|<a href="https://www.youtube.com/watch?v=VIEp4GR9BRc" target="_blank">Learning Applications Using TensorFlow, Advanced Microgrid Solutions  </a>| 
 |AIM402-R|<a href="https://www.youtube.com/watch?v=qc5ZikKw9_w" target="_blank">Deep Learning Applications Using PyTorch, Featuring Facebook  </a>| 
