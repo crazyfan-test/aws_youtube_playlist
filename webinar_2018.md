@@ -6,14 +6,14 @@
 * [AR/VR](#0) (2 Videos)
 * [Compute](#1) (22 Videos)
 * [Containers](#2) (11 Videos)
-* [Data Lakes & Analytics](#3) (24 Videos)
+* [Data Lakes & Analytics](#3) (25 Videos)
 * [Databases](#4) (20 Videos)
 * [DevOps](#5) (10 Videos)
 * [End-User Computing](#6) (2 Videos)
 * [Enterprise](#7) (22 Videos)
 * [Industry Solutions](#8) (1 Videos)
 * [IoT](#9) (12 Videos)
-* [Machine Learning](#10) (21 Videos)
+* [Machine Learning](#10) (22 Videos)
 * [Management Tools](#11) (5 Videos)
 * [Mobile](#12) (8 Videos)
 * [Networking & Content Delivery](#13) (6 Videos)
@@ -117,6 +117,7 @@
 |11/15|<a href="https://www.youtube.com/watch?v=ARDJ2js8rBw" target="_blank">Best Practices for Migrating Big Data Workloads to AWS </a>| 
 |11/15|<a href="https://www.youtube.com/watch?v=QbOo78FGwnk" target="_blank">Best Practices for Scaling Amazon Redshift </a>| 
 |11/19|<a href="https://www.youtube.com/watch?v=FnIi_NPqx5c" target="_blank">Virtual Workshop: Amazon Elasticsearch Service - Analyze Your CloudTrail Logs </a>| 
+|12/11|<a href="https://www.youtube.com/watch?v=hXXytLly7tw" target="_blank">Introduction to AWS Lake Formation - Build a Secure Data Lake in Days - Online Tech Talks </a>| 
 
 
 
@@ -261,6 +262,7 @@
 |09/17|<a href="https://www.youtube.com/watch?v=JS3xm2BP0SA" target="_blank">Build Intelligent Applications with Machine Learning on AWS </a>| 
 |09/18|<a href="https://www.youtube.com/watch?v=v2ZF3IYNTzQ" target="_blank">How to Integrate Natural Language Processing and Elasticsearch for Better Analytics - Tech Talks </a>| 
 |09/20|<a href="https://www.youtube.com/watch?v=R0vC31OXt-g" target="_blank">Build, Train and Deploy Machine Learning Models on AWS with Amazon SageMaker </a>| 
+|12/11|<a href="https://www.youtube.com/watch?v=vTp2uebmnwk" target="_blank">Introducing Amazon SageMaker Ground Truth </a>| 
 
 
 
