@@ -34,7 +34,7 @@
 * [Gaming](#28) (3 Videos)
 * [Global China Region](#29) (1 Videos)
 * [Healthcare](#30) (5 Videos)
-* [IoT](#31) (22 Videos)
+* [IoT](#31) (23 Videos)
 * [Life Sciences](#32) (4 Videos)
 * [Manufacturing](#33) (4 Videos)
 * [Media & Entertainment](#34) (5 Videos)
@@ -82,7 +82,7 @@
 |---|<a href="https://www.youtube.com/watch?v=mJFJYiictyw" target="_blank">AWS Nonprofit Partner Solutions - Classy </a>| 
 |---|<a href="https://www.youtube.com/watch?v=BOSIMpalcs8" target="_blank">Bernd Heinemann, Board Member at Allianz, Speaks at Global Partner Summit </a>| 
 |---|<a href="https://www.youtube.com/watch?v=MCLrA401vHw" target="_blank">Chris Dyl, Director of Platform at Epic Games, Speaks at Monday Night Live </a>| 
-|---|<a href="https://www.youtube.com/watch?v=XiPd1y9ULic" target="_blank">Keith Bigelow, GM and SVP at GE Healthcare, Speaks at Monday Night Live </a>| 
+|---|<a href="https://www.youtube.com/watch?v=4EQchAPyroE" target="_blank">Keith Bigelow, GM and SVP at GE Healthcare, Speaks at Monday Night Live </a>| 
 |---|<a href="https://www.youtube.com/watch?v=iwIQNoarVas" target="_blank">Pebbles Sy-Manalang, CIO of Globe Telecom, Speaks at Global Partner Summit </a>| 
 |---|<a href="https://www.youtube.com/watch?v=phCSmKjBfEc" target="_blank">Ross Brawn from Formula 1 Shares how Machine Learning is Transforming Racing </a>| 
 |---|<a href="https://www.youtube.com/watch?v=MJan8thlcv0" target="_blank">Yuri Misnik from National Australia Bank Shares the Company’s AWS Migration </a>| 
@@ -805,6 +805,7 @@
 |IOT222-S|<a href="https://www.youtube.com/watch?v=cvNIpglnH2g" target="_blank">Moving Out of the Data Center to Reach More Customer Targets  </a>| 
 |IOT302-R1|<a href="https://www.youtube.com/watch?v=pVWYzDJYHck" target="_blank">[REPEAT 1] Alexa and AWS IoT, ft. VIZIO  </a>| 
 |IOT303-R|<a href="https://www.youtube.com/watch?v=NMLKrcuONas" target="_blank">Connecting Existing Machines to Tomorrow's IoT, ft. Deutsche Bahn  </a>| 
+|IOT303-R1|<a href="https://www.youtube.com/watch?v=pIm9o-sntos" target="_blank">DNP this version: Connecting Existing Machines to Tomorrow's IoT, ft. Deutsche Bahn  </a>| 
 |IOT306-R1|<a href="https://www.youtube.com/watch?v=eiga7_RLCUM" target="_blank">[REPEAT 1] Building IoT Applications for a Smart Home, ft. Vestel  </a>| 
 |IOT358-R1|<a href="https://www.youtube.com/watch?v=I-tynkaNg9Y" target="_blank">[REPEAT 1] Operationalizing Your Analysis with AWS IoT Analytics  </a>| 
 |IOT365|<a href="https://www.youtube.com/watch?v=l0tmTaIqAK8" target="_blank">[NEW LAUNCH!] Introducing New AWS IoT Greengrass Features  </a>| 
@@ -1195,7 +1196,7 @@
 |---|<a href="https://www.youtube.com/watch?v=dZ5FLzOIQF0" target="_blank">Introducing Amazon Elastic Inference </a>| 
 |---|<a href="https://www.youtube.com/watch?v=9tArgQrJBzE" target="_blank">Introducing Amazon Personalize </a>| 
 |---|<a href="https://www.youtube.com/watch?v=gjiozYXHKc8" target="_blank">Introducing Amazon SageMaker Ground Truth </a>| 
-|---|<a href="https://www.youtube.com/watch?v=XiPd1y9ULic" target="_blank">Keith Bigelow, GM and SVP at GE Healthcare, Speaks at Monday Night Live </a>| 
+|---|<a href="https://www.youtube.com/watch?v=4EQchAPyroE" target="_blank">Keith Bigelow, GM and SVP at GE Healthcare, Speaks at Monday Night Live </a>| 
 |---|<a href="https://www.youtube.com/watch?v=229qDUWYwXQ" target="_blank">Navigating the re:Invent Campus </a>| 
 |---|<a href="https://www.youtube.com/watch?v=a42kxHSX4Xw" target="_blank">Now Go Build with Werner Vogels EP1 - Jakarta </a>| 
 |---|<a href="https://www.youtube.com/watch?v=nfyNNrKicRo" target="_blank">Onsite Help with Schedule Experts </a>| 

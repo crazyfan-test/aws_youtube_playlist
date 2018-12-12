@@ -5,7 +5,7 @@
 
 * [AR/VR](#0) (2 Videos)
 * [Compute](#1) (22 Videos)
-* [Containers](#2) (11 Videos)
+* [Containers](#2) (12 Videos)
 * [Data Lakes & Analytics](#3) (25 Videos)
 * [Databases](#4) (20 Videos)
 * [DevOps](#5) (10 Videos)
@@ -13,12 +13,12 @@
 * [Enterprise](#7) (22 Videos)
 * [Industry Solutions](#8) (1 Videos)
 * [IoT](#9) (12 Videos)
-* [Machine Learning](#10) (22 Videos)
+* [Machine Learning](#10) (23 Videos)
 * [Management Tools](#11) (5 Videos)
 * [Mobile](#12) (8 Videos)
 * [Networking & Content Delivery](#13) (6 Videos)
 * [Security, Identity & Compliance](#14) (17 Videos)
-* [Serverless](#15) (11 Videos)
+* [Serverless](#15) (12 Videos)
 * [Storage](#16) (21 Videos)
 
 
@@ -85,6 +85,7 @@
 |11/15|<a href="https://www.youtube.com/watch?v=1xdEp-FR7lM" target="_blank">Scaling a Containerized Application Seamlessly with AWS Fargate </a>| 
 |11/15|<a href="https://www.youtube.com/watch?v=42wH1nRKPT0" target="_blank">Customer Showcase: How 99designs Used AWS Fargate to Manage their Containerized Application </a>| 
 |11/21|<a href="https://www.youtube.com/watch?v=Alw8Gyw_Zqk" target="_blank">Monitor the World: Meaningful Metrics for Containerized Apps and Clusters </a>| 
+|12/11|<a href="https://www.youtube.com/watch?v=u1XmPdc3rc4" target="_blank">Introduction to AWS App Mesh </a>| 
 
 
 
@@ -263,6 +264,7 @@
 |09/18|<a href="https://www.youtube.com/watch?v=v2ZF3IYNTzQ" target="_blank">How to Integrate Natural Language Processing and Elasticsearch for Better Analytics - Tech Talks </a>| 
 |09/20|<a href="https://www.youtube.com/watch?v=R0vC31OXt-g" target="_blank">Build, Train and Deploy Machine Learning Models on AWS with Amazon SageMaker </a>| 
 |12/11|<a href="https://www.youtube.com/watch?v=vTp2uebmnwk" target="_blank">Introducing Amazon SageMaker Ground Truth </a>| 
+|12/11|<a href="https://www.youtube.com/watch?v=X_Jm8bMklHc" target="_blank">Introduction to AWS DeepRacer </a>| 
 
 
 
@@ -350,6 +352,7 @@
 |09/18|<a href="https://www.youtube.com/watch?v=9ElpSPXk-g8" target="_blank">Best Practices for Building Enterprise Grade APIs with Amazon API Gateway </a>| 
 |10/16|<a href="https://www.youtube.com/watch?v=l9Lw8y5P5ok" target="_blank">Build Enterprise-Grade Serverless Apps </a>| 
 |11/15|<a href="https://www.youtube.com/watch?v=T4RWwD5oHUc" target="_blank">Serverless Workflows for the Enterprise </a>| 
+|12/11|<a href="https://www.youtube.com/watch?v=8lf3ryoUQR4" target="_blank">What's New with Serverless at AWS </a>| 
 
 
 
