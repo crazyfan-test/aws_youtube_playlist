@@ -6,20 +6,20 @@
 * [AR/VR](#0) (2 Videos)
 * [Compute](#1) (22 Videos)
 * [Containers](#2) (12 Videos)
-* [Data Lakes & Analytics](#3) (25 Videos)
+* [Data Lakes & Analytics](#3) (26 Videos)
 * [Databases](#4) (20 Videos)
 * [DevOps](#5) (10 Videos)
 * [End-User Computing](#6) (2 Videos)
 * [Enterprise](#7) (22 Videos)
 * [Industry Solutions](#8) (1 Videos)
 * [IoT](#9) (12 Videos)
-* [Machine Learning](#10) (23 Videos)
+* [Machine Learning](#10) (24 Videos)
 * [Management Tools](#11) (5 Videos)
 * [Mobile](#12) (8 Videos)
 * [Networking & Content Delivery](#13) (6 Videos)
 * [Security, Identity & Compliance](#14) (17 Videos)
 * [Serverless](#15) (12 Videos)
-* [Storage](#16) (21 Videos)
+* [Storage](#16) (22 Videos)
 
 
 
@@ -119,6 +119,7 @@
 |11/15|<a href="https://www.youtube.com/watch?v=QbOo78FGwnk" target="_blank">Best Practices for Scaling Amazon Redshift </a>| 
 |11/19|<a href="https://www.youtube.com/watch?v=FnIi_NPqx5c" target="_blank">Virtual Workshop: Amazon Elasticsearch Service - Analyze Your CloudTrail Logs </a>| 
 |12/11|<a href="https://www.youtube.com/watch?v=hXXytLly7tw" target="_blank">Introduction to AWS Lake Formation - Build a Secure Data Lake in Days - Online Tech Talks </a>| 
+|12/12|<a href="https://www.youtube.com/watch?v=9nKswHsLseY" target="_blank">Introduction to Amazon Managed Streaming for Kafka (MSK) </a>| 
 
 
 
@@ -265,6 +266,7 @@
 |09/20|<a href="https://www.youtube.com/watch?v=R0vC31OXt-g" target="_blank">Build, Train and Deploy Machine Learning Models on AWS with Amazon SageMaker </a>| 
 |12/11|<a href="https://www.youtube.com/watch?v=vTp2uebmnwk" target="_blank">Introducing Amazon SageMaker Ground Truth </a>| 
 |12/11|<a href="https://www.youtube.com/watch?v=X_Jm8bMklHc" target="_blank">Introduction to AWS DeepRacer </a>| 
+|12/12|<a href="https://www.youtube.com/watch?v=dhTIh87WA64" target="_blank">Introduction to Amazon Forecast and Amazon Personalize </a>| 
 
 
 
@@ -382,6 +384,7 @@
 |10/24|<a href="https://www.youtube.com/watch?v=TX8kzraGYaU" target="_blank">Deep Dive: New AWS Storage Gateway Hardware Appliance </a>| 
 |11/15|<a href="https://www.youtube.com/watch?v=wmVQ_HEIW4Y" target="_blank">Move From Tape Backups to AWS in 30 Minutes </a>| 
 |11/20|<a href="https://www.youtube.com/watch?v=vPgXx_zlEx0" target="_blank">Deep Dive on Amazon S3 Security and Management </a>| 
+|12/12|<a href="https://www.youtube.com/watch?v=0b0EcA5nPho" target="_blank">Introduction to Amazon FSx for Windows File Server </a>| 
 
 
 

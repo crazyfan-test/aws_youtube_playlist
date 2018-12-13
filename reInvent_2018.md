@@ -7,7 +7,7 @@
 * [Customer Speakers](#1) (7 Videos)
 * [Daily re:Cap](#2) (25 Videos)
 * [Launch Announcements](#3) (15 Videos)
-* [twitch.tv/aws](#4) (80 Videos)
+* [twitch.tv/aws](#4) (83 Videos)
 * [AI Summit](#5) (8 Videos)
 * [ARVR](#6) (3 Videos)
 * [AdTech](#7) (2 Videos)
@@ -48,7 +48,7 @@
 * [Security, Identity, and Compliance](#42) (34 Videos)
 * [Serverless](#43) (15 Videos)
 * [Startup Central](#44) (18 Videos)
-* [Storage](#45) (27 Videos)
+* [Storage](#45) (28 Videos)
 * [Telecommunications](#46) (3 Videos)
 * [We Power Tech](#47) (4 Videos)
 * [Windows & .NET](#48) (11 Videos)
@@ -155,6 +155,7 @@
 |---|<a href="https://www.youtube.com/watch?v=sdCntQUPYzE" target="_blank">AWS Announces New Amazon S3 Features </a>| 
 |---|<a href="https://www.youtube.com/watch?v=5VPIzKDyLvo" target="_blank">AWS Developer Tools Improve Continuous Delivery Support for AWS Fargate and Amazon ECS </a>| 
 |---|<a href="https://www.youtube.com/watch?v=Wlgm6VzTXbk" target="_blank">AWS Elemental MediaConnect is now Generally Available </a>| 
+|---|<a href="https://www.youtube.com/watch?v=5DJ41bAA8S0" target="_blank">AWS Global Accelerator </a>| 
 |---|<a href="https://www.youtube.com/watch?v=l7f06LQx32A" target="_blank">AWS Marketplace Launch Recap </a>| 
 |---|<a href="https://www.youtube.com/watch?v=8Ccl620paFQ" target="_blank">AWS Serverless Launches </a>| 
 |---|<a href="https://www.youtube.com/watch?v=PjwNApiZ6U4" target="_blank">AWS re:Invent Recap | 11/27/2018 </a>| 
@@ -180,6 +181,7 @@
 |---|<a href="https://www.youtube.com/watch?v=TPyLJLOrHlE" target="_blank">Developing Mobile Apps on AWS </a>| 
 |---|<a href="https://www.youtube.com/watch?v=APq9PaaZJPA" target="_blank">Easily Build Scalable Blockchain & Ledger Solutions </a>| 
 |---|<a href="https://www.youtube.com/watch?v=b1GGOgpqA38" target="_blank">Edge Computing with AWS IoT </a>| 
+|---|<a href="https://www.youtube.com/watch?v=0Ml0dMOm_Ww" target="_blank">Elastic Fabric Adapter </a>| 
 |---|<a href="https://www.youtube.com/watch?v=SqF8lBTFwJY" target="_blank">Evangelism Power Hour </a>| 
 |---|<a href="https://www.youtube.com/watch?v=DrrvPqX_Qr8" target="_blank">Firecracker is now Open Source </a>| 
 |---|<a href="https://www.youtube.com/watch?v=acNYag40u6Q" target="_blank">Future of AI - Automatic Diagnosis of Speech Disorders with Machine Learning Algorithms </a>| 
@@ -218,6 +220,7 @@
 |---|<a href="https://www.youtube.com/watch?v=MuWe2INvIXw" target="_blank">New Data Processing Capabilities in Amazon SageMaker for Training & Inference </a>| 
 |---|<a href="https://www.youtube.com/watch?v=1sPAEU6-gQo" target="_blank">Orchestrate ML Workflows in Amazon SageMaker & AWS Step Functions </a>| 
 |---|<a href="https://www.youtube.com/watch?v=EobTxuqVHJ8" target="_blank">Purpose-Built Databases: Choose the Right Tool for Each Job </a>| 
+|---|<a href="https://www.youtube.com/watch?v=OJpC58KMm_I" target="_blank">Route53 </a>| 
 |---|<a href="https://www.youtube.com/watch?v=zsitzG6Qiag" target="_blank">Simplify the DNS for your Hybrid Cloud and Easily Scale Across VPCs </a>| 
 |---|<a href="https://www.youtube.com/watch?v=oiAajSwZf3Q" target="_blank">Startup Spotlight: Gremlin </a>| 
 |---|<a href="https://www.youtube.com/watch?v=rvexgbQzIxs" target="_blank">Thursday Recap </a>| 
@@ -622,7 +625,7 @@
 |DEV349-R2|<a href="https://www.youtube.com/watch?v=Rln_B1ZKJqo" target="_blank">Safeguard the Integrity of Your Code for Fast & Secure Deployments  </a>| 
 |DEV370|<a href="https://www.youtube.com/watch?v=xA1qPQg3WTc" target="_blank">Role of Central Teams in DevOps Organizations  </a>| 
 |DEV372|<a href="https://www.youtube.com/watch?v=Lh-kVC2r2AU" target="_blank">Infrastructure Is Code with the AWS Cloud Development Kit  </a>| 
-|DEV375|<a href="https://www.youtube.com/watch?v=g1wxfYVjCPY" target="_blank">Managing & Analyzing Large Volumes of Logs Data in Amazon CloudWatch  </a>| 
+|DEV375|<a href="https://www.youtube.com/watch?v=g1wxfYVjCPY" target="_blank">Introduction to Amazon CloudWatch Logs Insights  </a>| 
 
 
 
@@ -1084,6 +1087,7 @@
 |STG322-R1|<a href="https://www.youtube.com/watch?v=hAftP5QqppQ" target="_blank">[NEW LAUNCH!] Deep Dive on Amazon FSx for Windows File Server  </a>| 
 |STG324|<a href="https://www.youtube.com/watch?v=PA3PuU3beFI" target="_blank">[NEW LAUNCH!] AWS DataSync - Automate & accelerate online data transfer  </a>| 
 |STG326|<a href="https://www.youtube.com/watch?v=OyUqm8wOTjs" target="_blank">[NEW LAUNCH!] AWS Transfer for SFTP, a Fully Managed SFTP Service  </a>| 
+|STG327|<a href="https://www.youtube.com/watch?v=k8Udnqlp9iQ" target="_blank">How Amazon EFS Infrequent Access Optimizes File System Costs  </a>| 
 |STG391|<a href="https://www.youtube.com/watch?v=OR5-uTvfhsM" target="_blank">Post-Production Media Delivery at Scale with AWS  </a>| 
 
 
