@@ -7,18 +7,18 @@
 * [Compute](#1) (22 Videos)
 * [Containers](#2) (12 Videos)
 * [Data Lakes & Analytics](#3) (26 Videos)
-* [Databases](#4) (20 Videos)
+* [Databases](#4) (21 Videos)
 * [DevOps](#5) (10 Videos)
 * [End-User Computing](#6) (2 Videos)
 * [Enterprise](#7) (22 Videos)
 * [Industry Solutions](#8) (1 Videos)
 * [IoT](#9) (12 Videos)
-* [Machine Learning](#10) (24 Videos)
+* [Machine Learning](#10) (25 Videos)
 * [Management Tools](#11) (5 Videos)
 * [Mobile](#12) (8 Videos)
 * [Networking & Content Delivery](#13) (6 Videos)
 * [Security, Identity & Compliance](#14) (17 Videos)
-* [Serverless](#15) (12 Videos)
+* [Serverless](#15) (13 Videos)
 * [Storage](#16) (22 Videos)
 
 
@@ -148,6 +148,7 @@
 |10/16|<a href="https://www.youtube.com/watch?v=VEu7FDmhRsc" target="_blank">Supercharge Query Caching with AWS Database Services </a>| 
 |10/17|<a href="https://www.youtube.com/watch?v=WuDGvG_4kC8" target="_blank">Why and How to Migrate from Apache Cassandra to Amazon DynamoDB </a>| 
 |11/12|<a href="https://www.youtube.com/watch?v=UmvHhlspRZg" target="_blank">Modernize your SQL Server 2008/R2 Databases with AWS Database Services </a>| 
+|12/12|<a href="https://www.youtube.com/watch?v=SsrhYHLPDlE" target="_blank">Serverless Databases with Amazon Aurora and Amazon DynamoDB </a>| 
 
 
 
@@ -267,6 +268,7 @@
 |12/11|<a href="https://www.youtube.com/watch?v=vTp2uebmnwk" target="_blank">Introducing Amazon SageMaker Ground Truth </a>| 
 |12/11|<a href="https://www.youtube.com/watch?v=X_Jm8bMklHc" target="_blank">Introduction to AWS DeepRacer </a>| 
 |12/12|<a href="https://www.youtube.com/watch?v=dhTIh87WA64" target="_blank">Introduction to Amazon Forecast and Amazon Personalize </a>| 
+|12/12|<a href="https://www.youtube.com/watch?v=zt4dtbUYwCw" target="_blank">Introduction to Amazon Textract: Now in Preview </a>| 
 
 
 
@@ -355,6 +357,7 @@
 |10/16|<a href="https://www.youtube.com/watch?v=l9Lw8y5P5ok" target="_blank">Build Enterprise-Grade Serverless Apps </a>| 
 |11/15|<a href="https://www.youtube.com/watch?v=T4RWwD5oHUc" target="_blank">Serverless Workflows for the Enterprise </a>| 
 |12/11|<a href="https://www.youtube.com/watch?v=8lf3ryoUQR4" target="_blank">What's New with Serverless at AWS </a>| 
+|12/13|<a href="https://www.youtube.com/watch?v=3SCdzzD0PdQ" target="_blank">Building Real Time Applications using WebSocket APIs Supported by Amazon API Gateway </a>| 
 
 
 
