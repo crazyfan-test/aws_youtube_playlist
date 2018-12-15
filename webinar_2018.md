@@ -19,7 +19,7 @@
 * [Networking & Content Delivery](#13) (6 Videos)
 * [Security, Identity & Compliance](#14) (17 Videos)
 * [Serverless](#15) (13 Videos)
-* [Storage](#16) (22 Videos)
+* [Storage](#16) (23 Videos)
 
 
 
@@ -388,6 +388,7 @@
 |11/15|<a href="https://www.youtube.com/watch?v=wmVQ_HEIW4Y" target="_blank">Move From Tape Backups to AWS in 30 Minutes </a>| 
 |11/20|<a href="https://www.youtube.com/watch?v=vPgXx_zlEx0" target="_blank">Deep Dive on Amazon S3 Security and Management </a>| 
 |12/12|<a href="https://www.youtube.com/watch?v=0b0EcA5nPho" target="_blank">Introduction to Amazon FSx for Windows File Server </a>| 
+|12/14|<a href="https://www.youtube.com/watch?v=BqmUQHHfDrI" target="_blank">What's New with AWS Storage - A Recap of re:Invent 2018 Announcements </a>| 
 
 
 

@@ -11,18 +11,18 @@
 * [AI Summit](#5) (8 Videos)
 * [ARVR](#6) (3 Videos)
 * [AdTech](#7) (2 Videos)
-* [Alexa](#8) (9 Videos)
-* [Analytics](#9) (35 Videos)
+* [Alexa](#8) (10 Videos)
+* [Analytics](#9) (36 Videos)
 * [Application Integration](#10) (8 Videos)
 * [Architecture](#11) (21 Videos)
-* [Artificial Intelligence & Machine Learning](#12) (38 Videos)
-* [Automotive](#13) (4 Videos)
+* [Artificial Intelligence & Machine Learning](#12) (39 Videos)
+* [Automotive](#13) (5 Videos)
 * [Business Apps](#14) (13 Videos)
 * [Compute](#15) (23 Videos)
 * [Conference Event](#16) (71 Videos)
 * [Containers](#17) (19 Videos)
 * [Content Delivery](#18) (11 Videos)
-* [Databases](#19) (36 Videos)
+* [Databases](#19) (37 Videos)
 * [Developer Community](#20) (8 Videos)
 * [Devops](#21) (35 Videos)
 * [Digital User Engagement](#22) (2 Videos)
@@ -35,7 +35,7 @@
 * [Gaming](#29) (3 Videos)
 * [Global China Region](#30) (1 Videos)
 * [Healthcare](#31) (5 Videos)
-* [IoT](#32) (25 Videos)
+* [IoT](#32) (26 Videos)
 * [Life Sciences](#33) (4 Videos)
 * [Manufacturing](#34) (4 Videos)
 * [Media & Entertainment](#35) (5 Videos)
@@ -284,6 +284,7 @@
 |ALX201-R1|<a href="https://www.youtube.com/watch?v=MsibLQOdqlQ" target="_blank">Alexa Everywhere: A Year in Review  </a>| 
 |ALX302|<a href="https://www.youtube.com/watch?v=B0aMlEPhFF4" target="_blank">Best Practices for Making Money with Alexa Skills  </a>| 
 |ALX305|<a href="https://www.youtube.com/watch?v=MEJFxo0CAYs" target="_blank">Voice Assistants Beyond Speakers - Alexa into Your Unique Product  </a>| 
+|ALX312|<a href="https://www.youtube.com/watch?v=N5oCOEFqhGM" target="_blank">Lessons Escape the Room That Apply to Making Money w/ Your Alexa Skills </a>| 
 |ALX312-R1|<a href="https://www.youtube.com/watch?v=A5dKs0bTFKI" target="_blank">Escape the Room That Apply to Making Money w/ Your Alexa Skills </a>| 
 |ALX313|<a href="https://www.youtube.com/watch?v=7fWkXlXJ0iM" target="_blank">Use Alexa to Reach New Customers by Developing for Multiple Screens  </a>| 
 |ALX313-R1|<a href="https://www.youtube.com/watch?v=tzJ_SHObBMk" target="_blank">Use Alexa to Reach New Customers by Developing for Multiple Screens  </a>| 
@@ -323,6 +324,7 @@
 |ANT330-S|<a href="https://www.youtube.com/watch?v=JIbKpPalq1c" target="_blank">“Cloud First” Helps Hub Intl Grow the Business with Splunk on AWS  </a>| 
 |ANT334-R1|<a href="https://www.youtube.com/watch?v=95kQkS51VnU" target="_blank">Get the Most out of Your Amazon Elasticsearch Service Domain  </a>| 
 |ANT335-S|<a href="https://www.youtube.com/watch?v=xcyNB5hki2o" target="_blank">How to Automate Security Learning at Scale  </a>| 
+|ANT336-S|<a href="https://www.youtube.com/watch?v=lEvI0i8L1TY" target="_blank">The Final Mile: New Ways to Get Data to Your End Users  </a>| 
 |ANT337-S|<a href="https://www.youtube.com/watch?v=By9XdNyXyGg" target="_blank">How to Quickly Get Insights from IoT Data on AWS  </a>| 
 |ANT340-R1|<a href="https://www.youtube.com/watch?v=ISl9sTzxoSo" target="_blank">[REPEAT 1] A Deep Dive into What's New with Amazon EMR  </a>| 
 |ANT350-R|<a href="https://www.youtube.com/watch?v=z2LxhuL54nM" target="_blank">[REPEAT] What's New with Amazon Redshift ft. Dow Jones  </a>| 
@@ -419,6 +421,7 @@
 |AIM404|<a href="https://www.youtube.com/watch?v=2vy539FnllU" target="_blank">Build  & Deploy ML Models Quickly & Easily with Amazon SageMaker  </a>| 
 |AIM404|<a href="https://www.youtube.com/watch?v=FKY3A9RasGw" target="_blank">Build & Deploy ML Models Quickly & Easily with Amazon SageMaker  </a>| 
 |AIM404-R|<a href="https://www.youtube.com/watch?v=jWWyKE5ApqI" target="_blank">Build & Deploy ML Models Quickly & Easily with Amazon SageMaker  </a>| 
+|AIM405-R|<a href="https://www.youtube.com/watch?v=1khaV-EyPdc" target="_blank">[REPEAT] Better Analytics Through Natural Language Processing  </a>| 
 |AIM406|<a href="https://www.youtube.com/watch?v=nYKTWlcPk6M" target="_blank">Unlock the Potential of Your Media Assets, Fox Entertainment Group  </a>| 
 |AIM407-R|<a href="https://www.youtube.com/watch?v=9d0wfBYFM3Q" target="_blank">Deep Learning Applications Using Apache MXNet, Featuring Workday  </a>| 
 |AIM407-R1|<a href="https://www.youtube.com/watch?v=dKcyAjCtXqc" target="_blank">Build Deep Learning Applications Using Apache MXNet -ft. Chick-fil-A  </a>| 
@@ -432,6 +435,7 @@
 
 | ClassId |       |
 |-|-|
+|AMT201-L|<a href="https://www.youtube.com/watch?v=b18lYqRniAk" target="_blank">AWS Automotive: Paving the Way for the Future of the Auto Industry  </a>| 
 |AMT301|<a href="https://www.youtube.com/watch?v=vccM1dPF3pE" target="_blank">Alexa, Where's My Car? Test Drive of AWS Connected Vehicle Solution  </a>| 
 |AMT302|<a href="https://www.youtube.com/watch?v=lSbNLtB1MzU" target="_blank">Easy Rider: How ML, Serverless, and IoT Drive Mobility as a Service  </a>| 
 |AMT304|<a href="https://www.youtube.com/watch?v=kWnXAXAYzOM" target="_blank">Building Volkswagen Group's Digital Ecosystem  </a>| 
@@ -635,6 +639,7 @@
 |DAT305-R1|<a href="https://www.youtube.com/watch?v=3PshvYmTv9M" target="_blank">[REPEAT 1] Deep Dive on Amazon Aurora with PostgreSQL Compatibility  </a>| 
 |DAT313|<a href="https://www.youtube.com/watch?v=tJ0TWdIocz0" target="_blank">Accelerate Database Development and Testing with Amazon Aurora  </a>| 
 |DAT314|<a href="https://www.youtube.com/watch?v=eEAAx89oDdk" target="_blank">Migrating Your NoSQL Database to Amazon DynamoDB  </a>| 
+|DAT315|<a href="https://www.youtube.com/watch?v=f7FSpT7jrX4" target="_blank">Building a Social Graph at Nike with Amazon Neptune  </a>| 
 |DAT316|<a href="https://www.youtube.com/watch?v=nNZcl_cVzhE" target="_blank">How Do I Know I Need an Amazon Neptune Graph Database?  </a>| 
 |DAT317|<a href="https://www.youtube.com/watch?v=j2wqT0EPDbw" target="_blank">Best Practices for Running Oracle Databases on Amazon RDS  </a>| 
 |DAT318|<a href="https://www.youtube.com/watch?v=lmEtkt-z1y0" target="_blank">Migrating Your Oracle & SQL Server Databases to Amazon Aurora  </a>| 
@@ -901,6 +906,7 @@
 |IOT221-S|<a href="https://www.youtube.com/watch?v=UzXzbfcydYk" target="_blank">Cloud Computing in an Edgy World  </a>| 
 |IOT222-S|<a href="https://www.youtube.com/watch?v=cvNIpglnH2g" target="_blank">Moving Out of the Data Center to Reach More Customer Targets  </a>| 
 |IOT302-R1|<a href="https://www.youtube.com/watch?v=pVWYzDJYHck" target="_blank">[REPEAT 1] Alexa and AWS IoT, ft. VIZIO  </a>| 
+|IOT303-R1|<a href="https://www.youtube.com/watch?v=pbZq7v9t1Ls" target="_blank">Connecting Existing Machines to Tomorrow's IoT, ft. Deutsche Bahn  </a>| 
 |IOT306-R1|<a href="https://www.youtube.com/watch?v=eiga7_RLCUM" target="_blank">[REPEAT 1] Building IoT Applications for a Smart Home, ft. Vestel  </a>| 
 |IOT358-R1|<a href="https://www.youtube.com/watch?v=I-tynkaNg9Y" target="_blank">[REPEAT 1] Operationalizing Your Analysis with AWS IoT Analytics  </a>| 
 |IOT365|<a href="https://www.youtube.com/watch?v=l0tmTaIqAK8" target="_blank">[NEW LAUNCH!] Introducing New AWS IoT Greengrass Features  </a>| 
