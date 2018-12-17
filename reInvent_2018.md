@@ -53,7 +53,7 @@
 * [Telecommunications](#47) (3 Videos)
 * [We Power Tech](#48) (4 Videos)
 * [Windows & .NET](#49) (11 Videos)
-* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#50) (78 Videos)
+* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#50) (79 Videos)
 
 
 
@@ -1263,6 +1263,7 @@
 |---|<a href="https://www.youtube.com/watch?v=rAMg6I5Hp4M" target="_blank">Announcing Machine Learning Solutions in AWS Marketplace </a>| 
 |---|<a href="https://www.youtube.com/watch?v=F4VGt6xOVpk" target="_blank">Badge Pickup </a>| 
 |---|<a href="https://www.youtube.com/watch?v=BOSIMpalcs8" target="_blank">Bernd Heinemann, Board Member at Allianz, Speaks at Global Partner Summit </a>| 
+|---|<a href="https://www.youtube.com/watch?v=nLyppihvhpQ" target="_blank">Building for Durability in Amazon S3 and Glacier with Mai-Lan Tomsen Bukovec </a>| 
 |---|<a href="https://www.youtube.com/watch?v=P5LA2P3SpbI" target="_blank">Campus & Schedule Overview </a>| 
 |---|<a href="https://www.youtube.com/watch?v=MCLrA401vHw" target="_blank">Chris Dyl, Director of Platform at Epic Games, Speaks at Monday Night Live </a>| 
 |---|<a href="https://www.youtube.com/watch?v=OBXv9KcXmwc" target="_blank">Community Activities </a>| 
