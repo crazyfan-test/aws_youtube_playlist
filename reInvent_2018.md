@@ -4,7 +4,7 @@
 ### Tracks
 
 * [Keynotes](#0) (4 Videos)
-* [Customer Speakers](#1) (7 Videos)
+* [Customer Speakers](#1) (8 Videos)
 * [Daily re:Cap](#2) (25 Videos)
 * [Launch Announcements](#3) (17 Videos)
 * [twitch.tv/aws](#4) (83 Videos)
@@ -53,7 +53,7 @@
 * [Telecommunications](#47) (3 Videos)
 * [We Power Tech](#48) (4 Videos)
 * [Windows & .NET](#49) (11 Videos)
-* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#50) (79 Videos)
+* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#50) (80 Videos)
 
 
 
@@ -83,6 +83,7 @@
 |---|<a href="https://www.youtube.com/watch?v=mJFJYiictyw" target="_blank">AWS Nonprofit Partner Solutions - Classy </a>| 
 |---|<a href="https://www.youtube.com/watch?v=BOSIMpalcs8" target="_blank">Bernd Heinemann, Board Member at Allianz, Speaks at Global Partner Summit </a>| 
 |---|<a href="https://www.youtube.com/watch?v=MCLrA401vHw" target="_blank">Chris Dyl, Director of Platform at Epic Games, Speaks at Monday Night Live </a>| 
+|---|<a href="https://www.youtube.com/watch?v=4FpL0jZBjfE" target="_blank">Dean Del Vecchio from Guardian Life Shares the Company’s Digital Transformation </a>| 
 |---|<a href="https://www.youtube.com/watch?v=4EQchAPyroE" target="_blank">Keith Bigelow, GM and SVP at GE Healthcare, Speaks at Monday Night Live </a>| 
 |---|<a href="https://www.youtube.com/watch?v=iwIQNoarVas" target="_blank">Pebbles Sy-Manalang, CIO of Globe Telecom, Speaks at Global Partner Summit </a>| 
 |---|<a href="https://www.youtube.com/watch?v=phCSmKjBfEc" target="_blank">Ross Brawn from Formula 1 Shares how Machine Learning is Transforming Racing </a>| 
@@ -1291,6 +1292,7 @@
 |---|<a href="https://www.youtube.com/watch?v=ibOE5rXVhKM" target="_blank">Daily re:Port - Table Tennis Tournament </a>| 
 |---|<a href="https://www.youtube.com/watch?v=AI32-DDvmO4" target="_blank">Daily re:Port - Tatonka Challenge </a>| 
 |---|<a href="https://www.youtube.com/watch?v=5g6FsBDTGIQ" target="_blank">Daily re:Port - Welcome Reception </a>| 
+|---|<a href="https://www.youtube.com/watch?v=4FpL0jZBjfE" target="_blank">Dean Del Vecchio from Guardian Life Shares the Company’s Digital Transformation </a>| 
 |---|<a href="https://www.youtube.com/watch?v=F61GtueelP4" target="_blank">Ethan Kaplan from Fender Shares How AWS Helps Brings Music to More Customers </a>| 
 |---|<a href="https://www.youtube.com/watch?v=p603k7dvQ-8" target="_blank">Expo Hall, The Quad, and Welcome Reception </a>| 
 |---|<a href="https://www.youtube.com/watch?v=pVmlJksOCLo" target="_blank">Hackathon & Jam Sessions </a>| 

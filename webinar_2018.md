@@ -12,12 +12,12 @@
 * [End-User Computing](#6) (2 Videos)
 * [Enterprise](#7) (22 Videos)
 * [Industry Solutions](#8) (1 Videos)
-* [IoT](#9) (12 Videos)
+* [IoT](#9) (13 Videos)
 * [Machine Learning](#10) (25 Videos)
 * [Management Tools](#11) (5 Videos)
 * [Mobile](#12) (8 Videos)
-* [Networking & Content Delivery](#13) (6 Videos)
-* [Security, Identity & Compliance](#14) (17 Videos)
+* [Networking & Content Delivery](#13) (7 Videos)
+* [Security, Identity & Compliance](#14) (18 Videos)
 * [Serverless](#15) (13 Videos)
 * [Storage](#16) (23 Videos)
 
@@ -236,6 +236,7 @@
 |09/26|<a href="https://www.youtube.com/watch?v=EInKJ8q1aPo" target="_blank">Over-the-Air Updates with Amazon FreeRTOS </a>| 
 |10/22|<a href="https://www.youtube.com/watch?v=QP05Zsn0qSk" target="_blank">Using Asset Monitoring in Industrial IoT Applications </a>| 
 |11/17|<a href="https://www.youtube.com/watch?v=uEqSz_dBrrc" target="_blank">Pushing Intelligence to the Edge in Industrial Applications </a>| 
+|12/17|<a href="https://www.youtube.com/watch?v=99fjjuQqAhE" target="_blank">Introduction to New AWS IoT Services </a>| 
 
 
 
@@ -312,6 +313,7 @@
 |05/29|<a href="https://www.youtube.com/watch?v=5U44o5vWuT4" target="_blank">Making Private Connectivity the New Norm via AWS PrivateLink </a>| 
 |10/23|<a href="https://www.youtube.com/watch?v=NPjbHSRv2gE" target="_blank">How to Build Intelligent Web Applications @ Edge </a>| 
 |10/25|<a href="https://www.youtube.com/watch?v=6G54JaQq5Go" target="_blank">Deep Dive on Bring Your Own IP </a>| 
+|12/17|<a href="https://www.youtube.com/watch?v=6fhwoAwYrug" target="_blank">Introduction to AWS Transit Gateway </a>| 
 
 
 
@@ -337,6 +339,7 @@
 |09/27|<a href="https://www.youtube.com/watch?v=LChSrke5U2o" target="_blank">Threat Response Scenarios Using Amazon GuardDuty </a>| 
 |10/22|<a href="https://www.youtube.com/watch?v=ydrcyy1nrQM" target="_blank">Getting to Know AWS Secrets Manager </a>| 
 |11/19|<a href="https://www.youtube.com/watch?v=PcK-hG6LvBw" target="_blank">AWS Office Hours: Amazon GuardDuty Tips and Tricks </a>| 
+|12/17|<a href="https://www.youtube.com/watch?v=o0NDi01YPXs" target="_blank">Introduction to AWS Security Hub </a>| 
 
 
 
