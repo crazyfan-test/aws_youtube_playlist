@@ -19,7 +19,7 @@
 * [Networking & Content Delivery](#13) (7 Videos)
 * [Security, Identity & Compliance](#14) (18 Videos)
 * [Serverless](#15) (13 Videos)
-* [Storage](#16) (23 Videos)
+* [Storage](#16) (25 Videos)
 
 
 
@@ -392,6 +392,8 @@
 |11/20|<a href="https://www.youtube.com/watch?v=vPgXx_zlEx0" target="_blank">Deep Dive on Amazon S3 Security and Management </a>| 
 |12/12|<a href="https://www.youtube.com/watch?v=0b0EcA5nPho" target="_blank">Introduction to Amazon FSx for Windows File Server </a>| 
 |12/14|<a href="https://www.youtube.com/watch?v=BqmUQHHfDrI" target="_blank">What's New with AWS Storage - A Recap of re:Invent 2018 Announcements </a>| 
+|12/18|<a href="https://www.youtube.com/watch?v=vjMwn00lIFg" target="_blank">Introduction to Amazon FSx for Lustre </a>| 
+|12/18|<a href="https://www.youtube.com/watch?v=S7yOwF_2KcQ" target="_blank">Introduction to New AWS Services for Data Transfer </a>| 
 
 
 

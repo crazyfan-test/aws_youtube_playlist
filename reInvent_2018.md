@@ -4,7 +4,7 @@
 ### Tracks
 
 * [Keynotes](#0) (4 Videos)
-* [Customer Speakers](#1) (8 Videos)
+* [Customer Speakers](#1) (9 Videos)
 * [Daily re:Cap](#2) (25 Videos)
 * [Launch Announcements](#3) (17 Videos)
 * [twitch.tv/aws](#4) (83 Videos)
@@ -15,10 +15,10 @@
 * [Analytics](#9) (36 Videos)
 * [Application Integration](#10) (8 Videos)
 * [Architecture](#11) (21 Videos)
-* [Artificial Intelligence & Machine Learning](#12) (39 Videos)
+* [Artificial Intelligence & Machine Learning](#12) (40 Videos)
 * [Automotive](#13) (5 Videos)
 * [Business Apps](#14) (13 Videos)
-* [Compute](#15) (23 Videos)
+* [Compute](#15) (24 Videos)
 * [Conference Event](#16) (71 Videos)
 * [Containers](#17) (19 Videos)
 * [Content Delivery](#18) (11 Videos)
@@ -87,6 +87,7 @@
 |---|<a href="https://www.youtube.com/watch?v=4EQchAPyroE" target="_blank">Keith Bigelow, GM and SVP at GE Healthcare, Speaks at Monday Night Live </a>| 
 |---|<a href="https://www.youtube.com/watch?v=iwIQNoarVas" target="_blank">Pebbles Sy-Manalang, CIO of Globe Telecom, Speaks at Global Partner Summit </a>| 
 |---|<a href="https://www.youtube.com/watch?v=phCSmKjBfEc" target="_blank">Ross Brawn from Formula 1 Shares how Machine Learning is Transforming Racing </a>| 
+|---|<a href="https://www.youtube.com/watch?v=-tmFeSBD0ws" target="_blank">SKF Optimizes Production Processes Using AWS </a>| 
 |---|<a href="https://www.youtube.com/watch?v=MJan8thlcv0" target="_blank">Yuri Misnik from National Australia Bank Shares the Company’s AWS Migration </a>| 
 
 
@@ -389,6 +390,7 @@
 
 | ClassId |       |
 |-|-|
+|---|<a href="https://www.youtube.com/watch?v=3ZJxyOFB4-w" target="_blank">NEW! Introducing Amazon Personalize: Real-time Personalization & Recommendations </a>| 
 |AIM202-L|<a href="https://www.youtube.com/watch?v=GW0Bktm55nI" target="_blank">Leadership Session: Machine Learning  </a>| 
 |AIM203-S|<a href="https://www.youtube.com/watch?v=_JLwY8wo-C0" target="_blank">Patient-Focused Data Science: Machine Learning for Complex Diseases  </a>| 
 |AIM204-S|<a href="https://www.youtube.com/watch?v=rd0Ze9Uq890" target="_blank">Smarter Event-Driven Edge with Amazon SageMaker & Project Flogo  </a>| 
@@ -488,6 +490,7 @@
 |CMP308-R1|<a href="https://www.youtube.com/watch?v=DWiwuYtIgu0" target="_blank">[REPEAT 1] Optimizing Network Performance for Amazon EC2 Instances  </a>| 
 |CMP309|<a href="https://www.youtube.com/watch?v=bFuOMiseXLw" target="_blank">Scale SAP HANA In-Memory DB on EC2 Instances with up to 12 TB Memory  </a>| 
 |CMP310-S|<a href="https://www.youtube.com/watch?v=AU7EBRViwhE" target="_blank">Application Portability with Kubernetes  </a>| 
+|CMP372|<a href="https://www.youtube.com/watch?v=tflZjGckK8c" target="_blank">AWS Batch & How AQR leverages AWS to Identify New Investment Signals  </a>| 
 |CMP373-S|<a href="https://www.youtube.com/watch?v=0bGZdqx6w1Q" target="_blank">Extend HPC Workloads to Amazon EC2 Instances with Intel and Rescale  </a>| 
 |CMP376|<a href="https://www.youtube.com/watch?v=5IsrZZSUQeU" target="_blank">Another Week, Another Million Containers on Amazon EC2  </a>| 
 |CMP377|<a href="https://www.youtube.com/watch?v=PideBMIcwBQ" target="_blank">Capacity Management Made Easy with Amazon EC2 Auto Scaling  </a>| 
