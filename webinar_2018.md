@@ -4,7 +4,7 @@
 ### Tracks
 
 * [AR/VR](#0) (2 Videos)
-* [Compute](#1) (22 Videos)
+* [Compute](#1) (23 Videos)
 * [Containers](#2) (12 Videos)
 * [Data Lakes & Analytics](#3) (26 Videos)
 * [Databases](#4) (21 Videos)
@@ -66,6 +66,7 @@
 |10/25|<a href="https://www.youtube.com/watch?v=S1Vf4orJqcw" target="_blank">Running Cost Effective Batch Workloads w/ AWS Batch & Amazon EC2 Spot Instances </a>| 
 |11/19|<a href="https://www.youtube.com/watch?v=sDOlj-j5RZg" target="_blank">Using Amazon Lightsail to Create a Database </a>| 
 |11/21|<a href="https://www.youtube.com/watch?v=O4uw7eIVrZs" target="_blank">Save up to 90% on CI/CD Workloads with Amazon EC2 Spot Instances </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=58YLszT2Ay8" target="_blank">Developing Deep Learning Models for Computer Vision w/ Amazon EC2 P3 Instances - AWS Tech Talks </a>| 
 
 
 

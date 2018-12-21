@@ -286,8 +286,8 @@
 |ALX201-R1|<a href="https://www.youtube.com/watch?v=MsibLQOdqlQ" target="_blank">Alexa Everywhere: A Year in Review  </a>| 
 |ALX302|<a href="https://www.youtube.com/watch?v=B0aMlEPhFF4" target="_blank">Best Practices for Making Money with Alexa Skills  </a>| 
 |ALX305|<a href="https://www.youtube.com/watch?v=MEJFxo0CAYs" target="_blank">Voice Assistants Beyond Speakers - Alexa into Your Unique Product  </a>| 
-|ALX312|<a href="https://www.youtube.com/watch?v=N5oCOEFqhGM" target="_blank">Lessons Escape the Room That Apply to Making Money w/ Your Alexa Skills </a>| 
 |ALX312-R1|<a href="https://www.youtube.com/watch?v=A5dKs0bTFKI" target="_blank">Escape the Room That Apply to Making Money w/ Your Alexa Skills </a>| 
+|ALX312R|<a href="https://www.youtube.com/watch?v=N5oCOEFqhGM" target="_blank">Lessons Escape the Room That Apply to Making Money w/ Your Alexa Skills </a>| 
 |ALX313|<a href="https://www.youtube.com/watch?v=7fWkXlXJ0iM" target="_blank">Use Alexa to Reach New Customers by Developing for Multiple Screens  </a>| 
 |ALX313-R1|<a href="https://www.youtube.com/watch?v=tzJ_SHObBMk" target="_blank">Use Alexa to Reach New Customers by Developing for Multiple Screens  </a>| 
 |ALX315-R2|<a href="https://www.youtube.com/watch?v=KQuMrfePbDQ" target="_blank">Home Skill API: Connect Any Device to Alexa & Control Any Feature  </a>| 
@@ -911,7 +911,7 @@
 |IOT222-S|<a href="https://www.youtube.com/watch?v=cvNIpglnH2g" target="_blank">Moving Out of the Data Center to Reach More Customer Targets  </a>| 
 |IOT302-R1|<a href="https://www.youtube.com/watch?v=pVWYzDJYHck" target="_blank">[REPEAT 1] Alexa and AWS IoT, ft. VIZIO  </a>| 
 |IOT303-R1|<a href="https://www.youtube.com/watch?v=pbZq7v9t1Ls" target="_blank">Connecting Existing Machines to Tomorrow's IoT, ft. Deutsche Bahn  </a>| 
-|IOT306-R1|<a href="https://www.youtube.com/watch?v=eiga7_RLCUM" target="_blank">[REPEAT 1] Building IoT Applications for a Smart Home, ft. Vestel  </a>| 
+|IOT306-R|<a href="https://www.youtube.com/watch?v=LbeWdLaXYDo" target="_blank">[REPEAT] Building IoT Applications for a Smart Home, ft. Vestel  </a>| 
 |IOT358-R1|<a href="https://www.youtube.com/watch?v=I-tynkaNg9Y" target="_blank">[REPEAT 1] Operationalizing Your Analysis with AWS IoT Analytics  </a>| 
 |IOT365|<a href="https://www.youtube.com/watch?v=l0tmTaIqAK8" target="_blank">[NEW LAUNCH!] Introducing New AWS IoT Greengrass Features  </a>| 
 |IOT366|<a href="https://www.youtube.com/watch?v=0WQhklWTHuM" target="_blank">[NEW LAUNCH!] Introducing AWS IoT Things Graph  </a>| 
