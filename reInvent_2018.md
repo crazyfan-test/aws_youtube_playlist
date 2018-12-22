@@ -225,7 +225,7 @@
 |---|<a href="https://www.youtube.com/watch?v=MuWe2INvIXw" target="_blank">New Data Processing Capabilities in Amazon SageMaker for Training & Inference </a>| 
 |---|<a href="https://www.youtube.com/watch?v=1sPAEU6-gQo" target="_blank">Orchestrate ML Workflows in Amazon SageMaker & AWS Step Functions </a>| 
 |---|<a href="https://www.youtube.com/watch?v=EobTxuqVHJ8" target="_blank">Purpose-Built Databases: Choose the Right Tool for Each Job </a>| 
-|---|<a href="https://www.youtube.com/watch?v=OJpC58KMm_I" target="_blank">Route53 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=7VKALUhyg_A" target="_blank">Route53 v2 </a>| 
 |---|<a href="https://www.youtube.com/watch?v=zsitzG6Qiag" target="_blank">Simplify the DNS for your Hybrid Cloud and Easily Scale Across VPCs </a>| 
 |---|<a href="https://www.youtube.com/watch?v=oiAajSwZf3Q" target="_blank">Startup Spotlight: Gremlin </a>| 
 |---|<a href="https://www.youtube.com/watch?v=rvexgbQzIxs" target="_blank">Thursday Recap </a>| 

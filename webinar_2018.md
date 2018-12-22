@@ -10,7 +10,7 @@
 * [Databases](#4) (21 Videos)
 * [DevOps](#5) (10 Videos)
 * [End-User Computing](#6) (2 Videos)
-* [Enterprise](#7) (22 Videos)
+* [Enterprise](#7) (23 Videos)
 * [Industry Solutions](#8) (1 Videos)
 * [IoT](#9) (13 Videos)
 * [Machine Learning](#10) (25 Videos)
@@ -208,6 +208,7 @@
 |10/23|<a href="https://www.youtube.com/watch?v=KsmaFGTRBVI" target="_blank">Migrating Microsoft SQL Server 2008 Databases to AWS </a>| 
 |11/19|<a href="https://www.youtube.com/watch?v=Yoa0sxfXDxw" target="_blank">Enterprise DevOps: New Patterns of Efficiency </a>| 
 |11/20|<a href="https://www.youtube.com/watch?v=whbBsq_jrm4" target="_blank">Are Your Workloads Well-Architected? </a>| 
+|12/21|<a href="https://www.youtube.com/watch?v=zdBpchFInr0" target="_blank">How to Use "Minimum Viable Refactoring" to Achieve Post-Migration Operational Excellence </a>| 
 
 
 
