@@ -4,7 +4,7 @@
 ### Tracks
 
 * [Keynotes](#0) (4 Videos)
-* [Customer Speakers](#1) (9 Videos)
+* [Customer Speakers](#1) (7 Videos)
 * [Daily re:Cap](#2) (25 Videos)
 * [Launch Announcements](#3) (17 Videos)
 * [twitch.tv/aws](#4) (83 Videos)
@@ -15,7 +15,7 @@
 * [Analytics](#9) (36 Videos)
 * [Application Integration](#10) (8 Videos)
 * [Architecture](#11) (21 Videos)
-* [Artificial Intelligence & Machine Learning](#12) (40 Videos)
+* [Artificial Intelligence & Machine Learning](#12) (41 Videos)
 * [Automotive](#13) (5 Videos)
 * [Business Apps](#14) (13 Videos)
 * [Compute](#15) (24 Videos)
@@ -49,7 +49,7 @@
 * [Security, Identity, and Compliance](#43) (34 Videos)
 * [Serverless](#44) (16 Videos)
 * [Startup Central](#45) (18 Videos)
-* [Storage](#46) (29 Videos)
+* [Storage](#46) (31 Videos)
 * [Telecommunications](#47) (3 Videos)
 * [We Power Tech](#48) (4 Videos)
 * [Windows & .NET](#49) (11 Videos)
@@ -80,14 +80,12 @@
 
 | ClassId |       |
 |-|-|
-|---|<a href="https://www.youtube.com/watch?v=mJFJYiictyw" target="_blank">AWS Nonprofit Partner Solutions - Classy </a>| 
 |---|<a href="https://www.youtube.com/watch?v=BOSIMpalcs8" target="_blank">Bernd Heinemann, Board Member at Allianz, Speaks at Global Partner Summit </a>| 
 |---|<a href="https://www.youtube.com/watch?v=MCLrA401vHw" target="_blank">Chris Dyl, Director of Platform at Epic Games, Speaks at Monday Night Live </a>| 
 |---|<a href="https://www.youtube.com/watch?v=4FpL0jZBjfE" target="_blank">Dean Del Vecchio from Guardian Life Shares the Company’s Digital Transformation </a>| 
 |---|<a href="https://www.youtube.com/watch?v=4EQchAPyroE" target="_blank">Keith Bigelow, GM and SVP at GE Healthcare, Speaks at Monday Night Live </a>| 
 |---|<a href="https://www.youtube.com/watch?v=iwIQNoarVas" target="_blank">Pebbles Sy-Manalang, CIO of Globe Telecom, Speaks at Global Partner Summit </a>| 
 |---|<a href="https://www.youtube.com/watch?v=phCSmKjBfEc" target="_blank">Ross Brawn from Formula 1 Shares how Machine Learning is Transforming Racing </a>| 
-|---|<a href="https://www.youtube.com/watch?v=-tmFeSBD0ws" target="_blank">SKF Optimizes Production Processes Using AWS </a>| 
 |---|<a href="https://www.youtube.com/watch?v=MJan8thlcv0" target="_blank">Yuri Misnik from National Australia Bank Shares the Company’s AWS Migration </a>| 
 
 
@@ -430,6 +428,7 @@
 |AIM407-R1|<a href="https://www.youtube.com/watch?v=dKcyAjCtXqc" target="_blank">Build Deep Learning Applications Using Apache MXNet -ft. Chick-fil-A  </a>| 
 |DEM115|<a href="https://www.youtube.com/watch?v=gGhtGWQLbmI" target="_blank">Quickly Build a Chatbot with Amazon Lex  </a>| 
 |DEM123|<a href="https://www.youtube.com/watch?v=tMeVyWJAXK8" target="_blank">[NEW LAUNCH!] Labeling for Accurate Machine Learning Training Datasets  </a>| 
+|ENT232-R1|<a href="https://www.youtube.com/watch?v=Vv8bCZMbKb8" target="_blank">Machine Learning for the Enterprise, Sony Interactive Entertainment  </a>| 
 
 
 
@@ -1178,6 +1177,8 @@
 |STG213-L|<a href="https://www.youtube.com/watch?v=gidUa4lJd9Y" target="_blank">What's New in Amazon S3, Amazon EFS, Amazon EBS, & more  </a>| 
 |STG301-R1|<a href="https://www.youtube.com/watch?v=4FQvJ2q6_oA" target="_blank">[REPEAT 1] Deep Dive on Amazon Elastic File System (Amazon EFS)  </a>| 
 |STG302|<a href="https://www.youtube.com/watch?v=oN5wlrrrOE8" target="_blank">Driving Machine Learning and Analytics Use Cases with AWS Storage  </a>| 
+|STG302|<a href="https://www.youtube.com/watch?v=jARyGzWg9jg" target="_blank">Driving Machine Learning and Analytics Use Cases with AWS Storage  </a>| 
+|STG303-R|<a href="https://www.youtube.com/watch?v=VvMCVFnLKnQ" target="_blank">Deep Dive on Amazon S3 Security and Management  </a>| 
 |STG303-R1|<a href="https://www.youtube.com/watch?v=x25FSsXrBqU" target="_blank">[REPEAT 1] Deep Dive on Amazon S3 Security and Management  </a>| 
 |STG304-S|<a href="https://www.youtube.com/watch?v=AhZ23x2f23Q" target="_blank">Protecting Amazon EC2 Instances, Relational DBs & NoSQL Workloads  </a>| 
 |STG305-R|<a href="https://www.youtube.com/watch?v=o6TpM-FWs38" target="_blank">Deep Dive: Hybrid Cloud Storage Arch. w/Storage Gateway, ft. CME Grp.  </a>| 

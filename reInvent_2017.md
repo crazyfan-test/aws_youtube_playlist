@@ -477,6 +477,7 @@
 |ARC219|<a href="https://www.youtube.com/watch?v=aLSFGLJ6Byo" target="_blank">Digital Transformation   <i class="fa fa-cc fa-1"></i></a>| 
 |ARC303|<a href="https://www.youtube.com/watch?v=XQFweGjK_-o" target="_blank">Running Lean Architectures: How to Optimize for Cost Efficiency   <i class="fa fa-cc fa-1"></i></a>| 
 |ARC304-R|<a href="https://www.youtube.com/watch?v=utFb5mHiP94" target="_blank">[REPEAT] From One to Many: Evolving VPC Design   <i class="fa fa-cc fa-1"></i></a>| 
+|ARC306|<a href="https://www.youtube.com/watch?v=s-Nsi-d1Kf4" target="_blank">High Resiliency & Availability of online entertainment   <i class="fa fa-cc fa-1"></i></a>| 
 |ARC310|<a href="https://www.youtube.com/watch?v=9YL0LTNGZNQ" target="_blank">Avoiding Groundhog Day   <i class="fa fa-cc fa-1"></i></a>| 
 |ARC311|<a href="https://www.youtube.com/watch?v=ey1lXsYnMHQ" target="_blank">Serverless Encoding at Scale with Content Moderation via Deep Le   <i class="fa fa-cc fa-1"></i></a>| 
 |ARC312|<a href="https://www.youtube.com/watch?v=i1EW6zmFbSM" target="_blank">Why Regional Reserved Instances Are a Game Changer for Netflix   <i class="fa fa-cc fa-1"></i></a>| 
