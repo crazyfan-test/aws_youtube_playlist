@@ -272,7 +272,7 @@
 |12/11|<a href="https://www.youtube.com/watch?v=X_Jm8bMklHc" target="_blank">Introduction to AWS DeepRacer </a>| 
 |12/12|<a href="https://www.youtube.com/watch?v=dhTIh87WA64" target="_blank">Introduction to Amazon Forecast and Amazon Personalize </a>| 
 |12/12|<a href="https://www.youtube.com/watch?v=zt4dtbUYwCw" target="_blank">Introduction to Amazon Textract: Now in Preview </a>| 
-|12/24|<a href="https://www.youtube.com/watch?v=RbaEosGwsy4" target="_blank">Virtual Hands-On Workshop: Get Started with Machine Learning (ML) in the Cloud and at the Edge </a>| 
+|12/24|<a href="https://www.youtube.com/watch?v=RbaEosGwsy4" target="_blank">Virtual Workshop: Get Started with Machine Learning in the Cloud & at the Edge with AWS & Intel </a>| 
 
 
 
