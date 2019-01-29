@@ -21,7 +21,7 @@
 * [Compute](#15) (24 Videos)
 * [Conference Event](#16) (71 Videos)
 * [Containers](#17) (19 Videos)
-* [Content Delivery](#18) (11 Videos)
+* [Content Delivery](#18) (12 Videos)
 * [Databases](#19) (37 Videos)
 * [Developer Community](#20) (8 Videos)
 * [Devops](#21) (35 Videos)
@@ -610,6 +610,7 @@
 | ClassId |       |
 |-|-|
 |CTD201-R1|<a href="https://www.youtube.com/watch?v=MeFXknWDN3E" target="_blank">[REPEAT 1] Layered Perimeter Protection for Apps Running on AWS  </a>| 
+|CTD202|<a href="https://www.youtube.com/watch?v=sOlTXeE1QCM" target="_blank">Deploy Live Video and Machine Learning for Rapid Decision-Making  </a>| 
 |CTD203-R1|<a href="https://www.youtube.com/watch?v=2YAz20284FI" target="_blank">Amazon Prime Video: Delivering the Amazing Video Experience  </a>| 
 |CTD204|<a href="https://www.youtube.com/watch?v=a-MTPm5nNX4" target="_blank">All the World’s a Stage: Enriching Minds with OTT Video  </a>| 
 |CTD206|<a href="https://www.youtube.com/watch?v=Mj9-CQ1PRCk" target="_blank">Broadcasting Sporting Events: AWS Media Services When It Matters Most  </a>| 

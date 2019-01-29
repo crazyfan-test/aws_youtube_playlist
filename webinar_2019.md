@@ -6,6 +6,8 @@
 * [Containers](#0) (1 Videos)
 * [Data Lakes & Analytics](#1) (1 Videos)
 * [Mobile](#2) (1 Videos)
+* [Security, Identity & Compliance](#3) (1 Videos)
+* [Storage](#4) (1 Videos)
 
 
 
@@ -39,6 +41,24 @@
 | Date |       |
 |-|-|
 |01/21|<a href="https://www.youtube.com/watch?v=_AdJGAVTTbg" target="_blank">Build Secure, Offline, and Real Time Enabled Mobile Apps Using AWS AppSync and AWS Amplify </a>| 
+
+
+
+
+### Security, Identity & Compliance <a name="3"></a>
+
+| Date |       |
+|-|-|
+|01/25|<a href="https://www.youtube.com/watch?v=Nqt_JDan7oc" target="_blank">Customer Showcase: How Dow Jones Uses AWS to Create a Secure Perimeter Around Its Web Properties </a>| 
+
+
+
+
+### Storage <a name="4"></a>
+
+| Date |       |
+|-|-|
+|01/28|<a href="https://www.youtube.com/watch?v=wFSv2gSQADI" target="_blank">The Amazon S3 Storage Classes </a>| 
 
 
 
