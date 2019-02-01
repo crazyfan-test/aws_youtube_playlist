@@ -8,52 +8,53 @@
 * [Daily re:Cap](#2) (25 Videos)
 * [Launch Announcements](#3) (17 Videos)
 * [twitch.tv/aws](#4) (83 Videos)
-* [AI Summit](#5) (8 Videos)
-* [ARVR](#6) (3 Videos)
-* [AdTech](#7) (2 Videos)
-* [Alexa](#8) (10 Videos)
-* [Analytics](#9) (36 Videos)
-* [Application Integration](#10) (8 Videos)
-* [Architecture](#11) (21 Videos)
-* [Artificial Intelligence & Machine Learning](#12) (41 Videos)
-* [Automotive](#13) (5 Videos)
-* [Business Apps](#14) (13 Videos)
-* [Compute](#15) (24 Videos)
-* [Conference Event](#16) (71 Videos)
-* [Containers](#17) (19 Videos)
-* [Content Delivery](#18) (12 Videos)
-* [Databases](#19) (37 Videos)
-* [Developer Community](#20) (8 Videos)
-* [Devops](#21) (35 Videos)
-* [Digital User Engagement](#22) (2 Videos)
-* [Enterprise & Hybrid](#23) (33 Videos)
-* [Financial Services](#24) (10 Videos)
-* [GPS-Marketplace](#25) (1 Videos)
-* [GPS-Marketplace, Global Partner Summit](#26) (1 Videos)
-* [GPS-Technical](#27) (7 Videos)
-* [GPS-Technical, Global Partner Summit](#28) (16 Videos)
-* [Gaming](#29) (3 Videos)
-* [Global China Region](#30) (1 Videos)
-* [Healthcare](#31) (5 Videos)
-* [IoT](#32) (26 Videos)
-* [Life Sciences](#33) (4 Videos)
-* [Manufacturing](#34) (4 Videos)
-* [Media & Entertainment](#35) (5 Videos)
-* [Mobile](#36) (14 Videos)
-* [Networking](#37) (20 Videos)
-* [Oil & Gas](#38) (1 Videos)
-* [Power & Utilities](#39) (5 Videos)
-* [Public Sector](#40) (8 Videos)
-* [Retail & Wholesale](#41) (3 Videos)
-* [Robotics](#42) (2 Videos)
-* [Security, Identity, and Compliance](#43) (34 Videos)
-* [Serverless](#44) (16 Videos)
-* [Startup Central](#45) (18 Videos)
-* [Storage](#46) (31 Videos)
-* [Telecommunications](#47) (3 Videos)
-* [We Power Tech](#48) (4 Videos)
-* [Windows & .NET](#49) (11 Videos)
-* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#50) (80 Videos)
+* [twitch.tv/aws](#5) (83 Videos)
+* [AI Summit](#6) (8 Videos)
+* [ARVR](#7) (3 Videos)
+* [AdTech](#8) (2 Videos)
+* [Alexa](#9) (10 Videos)
+* [Analytics](#10) (36 Videos)
+* [Application Integration](#11) (8 Videos)
+* [Architecture](#12) (21 Videos)
+* [Artificial Intelligence & Machine Learning](#13) (41 Videos)
+* [Automotive](#14) (5 Videos)
+* [Business Apps](#15) (13 Videos)
+* [Compute](#16) (24 Videos)
+* [Conference Event](#17) (71 Videos)
+* [Containers](#18) (19 Videos)
+* [Content Delivery](#19) (12 Videos)
+* [Databases](#20) (37 Videos)
+* [Developer Community](#21) (8 Videos)
+* [Devops](#22) (35 Videos)
+* [Digital User Engagement](#23) (2 Videos)
+* [Enterprise & Hybrid](#24) (33 Videos)
+* [Financial Services](#25) (10 Videos)
+* [GPS-Marketplace](#26) (1 Videos)
+* [GPS-Marketplace, Global Partner Summit](#27) (1 Videos)
+* [GPS-Technical](#28) (7 Videos)
+* [GPS-Technical, Global Partner Summit](#29) (16 Videos)
+* [Gaming](#30) (3 Videos)
+* [Global China Region](#31) (1 Videos)
+* [Healthcare](#32) (5 Videos)
+* [IoT](#33) (26 Videos)
+* [Life Sciences](#34) (4 Videos)
+* [Manufacturing](#35) (4 Videos)
+* [Media & Entertainment](#36) (5 Videos)
+* [Mobile](#37) (14 Videos)
+* [Networking](#38) (20 Videos)
+* [Oil & Gas](#39) (1 Videos)
+* [Power & Utilities](#40) (5 Videos)
+* [Public Sector](#41) (8 Videos)
+* [Retail & Wholesale](#42) (3 Videos)
+* [Robotics](#43) (2 Videos)
+* [Security, Identity, and Compliance](#44) (34 Videos)
+* [Serverless](#45) (16 Videos)
+* [Startup Central](#46) (18 Videos)
+* [Storage](#47) (31 Videos)
+* [Telecommunications](#48) (3 Videos)
+* [We Power Tech](#49) (4 Videos)
+* [Windows & .NET](#50) (11 Videos)
+* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#51) (80 Videos)
 
 
 
@@ -240,7 +241,98 @@
 
 
 
-### AI Summit <a name="5"></a>
+### twitch.tv/aws <a name="5"></a>
+
+| ClassId |       |
+|-|-|
+|---|<a href="https://www.youtube.com/watch?v=6snjo4IzZcQ" target="_blank">AWS re:Invent 2018 Keynote: Werner Vogels </a>| 
+|---|<a href="https://www.youtube.com/watch?v=HSJNK8aTpgU" target="_blank">AWS Amplify Console and New Features in AWS AppSync </a>| 
+|---|<a href="https://www.youtube.com/watch?v=sdCntQUPYzE" target="_blank">AWS Announces New Amazon S3 Features </a>| 
+|---|<a href="https://www.youtube.com/watch?v=5VPIzKDyLvo" target="_blank">AWS Developer Tools Improve Continuous Delivery Support for AWS Fargate and Amazon ECS </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Wlgm6VzTXbk" target="_blank">AWS Elemental MediaConnect is now Generally Available </a>| 
+|---|<a href="https://www.youtube.com/watch?v=5DJ41bAA8S0" target="_blank">AWS Global Accelerator </a>| 
+|---|<a href="https://www.youtube.com/watch?v=l7f06LQx32A" target="_blank">AWS Marketplace Launch Recap </a>| 
+|---|<a href="https://www.youtube.com/watch?v=8Ccl620paFQ" target="_blank">AWS Serverless Launches </a>| 
+|---|<a href="https://www.youtube.com/watch?v=PjwNApiZ6U4" target="_blank">AWS re:Invent Recap | 11/27/2018 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=_Fgxl52OZes" target="_blank">Amazon EFS </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Q5KE1RJv8vA" target="_blank">Amazon Kinesis Data Analytics for Java applications is now Generally Available </a>| 
+|---|<a href="https://www.youtube.com/watch?v=4-sI24EbvHk" target="_blank">Amazon RDS on VMware Now in Preview </a>| 
+|---|<a href="https://www.youtube.com/watch?v=lSnqxsRMe20" target="_blank">Amazon Sumerian </a>| 
+|---|<a href="https://www.youtube.com/watch?v=YtDSTKiU1u8" target="_blank">Announcing 8 new languages and a Custom Terminology for Amazon Translate </a>| 
+|---|<a href="https://www.youtube.com/watch?v=WM0iZ7-96oQ" target="_blank">Announcing AWS IoT Events </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Gy-5LtX_yfY" target="_blank">Announcing AWS IoT SiteWise </a>| 
+|---|<a href="https://www.youtube.com/watch?v=GMZhY28gW4M" target="_blank">Announcing AWS RoboMaker </a>| 
+|---|<a href="https://www.youtube.com/watch?v=K3PPzf9ePko" target="_blank">Announcing AWS Security Hub </a>| 
+|---|<a href="https://www.youtube.com/watch?v=qMeSp-ZBDAg" target="_blank">Announcing Amazon DynamoDB Support for Transactions </a>| 
+|---|<a href="https://www.youtube.com/watch?v=21tG9tjbxTM" target="_blank">Announcing Two New AWS Online Data Transfer Services & New Edge Computing Capabilities </a>| 
+|---|<a href="https://www.youtube.com/watch?v=jtyyTI1Psoo" target="_blank">Announcing three new Amazon EC2 instances, C5n, P3dn, and A1 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=yYNh369pJTY" target="_blank">Chest X-Ray Analysis with Machine Learning </a>| 
+|---|<a href="https://www.youtube.com/watch?v=B_-8TT23a6E" target="_blank">Community Day Session 1 |  Red Team vs. Blue Team on AWS </a>| 
+|---|<a href="https://www.youtube.com/watch?v=HQaYSSQ2Y1U" target="_blank">Community Day Session 2 | ProTips for Scaling AWS Training to Accelerate Adoption </a>| 
+|---|<a href="https://www.youtube.com/watch?v=yIDsCwrmY8g" target="_blank">Community Day Session 3 | Applying Principles of Chaos Engineering to Serverless </a>| 
+|---|<a href="https://www.youtube.com/watch?v=s2NYVwAs4Fo" target="_blank">Community Day Session 4 | Building Fraud Detection Systems with AWS Batch and Containers </a>| 
+|---|<a href="https://www.youtube.com/watch?v=beyjIbwxfCE" target="_blank">Containers on AWS  Kubernetes and ECS </a>| 
+|---|<a href="https://www.youtube.com/watch?v=9Qz15ifiL3g" target="_blank">Customer Spotlight: Disney Streaming Services uses Amazon Pinpoint for powerful user engagement </a>| 
+|---|<a href="https://www.youtube.com/watch?v=TPyLJLOrHlE" target="_blank">Developing Mobile Apps on AWS </a>| 
+|---|<a href="https://www.youtube.com/watch?v=APq9PaaZJPA" target="_blank">Easily Build Scalable Blockchain & Ledger Solutions </a>| 
+|---|<a href="https://www.youtube.com/watch?v=b1GGOgpqA38" target="_blank">Edge Computing with AWS IoT </a>| 
+|---|<a href="https://www.youtube.com/watch?v=0Ml0dMOm_Ww" target="_blank">Elastic Fabric Adapter </a>| 
+|---|<a href="https://www.youtube.com/watch?v=SqF8lBTFwJY" target="_blank">Evangelism Power Hour </a>| 
+|---|<a href="https://www.youtube.com/watch?v=DrrvPqX_Qr8" target="_blank">Firecracker is now Open Source </a>| 
+|---|<a href="https://www.youtube.com/watch?v=acNYag40u6Q" target="_blank">Future of AI - Automatic Diagnosis of Speech Disorders with Machine Learning Algorithms </a>| 
+|---|<a href="https://www.youtube.com/watch?v=cA8jYfpfZ1g" target="_blank">Future of AI - Creating Movie Magic with Computational Simulations </a>| 
+|---|<a href="https://www.youtube.com/watch?v=0uyxGGD3wo0" target="_blank">Future of AI - Designing for a Data-Driven Economy </a>| 
+|---|<a href="https://www.youtube.com/watch?v=cD_Y_8IfT_A" target="_blank">Future of AI - Pragmatic Quantum Machine Learning Today </a>| 
+|---|<a href="https://www.youtube.com/watch?v=ZsgFqE4cV38" target="_blank">Future of AI - The Evolution of Language and Information Technology </a>| 
+|---|<a href="https://www.youtube.com/watch?v=5Z6GMmuxVg8" target="_blank">Human-in-the-Loop for Machine Learning </a>| 
+|---|<a href="https://www.youtube.com/watch?v=cq0dTR8kL44" target="_blank">Industrial IoT Applications </a>| 
+|---|<a href="https://www.youtube.com/watch?v=qTE1PbdY3hY" target="_blank">Introducing AWS Cloud Map and AWS App Mesh </a>| 
+|---|<a href="https://www.youtube.com/watch?v=X-6v4RZy-TE" target="_blank">Introducing AWS DeepRacer </a>| 
+|---|<a href="https://www.youtube.com/watch?v=bJ2LnuMABKg" target="_blank">Introducing AWS Global Accelerator and Elastic Fabric Adapter </a>| 
+|---|<a href="https://www.youtube.com/watch?v=QisrRmvK3yw" target="_blank">Introducing AWS Ground Station </a>| 
+|---|<a href="https://www.youtube.com/watch?v=SeZ78yX8SC8" target="_blank">Introducing AWS Lake Formation and Managed Streaming for Kafka </a>| 
+|---|<a href="https://www.youtube.com/watch?v=hpz8mkwEa_Y" target="_blank">Introducing AWS Outposts </a>| 
+|---|<a href="https://www.youtube.com/watch?v=05QKFsD6qss" target="_blank">Introducing Amazon Personalize & Amazon Forecast </a>| 
+|---|<a href="https://www.youtube.com/watch?v=hagvdqofRU4" target="_blank">Introducing Amazon Textract: Now in Preview </a>| 
+|---|<a href="https://www.youtube.com/watch?v=B6kmBLDck8w" target="_blank">Introducing Dashboard Embedding and ML Insights with Amazon QuickSight </a>| 
+|---|<a href="https://www.youtube.com/watch?v=ejJIlLJHqpo" target="_blank">Introducing Dynamic Training </a>| 
+|---|<a href="https://www.youtube.com/watch?v=1CN0y2bfHac" target="_blank">Introducing DynamoDB On-Demand </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Aa9OOwQduLI" target="_blank">Introducing S3 Batch Operations and S3 Intelligent-Tiering </a>| 
+|---|<a href="https://www.youtube.com/watch?v=z6UrYVFTVdY" target="_blank">Kick Off | 11/28/18 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=8FzC-8XD6OM" target="_blank">Kick off and Recent Launches </a>| 
+|---|<a href="https://www.youtube.com/watch?v=EOfGF1JpMEg" target="_blank">Live from the AWS DeepRacer MGM Speedway </a>| 
+|---|<a href="https://www.youtube.com/watch?v=2JRixikAXVg" target="_blank">Making Capacity Intuitive </a>| 
+|---|<a href="https://www.youtube.com/watch?v=pa_rZChSC8s" target="_blank">Meet an Engineer | Forrest Brazeal, Senior Cloud Architect, Trek10 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=BS1NvjmT_Zs" target="_blank">Meet an Engineer | Marcia Villalba, Senior Full-Stack Developer, Rovio </a>| 
+|---|<a href="https://www.youtube.com/watch?v=8ZcDx-aMfPA" target="_blank">Meet an Engineer | Tim Bray, Senior Principal Engineer, AWS </a>| 
+|---|<a href="https://www.youtube.com/watch?v=v5ghuYLwiN8" target="_blank">Meet an Engineer | Travis Brown, Solutions Architect Manager, Twitch </a>| 
+|---|<a href="https://www.youtube.com/watch?v=kwxeiUdIbvg" target="_blank">Meet an Engineer| Jerry Hargrove, Cloud Architect & Evangelist, Lucid </a>| 
+|---|<a href="https://www.youtube.com/watch?v=avFySraL5ZY" target="_blank">Meet an Engineer| Nell Waliczek, Principal Software Engineer, AWS AR/VR </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Thcdt4EdaKI" target="_blank">Meet-an-Engineer | Becky Weiss, Senior Principal Engineer, AWS </a>| 
+|---|<a href="https://www.youtube.com/watch?v=4LeO4m8LC88" target="_blank">Meet-an-Engineer: Clare Liguori, Principal Engineer, AWS Containers </a>| 
+|---|<a href="https://www.youtube.com/watch?v=NtViHfC4zPI" target="_blank">Modern Application Development </a>| 
+|---|<a href="https://www.youtube.com/watch?v=fmQiMdH-fV8" target="_blank">Monitor All Your Things with Amazon CloudWatch </a>| 
+|---|<a href="https://www.youtube.com/watch?v=MuWe2INvIXw" target="_blank">New Data Processing Capabilities in Amazon SageMaker for Training & Inference </a>| 
+|---|<a href="https://www.youtube.com/watch?v=1sPAEU6-gQo" target="_blank">Orchestrate ML Workflows in Amazon SageMaker & AWS Step Functions </a>| 
+|---|<a href="https://www.youtube.com/watch?v=EobTxuqVHJ8" target="_blank">Purpose-Built Databases: Choose the Right Tool for Each Job </a>| 
+|---|<a href="https://www.youtube.com/watch?v=7VKALUhyg_A" target="_blank">Route53 v2 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=zsitzG6Qiag" target="_blank">Simplify the DNS for your Hybrid Cloud and Easily Scale Across VPCs </a>| 
+|---|<a href="https://www.youtube.com/watch?v=oiAajSwZf3Q" target="_blank">Startup Spotlight: Gremlin </a>| 
+|---|<a href="https://www.youtube.com/watch?v=rvexgbQzIxs" target="_blank">Thursday Recap </a>| 
+|---|<a href="https://www.youtube.com/watch?v=cN_R5JteUgA" target="_blank">What's New in Amazon Aurora </a>| 
+|---|<a href="https://www.youtube.com/watch?v=E2wkd5L9bgA" target="_blank">Windows and .NET innovation on AWS with 10 New Launches </a>| 
+|---|<a href="https://www.youtube.com/watch?v=4cSB7ksjG9w" target="_blank">re:Invent Quick Stats 11/28/18 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=hkz-dXuDPqg" target="_blank">re:Invent Quick Stats | 11/28/2018 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=sl88eREm42k" target="_blank">re:Invent Recap  Wednesday </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Ks5lud7Rye4" target="_blank">re:Invent Spotlight The NAB Cloud Guild </a>| 
+|---|<a href="https://www.youtube.com/watch?v=EIfFPw5qb1Q" target="_blank">re:Invent Spotlight | AWS Educate </a>| 
+|---|<a href="https://www.youtube.com/watch?v=r_fFs2zmw8Q" target="_blank">re:Invent Spotlight | Non-profit Hackathon </a>| 
+|---|<a href="https://www.youtube.com/watch?v=h1OThy53uks" target="_blank">re:Invent Spotlight | Twitch Developers </a>| 
+
+
+
+
+### AI Summit <a name="6"></a>
 
 | ClassId |       |
 |-|-|
@@ -256,7 +348,7 @@
 
 
 
-### ARVR <a name="6"></a>
+### ARVR <a name="7"></a>
 
 | ClassId |       |
 |-|-|
@@ -267,7 +359,7 @@
 
 
 
-### AdTech <a name="7"></a>
+### AdTech <a name="8"></a>
 
 | ClassId |       |
 |-|-|
@@ -277,7 +369,7 @@
 
 
 
-### Alexa <a name="8"></a>
+### Alexa <a name="9"></a>
 
 | ClassId |       |
 |-|-|
@@ -295,7 +387,7 @@
 
 
 
-### Analytics <a name="9"></a>
+### Analytics <a name="10"></a>
 
 | ClassId |       |
 |-|-|
@@ -339,7 +431,7 @@
 
 
 
-### Application Integration <a name="10"></a>
+### Application Integration <a name="11"></a>
 
 | ClassId |       |
 |-|-|
@@ -355,7 +447,7 @@
 
 
 
-### Architecture <a name="11"></a>
+### Architecture <a name="12"></a>
 
 | ClassId |       |
 |-|-|
@@ -384,11 +476,11 @@
 
 
 
-### Artificial Intelligence & Machine Learning <a name="12"></a>
+### Artificial Intelligence & Machine Learning <a name="13"></a>
 
 | ClassId |       |
 |-|-|
-|---|<a href="https://www.youtube.com/watch?v=3ZJxyOFB4-w" target="_blank">NEW! Introducing Amazon Personalize: Real-time Personalization & Recommendations </a>| 
+|---|<a href="https://www.youtube.com/watch?v=9sexYAHHjxE" target="_blank">NEW! Introducing Amazon Personalize: Real-time Personalization & Recommendations </a>| 
 |AIM202-L|<a href="https://www.youtube.com/watch?v=GW0Bktm55nI" target="_blank">Leadership Session: Machine Learning  </a>| 
 |AIM203-S|<a href="https://www.youtube.com/watch?v=_JLwY8wo-C0" target="_blank">Patient-Focused Data Science: Machine Learning for Complex Diseases  </a>| 
 |AIM204-S|<a href="https://www.youtube.com/watch?v=rd0Ze9Uq890" target="_blank">Smarter Event-Driven Edge with Amazon SageMaker & Project Flogo  </a>| 
@@ -433,7 +525,7 @@
 
 
 
-### Automotive <a name="13"></a>
+### Automotive <a name="14"></a>
 
 | ClassId |       |
 |-|-|
@@ -446,7 +538,7 @@
 
 
 
-### Business Apps <a name="14"></a>
+### Business Apps <a name="15"></a>
 
 | ClassId |       |
 |-|-|
@@ -467,7 +559,7 @@
 
 
 
-### Compute <a name="15"></a>
+### Compute <a name="16"></a>
 
 | ClassId |       |
 |-|-|
@@ -499,7 +591,7 @@
 
 
 
-### Conference Event <a name="16"></a>
+### Conference Event <a name="17"></a>
 
 | ClassId |       |
 |-|-|
@@ -578,7 +670,7 @@
 
 
 
-### Containers <a name="17"></a>
+### Containers <a name="18"></a>
 
 | ClassId |       |
 |-|-|
@@ -605,7 +697,7 @@
 
 
 
-### Content Delivery <a name="18"></a>
+### Content Delivery <a name="19"></a>
 
 | ClassId |       |
 |-|-|
@@ -625,7 +717,7 @@
 
 
 
-### Databases <a name="19"></a>
+### Databases <a name="20"></a>
 
 | ClassId |       |
 |-|-|
@@ -670,7 +762,7 @@
 
 
 
-### Developer Community <a name="20"></a>
+### Developer Community <a name="21"></a>
 
 | ClassId |       |
 |-|-|
@@ -686,7 +778,7 @@
 
 
 
-### Devops <a name="21"></a>
+### Devops <a name="22"></a>
 
 | ClassId |       |
 |-|-|
@@ -729,7 +821,7 @@
 
 
 
-### Digital User Engagement <a name="22"></a>
+### Digital User Engagement <a name="23"></a>
 
 | ClassId |       |
 |-|-|
@@ -739,7 +831,7 @@
 
 
 
-### Enterprise & Hybrid <a name="23"></a>
+### Enterprise & Hybrid <a name="24"></a>
 
 | ClassId |       |
 |-|-|
@@ -780,7 +872,7 @@
 
 
 
-### Financial Services <a name="24"></a>
+### Financial Services <a name="25"></a>
 
 | ClassId |       |
 |-|-|
@@ -798,7 +890,7 @@
 
 
 
-### GPS-Marketplace <a name="25"></a>
+### GPS-Marketplace <a name="26"></a>
 
 | ClassId |       |
 |-|-|
@@ -807,7 +899,7 @@
 
 
 
-### GPS-Marketplace, Global Partner Summit <a name="26"></a>
+### GPS-Marketplace, Global Partner Summit <a name="27"></a>
 
 | ClassId |       |
 |-|-|
@@ -816,7 +908,7 @@
 
 
 
-### GPS-Technical <a name="27"></a>
+### GPS-Technical <a name="28"></a>
 
 | ClassId |       |
 |-|-|
@@ -831,7 +923,7 @@
 
 
 
-### GPS-Technical, Global Partner Summit <a name="28"></a>
+### GPS-Technical, Global Partner Summit <a name="29"></a>
 
 | ClassId |       |
 |-|-|
@@ -855,7 +947,7 @@
 
 
 
-### Gaming <a name="29"></a>
+### Gaming <a name="30"></a>
 
 | ClassId |       |
 |-|-|
@@ -866,7 +958,7 @@
 
 
 
-### Global China Region <a name="30"></a>
+### Global China Region <a name="31"></a>
 
 | ClassId |       |
 |-|-|
@@ -875,7 +967,7 @@
 
 
 
-### Healthcare <a name="31"></a>
+### Healthcare <a name="32"></a>
 
 | ClassId |       |
 |-|-|
@@ -888,7 +980,7 @@
 
 
 
-### IoT <a name="32"></a>
+### IoT <a name="33"></a>
 
 | ClassId |       |
 |-|-|
@@ -922,7 +1014,7 @@
 
 
 
-### Life Sciences <a name="33"></a>
+### Life Sciences <a name="34"></a>
 
 | ClassId |       |
 |-|-|
@@ -934,7 +1026,7 @@
 
 
 
-### Manufacturing <a name="34"></a>
+### Manufacturing <a name="35"></a>
 
 | ClassId |       |
 |-|-|
@@ -946,7 +1038,7 @@
 
 
 
-### Media & Entertainment <a name="35"></a>
+### Media & Entertainment <a name="36"></a>
 
 | ClassId |       |
 |-|-|
@@ -959,7 +1051,7 @@
 
 
 
-### Mobile <a name="36"></a>
+### Mobile <a name="37"></a>
 
 | ClassId |       |
 |-|-|
@@ -981,7 +1073,7 @@
 
 
 
-### Networking <a name="37"></a>
+### Networking <a name="38"></a>
 
 | ClassId |       |
 |-|-|
@@ -1009,7 +1101,7 @@
 
 
 
-### Oil & Gas <a name="38"></a>
+### Oil & Gas <a name="39"></a>
 
 | ClassId |       |
 |-|-|
@@ -1018,7 +1110,7 @@
 
 
 
-### Power & Utilities <a name="39"></a>
+### Power & Utilities <a name="40"></a>
 
 | ClassId |       |
 |-|-|
@@ -1031,7 +1123,7 @@
 
 
 
-### Public Sector <a name="40"></a>
+### Public Sector <a name="41"></a>
 
 | ClassId |       |
 |-|-|
@@ -1047,7 +1139,7 @@
 
 
 
-### Retail & Wholesale <a name="41"></a>
+### Retail & Wholesale <a name="42"></a>
 
 | ClassId |       |
 |-|-|
@@ -1058,7 +1150,7 @@
 
 
 
-### Robotics <a name="42"></a>
+### Robotics <a name="43"></a>
 
 | ClassId |       |
 |-|-|
@@ -1068,7 +1160,7 @@
 
 
 
-### Security, Identity, and Compliance <a name="43"></a>
+### Security, Identity, and Compliance <a name="44"></a>
 
 | ClassId |       |
 |-|-|
@@ -1110,7 +1202,7 @@
 
 
 
-### Serverless <a name="44"></a>
+### Serverless <a name="45"></a>
 
 | ClassId |       |
 |-|-|
@@ -1134,7 +1226,7 @@
 
 
 
-### Startup Central <a name="45"></a>
+### Startup Central <a name="46"></a>
 
 | ClassId |       |
 |-|-|
@@ -1160,7 +1252,7 @@
 
 
 
-### Storage <a name="46"></a>
+### Storage <a name="47"></a>
 
 | ClassId |       |
 |-|-|
@@ -1199,7 +1291,7 @@
 
 
 
-### Telecommunications <a name="47"></a>
+### Telecommunications <a name="48"></a>
 
 | ClassId |       |
 |-|-|
@@ -1210,7 +1302,7 @@
 
 
 
-### We Power Tech <a name="48"></a>
+### We Power Tech <a name="49"></a>
 
 | ClassId |       |
 |-|-|
@@ -1222,7 +1314,7 @@
 
 
 
-### Windows & .NET <a name="49"></a>
+### Windows & .NET <a name="50"></a>
 
 | ClassId |       |
 |-|-|
@@ -1241,7 +1333,7 @@
 
 
 
-### Nov. 26 – Nov. 30, 2018 Las Vegas, NV <a name="50"></a>
+### Nov. 26 – Nov. 30, 2018 Las Vegas, NV <a name="51"></a>
 
 | ClassId |       |
 |-|-|

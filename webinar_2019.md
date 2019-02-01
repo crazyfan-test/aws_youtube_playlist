@@ -11,7 +11,8 @@
 * [Networking & Content Delivery](#5) (1 Videos)
 * [Robotics](#6) (1 Videos)
 * [Security, Identity & Compliance](#7) (2 Videos)
-* [Storage](#8) (1 Videos)
+* [Serverless](#8) (2 Videos)
+* [Storage](#9) (1 Videos)
 
 
 
@@ -95,7 +96,17 @@
 
 
 
-### Storage <a name="8"></a>
+### Serverless <a name="8"></a>
+
+| Date |       |
+|-|-|
+|01/31|<a href="https://www.youtube.com/watch?v=AWJk7Ek9oOU" target="_blank">Accelerate Serverless Development Using AWS SAM & the AWS Serverless Application Repository </a>| 
+|01/31|<a href="https://www.youtube.com/watch?v=gCQHulp3aVo" target="_blank">Deep Dive Into Lambda Layers and the Lambda Runtime API </a>| 
+
+
+
+
+### Storage <a name="9"></a>
 
 | Date |       |
 |-|-|
