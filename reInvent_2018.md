@@ -19,42 +19,43 @@
 * [Artificial Intelligence & Machine Learning](#13) (41 Videos)
 * [Automotive](#14) (5 Videos)
 * [Business Apps](#15) (13 Videos)
-* [Compute](#16) (24 Videos)
-* [Conference Event](#17) (71 Videos)
-* [Containers](#18) (19 Videos)
-* [Content Delivery](#19) (12 Videos)
-* [Databases](#20) (37 Videos)
-* [Developer Community](#21) (8 Videos)
-* [Devops](#22) (35 Videos)
-* [Digital User Engagement](#23) (2 Videos)
-* [Enterprise & Hybrid](#24) (33 Videos)
-* [Financial Services](#25) (10 Videos)
-* [GPS-Marketplace](#26) (1 Videos)
-* [GPS-Marketplace, Global Partner Summit](#27) (1 Videos)
-* [GPS-Technical](#28) (7 Videos)
-* [GPS-Technical, Global Partner Summit](#29) (16 Videos)
-* [Gaming](#30) (3 Videos)
-* [Global China Region](#31) (1 Videos)
-* [Healthcare](#32) (5 Videos)
-* [IoT](#33) (26 Videos)
-* [Life Sciences](#34) (4 Videos)
-* [Manufacturing](#35) (4 Videos)
-* [Media & Entertainment](#36) (5 Videos)
-* [Mobile](#37) (14 Videos)
-* [Networking](#38) (20 Videos)
-* [Oil & Gas](#39) (1 Videos)
-* [Power & Utilities](#40) (5 Videos)
-* [Public Sector](#41) (8 Videos)
-* [Retail & Wholesale](#42) (3 Videos)
-* [Robotics](#43) (2 Videos)
-* [Security, Identity, and Compliance](#44) (34 Videos)
-* [Serverless](#45) (16 Videos)
-* [Startup Central](#46) (18 Videos)
-* [Storage](#47) (31 Videos)
-* [Telecommunications](#48) (3 Videos)
-* [We Power Tech](#49) (4 Videos)
-* [Windows & .NET](#50) (11 Videos)
-* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#51) (80 Videos)
+* [Cloud for Biotech Symposium](#16) (11 Videos)
+* [Compute](#17) (24 Videos)
+* [Conference Event](#18) (71 Videos)
+* [Containers](#19) (19 Videos)
+* [Content Delivery](#20) (12 Videos)
+* [Databases](#21) (37 Videos)
+* [Developer Community](#22) (8 Videos)
+* [Devops](#23) (35 Videos)
+* [Digital User Engagement](#24) (2 Videos)
+* [Enterprise & Hybrid](#25) (34 Videos)
+* [Financial Services](#26) (10 Videos)
+* [GPS-Marketplace](#27) (1 Videos)
+* [GPS-Marketplace, Global Partner Summit](#28) (1 Videos)
+* [GPS-Technical](#29) (7 Videos)
+* [GPS-Technical, Global Partner Summit](#30) (16 Videos)
+* [Gaming](#31) (3 Videos)
+* [Global China Region](#32) (1 Videos)
+* [Healthcare](#33) (5 Videos)
+* [IoT](#34) (26 Videos)
+* [Life Sciences](#35) (4 Videos)
+* [Manufacturing](#36) (4 Videos)
+* [Media & Entertainment](#37) (5 Videos)
+* [Mobile](#38) (14 Videos)
+* [Networking](#39) (20 Videos)
+* [Oil & Gas](#40) (1 Videos)
+* [Power & Utilities](#41) (5 Videos)
+* [Public Sector](#42) (8 Videos)
+* [Retail & Wholesale](#43) (3 Videos)
+* [Robotics](#44) (2 Videos)
+* [Security, Identity, and Compliance](#45) (34 Videos)
+* [Serverless](#46) (16 Videos)
+* [Startup Central](#47) (18 Videos)
+* [Storage](#48) (31 Videos)
+* [Telecommunications](#49) (3 Videos)
+* [We Power Tech](#50) (4 Videos)
+* [Windows & .NET](#51) (11 Videos)
+* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#52) (80 Videos)
 
 
 
@@ -559,7 +560,26 @@
 
 
 
-### Compute <a name="16"></a>
+### Cloud for Biotech Symposium <a name="16"></a>
+
+| ClassId |       |
+|-|-|
+|---|<a href="https://www.youtube.com/watch?v=5lAMBltKR4U" target="_blank">Accelerating ML Utilization, Innovation and Evolution for Scientists </a>| 
+|---|<a href="https://www.youtube.com/watch?v=RePmp2p1Nug" target="_blank">Cloud Immunity: Analyzing Billions of Antibodies for Next Generation Monoclonal... </a>| 
+|---|<a href="https://www.youtube.com/watch?v=F6IstTXFBjI" target="_blank">Data Integration from Cloud-Enabling Lab Instruments </a>| 
+|---|<a href="https://www.youtube.com/watch?v=G5tGRUuW6sQ" target="_blank">Decision Making with Robotic Microscopes, Computer Vision, and Cloud Computing </a>| 
+|---|<a href="https://www.youtube.com/watch?v=trDi7is1MCE" target="_blank">Exploring the Limits of Chemical Space </a>| 
+|---|<a href="https://www.youtube.com/watch?v=njmIPtaAJ9Y" target="_blank">From SpaceX to CRISPR: How to Build a Cloud-Enabled Factory for Biology Research </a>| 
+|---|<a href="https://www.youtube.com/watch?v=On6YOrjpjoA" target="_blank">New Frontiers of Digital Pathology </a>| 
+|---|<a href="https://www.youtube.com/watch?v=l2VnOT6vf-I" target="_blank">Rethinking Drug Discovery Using Machine Learning </a>| 
+|---|<a href="https://www.youtube.com/watch?v=RLEyt9raMDA" target="_blank">Scaling High-Throughput Genomics Workflows </a>| 
+|---|<a href="https://www.youtube.com/watch?v=NFJu_TDnu3I" target="_blank">The Kidney Genome Atlas: Fusing Genotypic and Phenotypic Data </a>| 
+|---|<a href="https://www.youtube.com/watch?v=7wBSd6gitlw" target="_blank">The World’s Largest Prospective Validation of Machine Learning for Drug Discovery </a>| 
+
+
+
+
+### Compute <a name="17"></a>
 
 | ClassId |       |
 |-|-|
@@ -591,7 +611,7 @@
 
 
 
-### Conference Event <a name="17"></a>
+### Conference Event <a name="18"></a>
 
 | ClassId |       |
 |-|-|
@@ -670,7 +690,7 @@
 
 
 
-### Containers <a name="18"></a>
+### Containers <a name="19"></a>
 
 | ClassId |       |
 |-|-|
@@ -697,7 +717,7 @@
 
 
 
-### Content Delivery <a name="19"></a>
+### Content Delivery <a name="20"></a>
 
 | ClassId |       |
 |-|-|
@@ -717,7 +737,7 @@
 
 
 
-### Databases <a name="20"></a>
+### Databases <a name="21"></a>
 
 | ClassId |       |
 |-|-|
@@ -762,7 +782,7 @@
 
 
 
-### Developer Community <a name="21"></a>
+### Developer Community <a name="22"></a>
 
 | ClassId |       |
 |-|-|
@@ -778,7 +798,7 @@
 
 
 
-### Devops <a name="22"></a>
+### Devops <a name="23"></a>
 
 | ClassId |       |
 |-|-|
@@ -821,7 +841,7 @@
 
 
 
-### Digital User Engagement <a name="23"></a>
+### Digital User Engagement <a name="24"></a>
 
 | ClassId |       |
 |-|-|
@@ -831,7 +851,7 @@
 
 
 
-### Enterprise & Hybrid <a name="24"></a>
+### Enterprise & Hybrid <a name="25"></a>
 
 | ClassId |       |
 |-|-|
@@ -844,6 +864,7 @@
 |ENT216-S|<a href="https://www.youtube.com/watch?v=bQ_jO1IHRRc" target="_blank">Maximize Cloud Elasticity and Agility in 5 Easy Steps  </a>| 
 |ENT217-R|<a href="https://www.youtube.com/watch?v=jmNCmMyyFBk" target="_blank">[REPEAT] Enterprise DevOps: Begin with Production-Ready Migration  </a>| 
 |ENT218-S|<a href="https://www.youtube.com/watch?v=OnO6H56qdow" target="_blank">Corteva Scales DNA Analysis to Meet Increasing Business Demand  </a>| 
+|ENT219-R|<a href="https://www.youtube.com/watch?v=UqJEHW9kvfI" target="_blank">The New Normal for Mission-Critical SAP Workloads  </a>| 
 |ENT219-R1|<a href="https://www.youtube.com/watch?v=hSvqLiXMF1k" target="_blank">[REPEAT 1] The New Normal for Mission-Critical SAP Workloads  </a>| 
 |ENT220-L|<a href="https://www.youtube.com/watch?v=SUsN65YHLT0" target="_blank">Leadership Session:  The Future of Enterprise IT  </a>| 
 |ENT226-R1|<a href="https://www.youtube.com/watch?v=TFFQWKWDS0g" target="_blank">Control for Your Cloud Environment Using AWS Management Tools  </a>| 
@@ -872,7 +893,7 @@
 
 
 
-### Financial Services <a name="25"></a>
+### Financial Services <a name="26"></a>
 
 | ClassId |       |
 |-|-|
@@ -890,7 +911,7 @@
 
 
 
-### GPS-Marketplace <a name="26"></a>
+### GPS-Marketplace <a name="27"></a>
 
 | ClassId |       |
 |-|-|
@@ -899,7 +920,7 @@
 
 
 
-### GPS-Marketplace, Global Partner Summit <a name="27"></a>
+### GPS-Marketplace, Global Partner Summit <a name="28"></a>
 
 | ClassId |       |
 |-|-|
@@ -908,7 +929,7 @@
 
 
 
-### GPS-Technical <a name="28"></a>
+### GPS-Technical <a name="29"></a>
 
 | ClassId |       |
 |-|-|
@@ -923,7 +944,7 @@
 
 
 
-### GPS-Technical, Global Partner Summit <a name="29"></a>
+### GPS-Technical, Global Partner Summit <a name="30"></a>
 
 | ClassId |       |
 |-|-|
@@ -947,7 +968,7 @@
 
 
 
-### Gaming <a name="30"></a>
+### Gaming <a name="31"></a>
 
 | ClassId |       |
 |-|-|
@@ -958,7 +979,7 @@
 
 
 
-### Global China Region <a name="31"></a>
+### Global China Region <a name="32"></a>
 
 | ClassId |       |
 |-|-|
@@ -967,7 +988,7 @@
 
 
 
-### Healthcare <a name="32"></a>
+### Healthcare <a name="33"></a>
 
 | ClassId |       |
 |-|-|
@@ -980,7 +1001,7 @@
 
 
 
-### IoT <a name="33"></a>
+### IoT <a name="34"></a>
 
 | ClassId |       |
 |-|-|
@@ -1014,7 +1035,7 @@
 
 
 
-### Life Sciences <a name="34"></a>
+### Life Sciences <a name="35"></a>
 
 | ClassId |       |
 |-|-|
@@ -1026,7 +1047,7 @@
 
 
 
-### Manufacturing <a name="35"></a>
+### Manufacturing <a name="36"></a>
 
 | ClassId |       |
 |-|-|
@@ -1038,7 +1059,7 @@
 
 
 
-### Media & Entertainment <a name="36"></a>
+### Media & Entertainment <a name="37"></a>
 
 | ClassId |       |
 |-|-|
@@ -1051,7 +1072,7 @@
 
 
 
-### Mobile <a name="37"></a>
+### Mobile <a name="38"></a>
 
 | ClassId |       |
 |-|-|
@@ -1073,7 +1094,7 @@
 
 
 
-### Networking <a name="38"></a>
+### Networking <a name="39"></a>
 
 | ClassId |       |
 |-|-|
@@ -1101,7 +1122,7 @@
 
 
 
-### Oil & Gas <a name="39"></a>
+### Oil & Gas <a name="40"></a>
 
 | ClassId |       |
 |-|-|
@@ -1110,7 +1131,7 @@
 
 
 
-### Power & Utilities <a name="40"></a>
+### Power & Utilities <a name="41"></a>
 
 | ClassId |       |
 |-|-|
@@ -1123,7 +1144,7 @@
 
 
 
-### Public Sector <a name="41"></a>
+### Public Sector <a name="42"></a>
 
 | ClassId |       |
 |-|-|
@@ -1139,7 +1160,7 @@
 
 
 
-### Retail & Wholesale <a name="42"></a>
+### Retail & Wholesale <a name="43"></a>
 
 | ClassId |       |
 |-|-|
@@ -1150,7 +1171,7 @@
 
 
 
-### Robotics <a name="43"></a>
+### Robotics <a name="44"></a>
 
 | ClassId |       |
 |-|-|
@@ -1160,7 +1181,7 @@
 
 
 
-### Security, Identity, and Compliance <a name="44"></a>
+### Security, Identity, and Compliance <a name="45"></a>
 
 | ClassId |       |
 |-|-|
@@ -1202,7 +1223,7 @@
 
 
 
-### Serverless <a name="45"></a>
+### Serverless <a name="46"></a>
 
 | ClassId |       |
 |-|-|
@@ -1226,7 +1247,7 @@
 
 
 
-### Startup Central <a name="46"></a>
+### Startup Central <a name="47"></a>
 
 | ClassId |       |
 |-|-|
@@ -1252,7 +1273,7 @@
 
 
 
-### Storage <a name="47"></a>
+### Storage <a name="48"></a>
 
 | ClassId |       |
 |-|-|
@@ -1272,7 +1293,7 @@
 |STG302|<a href="https://www.youtube.com/watch?v=oN5wlrrrOE8" target="_blank">Driving Machine Learning and Analytics Use Cases with AWS Storage  </a>| 
 |STG302|<a href="https://www.youtube.com/watch?v=jARyGzWg9jg" target="_blank">Driving Machine Learning and Analytics Use Cases with AWS Storage  </a>| 
 |STG303-R|<a href="https://www.youtube.com/watch?v=VvMCVFnLKnQ" target="_blank">Deep Dive on Amazon S3 Security and Management  </a>| 
-|STG303-R1|<a href="https://www.youtube.com/watch?v=x25FSsXrBqU" target="_blank">[REPEAT 1] Deep Dive on Amazon S3 Security and Management  </a>| 
+|STG303-R1|<a href="https://www.youtube.com/watch?v=x25FSsXrBqU" target="_blank">[Repeat] Deep Dive on Amazon S3 Security and Management  </a>| 
 |STG304-S|<a href="https://www.youtube.com/watch?v=AhZ23x2f23Q" target="_blank">Protecting Amazon EC2 Instances, Relational DBs & NoSQL Workloads  </a>| 
 |STG305-R|<a href="https://www.youtube.com/watch?v=o6TpM-FWs38" target="_blank">Deep Dive: Hybrid Cloud Storage Arch. w/Storage Gateway, ft. CME Grp.  </a>| 
 |STG305-R1|<a href="https://www.youtube.com/watch?v=0zwdRvtQ1Tk" target="_blank">Deep Dive: Hybrid Cloud Storage Arch. w/Storage Gateway, + Kellogg's  </a>| 
@@ -1291,7 +1312,7 @@
 
 
 
-### Telecommunications <a name="48"></a>
+### Telecommunications <a name="49"></a>
 
 | ClassId |       |
 |-|-|
@@ -1302,7 +1323,7 @@
 
 
 
-### We Power Tech <a name="49"></a>
+### We Power Tech <a name="50"></a>
 
 | ClassId |       |
 |-|-|
@@ -1314,7 +1335,7 @@
 
 
 
-### Windows & .NET <a name="50"></a>
+### Windows & .NET <a name="51"></a>
 
 | ClassId |       |
 |-|-|
@@ -1333,7 +1354,7 @@
 
 
 
-### Nov. 26 – Nov. 30, 2018 Las Vegas, NV <a name="51"></a>
+### Nov. 26 – Nov. 30, 2018 Las Vegas, NV <a name="52"></a>
 
 | ClassId |       |
 |-|-|

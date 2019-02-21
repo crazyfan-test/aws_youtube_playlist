@@ -13,7 +13,7 @@
 * [Enterprise](#7) (23 Videos)
 * [Industry Solutions](#8) (1 Videos)
 * [IoT](#9) (13 Videos)
-* [Machine Learning](#10) (26 Videos)
+* [Machine Learning](#10) (25 Videos)
 * [Management Tools](#11) (5 Videos)
 * [Mobile](#12) (8 Videos)
 * [Networking & Content Delivery](#13) (7 Videos)
@@ -270,7 +270,6 @@
 |09/20|<a href="https://www.youtube.com/watch?v=R0vC31OXt-g" target="_blank">Build, Train and Deploy Machine Learning Models on AWS with Amazon SageMaker </a>| 
 |12/11|<a href="https://www.youtube.com/watch?v=vTp2uebmnwk" target="_blank">Introducing Amazon SageMaker Ground Truth </a>| 
 |12/11|<a href="https://www.youtube.com/watch?v=X_Jm8bMklHc" target="_blank">Introduction to AWS DeepRacer </a>| 
-|12/12|<a href="https://www.youtube.com/watch?v=dhTIh87WA64" target="_blank">Introduction to Amazon Forecast and Amazon Personalize </a>| 
 |12/12|<a href="https://www.youtube.com/watch?v=zt4dtbUYwCw" target="_blank">Introduction to Amazon Textract: Now in Preview </a>| 
 |12/24|<a href="https://www.youtube.com/watch?v=RbaEosGwsy4" target="_blank">Virtual Workshop: Get Started with Machine Learning in the Cloud & at the Edge with AWS & Intel </a>| 
 
@@ -312,7 +311,7 @@
 |-|-|
 |01/31|<a href="https://www.youtube.com/watch?v=IRHxy-vwjPA" target="_blank">Deep Dive on AWS PrivateLink </a>| 
 |03/29|<a href="https://www.youtube.com/watch?v=b1gq9jTqInA" target="_blank">Deep Dive on New AWS Networking Features </a>| 
-|05/03|<a href="https://www.youtube.com/watch?v=5m8oFxH_Ryk" target="_blank">Taking Serverless to the Edge </a>| 
+|05/03|<a href="https://www.youtube.com/watch?v=5m8oFxH_Ryk" target="_blank">Customer Showcase: Taking Serverless to the Edge </a>| 
 |05/29|<a href="https://www.youtube.com/watch?v=5U44o5vWuT4" target="_blank">Making Private Connectivity the New Norm via AWS PrivateLink </a>| 
 |10/23|<a href="https://www.youtube.com/watch?v=NPjbHSRv2gE" target="_blank">How to Build Intelligent Web Applications @ Edge </a>| 
 |10/25|<a href="https://www.youtube.com/watch?v=6G54JaQq5Go" target="_blank">Deep Dive on Bring Your Own IP </a>| 
