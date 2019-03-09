@@ -3,21 +3,26 @@
 
 ### Tracks
 
-* [Application Integration](#0) (1 Videos)
-* [Blockchain](#1) (1 Videos)
-* [Containers](#2) (2 Videos)
-* [Data Lakes & Analytics](#3) (2 Videos)
-* [Databases](#4) (1 Videos)
-* [DevOps](#5) (0 Videos)
-* [Enterprise](#6) (1 Videos)
-* [IoT](#7) (1 Videos)
-* [Machine Learning](#8) (2 Videos)
-* [Mobile](#9) (1 Videos)
-* [Networking & Content Delivery](#10) (1 Videos)
-* [Robotics](#11) (1 Videos)
-* [Security, Identity & Compliance](#12) (2 Videos)
-* [Serverless](#13) (3 Videos)
-* [Storage](#14) (1 Videos)
+* [AR/VR](#0) (1 Videos)
+* [Application Integration](#1) (1 Videos)
+* [Blockchain](#2) (1 Videos)
+* [Compute](#3) (2 Videos)
+* [Containers](#4) (2 Videos)
+* [Data Lakes & Analytics](#5) (2 Videos)
+* [Databases](#6) (2 Videos)
+* [DevOps](#7) (1 Videos)
+* [End-User Computing](#8) (1 Videos)
+* [Enterprise](#9) (2 Videos)
+* [IoT](#10) (2 Videos)
+* [Machine Learning](#11) (4 Videos)
+* [Migration](#12) (1 Videos)
+* [Mobile](#13) (1 Videos)
+* [Networking & Content Delivery](#14) (2 Videos)
+* [Productivity & Business Solutions](#15) (1 Videos)
+* [Robotics](#16) (1 Videos)
+* [Security, Identity & Compliance](#17) (2 Videos)
+* [Serverless](#18) (3 Videos)
+* [Storage](#19) (3 Videos)
 
 
 
@@ -28,7 +33,16 @@
 ### Sessions
 
 
-### Application Integration <a name="0"></a>
+### AR/VR <a name="0"></a>
+
+| Date |       |
+|-|-|
+|02/28|<a href="https://www.youtube.com/watch?v=y6hHHy9z0Vo" target="_blank">Build AR/VR Apps with AWS: Creating a Multiplayer Game with Amazon Sumerian </a>| 
+
+
+
+
+### Application Integration <a name="1"></a>
 
 | Date |       |
 |-|-|
@@ -37,7 +51,7 @@
 
 
 
-### Blockchain <a name="1"></a>
+### Blockchain <a name="2"></a>
 
 | Date |       |
 |-|-|
@@ -46,7 +60,17 @@
 
 
 
-### Containers <a name="2"></a>
+### Compute <a name="3"></a>
+
+| Date |       |
+|-|-|
+|02/21|<a href="https://www.youtube.com/watch?v=9pMJfOq_PsM" target="_blank">What's New in Amazon EC2 </a>| 
+|02/21|<a href="https://www.youtube.com/watch?v=l8bRhno-LEo" target="_blank">Deploy and Scale Your First Cloud Application with Amazon Lightsail </a>| 
+
+
+
+
+### Containers <a name="4"></a>
 
 | Date |       |
 |-|-|
@@ -56,7 +80,7 @@
 
 
 
-### Data Lakes & Analytics <a name="3"></a>
+### Data Lakes & Analytics <a name="5"></a>
 
 | Date |       |
 |-|-|
@@ -66,52 +90,76 @@
 
 
 
-### Databases <a name="4"></a>
+### Databases <a name="6"></a>
 
 | Date |       |
 |-|-|
 |02/19|<a href="https://www.youtube.com/watch?v=WhaDAnt6mx4" target="_blank">Building Real-Time Applications with Redis </a>| 
+|02/21|<a href="https://www.youtube.com/watch?v=gfzq2AjKsCI" target="_blank">Introduction to Amazon DocumentDB (with MongoDB Compatibility) </a>| 
 
 
 
 
-### DevOps <a name="5"></a>
+### DevOps <a name="7"></a>
 
 | Date |       |
 |-|-|
+|02/22|<a href="https://www.youtube.com/watch?v=FlZm3nFMIAM" target="_blank">Fireside Chat: DevOps at Amazon with Ken Exner, GM of AWS Developer Tools </a>| 
 
 
 
 
-### Enterprise <a name="6"></a>
+### End-User Computing <a name="8"></a>
+
+| Date |       |
+|-|-|
+|02/28|<a href="https://www.youtube.com/watch?v=g9ykPf73hb4" target="_blank">Enable Your Remote and Mobile Workforce with Amazon WorkLink </a>| 
+
+
+
+
+### Enterprise <a name="9"></a>
 
 | Date |       |
 |-|-|
 |01/30|<a href="https://www.youtube.com/watch?v=MfxF-FYEFjY" target="_blank">Build Better Workloads with the AWS Well-Architected Framework and Tool </a>| 
+|02/28|<a href="https://www.youtube.com/watch?v=vyqXED0jwcc" target="_blank">Office Hours: Cloud Ops Engineer - Answers for AWS Operations Pros </a>| 
 
 
 
 
-### IoT <a name="7"></a>
+### IoT <a name="10"></a>
 
 | Date |       |
 |-|-|
 |01/29|<a href="https://www.youtube.com/watch?v=aGUhKwZp6lk" target="_blank">How To Visually Develop IoT Applications with AWS IoT Things Graph </a>| 
+|02/26|<a href="https://www.youtube.com/watch?v=hQ0Pe9roU34" target="_blank">Bring IoT and AI Together </a>| 
 
 
 
 
-### Machine Learning <a name="8"></a>
+### Machine Learning <a name="11"></a>
 
 | Date |       |
 |-|-|
 |02/19|<a href="https://www.youtube.com/watch?v=gNmWrezkY0s" target="_blank">Getting Started with AWS DeepRacer </a>| 
 |02/21|<a href="https://www.youtube.com/watch?v=xGD6rkPuQ7Q" target="_blank">Build and Train Reinforcement Models with Amazon SageMaker RL </a>| 
+|02/21|<a href="https://www.youtube.com/watch?v=PiDa6E36jnQ" target="_blank">Build your Machine Learning Datasets with Amazon SageMaker Ground Truth </a>| 
+|02/21|<a href="https://www.youtube.com/watch?v=waKMyWUFvQY" target="_blank">Train ML Models Once, Run Anywhere in the Cloud & at the Edge with Amazon SageMaker Neo </a>| 
 
 
 
 
-### Mobile <a name="9"></a>
+### Migration <a name="12"></a>
+
+| Date |       |
+|-|-|
+|02/27|<a href="https://www.youtube.com/watch?v=dZUi8InI030" target="_blank">Maximize the Benefits of Migrating to the Cloud </a>| 
+
+
+
+
+### Mobile <a name="13"></a>
 
 | Date |       |
 |-|-|
@@ -120,16 +168,26 @@
 
 
 
-### Networking & Content Delivery <a name="10"></a>
+### Networking & Content Delivery <a name="14"></a>
 
 | Date |       |
 |-|-|
 |01/30|<a href="https://www.youtube.com/watch?v=ZuYHiIWSglM" target="_blank">Improve Your Application's Availability and Performance with AWS Global Accelerator </a>| 
+|02/21|<a href="https://www.youtube.com/watch?v=Rka2rs0J9BI" target="_blank">Simplifying DNS for Hybrid Cloud with Route 53 Resolver </a>| 
 
 
 
 
-### Robotics <a name="11"></a>
+### Productivity & Business Solutions <a name="15"></a>
+
+| Date |       |
+|-|-|
+|02/27|<a href="https://www.youtube.com/watch?v=hEouN4c-5fo" target="_blank">Transform the Modern Contact Center Using Machine Learning and Analytics </a>| 
+
+
+
+
+### Robotics <a name="16"></a>
 
 | Date |       |
 |-|-|
@@ -138,7 +196,7 @@
 
 
 
-### Security, Identity & Compliance <a name="12"></a>
+### Security, Identity & Compliance <a name="17"></a>
 
 | Date |       |
 |-|-|
@@ -148,7 +206,7 @@
 
 
 
-### Serverless <a name="13"></a>
+### Serverless <a name="18"></a>
 
 | Date |       |
 |-|-|
@@ -159,11 +217,13 @@
 
 
 
-### Storage <a name="14"></a>
+### Storage <a name="19"></a>
 
 | Date |       |
 |-|-|
 |01/28|<a href="https://www.youtube.com/watch?v=wFSv2gSQADI" target="_blank">The Amazon S3 Storage Classes </a>| 
+|02/22|<a href="https://www.youtube.com/watch?v=mSnvUhCZV8g" target="_blank">Deep Dive on Amazon FSx for Windows File Server: Running Windows on AWS </a>| 
+|02/25|<a href="https://www.youtube.com/watch?v=AI8hKeh7yCs" target="_blank">Introducing AWS Backup: Automate and Centralize Data Protection in the AWS Cloud </a>| 
 
 
 
