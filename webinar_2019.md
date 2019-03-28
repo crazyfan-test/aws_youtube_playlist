@@ -6,23 +6,23 @@
 * [AR/VR](#0) (1 Videos)
 * [Application Integration](#1) (1 Videos)
 * [Blockchain](#2) (1 Videos)
-* [Compute](#3) (2 Videos)
-* [Containers](#4) (2 Videos)
-* [Data Lakes & Analytics](#5) (2 Videos)
-* [Databases](#6) (2 Videos)
-* [DevOps](#7) (1 Videos)
+* [Compute](#3) (4 Videos)
+* [Containers](#4) (4 Videos)
+* [Data Lakes & Analytics](#5) (5 Videos)
+* [Databases](#6) (6 Videos)
+* [DevOps](#7) (2 Videos)
 * [End-User Computing](#8) (1 Videos)
-* [Enterprise](#9) (2 Videos)
-* [IoT](#10) (2 Videos)
-* [Machine Learning](#11) (4 Videos)
+* [Enterprise](#9) (3 Videos)
+* [IoT](#10) (3 Videos)
+* [Machine Learning](#11) (7 Videos)
 * [Migration](#12) (1 Videos)
 * [Mobile](#13) (1 Videos)
-* [Networking & Content Delivery](#14) (2 Videos)
-* [Productivity & Business Solutions](#15) (1 Videos)
+* [Networking & Content Delivery](#14) (3 Videos)
+* [Productivity & Business Solutions](#15) (2 Videos)
 * [Robotics](#16) (1 Videos)
-* [Security, Identity & Compliance](#17) (2 Videos)
-* [Serverless](#18) (3 Videos)
-* [Storage](#19) (3 Videos)
+* [Security, Identity & Compliance](#17) (4 Videos)
+* [Serverless](#18) (4 Videos)
+* [Storage](#19) (4 Videos)
 
 
 
@@ -66,6 +66,8 @@
 |-|-|
 |02/21|<a href="https://www.youtube.com/watch?v=9pMJfOq_PsM" target="_blank">What's New in Amazon EC2 </a>| 
 |02/21|<a href="https://www.youtube.com/watch?v=l8bRhno-LEo" target="_blank">Deploy and Scale Your First Cloud Application with Amazon Lightsail </a>| 
+|03/26|<a href="https://www.youtube.com/watch?v=sNT5PstZpS8" target="_blank">Technical Deep Dive: Running Amazon EC2 Workloads at Scale </a>| 
+|03/27|<a href="https://www.youtube.com/watch?v=Cnn3BYsE6ug" target="_blank">Introduction to AWS Outposts </a>| 
 
 
 
@@ -76,6 +78,8 @@
 |-|-|
 |01/22|<a href="https://www.youtube.com/watch?v=0a-J_Ki_GwY" target="_blank">Deep Dive Into AWS Cloud Map: Service Discovery for All Your Cloud Resources </a>| 
 |02/19|<a href="https://www.youtube.com/watch?v=PkR2hu1HCCY" target="_blank">Securing Container Workloads on AWS Fargate </a>| 
+|03/21|<a href="https://www.youtube.com/watch?v=-3FELDeZf_Q" target="_blank">Running Kubernetes with Amazon EKS </a>| 
+|03/22|<a href="https://www.youtube.com/watch?v=8E9PMT9sp9M" target="_blank">Deep Dive Into Container Networking </a>| 
 
 
 
@@ -86,6 +90,9 @@
 |-|-|
 |01/22|<a href="https://www.youtube.com/watch?v=qv1ErFMmhC4" target="_blank">Increase Your Data Engineering Productivity Using Amazon EMR Notebooks </a>| 
 |02/19|<a href="https://www.youtube.com/watch?v=ScWtlH-kHz4" target="_blank">Amazon Redshift Tips & Tricks: Scaling Storage and Compute Resources </a>| 
+|03/19|<a href="https://www.youtube.com/watch?v=g34xUaJ4WI4" target="_blank">Fuzzy Matching and Deduplicating Data with ML Transforms for AWS Lake Formation </a>| 
+|03/20|<a href="https://www.youtube.com/watch?v=BkinvmBRFHY" target="_blank">Customer Showcase: Perform Real-time ETL from IoT Devices into your Data Lake with Amazon Kinesis </a>| 
+|03/20|<a href="https://www.youtube.com/watch?v=iM5eeIclqJY" target="_blank">Machine Learning Powered Business Intelligence with Amazon QuickSight </a>| 
 
 
 
@@ -96,6 +103,10 @@
 |-|-|
 |02/19|<a href="https://www.youtube.com/watch?v=WhaDAnt6mx4" target="_blank">Building Real-Time Applications with Redis </a>| 
 |02/21|<a href="https://www.youtube.com/watch?v=gfzq2AjKsCI" target="_blank">Introduction to Amazon DocumentDB (with MongoDB Compatibility) </a>| 
+|03/18|<a href="https://www.youtube.com/watch?v=i1veTyQVFTg" target="_blank">What's New in PostgreSQL 11 </a>| 
+|03/19|<a href="https://www.youtube.com/watch?v=t8F4nRcFnAs" target="_blank">Migrating Oracle/SQL Server Databases to the Cloud using AWS's New Workload Qualification Framework </a>| 
+|03/20|<a href="https://www.youtube.com/watch?v=15KWB0XvnVM" target="_blank">What's New in MySQL 8 </a>| 
+|03/21|<a href="https://www.youtube.com/watch?v=7_HYITspfso" target="_blank">Building Scalable & Reliable Enterprise Apps with AWS Relational Databases </a>| 
 
 
 
@@ -105,6 +116,7 @@
 | Date |       |
 |-|-|
 |02/22|<a href="https://www.youtube.com/watch?v=FlZm3nFMIAM" target="_blank">Fireside Chat: DevOps at Amazon with Ken Exner, GM of AWS Developer Tools </a>| 
+|03/19|<a href="https://www.youtube.com/watch?v=fTqhPvyAsfQ" target="_blank">Introduction to Amazon Corretto: A No-Cost Distribution of OpenJDK </a>| 
 
 
 
@@ -124,6 +136,7 @@
 |-|-|
 |01/30|<a href="https://www.youtube.com/watch?v=MfxF-FYEFjY" target="_blank">Build Better Workloads with the AWS Well-Architected Framework and Tool </a>| 
 |02/28|<a href="https://www.youtube.com/watch?v=vyqXED0jwcc" target="_blank">Office Hours: Cloud Ops Engineer - Answers for AWS Operations Pros </a>| 
+|03/26|<a href="https://www.youtube.com/watch?v=2xJdYbHs5oc" target="_blank">Speed Your Cloud Computing Journey With the Customer Enablement Services of AWS </a>| 
 
 
 
@@ -134,6 +147,7 @@
 |-|-|
 |01/29|<a href="https://www.youtube.com/watch?v=aGUhKwZp6lk" target="_blank">How To Visually Develop IoT Applications with AWS IoT Things Graph </a>| 
 |02/26|<a href="https://www.youtube.com/watch?v=hQ0Pe9roU34" target="_blank">Bring IoT and AI Together </a>| 
+|03/26|<a href="https://www.youtube.com/watch?v=wFeoKhVg-PM" target="_blank">How to Deploy AWS IoT Greengrass Using Docker Containers and Ubuntu Snap </a>| 
 
 
 
@@ -146,6 +160,9 @@
 |02/21|<a href="https://www.youtube.com/watch?v=xGD6rkPuQ7Q" target="_blank">Build and Train Reinforcement Models with Amazon SageMaker RL </a>| 
 |02/21|<a href="https://www.youtube.com/watch?v=PiDa6E36jnQ" target="_blank">Build your Machine Learning Datasets with Amazon SageMaker Ground Truth </a>| 
 |02/21|<a href="https://www.youtube.com/watch?v=waKMyWUFvQY" target="_blank">Train ML Models Once, Run Anywhere in the Cloud & at the Edge with Amazon SageMaker Neo </a>| 
+|03/18|<a href="https://www.youtube.com/watch?v=dNb5jVffzPs" target="_blank">Orchestrate Machine Learning Workflows with Amazon SageMaker and AWS Step Functions </a>| 
+|03/21|<a href="https://www.youtube.com/watch?v=5g48uf5sCu8" target="_blank">Extract Text and Data from Any Document with No Prior ML Experience </a>| 
+|03/22|<a href="https://www.youtube.com/watch?v=glSFmuAfRjE" target="_blank">Build Forecasts and Individualized Recommendations with AI </a>| 
 
 
 
@@ -174,6 +191,7 @@
 |-|-|
 |01/30|<a href="https://www.youtube.com/watch?v=ZuYHiIWSglM" target="_blank">Improve Your Application's Availability and Performance with AWS Global Accelerator </a>| 
 |02/21|<a href="https://www.youtube.com/watch?v=Rka2rs0J9BI" target="_blank">Simplifying DNS for Hybrid Cloud with Route 53 Resolver </a>| 
+|03/26|<a href="https://www.youtube.com/watch?v=0xlwLEccRe0" target="_blank">Application Acceleration and Protection with Amazon CloudFront, AWS WAF, and AWS Shield </a>| 
 
 
 
@@ -183,6 +201,7 @@
 | Date |       |
 |-|-|
 |02/27|<a href="https://www.youtube.com/watch?v=hEouN4c-5fo" target="_blank">Transform the Modern Contact Center Using Machine Learning and Analytics </a>| 
+|03/11|<a href="https://www.youtube.com/watch?v=UEM_EcF_ISY" target="_blank">Transform the Modern Contact Center Using Machine Learning and Analytics </a>| 
 
 
 
@@ -202,6 +221,8 @@
 |-|-|
 |01/25|<a href="https://www.youtube.com/watch?v=Nqt_JDan7oc" target="_blank">Customer Showcase: How Dow Jones Uses AWS to Create a Secure Perimeter Around Its Web Properties </a>| 
 |01/30|<a href="https://www.youtube.com/watch?v=ksnHLFxgXcI" target="_blank">Introducing AWS Key Management Service Custom Key Store </a>| 
+|03/27|<a href="https://www.youtube.com/watch?v=nyh4imv8zuk" target="_blank">Remediating Amazon GuardDuty and AWS Security Hub Findings </a>| 
+|03/27|<a href="https://www.youtube.com/watch?v=vZMuC7xlWyw" target="_blank">Scaling Accounts and Permissions Management </a>| 
 
 
 
@@ -213,6 +234,7 @@
 |01/31|<a href="https://www.youtube.com/watch?v=AWJk7Ek9oOU" target="_blank">Accelerate Serverless Development Using AWS SAM & the AWS Serverless Application Repository </a>| 
 |01/31|<a href="https://www.youtube.com/watch?v=gCQHulp3aVo" target="_blank">Deep Dive Into Lambda Layers and the Lambda Runtime API </a>| 
 |02/19|<a href="https://www.youtube.com/watch?v=SDAXRKwTQIk" target="_blank">Best Practices for Serverless Queue Processing </a>| 
+|03/19|<a href="https://www.youtube.com/watch?v=zJQDAsWm-5k" target="_blank">Testing and Deployment Best Practices for AWS Lambda-Based Applications </a>| 
 
 
 
@@ -224,6 +246,7 @@
 |01/28|<a href="https://www.youtube.com/watch?v=wFSv2gSQADI" target="_blank">The Amazon S3 Storage Classes </a>| 
 |02/22|<a href="https://www.youtube.com/watch?v=mSnvUhCZV8g" target="_blank">Deep Dive on Amazon FSx for Windows File Server: Running Windows on AWS </a>| 
 |02/25|<a href="https://www.youtube.com/watch?v=AI8hKeh7yCs" target="_blank">Introducing AWS Backup: Automate and Centralize Data Protection in the AWS Cloud </a>| 
+|03/25|<a href="https://www.youtube.com/watch?v=E1eYLbNXJoY" target="_blank">Introducing a New Cost-Optimized Storage Class for Amazon EFS </a>| 
 
 
 
