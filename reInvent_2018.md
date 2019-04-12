@@ -55,7 +55,7 @@
 * [Telecommunications](#49) (3 Videos)
 * [We Power Tech](#50) (4 Videos)
 * [Windows & .NET](#51) (11 Videos)
-* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#52) (80 Videos)
+* [Nov. 26 – Nov. 30, 2018 Las Vegas, NV](#52) (79 Videos)
 
 
 
@@ -1425,7 +1425,6 @@
 |---|<a href="https://www.youtube.com/watch?v=gjiozYXHKc8" target="_blank">Introducing Amazon SageMaker Ground Truth </a>| 
 |---|<a href="https://www.youtube.com/watch?v=4EQchAPyroE" target="_blank">Keith Bigelow, GM and SVP at GE Healthcare, Speaks at Monday Night Live </a>| 
 |---|<a href="https://www.youtube.com/watch?v=229qDUWYwXQ" target="_blank">Navigating the re:Invent Campus </a>| 
-|---|<a href="https://www.youtube.com/watch?v=a42kxHSX4Xw" target="_blank">Now Go Build with Werner Vogels EP1 - Jakarta </a>| 
 |---|<a href="https://www.youtube.com/watch?v=nfyNNrKicRo" target="_blank">Onsite Help with Schedule Experts </a>| 
 |---|<a href="https://www.youtube.com/watch?v=xhv0Lqi6mFg" target="_blank">Overflow Program </a>| 
 |---|<a href="https://www.youtube.com/watch?v=iwIQNoarVas" target="_blank">Pebbles Sy-Manalang, CIO of Globe Telecom, Speaks at Global Partner Summit </a>| 

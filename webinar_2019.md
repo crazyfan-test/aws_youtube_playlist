@@ -6,23 +6,24 @@
 * [AR/VR](#0) (1 Videos)
 * [Application Integration](#1) (1 Videos)
 * [Blockchain](#2) (1 Videos)
-* [Compute](#3) (4 Videos)
+* [Compute](#3) (5 Videos)
 * [Containers](#4) (4 Videos)
 * [Data Lakes & Analytics](#5) (5 Videos)
 * [Databases](#6) (6 Videos)
 * [DevOps](#7) (2 Videos)
-* [End-User Computing](#8) (1 Videos)
+* [End-User Computing](#8) (2 Videos)
 * [Enterprise](#9) (3 Videos)
 * [IoT](#10) (3 Videos)
 * [Machine Learning](#11) (7 Videos)
-* [Migration](#12) (1 Videos)
-* [Mobile](#13) (1 Videos)
-* [Networking & Content Delivery](#14) (3 Videos)
-* [Productivity & Business Solutions](#15) (2 Videos)
-* [Robotics](#16) (1 Videos)
-* [Security, Identity & Compliance](#17) (4 Videos)
-* [Serverless](#18) (4 Videos)
-* [Storage](#19) (4 Videos)
+* [Management Tools](#12) (1 Videos)
+* [Migration](#13) (1 Videos)
+* [Mobile](#14) (1 Videos)
+* [Networking & Content Delivery](#15) (3 Videos)
+* [Productivity & Business Solutions](#16) (2 Videos)
+* [Robotics](#17) (2 Videos)
+* [Security, Identity & Compliance](#18) (4 Videos)
+* [Serverless](#19) (4 Videos)
+* [Storage](#20) (4 Videos)
 
 
 
@@ -68,6 +69,7 @@
 |02/21|<a href="https://www.youtube.com/watch?v=l8bRhno-LEo" target="_blank">Deploy and Scale Your First Cloud Application with Amazon Lightsail </a>| 
 |03/26|<a href="https://www.youtube.com/watch?v=sNT5PstZpS8" target="_blank">Technical Deep Dive: Running Amazon EC2 Workloads at Scale </a>| 
 |03/27|<a href="https://www.youtube.com/watch?v=Cnn3BYsE6ug" target="_blank">Introduction to AWS Outposts </a>| 
+|03/28|<a href="https://www.youtube.com/watch?v=OqfH8LnsnWw" target="_blank">Deep Dive on OpenMPI and Elastic Fabric Adapter (EFA) </a>| 
 
 
 
@@ -126,6 +128,7 @@
 | Date |       |
 |-|-|
 |02/28|<a href="https://www.youtube.com/watch?v=g9ykPf73hb4" target="_blank">Enable Your Remote and Mobile Workforce with Amazon WorkLink </a>| 
+|03/28|<a href="https://www.youtube.com/watch?v=J7-ZXz91K2Q" target="_blank">Fireside Chat: Enabling Today's Workforce with Cloud Desktops </a>| 
 
 
 
@@ -167,7 +170,16 @@
 
 
 
-### Migration <a name="12"></a>
+### Management Tools <a name="12"></a>
+
+| Date |       |
+|-|-|
+|03/29|<a href="https://www.youtube.com/watch?v=_lnp6IN_W6Q" target="_blank">Deep Dive on Inventory Management and Configuration Compliance in AWS </a>| 
+
+
+
+
+### Migration <a name="13"></a>
 
 | Date |       |
 |-|-|
@@ -176,7 +188,7 @@
 
 
 
-### Mobile <a name="13"></a>
+### Mobile <a name="14"></a>
 
 | Date |       |
 |-|-|
@@ -185,7 +197,7 @@
 
 
 
-### Networking & Content Delivery <a name="14"></a>
+### Networking & Content Delivery <a name="15"></a>
 
 | Date |       |
 |-|-|
@@ -196,7 +208,7 @@
 
 
 
-### Productivity & Business Solutions <a name="15"></a>
+### Productivity & Business Solutions <a name="16"></a>
 
 | Date |       |
 |-|-|
@@ -206,16 +218,17 @@
 
 
 
-### Robotics <a name="16"></a>
+### Robotics <a name="17"></a>
 
 | Date |       |
 |-|-|
 |01/29|<a href="https://www.youtube.com/watch?v=eQYUAMFvpLg" target="_blank">Using AWS RoboMaker Simulation for Real World Applications </a>| 
+|03/28|<a href="https://www.youtube.com/watch?v=b7wzhSo4F_M" target="_blank">Build a Robot Application with AWS RoboMaker </a>| 
 
 
 
 
-### Security, Identity & Compliance <a name="17"></a>
+### Security, Identity & Compliance <a name="18"></a>
 
 | Date |       |
 |-|-|
@@ -227,7 +240,7 @@
 
 
 
-### Serverless <a name="18"></a>
+### Serverless <a name="19"></a>
 
 | Date |       |
 |-|-|
@@ -239,7 +252,7 @@
 
 
 
-### Storage <a name="19"></a>
+### Storage <a name="20"></a>
 
 | Date |       |
 |-|-|
