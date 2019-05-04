@@ -6,40 +6,23 @@
 * [AR/VR](#0) (1 Videos)
 * [Application Integration](#1) (1 Videos)
 * [Blockchain](#2) (1 Videos)
-<<<<<<< HEAD
 * [Compute](#3) (7 Videos)
-=======
-* [Compute](#3) (5 Videos)
->>>>>>> 7c535b67d0b137345152cd925f3b626b3f537170
 * [Containers](#4) (5 Videos)
 * [Data Lakes & Analytics](#5) (5 Videos)
 * [Databases](#6) (8 Videos)
 * [DevOps](#7) (3 Videos)
 * [End-User Computing](#8) (2 Videos)
-<<<<<<< HEAD
 * [Enterprise](#9) (4 Videos)
 * [IoT](#10) (4 Videos)
 * [Machine Learning](#11) (9 Videos)
-=======
-* [Enterprise](#9) (3 Videos)
-* [IoT](#10) (3 Videos)
-* [Machine Learning](#11) (8 Videos)
->>>>>>> 7c535b67d0b137345152cd925f3b626b3f537170
 * [Management Tools](#12) (1 Videos)
 * [Migration](#13) (1 Videos)
 * [Mobile](#14) (1 Videos)
 * [Networking & Content Delivery](#15) (4 Videos)
-<<<<<<< HEAD
 * [Productivity & Business Solutions](#16) (4 Videos)
 * [Robotics](#17) (2 Videos)
 * [Security, Identity & Compliance](#18) (4 Videos)
 * [Serverless](#19) (6 Videos)
-=======
-* [Productivity & Business Solutions](#16) (2 Videos)
-* [Robotics](#17) (2 Videos)
-* [Security, Identity & Compliance](#18) (4 Videos)
-* [Serverless](#19) (4 Videos)
->>>>>>> 7c535b67d0b137345152cd925f3b626b3f537170
 * [Storage](#20) (5 Videos)
 
 
@@ -191,12 +174,8 @@
 |03/18|<a href="https://www.youtube.com/watch?v=dNb5jVffzPs" target="_blank">Orchestrate Machine Learning Workflows with Amazon SageMaker and AWS Step Functions </a>| 
 |03/21|<a href="https://www.youtube.com/watch?v=5g48uf5sCu8" target="_blank">Extract Text and Data from Any Document with No Prior ML Experience </a>| 
 |03/22|<a href="https://www.youtube.com/watch?v=glSFmuAfRjE" target="_blank">Build Forecasts and Individualized Recommendations with AI </a>| 
-<<<<<<< HEAD
 |04/26|<a href="https://www.youtube.com/watch?v=0_rxa0ZqCDs" target="_blank">Start Your Engines and Get Ready to Race in the AWS DeepRacer League </a>| 
 |04/30|<a href="https://www.youtube.com/watch?v=yAr4IZx2TOA" target="_blank">Deploying Machine Learning Models in Production </a>| 
-=======
-|04/24|<a href="https://www.youtube.com/watch?v=WzLNk7lSt3w" target="_blank">Start Your Engines and Get Ready to Race in the AWS DeepRacer League </a>| 
->>>>>>> 7c535b67d0b137345152cd925f3b626b3f537170
 
 
 
