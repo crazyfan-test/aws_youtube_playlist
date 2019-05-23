@@ -7,23 +7,24 @@
 * [Application Integration](#1) (1 Videos)
 * [Blockchain](#2) (1 Videos)
 * [Compute](#3) (7 Videos)
-* [Containers](#4) (5 Videos)
-* [Data Lakes & Analytics](#5) (5 Videos)
-* [Databases](#6) (8 Videos)
-* [DevOps](#7) (3 Videos)
+* [Containers](#4) (7 Videos)
+* [Data Lakes & Analytics](#5) (7 Videos)
+* [Databases](#6) (9 Videos)
+* [DevOps](#7) (4 Videos)
 * [End-User Computing](#8) (2 Videos)
 * [Enterprise](#9) (4 Videos)
 * [IoT](#10) (4 Videos)
-* [Machine Learning](#11) (9 Videos)
+* [Machine Learning](#11) (10 Videos)
 * [Management Tools](#12) (1 Videos)
-* [Migration](#13) (1 Videos)
-* [Mobile](#14) (1 Videos)
-* [Networking & Content Delivery](#15) (4 Videos)
-* [Productivity & Business Solutions](#16) (4 Videos)
-* [Robotics](#17) (2 Videos)
-* [Security, Identity & Compliance](#18) (4 Videos)
-* [Serverless](#19) (6 Videos)
-* [Storage](#20) (5 Videos)
+* [Marketplace](#13) (1 Videos)
+* [Migration](#14) (1 Videos)
+* [Mobile](#15) (2 Videos)
+* [Networking & Content Delivery](#16) (4 Videos)
+* [Productivity & Business Solutions](#17) (4 Videos)
+* [Robotics](#18) (2 Videos)
+* [Security, Identity & Compliance](#19) (4 Videos)
+* [Serverless](#20) (7 Videos)
+* [Storage](#21) (5 Videos)
 
 
 
@@ -85,6 +86,8 @@
 |03/21|<a href="https://www.youtube.com/watch?v=-3FELDeZf_Q" target="_blank">Running Kubernetes with Amazon EKS </a>| 
 |03/22|<a href="https://www.youtube.com/watch?v=8E9PMT9sp9M" target="_blank">Deep Dive Into Container Networking </a>| 
 |04/23|<a href="https://www.youtube.com/watch?v=_L376kq1tiI" target="_blank">Deep Dive on AWS App Mesh </a>| 
+|05/20|<a href="https://www.youtube.com/watch?v=VvRElAEzTC8" target="_blank">Managing Application Deployments with the AWS Service Operator </a>| 
+|05/20|<a href="https://www.youtube.com/watch?v=UATTjvjoYEE" target="_blank">Microservice Deployment Strategies with AWS App Mesh </a>| 
 
 
 
@@ -98,6 +101,8 @@
 |03/19|<a href="https://www.youtube.com/watch?v=g34xUaJ4WI4" target="_blank">Fuzzy Matching and Deduplicating Data with ML Transforms for AWS Lake Formation </a>| 
 |03/20|<a href="https://www.youtube.com/watch?v=BkinvmBRFHY" target="_blank">Customer Showcase: Perform Real-time ETL from IoT Devices into your Data Lake with Amazon Kinesis </a>| 
 |03/20|<a href="https://www.youtube.com/watch?v=iM5eeIclqJY" target="_blank">Machine Learning Powered Business Intelligence with Amazon QuickSight </a>| 
+|05/20|<a href="https://www.youtube.com/watch?v=f3MblPwVIGc" target="_blank">EKK is the New ELK: Aggregating, Analyzing and Visualizing Logs </a>| 
+|05/20|<a href="https://www.youtube.com/watch?v=4FIPt87A_qM" target="_blank">Building a Data Streaming Application Leveraging Apache Flink </a>| 
 
 
 
@@ -114,6 +119,7 @@
 |03/21|<a href="https://www.youtube.com/watch?v=7_HYITspfso" target="_blank">Building Scalable & Reliable Enterprise Apps with AWS Relational Databases </a>| 
 |04/23|<a href="https://www.youtube.com/watch?v=6K0Sds9Y2N0" target="_blank">Selecting the Right Database for Your Application </a>| 
 |04/25|<a href="https://www.youtube.com/watch?v=gXo-Dl6bU9I" target="_blank">Mastering Amazon DynamoDB ACID Transactions: When and How to Use the New Transactional APIs </a>| 
+|05/20|<a href="https://www.youtube.com/watch?v=kAI9gTtdzc4" target="_blank">Migrating to Amazon DocumentDB </a>| 
 
 
 
@@ -125,6 +131,7 @@
 |02/22|<a href="https://www.youtube.com/watch?v=FlZm3nFMIAM" target="_blank">Fireside Chat: DevOps at Amazon with Ken Exner, GM of AWS Developer Tools </a>| 
 |03/19|<a href="https://www.youtube.com/watch?v=fTqhPvyAsfQ" target="_blank">Introduction to Amazon Corretto: A No-Cost Distribution of OpenJDK </a>| 
 |04/24|<a href="https://www.youtube.com/watch?v=miZT7Hr042k" target="_blank">Running .NET applications with AWS Elastic Beanstalk Windows Server Platform </a>| 
+|05/20|<a href="https://www.youtube.com/watch?v=JSfqUCIK_OA" target="_blank">Infrastructure as Code Testing Strategies with AWS CloudFormation </a>| 
 
 
 
@@ -176,6 +183,7 @@
 |03/22|<a href="https://www.youtube.com/watch?v=glSFmuAfRjE" target="_blank">Build Forecasts and Individualized Recommendations with AI </a>| 
 |04/26|<a href="https://www.youtube.com/watch?v=0_rxa0ZqCDs" target="_blank">Start Your Engines and Get Ready to Race in the AWS DeepRacer League </a>| 
 |04/30|<a href="https://www.youtube.com/watch?v=yAr4IZx2TOA" target="_blank">Deploying Machine Learning Models in Production </a>| 
+|05/06|<a href="https://www.youtube.com/watch?v=OrmHHVI1uPk" target="_blank">Accelerate Machine Learning Projects with Hundreds of Algorithms and Models in AWS Marketplace </a>| 
 
 
 
@@ -189,7 +197,16 @@
 
 
 
-### Migration <a name="13"></a>
+### Marketplace <a name="13"></a>
+
+| Date |       |
+|-|-|
+|05/16|<a href="https://www.youtube.com/watch?v=xX2bz52yr4w" target="_blank">How to Build a Private Marketplace & Govern Software Provisioning with Speed </a>| 
+
+
+
+
+### Migration <a name="14"></a>
 
 | Date |       |
 |-|-|
@@ -198,16 +215,17 @@
 
 
 
-### Mobile <a name="14"></a>
+### Mobile <a name="15"></a>
 
 | Date |       |
 |-|-|
 |01/21|<a href="https://www.youtube.com/watch?v=_AdJGAVTTbg" target="_blank">Build Secure, Offline, and Real Time Enabled Mobile Apps Using AWS AppSync and AWS Amplify </a>| 
+|05/20|<a href="https://www.youtube.com/watch?v=PswB47WJ4Xk" target="_blank">Deploying and Consuming Serverless Functions with AWS Amplify </a>| 
 
 
 
 
-### Networking & Content Delivery <a name="15"></a>
+### Networking & Content Delivery <a name="16"></a>
 
 | Date |       |
 |-|-|
@@ -219,7 +237,7 @@
 
 
 
-### Productivity & Business Solutions <a name="16"></a>
+### Productivity & Business Solutions <a name="17"></a>
 
 | Date |       |
 |-|-|
@@ -231,7 +249,7 @@
 
 
 
-### Robotics <a name="17"></a>
+### Robotics <a name="18"></a>
 
 | Date |       |
 |-|-|
@@ -241,7 +259,7 @@
 
 
 
-### Security, Identity & Compliance <a name="18"></a>
+### Security, Identity & Compliance <a name="19"></a>
 
 | Date |       |
 |-|-|
@@ -253,7 +271,7 @@
 
 
 
-### Serverless <a name="19"></a>
+### Serverless <a name="20"></a>
 
 | Date |       |
 |-|-|
@@ -261,13 +279,14 @@
 |01/31|<a href="https://www.youtube.com/watch?v=gCQHulp3aVo" target="_blank">Deep Dive Into Lambda Layers and the Lambda Runtime API </a>| 
 |02/19|<a href="https://www.youtube.com/watch?v=SDAXRKwTQIk" target="_blank">Best Practices for Serverless Queue Processing </a>| 
 |03/19|<a href="https://www.youtube.com/watch?v=zJQDAsWm-5k" target="_blank">Testing and Deployment Best Practices for AWS Lambda-Based Applications </a>| 
-|04/26|<a href="https://www.youtube.com/watch?v=h6gMKCr-nLw" target="_blank">AWS Fireside Chat: Modernize .NET Applications Using Latest the Features on AWS Development Tools </a>| 
+|04/26|<a href="https://www.youtube.com/watch?v=h6gMKCr-nLw" target="_blank">AWS Fireside Chat: Modernize .NET Applications Using the Latest Features on AWS Development Tools </a>| 
 |05/01|<a href="https://www.youtube.com/watch?v=jf6Xv2Fzxcc" target="_blank">Customer Showcase: Improving Data Processing Workloads with AWS Step Functions' Service Integrations </a>| 
+|05/20|<a href="https://www.youtube.com/watch?v=y0WJLXx5Ml0" target="_blank">Building Event-Driven Serverless Apps with AWS Event Fork Pipelines </a>| 
 
 
 
 
-### Storage <a name="20"></a>
+### Storage <a name="21"></a>
 
 | Date |       |
 |-|-|
