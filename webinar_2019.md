@@ -5,26 +5,26 @@
 
 * [AR/VR](#0) (1 Videos)
 * [Application Integration](#1) (1 Videos)
-* [Blockchain](#2) (1 Videos)
-* [Compute](#3) (7 Videos)
+* [Blockchain](#2) (2 Videos)
+* [Compute](#3) (8 Videos)
 * [Containers](#4) (7 Videos)
 * [Data Lakes & Analytics](#5) (7 Videos)
-* [Databases](#6) (9 Videos)
+* [Databases](#6) (10 Videos)
 * [DevOps](#7) (4 Videos)
-* [End-User Computing](#8) (2 Videos)
-* [Enterprise](#9) (4 Videos)
-* [IoT](#10) (4 Videos)
-* [Machine Learning](#11) (10 Videos)
+* [End-User Computing](#8) (3 Videos)
+* [Enterprise](#9) (5 Videos)
+* [IoT](#10) (5 Videos)
+* [Machine Learning](#11) (12 Videos)
 * [Management Tools](#12) (1 Videos)
 * [Marketplace](#13) (1 Videos)
 * [Migration](#14) (1 Videos)
 * [Mobile](#15) (2 Videos)
-* [Networking & Content Delivery](#16) (4 Videos)
+* [Networking & Content Delivery](#16) (5 Videos)
 * [Productivity & Business Solutions](#17) (4 Videos)
 * [Robotics](#18) (2 Videos)
-* [Security, Identity & Compliance](#19) (4 Videos)
+* [Security, Identity & Compliance](#19) (6 Videos)
 * [Serverless](#20) (7 Videos)
-* [Storage](#21) (5 Videos)
+* [Storage](#21) (7 Videos)
 
 
 
@@ -58,6 +58,7 @@
 | Date |       |
 |-|-|
 |02/19|<a href="https://www.youtube.com/watch?v=Zyv8OXyAdVk" target="_blank">Deep Dive on Amazon Managed Blockchain </a>| 
+|06/06|<a href="https://www.youtube.com/watch?v=2dLOr4euiGg" target="_blank">Office Hours: Amazon Managed Blockchain - Building Distributed Applications w/ Hyperledger Fabric </a>| 
 
 
 
@@ -73,6 +74,7 @@
 |03/28|<a href="https://www.youtube.com/watch?v=OqfH8LnsnWw" target="_blank">Deep Dive on OpenMPI and Elastic Fabric Adapter (EFA) </a>| 
 |04/29|<a href="https://www.youtube.com/watch?v=zLGKZwUXvV8" target="_blank">How to Optimize Amazon Elastic Block Store (EBS) for Higher Performance </a>| 
 |05/01|<a href="https://www.youtube.com/watch?v=xRB9Qc5NAUU" target="_blank">Introducing New Amazon EC2 Instances Featuring AMD EPYC and AWS Graviton Processors </a>| 
+|06/03|<a href="https://www.youtube.com/watch?v=UnQM7cX2y0E" target="_blank">Your First HPC Cluster on AWS </a>| 
 
 
 
@@ -120,6 +122,7 @@
 |04/23|<a href="https://www.youtube.com/watch?v=6K0Sds9Y2N0" target="_blank">Selecting the Right Database for Your Application </a>| 
 |04/25|<a href="https://www.youtube.com/watch?v=gXo-Dl6bU9I" target="_blank">Mastering Amazon DynamoDB ACID Transactions: When and How to Use the New Transactional APIs </a>| 
 |05/20|<a href="https://www.youtube.com/watch?v=kAI9gTtdzc4" target="_blank">Migrating to Amazon DocumentDB </a>| 
+|05/30|<a href="https://www.youtube.com/watch?v=FKz72GugM2Q" target="_blank">AWS Fireside Chat: Optimize Your Business Continuity Strategy with Aurora Global Database </a>| 
 
 
 
@@ -142,6 +145,7 @@
 |-|-|
 |02/28|<a href="https://www.youtube.com/watch?v=g9ykPf73hb4" target="_blank">Enable Your Remote and Mobile Workforce with Amazon WorkLink </a>| 
 |03/28|<a href="https://www.youtube.com/watch?v=J7-ZXz91K2Q" target="_blank">Fireside Chat: Enabling Today's Workforce with Cloud Desktops </a>| 
+|05/23|<a href="https://www.youtube.com/watch?v=Qk2chkATf28" target="_blank">Managing Amazon Linux WorkSpaces at Scale Using AWS OpsWorks for Chef Automate </a>| 
 
 
 
@@ -154,6 +158,7 @@
 |02/28|<a href="https://www.youtube.com/watch?v=vyqXED0jwcc" target="_blank">Office Hours: Cloud Ops Engineer - Answers for AWS Operations Pros </a>| 
 |03/26|<a href="https://www.youtube.com/watch?v=2xJdYbHs5oc" target="_blank">Speed Your Cloud Computing Journey With the Customer Enablement Services of AWS </a>| 
 |04/30|<a href="https://www.youtube.com/watch?v=6drq7qE-SDY" target="_blank">Business Case Teardown: Identify Your Real-World On-Premises and Projected AWS Costs </a>| 
+|05/30|<a href="https://www.youtube.com/watch?v=d6mMyhgqIZE" target="_blank">What's New in AWS Landing Zone </a>| 
 
 
 
@@ -166,6 +171,7 @@
 |02/26|<a href="https://www.youtube.com/watch?v=hQ0Pe9roU34" target="_blank">Bring IoT and AI Together </a>| 
 |03/26|<a href="https://www.youtube.com/watch?v=wFeoKhVg-PM" target="_blank">How to Deploy AWS IoT Greengrass Using Docker Containers and Ubuntu Snap </a>| 
 |04/30|<a href="https://www.youtube.com/watch?v=rRXASyBnxy8" target="_blank">Building the Edge of Connected Home </a>| 
+|06/03|<a href="https://www.youtube.com/watch?v=7EcMBKI4BpU" target="_blank">Customer Showcase: Extending Machine Learning to Industrial IoT Applications at the Edge </a>| 
 
 
 
@@ -184,6 +190,8 @@
 |04/26|<a href="https://www.youtube.com/watch?v=0_rxa0ZqCDs" target="_blank">Start Your Engines and Get Ready to Race in the AWS DeepRacer League </a>| 
 |04/30|<a href="https://www.youtube.com/watch?v=yAr4IZx2TOA" target="_blank">Deploying Machine Learning Models in Production </a>| 
 |05/06|<a href="https://www.youtube.com/watch?v=OrmHHVI1uPk" target="_blank">Accelerate Machine Learning Projects with Hundreds of Algorithms and Models in AWS Marketplace </a>| 
+|05/29|<a href="https://www.youtube.com/watch?v=aBaoS4c4-Yo" target="_blank">Build a Scalable Architecture to Automatically Extract and Import Form Data </a>| 
+|06/03|<a href="https://www.youtube.com/watch?v=m0Pty9v9A_0" target="_blank">Build Efficient and Accurate Recommendation Engines with Amazon Personalize </a>| 
 
 
 
@@ -233,6 +241,7 @@
 |02/21|<a href="https://www.youtube.com/watch?v=Rka2rs0J9BI" target="_blank">Simplifying DNS for Hybrid Cloud with Route 53 Resolver </a>| 
 |03/26|<a href="https://www.youtube.com/watch?v=0xlwLEccRe0" target="_blank">Application Acceleration and Protection with Amazon CloudFront, AWS WAF, and AWS Shield </a>| 
 |04/23|<a href="https://www.youtube.com/watch?v=Sdvp4qQ1rFA" target="_blank">Application Load Balancers: Advanced Request Routing, Lambda as a Target, and User Authentication </a>| 
+|06/03|<a href="https://www.youtube.com/watch?v=sqrBi_4fFdk" target="_blank">Simplify and Scale How You Connect Your Premises to AWS w/ AWS Direct Connect on AWS Transit Gateway </a>| 
 
 
 
@@ -267,6 +276,8 @@
 |01/30|<a href="https://www.youtube.com/watch?v=ksnHLFxgXcI" target="_blank">Introducing AWS Key Management Service Custom Key Store </a>| 
 |03/27|<a href="https://www.youtube.com/watch?v=nyh4imv8zuk" target="_blank">Remediating Amazon GuardDuty and AWS Security Hub Findings </a>| 
 |03/27|<a href="https://www.youtube.com/watch?v=vZMuC7xlWyw" target="_blank">Scaling Accounts and Permissions Management </a>| 
+|05/26|<a href="https://www.youtube.com/watch?v=OAR4ZHP8DEg" target="_blank">Authentication for Your Applications: Getting Started with Amazon Cognito </a>| 
+|06/03|<a href="https://www.youtube.com/watch?v=YCB90Hun7Y0" target="_blank">Getting Started with Cross-Account Encryption Using AWS KMS, Feat. Slack Enterprise Key Management </a>| 
 
 
 
@@ -295,6 +306,8 @@
 |02/25|<a href="https://www.youtube.com/watch?v=AI8hKeh7yCs" target="_blank">Introducing AWS Backup: Automate and Centralize Data Protection in the AWS Cloud </a>| 
 |03/25|<a href="https://www.youtube.com/watch?v=E1eYLbNXJoY" target="_blank">Introducing a New Cost-Optimized Storage Class for Amazon EFS </a>| 
 |04/24|<a href="https://www.youtube.com/watch?v=km3GsOk_ukw" target="_blank">Amazon S3 Glacier Deep Archive: The Cheapest Storage in the Cloud </a>| 
+|05/23|<a href="https://www.youtube.com/watch?v=x-YjzkPg-1Y" target="_blank">Managing Tens to Billions of Objects at Scale with S3 Batch Operations </a>| 
+|05/26|<a href="https://www.youtube.com/watch?v=ad5Ne-aQTCg" target="_blank">Briefing: AWS Hybrid Cloud Storage and Edge Computing </a>| 
 
 
 
