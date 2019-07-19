@@ -206,7 +206,7 @@
 |05/29|<a href="https://www.youtube.com/watch?v=aBaoS4c4-Yo" target="_blank">Build a Scalable Architecture to Automatically Extract and Import Form Data </a>| 
 |06/03|<a href="https://www.youtube.com/watch?v=m0Pty9v9A_0" target="_blank">Build Efficient and Accurate Recommendation Engines with Amazon Personalize </a>| 
 |06/19|<a href="https://www.youtube.com/watch?v=txr6CR87GXI" target="_blank">Building Secure Machine Learning Environments Using Amazon SageMaker </a>| 
-|06/26|<a href="https://www.youtube.com/watch?v=Juot7TlhXu0" target="_blank">Fraud Detection Using Machine Learning with Amazon SageMaker </a>| 
+|07/11|<a href="https://www.youtube.com/watch?v=Z2m9SvECi54" target="_blank">Use Pre-Built Containers to Build Custom Deep Learning Models Quickly </a>| 
 
 
 
