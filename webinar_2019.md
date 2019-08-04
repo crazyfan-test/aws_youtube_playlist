@@ -5,26 +5,27 @@
 
 * [AR/VR](#0) (2 Videos)
 * [Application Integration](#1) (1 Videos)
-* [Blockchain](#2) (2 Videos)
-* [Compute](#3) (11 Videos)
-* [Containers](#4) (9 Videos)
-* [Data Lakes & Analytics](#5) (10 Videos)
-* [Databases](#6) (10 Videos)
-* [DevOps](#7) (5 Videos)
-* [End-User Computing](#8) (4 Videos)
+* [Blockchain](#2) (3 Videos)
+* [Compute](#3) (12 Videos)
+* [Containers](#4) (10 Videos)
+* [Data Lakes & Analytics](#5) (12 Videos)
+* [Databases](#6) (11 Videos)
+* [DevOps](#7) (6 Videos)
+* [End-User Computing](#8) (5 Videos)
 * [Enterprise](#9) (6 Videos)
-* [IoT](#10) (6 Videos)
-* [Machine Learning](#11) (14 Videos)
-* [Management Tools](#12) (1 Videos)
-* [Marketplace](#13) (1 Videos)
-* [Migration](#14) (3 Videos)
-* [Mobile](#15) (2 Videos)
-* [Networking & Content Delivery](#16) (6 Videos)
-* [Productivity & Business Solutions](#17) (4 Videos)
-* [Robotics](#18) (3 Videos)
-* [Security, Identity & Compliance](#19) (8 Videos)
-* [Serverless](#20) (8 Videos)
-* [Storage](#21) (8 Videos)
+* [Industry Solutions](#10) (1 Videos)
+* [IoT](#11) (7 Videos)
+* [Machine Learning](#12) (16 Videos)
+* [Management Tools](#13) (1 Videos)
+* [Marketplace](#14) (1 Videos)
+* [Migration](#15) (3 Videos)
+* [Mobile](#16) (3 Videos)
+* [Networking & Content Delivery](#17) (7 Videos)
+* [Productivity & Business Solutions](#18) (4 Videos)
+* [Robotics](#19) (4 Videos)
+* [Security, Identity & Compliance](#20) (9 Videos)
+* [Serverless](#21) (9 Videos)
+* [Storage](#22) (8 Videos)
 
 
 
@@ -60,6 +61,7 @@
 |-|-|
 |02/19|<a href="https://www.youtube.com/watch?v=Zyv8OXyAdVk" target="_blank">Deep Dive on Amazon Managed Blockchain </a>| 
 |06/06|<a href="https://www.youtube.com/watch?v=2dLOr4euiGg" target="_blank">Office Hours: Amazon Managed Blockchain - Building Distributed Applications w/ Hyperledger Fabric </a>| 
+|07/24|<a href="https://www.youtube.com/watch?v=XGeCNr8eOiA" target="_blank">Building System of Record Applications with Amazon QLDB </a>| 
 
 
 
@@ -79,6 +81,7 @@
 |06/03|<a href="https://www.youtube.com/watch?v=UnQM7cX2y0E" target="_blank">Your First HPC Cluster on AWS </a>| 
 |06/25|<a href="https://www.youtube.com/watch?v=us7bLV1EwhE" target="_blank">Running Enterprise CI/CD Workloads with Amazon EC2 Spot Instances and CloudBees </a>| 
 |06/26|<a href="https://www.youtube.com/watch?v=r4X6YtSiFWw" target="_blank">Gain Control Over Your License Usage and Reduce Costs Using AWS License Manager </a>| 
+|07/30|<a href="https://www.youtube.com/watch?v=YE4KahNwxTA" target="_blank">Optimizing Kubernetes Clusters on Spot Instances for Cost and Performance </a>| 
 
 
 
@@ -96,6 +99,7 @@
 |05/20|<a href="https://www.youtube.com/watch?v=UATTjvjoYEE" target="_blank">Microservice Deployment Strategies with AWS App Mesh </a>| 
 |06/18|<a href="https://www.youtube.com/watch?v=epZMWM3ZBa4" target="_blank">Serverless E-commerce Application Using AWS AppSync </a>| 
 |06/20|<a href="https://www.youtube.com/watch?v=Cp4rdlsQORo" target="_blank">Container Security 101 and Beyond </a>| 
+|07/31|<a href="https://www.youtube.com/watch?v=nIZvLEW0V-0" target="_blank">Machine Learning on Amazon EKS </a>| 
 
 
 
@@ -114,6 +118,8 @@
 |06/17|<a href="https://www.youtube.com/watch?v=P3z4IX5-OHM" target="_blank">Build ETL Processes for Data Lakes with AWS Glue </a>| 
 |06/19|<a href="https://www.youtube.com/watch?v=j7tO2n4GKC8" target="_blank">Ditching the Overhead: Moving Apache Kafka Workloads into Amazon MSK </a>| 
 |06/20|<a href="https://www.youtube.com/watch?v=KdqWb6M0TiM" target="_blank">Unify Your Data Warehouse and Data Lake with AWS </a>| 
+|07/31|<a href="https://www.youtube.com/watch?v=xxw7rIWhtUI" target="_blank">How to Build Serverless Data Lake Analytics with Amazon Athena </a>| 
+|08/01|<a href="https://www.youtube.com/watch?v=MrUCxISUGic" target="_blank">Enhancing Your Apps with Embedded Analytics </a>| 
 
 
 
@@ -132,6 +138,7 @@
 |04/25|<a href="https://www.youtube.com/watch?v=gXo-Dl6bU9I" target="_blank">Mastering Amazon DynamoDB ACID Transactions: When and How to Use the New Transactional APIs </a>| 
 |05/20|<a href="https://www.youtube.com/watch?v=kAI9gTtdzc4" target="_blank">Migrating to Amazon DocumentDB </a>| 
 |05/30|<a href="https://www.youtube.com/watch?v=FKz72GugM2Q" target="_blank">AWS Fireside Chat: Optimize Your Business Continuity Strategy with Aurora Global Database </a>| 
+|07/25|<a href="https://www.youtube.com/watch?v=HOYtxPs8nVo" target="_blank">MySQL Options on AWS: Self-Managed, Managed, Serverless </a>| 
 
 
 
@@ -145,6 +152,7 @@
 |04/24|<a href="https://www.youtube.com/watch?v=miZT7Hr042k" target="_blank">Running .NET applications with AWS Elastic Beanstalk Windows Server Platform </a>| 
 |05/20|<a href="https://www.youtube.com/watch?v=JSfqUCIK_OA" target="_blank">Infrastructure as Code Testing Strategies with AWS CloudFormation </a>| 
 |06/19|<a href="https://www.youtube.com/watch?v=Adah1LeaPWg" target="_blank">Root Cause and End-user Impact Analysis Using AWS X-Ray </a>| 
+|07/30|<a href="https://www.youtube.com/watch?v=4xNw2wWLHdY" target="_blank">Build a Serverless App in Under 20 Minutes w/ ML Functionality & AWS Toolkit for Visual Studio Code </a>| 
 
 
 
@@ -157,6 +165,7 @@
 |03/28|<a href="https://www.youtube.com/watch?v=J7-ZXz91K2Q" target="_blank">Fireside Chat: Enabling Today's Workforce with Cloud Desktops </a>| 
 |05/23|<a href="https://www.youtube.com/watch?v=Qk2chkATf28" target="_blank">Managing Amazon Linux WorkSpaces at Scale Using AWS OpsWorks for Chef Automate </a>| 
 |06/24|<a href="https://www.youtube.com/watch?v=P3DpEbk5jHk" target="_blank">Replace Your On-Premises VDI with End-User Computing on AWS </a>| 
+|07/24|<a href="https://www.youtube.com/watch?v=Tsxkbdz-i8o" target="_blank">A Security-First Approach to Delivering End User Computing Services </a>| 
 
 
 
@@ -175,7 +184,16 @@
 
 
 
-### IoT <a name="10"></a>
+### Industry Solutions <a name="10"></a>
+
+| Date |       |
+|-|-|
+|07/23|<a href="https://www.youtube.com/watch?v=o7AtlN1baaw" target="_blank">Healthcare Data Interoperability with the AWS Cloud </a>| 
+
+
+
+
+### IoT <a name="11"></a>
 
 | Date |       |
 |-|-|
@@ -185,11 +203,12 @@
 |04/30|<a href="https://www.youtube.com/watch?v=rRXASyBnxy8" target="_blank">Building the Edge of Connected Home </a>| 
 |06/03|<a href="https://www.youtube.com/watch?v=7EcMBKI4BpU" target="_blank">Customer Showcase: Extending Machine Learning to Industrial IoT Applications at the Edge </a>| 
 |06/24|<a href="https://www.youtube.com/watch?v=cPOk81pVWM0" target="_blank">Securing Your Devices from the Edge to the Cloud </a>| 
+|07/30|<a href="https://www.youtube.com/watch?v=_w2bEbn5Dh8" target="_blank">Security Spotlight: Best Practices for Edge Security with Amazon FreeRTOS </a>| 
 
 
 
 
-### Machine Learning <a name="11"></a>
+### Machine Learning <a name="12"></a>
 
 | Date |       |
 |-|-|
@@ -207,11 +226,13 @@
 |06/03|<a href="https://www.youtube.com/watch?v=m0Pty9v9A_0" target="_blank">Build Efficient and Accurate Recommendation Engines with Amazon Personalize </a>| 
 |06/19|<a href="https://www.youtube.com/watch?v=txr6CR87GXI" target="_blank">Building Secure Machine Learning Environments Using Amazon SageMaker </a>| 
 |07/11|<a href="https://www.youtube.com/watch?v=Z2m9SvECi54" target="_blank">Use Pre-Built Containers to Build Custom Deep Learning Models Quickly </a>| 
+|07/23|<a href="https://www.youtube.com/watch?v=VuLGDk0lh-Y" target="_blank">Get Started with Machine Learning: Introducing AWS DeepLens (2019 Edition) </a>| 
+|08/01|<a href="https://www.youtube.com/watch?v=ujv43iwpNv0" target="_blank">Implementing Machine Learning Solutions with Amazon SageMaker </a>| 
 
 
 
 
-### Management Tools <a name="12"></a>
+### Management Tools <a name="13"></a>
 
 | Date |       |
 |-|-|
@@ -220,7 +241,7 @@
 
 
 
-### Marketplace <a name="13"></a>
+### Marketplace <a name="14"></a>
 
 | Date |       |
 |-|-|
@@ -229,7 +250,7 @@
 
 
 
-### Migration <a name="14"></a>
+### Migration <a name="15"></a>
 
 | Date |       |
 |-|-|
@@ -240,17 +261,18 @@
 
 
 
-### Mobile <a name="15"></a>
+### Mobile <a name="16"></a>
 
 | Date |       |
 |-|-|
 |01/21|<a href="https://www.youtube.com/watch?v=_AdJGAVTTbg" target="_blank">Build Secure, Offline, and Real Time Enabled Mobile Apps Using AWS AppSync and AWS Amplify </a>| 
 |05/20|<a href="https://www.youtube.com/watch?v=PswB47WJ4Xk" target="_blank">Deploying and Consuming Serverless Functions with AWS Amplify </a>| 
+|07/31|<a href="https://www.youtube.com/watch?v=WkUsaG29LfQ" target="_blank">Best Practices for Android Authentication on AWS with AWS Amplify </a>| 
 
 
 
 
-### Networking & Content Delivery <a name="16"></a>
+### Networking & Content Delivery <a name="17"></a>
 
 | Date |       |
 |-|-|
@@ -260,11 +282,12 @@
 |04/23|<a href="https://www.youtube.com/watch?v=Sdvp4qQ1rFA" target="_blank">Application Load Balancers: Advanced Request Routing, Lambda as a Target, and User Authentication </a>| 
 |06/03|<a href="https://www.youtube.com/watch?v=sqrBi_4fFdk" target="_blank">Simplify and Scale How You Connect Your Premises to AWS w/ AWS Direct Connect on AWS Transit Gateway </a>| 
 |06/18|<a href="https://www.youtube.com/watch?v=wMq-rnGhDHo" target="_blank">Customer Showcase: Exploiting Multi-Region Data Locality with Lambda@Edge </a>| 
+|07/23|<a href="https://www.youtube.com/watch?v=zPovlZxuZ-c" target="_blank">Simplify Traffic Monitoring and Visibility with Amazon VPC Traffic Mirroring </a>| 
 
 
 
 
-### Productivity & Business Solutions <a name="17"></a>
+### Productivity & Business Solutions <a name="18"></a>
 
 | Date |       |
 |-|-|
@@ -276,18 +299,19 @@
 
 
 
-### Robotics <a name="18"></a>
+### Robotics <a name="19"></a>
 
 | Date |       |
 |-|-|
 |01/29|<a href="https://www.youtube.com/watch?v=eQYUAMFvpLg" target="_blank">Using AWS RoboMaker Simulation for Real World Applications </a>| 
 |03/28|<a href="https://www.youtube.com/watch?v=b7wzhSo4F_M" target="_blank">Build a Robot Application with AWS RoboMaker </a>| 
 |06/26|<a href="https://www.youtube.com/watch?v=4y9X2CtJCxs" target="_blank">Developing Intelligent Robots with AWS RoboMaker </a>| 
+|07/29|<a href="https://www.youtube.com/watch?v=mrIjtBdDQ5A" target="_blank">Deploying Robotic Applications Using Machine Learning with Nvidia JetBot and AWS RoboMaker </a>| 
 
 
 
 
-### Security, Identity & Compliance <a name="19"></a>
+### Security, Identity & Compliance <a name="20"></a>
 
 | Date |       |
 |-|-|
@@ -299,11 +323,12 @@
 |06/03|<a href="https://www.youtube.com/watch?v=YCB90Hun7Y0" target="_blank">Getting Started with Cross-Account Encryption Using AWS KMS, Feat. Slack Enterprise Key Management </a>| 
 |06/17|<a href="https://www.youtube.com/watch?v=1DvAOOwOa5Q" target="_blank">Continuous Compliance with AWS Security Hub </a>| 
 |06/19|<a href="https://www.youtube.com/watch?v=dOAdH2uSJS0" target="_blank">Learn How Amazon.com Uses Amazon GuardDuty to Protect Its Infrastructure </a>| 
+|07/24|<a href="https://www.youtube.com/watch?v=7dRlN-qZvaA" target="_blank">Deep Dive on AWS Certificate Manager Private CA - Creating and Managing Certificate Authorities </a>| 
 
 
 
 
-### Serverless <a name="20"></a>
+### Serverless <a name="21"></a>
 
 | Date |       |
 |-|-|
@@ -315,11 +340,12 @@
 |05/01|<a href="https://www.youtube.com/watch?v=jf6Xv2Fzxcc" target="_blank">Customer Showcase: Improving Data Processing Workloads with AWS Step Functions' Service Integrations </a>| 
 |05/20|<a href="https://www.youtube.com/watch?v=y0WJLXx5Ml0" target="_blank">Building Event-Driven Serverless Apps with AWS Event Fork Pipelines </a>| 
 |06/27|<a href="https://www.youtube.com/watch?v=shQpw6xjkko" target="_blank">Serverless Streams, Topics, Queues, & APIs! How to Pick the Right Serverless Application Pattern </a>| 
+|07/24|<a href="https://www.youtube.com/watch?v=Y9E-jqbd3eI" target="_blank">Getting Started with AWS Lambda and Serverless Computing </a>| 
 
 
 
 
-### Storage <a name="21"></a>
+### Storage <a name="22"></a>
 
 | Date |       |
 |-|-|
