@@ -6,26 +6,26 @@
 * [AR/VR](#0) (2 Videos)
 * [Application Integration](#1) (1 Videos)
 * [Blockchain](#2) (3 Videos)
-* [Compute](#3) (12 Videos)
-* [Containers](#4) (10 Videos)
-* [Data Lakes & Analytics](#5) (12 Videos)
-* [Databases](#6) (11 Videos)
-* [DevOps](#7) (6 Videos)
-* [End-User Computing](#8) (5 Videos)
+* [Compute](#3) (14 Videos)
+* [Containers](#4) (11 Videos)
+* [Data Lakes & Analytics](#5) (14 Videos)
+* [Databases](#6) (14 Videos)
+* [DevOps](#7) (7 Videos)
+* [End-User Computing](#8) (6 Videos)
 * [Enterprise](#9) (6 Videos)
 * [Industry Solutions](#10) (1 Videos)
-* [IoT](#11) (7 Videos)
-* [Machine Learning](#12) (16 Videos)
-* [Management Tools](#13) (1 Videos)
+* [IoT](#11) (8 Videos)
+* [Machine Learning](#12) (19 Videos)
+* [Management Tools](#13) (2 Videos)
 * [Marketplace](#14) (1 Videos)
 * [Migration](#15) (3 Videos)
-* [Mobile](#16) (3 Videos)
-* [Networking & Content Delivery](#17) (7 Videos)
+* [Mobile](#16) (4 Videos)
+* [Networking & Content Delivery](#17) (8 Videos)
 * [Productivity & Business Solutions](#18) (4 Videos)
 * [Robotics](#19) (4 Videos)
-* [Security, Identity & Compliance](#20) (9 Videos)
-* [Serverless](#21) (9 Videos)
-* [Storage](#22) (8 Videos)
+* [Security, Identity & Compliance](#20) (11 Videos)
+* [Serverless](#21) (11 Videos)
+* [Storage](#22) (10 Videos)
 
 
 
@@ -82,6 +82,8 @@
 |06/25|<a href="https://www.youtube.com/watch?v=us7bLV1EwhE" target="_blank">Running Enterprise CI/CD Workloads with Amazon EC2 Spot Instances and CloudBees </a>| 
 |06/26|<a href="https://www.youtube.com/watch?v=r4X6YtSiFWw" target="_blank">Gain Control Over Your License Usage and Reduce Costs Using AWS License Manager </a>| 
 |07/30|<a href="https://www.youtube.com/watch?v=YE4KahNwxTA" target="_blank">Optimizing Kubernetes Clusters on Spot Instances for Cost and Performance </a>| 
+|08/19|<a href="https://www.youtube.com/watch?v=zqpcMQBkfPk" target="_blank">Optimizing Costs with SQL Server on Linux </a>| 
+|08/28|<a href="https://www.youtube.com/watch?v=u5dFozl1fW8" target="_blank">Best Practices for Running Spark Applications Using Spot Instances on EMR </a>| 
 
 
 
@@ -100,6 +102,7 @@
 |06/18|<a href="https://www.youtube.com/watch?v=epZMWM3ZBa4" target="_blank">Serverless E-commerce Application Using AWS AppSync </a>| 
 |06/20|<a href="https://www.youtube.com/watch?v=Cp4rdlsQORo" target="_blank">Container Security 101 and Beyond </a>| 
 |07/31|<a href="https://www.youtube.com/watch?v=nIZvLEW0V-0" target="_blank">Machine Learning on Amazon EKS </a>| 
+|08/22|<a href="https://www.youtube.com/watch?v=9gq1jZsLYUM" target="_blank">The Power of 'And': Leveraging Lambda and Containers in Your Modern Applications </a>| 
 
 
 
@@ -120,6 +123,8 @@
 |06/20|<a href="https://www.youtube.com/watch?v=KdqWb6M0TiM" target="_blank">Unify Your Data Warehouse and Data Lake with AWS </a>| 
 |07/31|<a href="https://www.youtube.com/watch?v=xxw7rIWhtUI" target="_blank">How to Build Serverless Data Lake Analytics with Amazon Athena </a>| 
 |08/01|<a href="https://www.youtube.com/watch?v=MrUCxISUGic" target="_blank">Enhancing Your Apps with Embedded Analytics </a>| 
+|08/20|<a href="https://www.youtube.com/watch?v=VNalkseaqPU" target="_blank">Best Practices for Transforming and Analyzing Data in Your Data Lake </a>| 
+|08/28|<a href="https://www.youtube.com/watch?v=slaJ6wVVb0c" target="_blank">A Deep Dive on AWS Lake Formation (Now GA!) </a>| 
 
 
 
@@ -139,6 +144,9 @@
 |05/20|<a href="https://www.youtube.com/watch?v=kAI9gTtdzc4" target="_blank">Migrating to Amazon DocumentDB </a>| 
 |05/30|<a href="https://www.youtube.com/watch?v=FKz72GugM2Q" target="_blank">AWS Fireside Chat: Optimize Your Business Continuity Strategy with Aurora Global Database </a>| 
 |07/25|<a href="https://www.youtube.com/watch?v=HOYtxPs8nVo" target="_blank">MySQL Options on AWS: Self-Managed, Managed, Serverless </a>| 
+|08/19|<a href="https://www.youtube.com/watch?v=l9DLl3bmdeo" target="_blank">Running Mission-Critical Applications at Scale - Amazon DynamoDB Customer Stories </a>| 
+|08/27|<a href="https://www.youtube.com/watch?v=tjkLv0dZ7SI" target="_blank">How Amazon.com Migrated from Oracle to Amazon Aurora with PostgreSQL-Compatibility </a>| 
+|08/29|<a href="https://www.youtube.com/watch?v=PWN16ByGl2M" target="_blank">Achieve Continuous Availability with Amazon Aurora Multi-Master </a>| 
 
 
 
@@ -153,6 +161,7 @@
 |05/20|<a href="https://www.youtube.com/watch?v=JSfqUCIK_OA" target="_blank">Infrastructure as Code Testing Strategies with AWS CloudFormation </a>| 
 |06/19|<a href="https://www.youtube.com/watch?v=Adah1LeaPWg" target="_blank">Root Cause and End-user Impact Analysis Using AWS X-Ray </a>| 
 |07/30|<a href="https://www.youtube.com/watch?v=4xNw2wWLHdY" target="_blank">Build a Serverless App in Under 20 Minutes w/ ML Functionality & AWS Toolkit for Visual Studio Code </a>| 
+|08/19|<a href="https://www.youtube.com/watch?v=ZWCvNFUN-sU" target="_blank">Infrastructure is Code with the AWS CDK </a>| 
 
 
 
@@ -166,6 +175,7 @@
 |05/23|<a href="https://www.youtube.com/watch?v=Qk2chkATf28" target="_blank">Managing Amazon Linux WorkSpaces at Scale Using AWS OpsWorks for Chef Automate </a>| 
 |06/24|<a href="https://www.youtube.com/watch?v=P3DpEbk5jHk" target="_blank">Replace Your On-Premises VDI with End-User Computing on AWS </a>| 
 |07/24|<a href="https://www.youtube.com/watch?v=Tsxkbdz-i8o" target="_blank">A Security-First Approach to Delivering End User Computing Services </a>| 
+|08/29|<a href="https://www.youtube.com/watch?v=ZpEoBlU036c" target="_blank">Easily Move to Windows 10 with Amazon WorkSpaces </a>| 
 
 
 
@@ -204,6 +214,7 @@
 |06/03|<a href="https://www.youtube.com/watch?v=7EcMBKI4BpU" target="_blank">Customer Showcase: Extending Machine Learning to Industrial IoT Applications at the Edge </a>| 
 |06/24|<a href="https://www.youtube.com/watch?v=cPOk81pVWM0" target="_blank">Securing Your Devices from the Edge to the Cloud </a>| 
 |07/30|<a href="https://www.youtube.com/watch?v=_w2bEbn5Dh8" target="_blank">Security Spotlight: Best Practices for Edge Security with Amazon FreeRTOS </a>| 
+|08/20|<a href="https://www.youtube.com/watch?v=Qg5xZdtJFwk" target="_blank">Building Camera-Enabled Smart Home Devices at Scale </a>| 
 
 
 
@@ -228,6 +239,9 @@
 |07/11|<a href="https://www.youtube.com/watch?v=Z2m9SvECi54" target="_blank">Use Pre-Built Containers to Build Custom Deep Learning Models Quickly </a>| 
 |07/23|<a href="https://www.youtube.com/watch?v=VuLGDk0lh-Y" target="_blank">Get Started with Machine Learning: Introducing AWS DeepLens (2019 Edition) </a>| 
 |08/01|<a href="https://www.youtube.com/watch?v=ujv43iwpNv0" target="_blank">Implementing Machine Learning Solutions with Amazon SageMaker </a>| 
+|08/20|<a href="https://www.youtube.com/watch?v=aemuud28Mn0" target="_blank">Get Started with Machine Learning - No PhD Required </a>| 
+|08/26|<a href="https://www.youtube.com/watch?v=02Ft-rCssRs" target="_blank">Machine Learning with Containers and Amazon SageMaker </a>| 
+|08/28|<a href="https://www.youtube.com/watch?v=LHYUJ9CreN0" target="_blank">Accelerate and Simplify Time Series Analysis and Forecasting with Amazon Forecast </a>| 
 
 
 
@@ -237,6 +251,7 @@
 | Date |       |
 |-|-|
 |03/29|<a href="https://www.youtube.com/watch?v=_lnp6IN_W6Q" target="_blank">Deep Dive on Inventory Management and Configuration Compliance in AWS </a>| 
+|08/27|<a href="https://www.youtube.com/watch?v=1oZGakvhPWY" target="_blank">Observability with Containers: Deep Dive with Amazon CloudWatch and AWS X-Ray </a>| 
 
 
 
@@ -268,6 +283,7 @@
 |01/21|<a href="https://www.youtube.com/watch?v=_AdJGAVTTbg" target="_blank">Build Secure, Offline, and Real Time Enabled Mobile Apps Using AWS AppSync and AWS Amplify </a>| 
 |05/20|<a href="https://www.youtube.com/watch?v=PswB47WJ4Xk" target="_blank">Deploying and Consuming Serverless Functions with AWS Amplify </a>| 
 |07/31|<a href="https://www.youtube.com/watch?v=WkUsaG29LfQ" target="_blank">Best Practices for Android Authentication on AWS with AWS Amplify </a>| 
+|08/19|<a href="https://www.youtube.com/watch?v=cr4LN2U-V34" target="_blank">Building Robust GraphQL APIs with AWS Amplify and AWS AppSync </a>| 
 
 
 
@@ -283,6 +299,7 @@
 |06/03|<a href="https://www.youtube.com/watch?v=sqrBi_4fFdk" target="_blank">Simplify and Scale How You Connect Your Premises to AWS w/ AWS Direct Connect on AWS Transit Gateway </a>| 
 |06/18|<a href="https://www.youtube.com/watch?v=wMq-rnGhDHo" target="_blank">Customer Showcase: Exploiting Multi-Region Data Locality with Lambda@Edge </a>| 
 |07/23|<a href="https://www.youtube.com/watch?v=zPovlZxuZ-c" target="_blank">Simplify Traffic Monitoring and Visibility with Amazon VPC Traffic Mirroring </a>| 
+|08/22|<a href="https://www.youtube.com/watch?v=A_2qq9fFxVU" target="_blank">AWS Transit Gateway Reference Architectures for Many Amazon VPCs </a>| 
 
 
 
@@ -324,6 +341,8 @@
 |06/17|<a href="https://www.youtube.com/watch?v=1DvAOOwOa5Q" target="_blank">Continuous Compliance with AWS Security Hub </a>| 
 |06/19|<a href="https://www.youtube.com/watch?v=dOAdH2uSJS0" target="_blank">Learn How Amazon.com Uses Amazon GuardDuty to Protect Its Infrastructure </a>| 
 |07/24|<a href="https://www.youtube.com/watch?v=7dRlN-qZvaA" target="_blank">Deep Dive on AWS Certificate Manager Private CA - Creating and Managing Certificate Authorities </a>| 
+|08/22|<a href="https://www.youtube.com/watch?v=_dvBgWqZXe0" target="_blank">10 Best Practices for Using AWS Security Hub </a>| 
+|08/27|<a href="https://www.youtube.com/watch?v=5x80yPCjFwQ" target="_blank">Introduction to Privacy by Design </a>| 
 
 
 
@@ -341,6 +360,8 @@
 |05/20|<a href="https://www.youtube.com/watch?v=y0WJLXx5Ml0" target="_blank">Building Event-Driven Serverless Apps with AWS Event Fork Pipelines </a>| 
 |06/27|<a href="https://www.youtube.com/watch?v=shQpw6xjkko" target="_blank">Serverless Streams, Topics, Queues, & APIs! How to Pick the Right Serverless Application Pattern </a>| 
 |07/24|<a href="https://www.youtube.com/watch?v=Y9E-jqbd3eI" target="_blank">Getting Started with AWS Lambda and Serverless Computing </a>| 
+|08/26|<a href="https://www.youtube.com/watch?v=szsdJ8kbXq0" target="_blank">Building Modern Applications at AWS </a>| 
+|08/28|<a href="https://www.youtube.com/watch?v=DYQ8pXrktBM" target="_blank">Optimizing Your Serverless Applications </a>| 
 
 
 
@@ -357,6 +378,8 @@
 |05/23|<a href="https://www.youtube.com/watch?v=x-YjzkPg-1Y" target="_blank">Managing Tens to Billions of Objects at Scale with S3 Batch Operations </a>| 
 |05/26|<a href="https://www.youtube.com/watch?v=ad5Ne-aQTCg" target="_blank">Briefing: AWS Hybrid Cloud Storage and Edge Computing </a>| 
 |06/24|<a href="https://www.youtube.com/watch?v=ccIBYUjnt74" target="_blank">Build Your Data Lake on Amazon S3 </a>| 
+|08/21|<a href="https://www.youtube.com/watch?v=6nKH0ceFkiQ" target="_blank">Migrating Data to AWS: Understanding Your Options </a>| 
+|08/26|<a href="https://www.youtube.com/watch?v=7M3s_ix9ljE" target="_blank">Best Practices for Amazon S3 Security with S3 Access Management Tools and S3 Block Public Access </a>| 
 
 
 
