@@ -6,26 +6,26 @@
 * [AR/VR](#0) (2 Videos)
 * [Application Integration](#1) (1 Videos)
 * [Blockchain](#2) (3 Videos)
-* [Compute](#3) (16 Videos)
+* [Compute](#3) (17 Videos)
 * [Containers](#4) (12 Videos)
 * [Data Lakes & Analytics](#5) (16 Videos)
-* [Databases](#6) (15 Videos)
+* [Databases](#6) (16 Videos)
 * [DevOps](#7) (8 Videos)
 * [End-User Computing](#8) (6 Videos)
-* [Enterprise](#9) (7 Videos)
+* [Enterprise](#9) (9 Videos)
 * [Industry Solutions](#10) (1 Videos)
 * [IoT](#11) (9 Videos)
-* [Machine Learning](#12) (21 Videos)
+* [Machine Learning](#12) (22 Videos)
 * [Management Tools](#13) (2 Videos)
 * [Marketplace](#14) (2 Videos)
 * [Migration](#15) (4 Videos)
 * [Mobile](#16) (4 Videos)
-* [Networking & Content Delivery](#17) (9 Videos)
+* [Networking & Content Delivery](#17) (10 Videos)
 * [Productivity & Business Solutions](#18) (4 Videos)
 * [Robotics](#19) (5 Videos)
 * [Security, Identity & Compliance](#20) (12 Videos)
-* [Serverless](#21) (11 Videos)
-* [Storage](#22) (11 Videos)
+* [Serverless](#21) (12 Videos)
+* [Storage](#22) (12 Videos)
 
 
 
@@ -86,6 +86,7 @@
 |08/28|<a href="https://www.youtube.com/watch?v=u5dFozl1fW8" target="_blank">Best Practices for Running Spark Applications Using Spot Instances on EMR </a>| 
 |09/23|<a href="https://www.youtube.com/watch?v=nMeaXVUl2iI" target="_blank">Build Your Hybrid Cloud Architecture with AWS </a>| 
 |09/26|<a href="https://www.youtube.com/watch?v=Vsiqd3KpDo0" target="_blank">Self-Hosted WordPress: It's Easier Than You Think </a>| 
+|10/03|<a href="https://www.youtube.com/watch?v=6Bwr_tydNig" target="_blank">Lower Costs by Right Sizing Your Instance with Amazon EC2 T3 General Purpose Burstable Instances </a>| 
 
 
 
@@ -153,6 +154,7 @@
 |08/27|<a href="https://www.youtube.com/watch?v=tjkLv0dZ7SI" target="_blank">How Amazon.com Migrated from Oracle to Amazon Aurora with PostgreSQL-Compatibility </a>| 
 |08/29|<a href="https://www.youtube.com/watch?v=PWN16ByGl2M" target="_blank">Achieve Continuous Availability with Amazon Aurora Multi-Master </a>| 
 |09/25|<a href="https://www.youtube.com/watch?v=8bj5wSvNijk" target="_blank">What's New in Amazon DocumentDB (with MongoDB compatibility) </a>| 
+|10/03|<a href="https://www.youtube.com/watch?v=cXMf4EQWtXg" target="_blank">Enterprise-Class Security, High-Availability, & Scalability with Amazon ElastiCache </a>| 
 
 
 
@@ -198,6 +200,8 @@
 |05/30|<a href="https://www.youtube.com/watch?v=d6mMyhgqIZE" target="_blank">What's New in AWS Landing Zone </a>| 
 |06/25|<a href="https://www.youtube.com/watch?v=k5jjRPgw_so" target="_blank">How to Build Your Cloud Enablement Engine with the People You Already Have </a>| 
 |10/01|<a href="https://www.youtube.com/watch?v=pjrKDkzbas8" target="_blank">Virtual Workshop: How to Monitor and Manage Your AWS Costs </a>| 
+|10/02|<a href="https://www.youtube.com/watch?v=iLbSnaZtwqY" target="_blank">Accelerate Cloud Adoption and Reduce Operational Risk with AWS Managed Services </a>| 
+|10/14|<a href="https://www.youtube.com/watch?v=yb9CH3UbMbw" target="_blank">Are You Well-Architected? - AWS Virtual Workshop </a>| 
 
 
 
@@ -253,6 +257,7 @@
 |08/28|<a href="https://www.youtube.com/watch?v=LHYUJ9CreN0" target="_blank">Accelerate and Simplify Time Series Analysis and Forecasting with Amazon Forecast </a>| 
 |09/23|<a href="https://www.youtube.com/watch?v=T4cKQvvyCUY" target="_blank">Training Machine Learning Models Faster </a>| 
 |09/30|<a href="https://www.youtube.com/watch?v=wbDVGAbd_dM" target="_blank">Using Containers for Deep Learning Workflows </a>| 
+|10/03|<a href="https://www.youtube.com/watch?v=wd9VKtELVQo" target="_blank">Getting Hands-On with Machine Learning and Ready to Race in the AWS DeepRacer League </a>| 
 
 
 
@@ -314,6 +319,7 @@
 |07/23|<a href="https://www.youtube.com/watch?v=zPovlZxuZ-c" target="_blank">Simplify Traffic Monitoring and Visibility with Amazon VPC Traffic Mirroring </a>| 
 |08/22|<a href="https://www.youtube.com/watch?v=A_2qq9fFxVU" target="_blank">AWS Transit Gateway Reference Architectures for Many Amazon VPCs </a>| 
 |09/25|<a href="https://www.youtube.com/watch?v=ybXqv1rUeHk" target="_blank">Building Highly Available and Performant Applications using AWS Global Accelerator </a>| 
+|10/04|<a href="https://www.youtube.com/watch?v=cIZvZMZD8_o" target="_blank">AWS Office Hours: Amazon CloudFront </a>| 
 
 
 
@@ -378,6 +384,7 @@
 |07/24|<a href="https://www.youtube.com/watch?v=Y9E-jqbd3eI" target="_blank">Getting Started with AWS Lambda and Serverless Computing </a>| 
 |08/26|<a href="https://www.youtube.com/watch?v=szsdJ8kbXq0" target="_blank">Building Modern Applications at AWS </a>| 
 |08/28|<a href="https://www.youtube.com/watch?v=DYQ8pXrktBM" target="_blank">Optimizing Your Serverless Applications </a>| 
+|10/02|<a href="https://www.youtube.com/watch?v=28B4L1fnnGM" target="_blank">Deep Dive on Amazon EventBridge </a>| 
 
 
 
@@ -397,6 +404,7 @@
 |08/21|<a href="https://www.youtube.com/watch?v=6nKH0ceFkiQ" target="_blank">Migrating Data to AWS: Understanding Your Options </a>| 
 |08/26|<a href="https://www.youtube.com/watch?v=7M3s_ix9ljE" target="_blank">Best Practices for Amazon S3 Security with S3 Access Management Tools and S3 Block Public Access </a>| 
 |09/24|<a href="https://www.youtube.com/watch?v=S3356Vu45Mg" target="_blank">Optimize Your Amazon S3 Data Lake with S3 Storage Classes and Management Tools </a>| 
+|10/02|<a href="https://www.youtube.com/watch?v=rBUrayAMvOI" target="_blank">The Great Migration to Cloud Storage: Choosing the Right Storage Solution for Your Workload </a>| 
 
 
 
