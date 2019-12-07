@@ -3,15 +3,15 @@
 
 ### Tracks
 
-* [20-min Presentations](#0) (10 Videos)
-* [AWS Community](#1) (6 Videos)
-* [Analytics](#2) (22 Videos)
-* [Architecture](#3) (15 Videos)
-* [Artificial Intelligence & Machine Learning](#4) (19 Videos)
-* [Breakout Sessions](#5) (2 Videos)
-* [Compute](#6) (13 Videos)
-* [Containers](#7) (11 Videos)
-* [Daily Recap](#8) (10 Videos)
+* [Daily Recap](#0) (10 Videos)
+* [20-min Presentations](#1) (10 Videos)
+* [AWS Community](#2) (6 Videos)
+* [Analytics](#3) (22 Videos)
+* [Architecture](#4) (15 Videos)
+* [Artificial Intelligence & Machine Learning](#5) (19 Videos)
+* [Breakout Sessions](#6) (2 Videos)
+* [Compute](#7) (13 Videos)
+* [Containers](#8) (11 Videos)
 * [Databases](#9) (20 Videos)
 * [DevOps](#10) (8 Videos)
 * [End User Computing & Business Apps](#11) (14 Videos)
@@ -41,7 +41,25 @@
 ### Sessions
 
 
-### 20-min Presentations <a name="0"></a>
+### Daily Recap <a name="0"></a>
+
+| ClassId |       |
+|-|-|
+|---|<a href="https://www.youtube.com/watch?v=7-31KgImGgU" target="_blank">AWS re:Invent 2019 Keynote: Andy Jassy </a>| 
+|---|<a href="https://www.youtube.com/watch?v=GPUWATKe15E" target="_blank">AWS re:Invent 2019 Keynote: Monday Night Live with Peter DeSantis </a>| 
+|---|<a href="https://www.youtube.com/watch?v=xgAPe9KBRxw" target="_blank">Daily Recap Episode 1 - Sunday </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Tn9ISQM8Ln0" target="_blank">Daily Recap Episode 2 - Monday </a>| 
+|---|<a href="https://www.youtube.com/watch?v=xxC55HTWPfc" target="_blank">Daily Recap Episode 3 - Tuesday </a>| 
+|---|<a href="https://www.youtube.com/watch?v=IUQG2MHOO-g" target="_blank">Daily Recap Episode 4 - Wednesday </a>| 
+|---|<a href="https://www.youtube.com/watch?v=vkI0C2lJUTY" target="_blank">Daily Recap Episode 5 – Thursday </a>| 
+|---|<a href="https://www.youtube.com/watch?v=LGkTttsx7vI" target="_blank">Recap Exclusives - Certification </a>| 
+|---|<a href="https://www.youtube.com/watch?v=z3zroh2IWNo" target="_blank">Recap Exclusives - Charity Activity </a>| 
+|---|<a href="https://www.youtube.com/watch?v=xB2Bhft0yyw" target="_blank">Recap Exclusives - Tatonka Champion </a>| 
+
+
+
+
+### 20-min Presentations <a name="1"></a>
 
 | ClassId |       |
 |-|-|
@@ -59,7 +77,7 @@
 
 
 
-### AWS Community <a name="1"></a>
+### AWS Community <a name="2"></a>
 
 | ClassId |       |
 |-|-|
@@ -73,7 +91,7 @@
 
 
 
-### Analytics <a name="2"></a>
+### Analytics <a name="3"></a>
 
 | ClassId |       |
 |-|-|
@@ -103,7 +121,7 @@
 
 
 
-### Architecture <a name="3"></a>
+### Architecture <a name="4"></a>
 
 | ClassId |       |
 |-|-|
@@ -126,7 +144,7 @@
 
 
 
-### Artificial Intelligence & Machine Learning <a name="4"></a>
+### Artificial Intelligence & Machine Learning <a name="5"></a>
 
 | ClassId |       |
 |-|-|
@@ -153,7 +171,7 @@
 
 
 
-### Breakout Sessions <a name="5"></a>
+### Breakout Sessions <a name="6"></a>
 
 | ClassId |       |
 |-|-|
@@ -163,7 +181,7 @@
 
 
 
-### Compute <a name="6"></a>
+### Compute <a name="7"></a>
 
 | ClassId |       |
 |-|-|
@@ -184,7 +202,7 @@
 
 
 
-### Containers <a name="7"></a>
+### Containers <a name="8"></a>
 
 | ClassId |       |
 |-|-|
@@ -199,24 +217,6 @@
 |CON328-R1|<a href="https://www.youtube.com/watch?v=O1NQrIm_4cg" target="_blank">[REPEAT 1] Improving observability of your containers </a>| 
 |CON329|<a href="https://www.youtube.com/watch?v=MGcaaGgs82w" target="_blank">Running Kubernetes clusters at scale: Square </a>| 
 |CON330|<a href="https://www.youtube.com/watch?v=WVbyQvPa5O8" target="_blank">Running Kubernetes clusters at scale: Bird </a>| 
-
-
-
-
-### Daily Recap <a name="8"></a>
-
-| ClassId |       |
-|-|-|
-|---|<a href="https://www.youtube.com/watch?v=7-31KgImGgU" target="_blank">AWS re:Invent 2019 Keynote: Andy Jassy </a>| 
-|---|<a href="https://www.youtube.com/watch?v=GPUWATKe15E" target="_blank">AWS re:Invent 2019 Keynote: Monday Night Live with Peter DeSantis </a>| 
-|---|<a href="https://www.youtube.com/watch?v=xgAPe9KBRxw" target="_blank">Daily Recap Episode 1 - Sunday </a>| 
-|---|<a href="https://www.youtube.com/watch?v=Tn9ISQM8Ln0" target="_blank">Daily Recap Episode 2 - Monday </a>| 
-|---|<a href="https://www.youtube.com/watch?v=xxC55HTWPfc" target="_blank">Daily Recap Episode 3 - Tuesday </a>| 
-|---|<a href="https://www.youtube.com/watch?v=IUQG2MHOO-g" target="_blank">Daily Recap Episode 4 - Wednesday </a>| 
-|---|<a href="https://www.youtube.com/watch?v=vkI0C2lJUTY" target="_blank">Daily Recap Episode 5 – Thursday </a>| 
-|---|<a href="https://www.youtube.com/watch?v=LGkTttsx7vI" target="_blank">Recap Exclusives - Certification </a>| 
-|---|<a href="https://www.youtube.com/watch?v=z3zroh2IWNo" target="_blank">Recap Exclusives - Charity Activity </a>| 
-|---|<a href="https://www.youtube.com/watch?v=xB2Bhft0yyw" target="_blank">Recap Exclusives - Tatonka Champion </a>| 
 
 
 
