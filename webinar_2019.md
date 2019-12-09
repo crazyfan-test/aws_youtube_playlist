@@ -10,7 +10,7 @@
 * [Containers](#4) (13 Videos)
 * [Customer Enablement](#5) (1 Videos)
 * [Data Lakes & Analytics](#6) (19 Videos)
-* [Databases](#7) (19 Videos)
+* [Databases](#7) (20 Videos)
 * [DevOps](#8) (10 Videos)
 * [End-User Computing](#9) (8 Videos)
 * [Enterprise](#10) (15 Videos)
@@ -19,14 +19,14 @@
 * [Machine Learning](#13) (26 Videos)
 * [Management Tools](#14) (3 Videos)
 * [Marketplace](#15) (3 Videos)
-* [Migration](#16) (5 Videos)
+* [Migration](#16) (6 Videos)
 * [Mobile](#17) (6 Videos)
 * [Networking & Content Delivery](#18) (10 Videos)
 * [Productivity & Business Solutions](#19) (4 Videos)
-* [Robotics](#20) (6 Videos)
+* [Robotics](#20) (7 Videos)
 * [Security, Identity & Compliance](#21) (14 Videos)
 * [Serverless](#22) (14 Videos)
-* [Storage](#23) (14 Videos)
+* [Storage](#23) (15 Videos)
 
 
 
@@ -177,6 +177,7 @@
 |10/22|<a href="https://www.youtube.com/watch?v=I0uHo4xAIxg" target="_blank">How to Build Highly Scalable Serverless Applications with Amazon Aurora Serverless </a>| 
 |11/18|<a href="https://www.youtube.com/watch?v=_Yaq4KDD3tg" target="_blank">Getting Started with Migrating Data Online to Fully-Managed Amazon ElastiCache </a>| 
 |11/22|<a href="https://www.youtube.com/watch?v=3Lsim9M8h-I" target="_blank">Deploy Managed Databases On Premises with Amazon RDS on VMware </a>| 
+|11/26|<a href="https://www.youtube.com/watch?v=DqTiS-EJTXY" target="_blank">How Amazon.com Broke Free from Oracle - AWS Fireside Chat </a>| 
 
 
 
@@ -331,6 +332,7 @@
 |06/27|<a href="https://www.youtube.com/watch?v=PVyWqViXieY" target="_blank">How AWS Migration Hub Helps You Plan, Track, and Complete Your Application Migrations </a>| 
 |09/24|<a href="https://www.youtube.com/watch?v=Plsy7GSqX-0" target="_blank">Application Migrations Using AWS Server Migration Service (SMS) </a>| 
 |10/22|<a href="https://www.youtube.com/watch?v=Rsmw3ddbpl0" target="_blank">Deep Dive: How to Rapidly Migrate Your Data Online with AWS DataSync </a>| 
+|11/25|<a href="https://www.youtube.com/watch?v=QBLVRLhkJAQ" target="_blank">How to Build a Compelling Migration Business Case Using TSO Logic </a>| 
 
 
 
@@ -389,6 +391,7 @@
 |07/29|<a href="https://www.youtube.com/watch?v=mrIjtBdDQ5A" target="_blank">Deploying Robotic Applications Using Machine Learning with Nvidia JetBot and AWS RoboMaker </a>| 
 |10/01|<a href="https://www.youtube.com/watch?v=qlL1ebmvdMs" target="_blank">Robots and STEM: AWS RoboMaker and AWS Educate Unite! </a>| 
 |10/22|<a href="https://www.youtube.com/watch?v=36owg9AM4rM" target="_blank">The Future of Smart Robots Has Arrived </a>| 
+|11/25|<a href="https://www.youtube.com/watch?v=7wdYLVAnAvA" target="_blank">From Simulation to Reality: Building an Autonomous Robot Arm with AWS Robomaker </a>| 
 
 
 
@@ -455,6 +458,7 @@
 |10/02|<a href="https://www.youtube.com/watch?v=rBUrayAMvOI" target="_blank">The Great Migration to Cloud Storage: Choosing the Right Storage Solution for Your Workload </a>| 
 |10/23|<a href="https://www.youtube.com/watch?v=jx2OqfAoalQ" target="_blank">Reduce File Storage TCO with Amazon EFS and Amazon FSx for Windows File Server </a>| 
 |11/22|<a href="https://www.youtube.com/watch?v=4elbexkByFQ" target="_blank">What's New with AWS Storage </a>| 
+|11/25|<a href="https://www.youtube.com/watch?v=-0-jujMLw6Y" target="_blank">Configuring and Managing Amazon S3 Replication </a>| 
 
 
 
