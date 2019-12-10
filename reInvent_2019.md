@@ -6,31 +6,36 @@
 * [Daily Recap](#0) (10 Videos)
 * [20-min Presentations](#1) (16 Videos)
 * [AWS Community](#2) (6 Videos)
-* [Analytics](#3) (25 Videos)
-* [Architecture](#4) (15 Videos)
-* [Artificial Intelligence & Machine Learning](#5) (23 Videos)
-* [Breakout Sessions](#6) (2 Videos)
-* [Compute](#7) (16 Videos)
-* [Containers](#8) (11 Videos)
-* [Databases](#9) (27 Videos)
-* [DevOps](#10) (8 Videos)
-* [End User Computing & Business Apps](#11) (14 Videos)
-* [Enterprise](#12) (17 Videos)
-* [Financial Services](#13) (7 Videos)
-* [Global Partner Summit](#14) (24 Videos)
-* [IoT](#15) (19 Videos)
-* [Life Sciences](#16) (5 Videos)
-* [Management Tools & Governance](#17) (7 Videos)
-* [Manufacturing](#18) (7 Videos)
-* [Marketplace](#19) (6 Videos)
-* [Mobile](#20) (8 Videos)
-* [Networking](#21) (15 Videos)
-* [Open Source](#22) (13 Videos)
-* [Security, Compliance, and Identity](#23) (14 Videos)
-* [Serverless](#24) (14 Videos)
-* [Sponsorship](#25) (142 Videos)
-* [Startup](#26) (7 Videos)
-* [Storage](#27) (18 Videos)
+* [Alexa](#3) (2 Videos)
+* [Analytics](#4) (27 Videos)
+* [Architecture](#5) (16 Videos)
+* [Artificial Intelligence & Machine Learning](#6) (28 Videos)
+* [Breakout Sessions](#7) (2 Videos)
+* [Compute](#8) (19 Videos)
+* [Containers](#9) (13 Videos)
+* [Databases](#10) (31 Videos)
+* [DevOps](#11) (14 Videos)
+* [End User Computing & Business Apps](#12) (14 Videos)
+* [Enterprise](#13) (20 Videos)
+* [Financial Services](#14) (8 Videos)
+* [Global Partner Summit](#15) (26 Videos)
+* [IoT](#16) (20 Videos)
+* [Life Sciences](#17) (5 Videos)
+* [Management Tools & Governance](#18) (7 Videos)
+* [Manufacturing](#19) (7 Videos)
+* [Marketplace](#20) (6 Videos)
+* [Mobile](#21) (8 Videos)
+* [Netflix](#22) (5 Videos)
+* [Networking](#23) (16 Videos)
+* [Open Source](#24) (13 Videos)
+* [Public Sector](#25) (6 Videos)
+* [Robotics](#26) (5 Videos)
+* [Security, Compliance, and Identity](#27) (23 Videos)
+* [Serverless](#28) (19 Videos)
+* [Sponsorship](#29) (156 Videos)
+* [Startup](#30) (9 Videos)
+* [Storage](#31) (23 Videos)
+* [Windows & .Net](#32) (9 Videos)
 
 
 
@@ -97,7 +102,17 @@
 
 
 
-### Analytics <a name="3"></a>
+### Alexa <a name="3"></a>
+
+| ClassId |       |
+|-|-|
+|ALX202-R1|<a href="https://www.youtube.com/watch?v=hFzXyOfAFso" target="_blank">[REPEAT 1] Alexa, what can I do now? </a>| 
+|ALX318|<a href="https://www.youtube.com/watch?v=-3UkK5QLTjc" target="_blank">DevOps your Alexa skill: Why testing and automation matter </a>| 
+
+
+
+
+### Analytics <a name="4"></a>
 
 | ClassId |       |
 |-|-|
@@ -117,12 +132,14 @@
 |ANT320-R|<a href="https://www.youtube.com/watch?v=lN6tfUX4CcE" target="_blank">[REPEAT] What’s new with Amazon Redshift, featuring Workday </a>| 
 |ANT320-R1|<a href="https://www.youtube.com/watch?v=sCEhmBnQ7M0" target="_blank">[REPEAT 1] What’s new with Amazon Redshift, featuring Yelp </a>| 
 |ANT326-R1|<a href="https://www.youtube.com/watch?v=TAkcRD6OxPw" target="_blank">[REPEAT 1] Building a streaming data platform with Amazon Kinesis </a>| 
+|ANT327-R1|<a href="https://www.youtube.com/watch?v=TfgNzzaakNs" target="_blank">Migrating Apache Spark and Hive from on-premises to Amazon EMR </a>| 
 |ANT330|<a href="https://www.youtube.com/watch?v=7FSQVQEfJ9k" target="_blank">Intuit: Moving from monitoring to observability using Amazon ES </a>| 
 |ANT331|<a href="https://www.youtube.com/watch?v=DRDiIVjX-vo" target="_blank">AWS analytics enables fraud prevention for Sony’s PlayStation </a>| 
 |ANT333|<a href="https://www.youtube.com/watch?v=f4JBNf9ny70" target="_blank">How Woot.com built a serverless data lake with AWS analytics </a>| 
 |ANT334-R|<a href="https://www.youtube.com/watch?v=rXLV8YIPGPk" target="_blank">Migrate your data warehouse to the cloud, ft. Fannie Mae </a>| 
 |ANT335-R|<a href="https://www.youtube.com/watch?v=svj3srbhfUw" target="_blank">How to build your data analytics stack at scale with Amazon Redshift </a>| 
 |ANT335-R1|<a href="https://www.youtube.com/watch?v=V9r_sP2-zzs" target="_blank">How to scale data analytics w/ Amazon Redshift, ft. Warner Bros. </a>| 
+|ANT335-R2|<a href="https://www.youtube.com/watch?v=Y_SzaS9VsZo" target="_blank">[REPEAT 2] How to scale data analytics with Amazon Redshift </a>| 
 |ANT348|<a href="https://www.youtube.com/watch?v=V4QDq-OFojQ" target="_blank">How Prime Video processes 8 percent of all US internet traffic on AWS </a>| 
 |ANT380-P|<a href="https://www.youtube.com/watch?v=M0kzfsNNYc0" target="_blank">How Zappos uses AWS services for near-real-time search optimization </a>| 
 |ANT418|<a href="https://www.youtube.com/watch?v=lj8oaSpCFTc" target="_blank">Deep dive and best practices for Amazon Redshift </a>| 
@@ -130,7 +147,7 @@
 
 
 
-### Architecture <a name="4"></a>
+### Architecture <a name="5"></a>
 
 | ClassId |       |
 |-|-|
@@ -138,6 +155,7 @@
 |ARC209-R1|<a href="https://www.youtube.com/watch?v=FAowmVOweO4" target="_blank">Running lean architectures: How to be cost-effective on AWS </a>| 
 |ARC211-R|<a href="https://www.youtube.com/watch?v=kKjm4ehYiMs" target="_blank">[REPEAT] Scaling up to your first 10 million users </a>| 
 |ARC212-R1|<a href="https://www.youtube.com/watch?v=rX-DjsfkWzc" target="_blank">Cox Automotive: AWS Well-Architected Results on 200+ platforms </a>| 
+|ARC218-L|<a href="https://www.youtube.com/watch?v=wMsVL5Vg2BU" target="_blank">Leadership session: AWS architecture </a>| 
 |ARC335-R1|<a href="https://www.youtube.com/watch?v=BJVzwaTiOdk" target="_blank">Designing for failure: Architecting resilient systems on AWS </a>| 
 |ARC336-R1|<a href="https://www.youtube.com/watch?v=F08QJEQn2F4" target="_blank">CLP Innovation: Increasing agility with cloud-native architectures </a>| 
 |ARC338-R|<a href="https://www.youtube.com/watch?v=26BxsXDuBUY" target="_blank">[REPEAT] How Goldman Sachs minimizes the impact of managing events </a>| 
@@ -153,15 +171,17 @@
 
 
 
-### Artificial Intelligence & Machine Learning <a name="5"></a>
+### Artificial Intelligence & Machine Learning <a name="6"></a>
 
 | ClassId |       |
 |-|-|
 |AIM205-R1|<a href="https://www.youtube.com/watch?v=2RSCsgqyKmU" target="_blank">Starting the enterprise ML journey, ft. ProSiebenSat.1 Media SE </a>| 
 |AIM206-R|<a href="https://www.youtube.com/watch?v=XONxt2onl7s" target="_blank">Finding a needle in a haystack: AI to transform content management </a>| 
+|AIM208-R1|<a href="https://www.youtube.com/watch?v=1tuftZ1F1NQ" target="_blank">Transform the way you search & interact w/ enterprise data using AI </a>| 
 |AIM211-R|<a href="https://www.youtube.com/watch?v=JzYctR1tIb0" target="_blank">[REPEAT] AI document processing for business automation </a>| 
 |AIM211-R1|<a href="https://www.youtube.com/watch?v=u1K-PUadfO8" target="_blank">[REPEAT 1] AI document processing for business automation </a>| 
 |AIM212|<a href="https://www.youtube.com/watch?v=7FeGEEJiGQ4" target="_blank">ML in retail: Solutions that add intelligence to your business </a>| 
+|AIM232|<a href="https://www.youtube.com/watch?v=Kqv6HpsOfUQ" target="_blank">Media discovery and compliance with Amazon Rekognition </a>| 
 |AIM240-P|<a href="https://www.youtube.com/watch?v=Q6IajUU6DsI" target="_blank">What can you build with AI? No ML experience required </a>| 
 |AIM306-R|<a href="https://www.youtube.com/watch?v=lx9fP_4yi2s" target="_blank">How to build high-performance ML solutions at low cost, ft. Aramex </a>| 
 |AIM306-R1|<a href="https://www.youtube.com/watch?v=fJ2WMa6Vm9A" target="_blank">How to build high-performance ML solutions at low cost, ft. Siemens </a>| 
@@ -172,19 +192,22 @@
 |AIM322-R1|<a href="https://www.youtube.com/watch?v=ZkPQtjETrBw" target="_blank">[REPEAT 1] Fraud: How to detect and prevent it using ML </a>| 
 |AIM323|<a href="https://www.youtube.com/watch?v=XCE3PnGb3As" target="_blank">Delight your customers with ML-based personalized recommendations </a>| 
 |AIM326-R|<a href="https://www.youtube.com/watch?v=fgLlEnhFZQA" target="_blank">[REPEAT] Implement ML workflows with Kubernetes and Amazon SageMaker </a>| 
+|AIM326-R1|<a href="https://www.youtube.com/watch?v=G-wzIQQJKaE" target="_blank">Implement ML workflows with Kubernetes and Amazon SageMaker </a>| 
 |AIM327-R1|<a href="https://www.youtube.com/watch?v=asuYSd5OmAE" target="_blank">Security for ML environments w/ Amazon SageMaker, featuring Vanguard </a>| 
 |AIM369|<a href="https://www.youtube.com/watch?v=XGDgW3l-baY" target="_blank">Changing the game with ML: How AI, ML, and IoT are transforming sports </a>| 
 |AIM375-P|<a href="https://www.youtube.com/watch?v=E04JXdnPN0w" target="_blank">Natural language modeling with Amazon SageMaker BlazingText algorithm </a>| 
 |AIM410-R|<a href="https://www.youtube.com/watch?v=iW0RASdjnOk" target="_blank">Deep learning applications with TensorFlow, featuring Mobileye </a>| 
+|AIM410-R1|<a href="https://www.youtube.com/watch?v=cr4XpORprmw" target="_blank">Deep learning applications with TensorFlow, featuring Fannie Mae </a>| 
 |AIM411-R1|<a href="https://www.youtube.com/watch?v=byAmvwmW8yM" target="_blank">Deep learning applications with Apache MXNet, featuring the BBC </a>| 
 |AIM412-R|<a href="https://www.youtube.com/watch?v=6IhI7hPFpX8" target="_blank">[REPEAT] Deep learning applications using PyTorch, featuring Autodesk </a>| 
+|AIM412-R1|<a href="https://www.youtube.com/watch?v=R7cMAXRY-os" target="_blank">Deep learning applications with PyTorch, featuring Freshworks </a>| 
 |AIM413|<a href="https://www.youtube.com/watch?v=gwsnXIA5RZs" target="_blank">Deep dive on Project Jupyter </a>| 
 |MLS201|<a href="https://www.youtube.com/watch?v=dQpHjk4DuY8" target="_blank">Machine Learning Summit </a>| 
 
 
 
 
-### Breakout Sessions <a name="6"></a>
+### Breakout Sessions <a name="7"></a>
 
 | ClassId |       |
 |-|-|
@@ -194,17 +217,20 @@
 
 
 
-### Compute <a name="7"></a>
+### Compute <a name="8"></a>
 
 | ClassId |       |
 |-|-|
 |CMP201-L|<a href="https://www.youtube.com/watch?v=Cqa1BHos1sg" target="_blank">Leadership session: What’s new in compute? </a>| 
 |CMP202-R1|<a href="https://www.youtube.com/watch?v=_dvh4P2FVbw" target="_blank">Better, faster, cheaper compute: Cost-optimizing Amazon EC2 </a>| 
 |CMP203|<a href="https://www.youtube.com/watch?v=h1nC5mWiU7I" target="_blank">Studio in the cloud: Content production on AWS </a>| 
+|CMP204-R1|<a href="https://www.youtube.com/watch?v=g70bvcGlPY4" target="_blank">[REPEAT 1] HPC on AWS: Innovating without infrastructure constraints </a>| 
 |CMP210-R1|<a href="https://www.youtube.com/watch?v=uQ9ry-9uUvo" target="_blank">[REPEAT 1] Dive deep on how to save with AWS Savings Plans </a>| 
 |CMP220-P|<a href="https://www.youtube.com/watch?v=id0kOnY6wLw" target="_blank">Remote desktop and application streaming with NICE DCV </a>| 
 |CMP302-R1|<a href="https://www.youtube.com/watch?v=n7AWdZVCq7g" target="_blank">AWS Outposts: Extend the AWS experience to on-premises environments </a>| 
+|CMP303-R2|<a href="https://www.youtube.com/watch?v=rUY-00yFlE4" target="_blank">Powering next-gen Amazon EC2: Deep dive into the Nitro system </a>| 
 |CMP304-R1|<a href="https://www.youtube.com/watch?v=NUGxyB7TGrQ" target="_blank">AWS infrastructure for large-scale training at Facebook AI </a>| 
+|CMP305-R2|<a href="https://www.youtube.com/watch?v=07Wg67qnpKw" target="_blank">Amazon EBS snapshots: What’s new, best practices, and security </a>| 
 |CMP320|<a href="https://www.youtube.com/watch?v=1_hKrGjYteQ" target="_blank">How Dropbox leverages hybrid cloud for scale and innovation </a>| 
 |CMP322-R1|<a href="https://www.youtube.com/watch?v=4jImmuMqnwc" target="_blank">Deep dive on Arm-based EC2 instances powered by AWS Graviton </a>| 
 |CMP323-R1|<a href="https://www.youtube.com/watch?v=zt6jYJLK8sg" target="_blank">[REPEAT 1] Optimize performance and cost for your AWS compute </a>| 
@@ -218,7 +244,7 @@
 
 
 
-### Containers <a name="8"></a>
+### Containers <a name="9"></a>
 
 | ClassId |       |
 |-|-|
@@ -233,11 +259,13 @@
 |CON328-R1|<a href="https://www.youtube.com/watch?v=O1NQrIm_4cg" target="_blank">[REPEAT 1] Improving observability of your containers </a>| 
 |CON329|<a href="https://www.youtube.com/watch?v=MGcaaGgs82w" target="_blank">Running Kubernetes clusters at scale: Square </a>| 
 |CON330|<a href="https://www.youtube.com/watch?v=WVbyQvPa5O8" target="_blank">Running Kubernetes clusters at scale: Bird </a>| 
+|CON421-R1|<a href="https://www.youtube.com/watch?v=7vxDWDD2YnM" target="_blank">[REPEAT 1] Amazon EKS under the hood </a>| 
+|CON423-R1|<a href="https://www.youtube.com/watch?v=Hr-zOaBGyEA" target="_blank">[REPEAT 1] AWS Fargate under the hood </a>| 
 
 
 
 
-### Databases <a name="9"></a>
+### Databases <a name="10"></a>
 
 | ClassId |       |
 |-|-|
@@ -258,37 +286,47 @@
 |DAT326|<a href="https://www.youtube.com/watch?v=D3_hWN9C9iE" target="_blank">Amazon DocumentDB deep dive </a>| 
 |DAT358|<a href="https://www.youtube.com/watch?v=Rpni5uPe0uI" target="_blank">Best practices: migrating Redis clusters from Amazon EC2 to ElastiCache </a>| 
 |DAT359|<a href="https://www.youtube.com/watch?v=vPF9l9OmiXE" target="_blank">How Amazon.com migrated its applications from Oracle to AWS databases </a>| 
+|DAT360-R1|<a href="https://www.youtube.com/watch?v=Brhwab-qp1E" target="_blank">Analytical use cases with AWS Database Migration Service (AWS DMS) </a>| 
 |DAT361|<a href="https://www.youtube.com/watch?v=dSqNAlYAAoQ" target="_blank">Deep dive on Amazon Neptune </a>| 
 |DAT362-R|<a href="https://www.youtube.com/watch?v=cSPLC-BY7Vc" target="_blank">[REPEAT] Dive deep into AWS SCT and AWS DMS </a>| 
+|DAT363-R1|<a href="https://www.youtube.com/watch?v=SldtNAonxEk" target="_blank">[REPEAT 1] Migrating your data warehouses to Amazon Redshift </a>| 
 |DAT364-R1|<a href="https://www.youtube.com/watch?v=R4Vj88iqu5s" target="_blank">[REPEAT 1] Deep dive on new features in Amazon RDS for SQL Server </a>| 
 |DAT365-R1|<a href="https://www.youtube.com/watch?v=6RZe_hu9aOk" target="_blank">[REPEAT 1] Deep dive on new features in Amazon RDS for Oracle </a>| 
 |DAT371|<a href="https://www.youtube.com/watch?v=DInYm0YWS4w" target="_blank">Norton Storage Platform’s journey from Cassandra to Amazon DynamoDB </a>| 
 |DAT372|<a href="https://www.youtube.com/watch?v=qmb7ssDH6Pg" target="_blank">Migrating your databases to Amazon DocumentDB </a>| 
+|DAT373|<a href="https://www.youtube.com/watch?v=5PahcAcEOcs" target="_blank">Data platform engineering: How Vanguard is migrating data to AWS </a>| 
 |DAT380|<a href="https://www.youtube.com/watch?v=ZfYDl4kaVCo" target="_blank">Amazon QLDB: An engineer’s deep dive on why this is a game changer </a>| 
 |DAT381|<a href="https://www.youtube.com/watch?v=NZBk7X5uWX0" target="_blank">How Verizon moves critical databases to Amazon RDS with zero downtime </a>| 
 |DAT382|<a href="https://www.youtube.com/watch?v=9mTwxghXvlE" target="_blank">Aurora Serverless: Scalable, cost-effective application deployment </a>| 
 |DAT403-R1|<a href="https://www.youtube.com/watch?v=6yqfmXiZTlM" target="_blank">[REPEAT 1] Amazon DynamoDB deep dive: Advanced design patterns </a>| 
+|DAT404-R1|<a href="https://www.youtube.com/watch?v=p0C0jakzYuc" target="_blank">Amazon Aurora Multi-Master: Scaling out database write performance </a>| 
 
 
 
 
-### DevOps <a name="10"></a>
+### DevOps <a name="11"></a>
 
 | ClassId |       |
 |-|-|
+|DOP207-R1|<a href="https://www.youtube.com/watch?v=o9XgEpOj3f0" target="_blank">Driving change and building a high-performance DevOps culture </a>| 
+|DOP208-R1|<a href="https://www.youtube.com/watch?v=yQiRli2ZPxU" target="_blank">[REPEAT 1] Amazon’s approach to failing successfully </a>| 
 |DOP209-R1|<a href="https://www.youtube.com/watch?v=wugkTArXBYo" target="_blank">[REPEAT 1] Introduction to DevOps on AWS </a>| 
+|DOP210-L|<a href="https://www.youtube.com/watch?v=p9IybVJp5QM" target="_blank">Leadership Session: Developer Tools on AWS </a>| 
 |DOP212|<a href="https://www.youtube.com/watch?v=DzQQVDVBiVQ" target="_blank">Best practices for building your business on AWS IQ </a>| 
 |DOP302-R1|<a href="https://www.youtube.com/watch?v=bJHHQM7GGro" target="_blank">[REPEAT 1] Best practices for authoring AWS CloudFormation </a>| 
+|DOP309-R1|<a href="https://www.youtube.com/watch?v=ztiPjey2rfY" target="_blank">[REPEAT 1] Improving resiliency with chaos engineering </a>| 
 |DOP320-R1|<a href="https://www.youtube.com/watch?v=OO7hiIBQtc8" target="_blank">[REPEAT 1] Strategies for securing code in the cloud and on premises </a>| 
 |DOP321|<a href="https://www.youtube.com/watch?v=65Im9OvsT_0" target="_blank">Migrating .NET frameworks to the cloud </a>| 
 |DOP326|<a href="https://www.youtube.com/watch?v=o4clRJuH9xU" target="_blank">Deploy your code, scale, and lower cloud costs using Elastic Beanstalk </a>| 
+|DOP328|<a href="https://www.youtube.com/watch?v=VVQIiEOJVEY" target="_blank">Five lessons from principal engineers on building reliable services </a>| 
 |DOP342-R1|<a href="https://www.youtube.com/watch?v=KLxwhsJuZ44" target="_blank">[REPEAT 1] Amazon's approach to building resilient services </a>| 
 |DOP402-R1|<a href="https://www.youtube.com/watch?v=9As_ZIjUGmY" target="_blank">[REPEAT 1] Deep dive into AWS Cloud Development Kit </a>| 
+|DOP404-R1|<a href="https://www.youtube.com/watch?v=bCgD2bX1LI4" target="_blank">[REPEAT 1] Amazon's approach to high-availability deployment </a>| 
 
 
 
 
-### End User Computing & Business Apps <a name="11"></a>
+### End User Computing & Business Apps <a name="12"></a>
 
 | ClassId |       |
 |-|-|
@@ -310,13 +348,14 @@
 
 
 
-### Enterprise <a name="12"></a>
+### Enterprise <a name="13"></a>
 
 | ClassId |       |
 |-|-|
 |ENT203-R1|<a href="https://www.youtube.com/watch?v=4USaT-C9OOA" target="_blank">[REPEAT 1] Operating as a high-frequency enterprise </a>| 
 |ENT204-R1|<a href="https://www.youtube.com/watch?v=ChupgIbZr5Q" target="_blank">[REPEAT 1] Managing your cloud financials as you scale on AWS </a>| 
 |ENT205-R1|<a href="https://www.youtube.com/watch?v=GI4CdlnxuhU" target="_blank">[REPEAT 1] Get started on your migration business case </a>| 
+|ENT214|<a href="https://www.youtube.com/watch?v=W_vPguyzx5U" target="_blank">Cloud migration in the face of data-center eviction </a>| 
 |ENT215|<a href="https://www.youtube.com/watch?v=jOUoNggMBvo" target="_blank">Five steps AMS leverages to accelerate cloud adoption </a>| 
 |ENT216|<a href="https://www.youtube.com/watch?v=TIFPIZWhP3E" target="_blank">Differentiation through innovation </a>| 
 |ENT218-R1|<a href="https://www.youtube.com/watch?v=wklWIjDL2Rw" target="_blank">[REPEAT 1] Executing a large-scale migration to AWS </a>| 
@@ -329,13 +368,15 @@
 |ENT237|<a href="https://www.youtube.com/watch?v=Eggzu48L11o" target="_blank">Transform your enterprise using AWS experience-based accelerators </a>| 
 |ENT241|<a href="https://www.youtube.com/watch?v=RGXB4rkkcXc" target="_blank">How ENGIE, HP & SAP itself are transforming their SAP solutions </a>| 
 |ENT267-P|<a href="https://www.youtube.com/watch?v=zRYVdHHEtGA" target="_blank">AWS & sustainability: Unlocking impact at scale </a>| 
+|ENT307-R1|<a href="https://www.youtube.com/watch?v=JWwnz4uw2PI" target="_blank">[REPEAT 1] Strategies and tools to migrate hundreds of applications </a>| 
 |ENT317|<a href="https://www.youtube.com/watch?v=Ip2YpcGCcaA" target="_blank">Inside story of Phillips 66 SAP S/4HANA business transformation </a>| 
+|ENT319-R1|<a href="https://www.youtube.com/watch?v=dldS3C6u1lE" target="_blank">Migration to AWS: A foundation for enterprise transformation </a>| 
 |ENT320-R1|<a href="https://www.youtube.com/watch?v=dv7fpOIkiRU" target="_blank">[REPEAT 1] Cloud operations engineer: A day in the life </a>| 
 
 
 
 
-### Financial Services <a name="13"></a>
+### Financial Services <a name="14"></a>
 
 | ClassId |       |
 |-|-|
@@ -345,12 +386,13 @@
 |FSI204|<a href="https://www.youtube.com/watch?v=9ensSGv1nX8" target="_blank">JPMorgan Chase: Moving workloads at speed and scale </a>| 
 |FSI303|<a href="https://www.youtube.com/watch?v=GJCVphUO_AM" target="_blank">Tale of two cities: Goldman Sachs’s hybrid migration approach </a>| 
 |FSI304|<a href="https://www.youtube.com/watch?v=jfyS_gc8WGA" target="_blank">Nasdaq: From data warehouse to data lake </a>| 
+|FSI305|<a href="https://www.youtube.com/watch?v=ayLblgnQUvU" target="_blank">Barclays: Accelerating research data science using AWS </a>| 
 |FSI306|<a href="https://www.youtube.com/watch?v=QNM9LVV_eI0" target="_blank">HSBC: Meeting requirements for open banking with serverless </a>| 
 
 
 
 
-### Global Partner Summit <a name="14"></a>
+### Global Partner Summit <a name="15"></a>
 
 | ClassId |       |
 |-|-|
@@ -360,6 +402,7 @@
 |GPSBUS204|<a href="https://www.youtube.com/watch?v=h7izVRxWTQI" target="_blank">Partner with APN to build and deliver SaaS solutions </a>| 
 |GPSBUS205|<a href="https://www.youtube.com/watch?v=i776QZO-VOs" target="_blank">Building ML practices to address the top four use cases </a>| 
 |GPSBUS206|<a href="https://www.youtube.com/watch?v=gTijvWavIJo" target="_blank">Co-selling with the AWS Sales Organization </a>| 
+|GPSBUS207|<a href="https://www.youtube.com/watch?v=zO0nYnrfA78" target="_blank">Build success with new AWS Partner Network (APN) offerings </a>| 
 |GPSBUS208|<a href="https://www.youtube.com/watch?v=2XgyNkWsX_8" target="_blank">Building the business case for your customers </a>| 
 |GPSBUS209|<a href="https://www.youtube.com/watch?v=BCXgde37ouI" target="_blank">Choice and innovation for SAP customers </a>| 
 |GPSBUS210|<a href="https://www.youtube.com/watch?v=FMwbaDsv8qU" target="_blank">Accelerate business innovation with serverless applications </a>| 
@@ -373,6 +416,7 @@
 |GPSTEC339|<a href="https://www.youtube.com/watch?v=bmNBD_q38XU" target="_blank">Managed Blockchain & Amazon QLDB in your solutions portfolio </a>| 
 |GPSTEC341|<a href="https://www.youtube.com/watch?v=x9HD0tT6pDk" target="_blank">Insights into patient health with Amazon Comprehend Medical </a>| 
 |GPSTEC342|<a href="https://www.youtube.com/watch?v=LWJb5qEIXxg" target="_blank">Primary storage for SaaS solutions </a>| 
+|GPSTEC343|<a href="https://www.youtube.com/watch?v=5-vKWDWBsmg" target="_blank">Build and automate a modern serverless data lake on AWS </a>| 
 |GPSTEC344-R1|<a href="https://www.youtube.com/watch?v=79IA8ei8e9E" target="_blank">HashiCorp Enterprise on AWS best practices </a>| 
 |GPSTEC345|<a href="https://www.youtube.com/watch?v=UsNmIo4ymUo" target="_blank">Operational excellence with Amazon Aurora PostgreSQL </a>| 
 |GPSTEC346|<a href="https://www.youtube.com/watch?v=8ncdJm2Lowk" target="_blank">Legacy non-x86 modernization with AWS </a>| 
@@ -382,7 +426,7 @@
 
 
 
-### IoT <a name="15"></a>
+### IoT <a name="16"></a>
 
 | ClassId |       |
 |-|-|
@@ -401,6 +445,7 @@
 |IOT309-R1|<a href="https://www.youtube.com/watch?v=IbunGCa3-YM" target="_blank">Combining IoT and machine learning for predictive maintenance </a>| 
 |IOT310-R1|<a href="https://www.youtube.com/watch?v=eF3RSEfEXE4" target="_blank">Bringing intelligence to the edge for connected-home use cases </a>| 
 |IOT311-R1|<a href="https://www.youtube.com/watch?v=Fk1dEn4oJhg" target="_blank">Combining camera feeds, edge computing, and ML for remote monitoring </a>| 
+|IOT312-R1|<a href="https://www.youtube.com/watch?v=_y9-2VjTw3Y" target="_blank">[REPEAT 1] AWS IoT and industrial automation at Amazon </a>| 
 |IOT313-R1|<a href="https://www.youtube.com/watch?v=2ft5nJM9VXE" target="_blank">How to deliver customer-centric connected-home experiences </a>| 
 |IOT339|<a href="https://www.youtube.com/watch?v=gmadwtPTW4g" target="_blank">Transforming automotive manufacturing with Volkswagen </a>| 
 |IOT341-R1|<a href="https://www.youtube.com/watch?v=MN0welYWn4c" target="_blank">[REPEAT 1] Simplify the migration of IoT applications to AWS IoT </a>| 
@@ -409,7 +454,7 @@
 
 
 
-### Life Sciences <a name="16"></a>
+### Life Sciences <a name="17"></a>
 
 | ClassId |       |
 |-|-|
@@ -422,7 +467,7 @@
 
 
 
-### Management Tools & Governance <a name="17"></a>
+### Management Tools & Governance <a name="18"></a>
 
 | ClassId |       |
 |-|-|
@@ -437,7 +482,7 @@
 
 
 
-### Manufacturing <a name="18"></a>
+### Manufacturing <a name="19"></a>
 
 | ClassId |       |
 |-|-|
@@ -452,7 +497,7 @@
 
 
 
-### Marketplace <a name="19"></a>
+### Marketplace <a name="20"></a>
 
 | ClassId |       |
 |-|-|
@@ -466,7 +511,7 @@
 
 
 
-### Mobile <a name="20"></a>
+### Mobile <a name="21"></a>
 
 | ClassId |       |
 |-|-|
@@ -482,7 +527,20 @@
 
 
 
-### Networking <a name="21"></a>
+### Netflix <a name="22"></a>
+
+| ClassId |       |
+|-|-|
+|NFX201|<a href="https://www.youtube.com/watch?v=DJVJx2fSf90" target="_blank">More data science with less engineering: ML infrastructure at Netflix </a>| 
+|NFX202|<a href="https://www.youtube.com/watch?v=0QS1TWLooo0" target="_blank">A day in the life of a Netflix engineer </a>| 
+|NFX203|<a href="https://www.youtube.com/watch?v=2qYR78U4eNQ" target="_blank">From pitch to play: The technology behind going from ideas to streaming </a>| 
+|NFX205|<a href="https://www.youtube.com/watch?v=kWJoiZ9yMpg" target="_blank">Monitoring anomalous application behavior </a>| 
+|NFX207|<a href="https://www.youtube.com/watch?v=rtW4a4DvcWU" target="_blank">Benchmarking stateful services in the cloud </a>| 
+
+
+
+
+### Networking <a name="23"></a>
 
 | ClassId |       |
 |-|-|
@@ -497,6 +555,7 @@
 |NET317-R1|<a href="https://www.youtube.com/watch?v=eqW6CPb58gs" target="_blank">[REPEAT 1] Connectivity to AWS and hybrid AWS network architectures </a>| 
 |NET318-R1|<a href="https://www.youtube.com/watch?v=3ud_LLpzOAE" target="_blank">Building highly available applications using Global Accelerator </a>| 
 |NET320-R1|<a href="https://www.youtube.com/watch?v=Ot1kcQfUIdg" target="_blank">[REPEAT 1] The right AWS network architecture for the right reason </a>| 
+|NET321|<a href="https://www.youtube.com/watch?v=abOFqytVqBU" target="_blank">AWS PrivateLink deployments: DNS mechanisms for routing & resiliency </a>| 
 |NET339|<a href="https://www.youtube.com/watch?v=UObQZ3R9_4c" target="_blank">Innovation and operation of the AWS global network infrastructure </a>| 
 |NET406-R1|<a href="https://www.youtube.com/watch?v=9Nikqn_02Oc" target="_blank">[REPEAT 1] AWS Transit Gateway reference architectures for many VPCs </a>| 
 |NET407-R2|<a href="https://www.youtube.com/watch?v=HKh54BkaOK0" target="_blank">Get the most from Elastic Load Balancing for different workloads </a>| 
@@ -505,7 +564,7 @@
 
 
 
-### Open Source <a name="22"></a>
+### Open Source <a name="24"></a>
 
 | ClassId |       |
 |-|-|
@@ -526,7 +585,34 @@
 
 
 
-### Security, Compliance, and Identity <a name="23"></a>
+### Public Sector <a name="25"></a>
+
+| ClassId |       |
+|-|-|
+|WPS201|<a href="https://www.youtube.com/watch?v=GVpF4Bw6PnQ" target="_blank">A tale of two IT modernization strategies </a>| 
+|WPS202|<a href="https://www.youtube.com/watch?v=DkjFTiymCxU" target="_blank">Blockchain for science and research </a>| 
+|WPS203|<a href="https://www.youtube.com/watch?v=QuIphFx2jIg" target="_blank">AWS Educate: Innovation in education </a>| 
+|WPS204|<a href="https://www.youtube.com/watch?v=QcYpOxt3vVw" target="_blank">Build for a better today: Harnessing AI/ML to transform your mission </a>| 
+|WPS310|<a href="https://www.youtube.com/watch?v=-3tc-rCfuoU" target="_blank">AWS Secret Region: Lessons learned around DevSecOps </a>| 
+|WPS323|<a href="https://www.youtube.com/watch?v=sVMXR2qCE5E" target="_blank">Monitoring the Earth without costing the world </a>| 
+
+
+
+
+### Robotics <a name="26"></a>
+
+| ClassId |       |
+|-|-|
+|ROB201-L|<a href="https://www.youtube.com/watch?v=q67V5L2AwGY" target="_blank">Leadership session: Welcome to the era of smart robots </a>| 
+|ROB202|<a href="https://www.youtube.com/watch?v=IzVs2eqxTj0" target="_blank">Embracing the next wave of digital transformation via smart robots </a>| 
+|ROB301-R1|<a href="https://www.youtube.com/watch?v=GW1Sy3nlgec" target="_blank">[REPEAT 1] Running tests in simulation with AWS RoboMaker </a>| 
+|ROB302|<a href="https://www.youtube.com/watch?v=PbwZ8WLDp8A" target="_blank">Innovation in robotics: Insights from NASA JPL and AWS </a>| 
+|ROB319-P|<a href="https://www.youtube.com/watch?v=cF5tPGRAdKo" target="_blank">Rapid time to value with the open-source Robot Operating System (ROS) </a>| 
+
+
+
+
+### Security, Compliance, and Identity <a name="27"></a>
 
 | ClassId |       |
 |-|-|
@@ -536,9 +622,18 @@
 |SEC207-L|<a href="https://www.youtube.com/watch?v=bqAGpeFUP9g" target="_blank">Leadership session: AWS identity </a>| 
 |SEC212-R1|<a href="https://www.youtube.com/watch?v=IxvMK4kAu0E" target="_blank">[REPEAT 1] Vulnerability disclosure and response with AWS security </a>| 
 |SEC214|<a href="https://www.youtube.com/watch?v=HRwY6WjbO4E" target="_blank">nib Health Funds: Running critical regulated workloads in the cloud </a>| 
+|SEC305-R1|<a href="https://www.youtube.com/watch?v=Vox-PDRHIUs" target="_blank">[REPEAT 1] Achieving security goals with AWS CloudHSM </a>| 
+|SEC308|<a href="https://www.youtube.com/watch?v=aEIqeFCcK7E" target="_blank">Managing user permissions at scale with AWS SSO </a>| 
+|SEC310|<a href="https://www.youtube.com/watch?v=2B5bhZzayjI" target="_blank">Security best practices for the Amazon EC2 instance metadata service </a>| 
+|SEC316-R1|<a href="https://www.youtube.com/watch?v=XO4CALyzbVM" target="_blank">Access control confidence: Right access to the right things </a>| 
+|SEC318-R1|<a href="https://www.youtube.com/watch?v=E1NaYN_fJUo" target="_blank">DIY guide to runbooks, incident reports, and incident response </a>| 
+|SEC325-R2|<a href="https://www.youtube.com/watch?v=zVJnenaD3U8" target="_blank">Architecting security & governance across your landing zone </a>| 
 |SEC337|<a href="https://www.youtube.com/watch?v=x2T8tCo_6C0" target="_blank">Toyota Motor North America: Securing the cloud with AWS KMS </a>| 
+|SEC338|<a href="https://www.youtube.com/watch?v=EI9TrCbK1p0" target="_blank">How FINRA builds serverless data-masking pipelines across accounts </a>| 
+|SEC339|<a href="https://www.youtube.com/watch?v=kNtiskRtfeY" target="_blank">Actionable threat hunting in AWS </a>| 
 |SEC340-R1|<a href="https://www.youtube.com/watch?v=hxWvbNvj2lg" target="_blank">Using AWS KMS for data protection, access control, and audit </a>| 
 |SEC343-R|<a href="https://www.youtube.com/watch?v=6DX7p-OirGU" target="_blank">Provable access control: Know who can access your AWS resources </a>| 
+|SEC343-R1|<a href="https://www.youtube.com/watch?v=6_1uozMTvlM" target="_blank">Provable access control: Know who can access your AWS resources </a>| 
 |SEC352|<a href="https://www.youtube.com/watch?v=ll50dAiKPoI" target="_blank">National Australia Bank: Automating governance in Financial Services </a>| 
 |SEC355|<a href="https://www.youtube.com/watch?v=kQ4H6XO-iao" target="_blank">Speculation & leakage: Timing side channels & multi-tenant computing </a>| 
 |SEC356|<a href="https://www.youtube.com/watch?v=8uiO0Z5meCs" target="_blank">Prepare for & respond to security incidents in your AWS environment </a>| 
@@ -548,12 +643,14 @@
 
 
 
-### Serverless <a name="24"></a>
+### Serverless <a name="28"></a>
 
 | ClassId |       |
 |-|-|
+|SVS212-R2|<a href="https://www.youtube.com/watch?v=yfJZc3sJZ8E" target="_blank">[REPEAT 2] I didn’t know Amazon API Gateway did that </a>| 
 |SVS226|<a href="https://www.youtube.com/watch?v=q1jpS_XhZgc" target="_blank">From prototype to org-wide serverless adoption: Key considerations </a>| 
 |SVS242-P|<a href="https://www.youtube.com/watch?v=y-E4CUBmhW8" target="_blank">Selecting your first serverless pilot </a>| 
+|SVS308-R1|<a href="https://www.youtube.com/watch?v=h46IquqjF3E" target="_blank">[REPEAT 1] Moving to event-driven architectures </a>| 
 |SVS310-R1|<a href="https://www.youtube.com/watch?v=D2JyI7QV8c4" target="_blank">[REPEAT 1] Securing enterprise-grade serverless apps </a>| 
 |SVS317-R1|<a href="https://www.youtube.com/watch?v=2SGOyhwcbV4" target="_blank">[REPEAT 1] Serverless stream processing pipeline best practices </a>| 
 |SVS320-R1|<a href="https://www.youtube.com/watch?v=20KBtJOxUpw" target="_blank">[REPEAT 1] The serverless journey of shop.LEGO.com </a>| 
@@ -563,14 +660,17 @@
 |SVS343-R1|<a href="https://www.youtube.com/watch?v=TOn0xhev0Uk" target="_blank">[REPEAT 1] Building microservices with AWS Lambda </a>| 
 |SVS364-P|<a href="https://www.youtube.com/watch?v=fzZ9-h6OCkk" target="_blank">Upgrade your APIs from REST to GraphQL with AWS AppSync & AWS Amplify </a>| 
 |SVS365-P|<a href="https://www.youtube.com/watch?v=dCSp_B88Iws" target="_blank">Twelve-factor serverless applications </a>| 
+|SVS401-R1|<a href="https://www.youtube.com/watch?v=5rMiq-jw1Ig" target="_blank">[REPEAT 1] Optimizing your serverless applications </a>| 
 |SVS403-R1|<a href="https://www.youtube.com/watch?v=ddg1u5HLwg8" target="_blank">[REPEAT 1] Best practices for AWS Lambda and Java </a>| 
 |SVS404-R1|<a href="https://www.youtube.com/watch?v=PF7HaD567rM" target="_blank">[REPEAT 1] Networking best practices for serverless applications </a>| 
+|SVS405-R1|<a href="https://www.youtube.com/watch?v=xmacMfbrG28" target="_blank">[REPEAT 1] A serverless journey: AWS Lambda under the hood </a>| 
 |SVS406-R1|<a href="https://www.youtube.com/watch?v=QNnMpoD4RHM" target="_blank">[REPEAT 1] Asynchronous-processing best practices with AWS Lambda </a>| 
+|SVS407-R2|<a href="https://www.youtube.com/watch?v=Fup5vHEvU50" target="_blank">Architecting and operating resilient serverless systems at scale </a>| 
 
 
 
 
-### Sponsorship <a name="25"></a>
+### Sponsorship <a name="29"></a>
 
 | ClassId |       |
 |-|-|
@@ -607,10 +707,12 @@
 |CON210-S|<a href="https://www.youtube.com/watch?v=qhgOhOaDzGo" target="_blank">How to run like a startup with enterprise Kubernetes on AWS </a>| 
 |CON211-S|<a href="https://www.youtube.com/watch?v=kp7GZ247aAM" target="_blank">Kubernetes clusters & on AWS with Cisco Container Platform </a>| 
 |CON214-S|<a href="https://www.youtube.com/watch?v=eEvHiE4gaUE" target="_blank">Policy-based management of hundreds of Kubernetes clusters </a>| 
+|CON215-S|<a href="https://www.youtube.com/watch?v=TUuNFSgRua0" target="_blank">Implementing Kubernetes on AWS with confidence </a>| 
 |CON307-S|<a href="https://www.youtube.com/watch?v=bG9NrjznH3U" target="_blank">Top 5 container and Kubernetes best practices </a>| 
 |CON308-S|<a href="https://www.youtube.com/watch?v=X7RmfleuWrw" target="_blank">How Ticketmaster runs Kubernetes for 80% less without managing VMs </a>| 
 |CON332-S|<a href="https://www.youtube.com/watch?v=2EJdjK-84fc" target="_blank">Extreme infrastructure automation with Wavefront by VMware </a>| 
 |DAT221-S|<a href="https://www.youtube.com/watch?v=aFWJDCLjhQA" target="_blank">From RDS to SAP, protect your cloud databases the right way </a>| 
+|DAT374-S|<a href="https://www.youtube.com/watch?v=HoBFic0OONE" target="_blank">Using Redis beyond caching </a>| 
 |DEM01-S|<a href="https://www.youtube.com/watch?v=BZqbmGzbh7U" target="_blank">Armor cloud security: Security & compliance in the public cloud </a>| 
 |DEM02-S|<a href="https://www.youtube.com/watch?v=QBNlQppfqRI" target="_blank">CCPA: State privacy law effects on cloud development </a>| 
 |DEM03-S|<a href="https://www.youtube.com/watch?v=eUE2xx86TSk" target="_blank">Using AWS to architect your business for change </a>| 
@@ -631,7 +733,9 @@
 |DEM19-S|<a href="https://www.youtube.com/watch?v=U74vOMzUBoI" target="_blank">Five data lake considerations w/ Amazon Redshift, Amazon S3 & AWS Glue </a>| 
 |DEM20-S|<a href="https://www.youtube.com/watch?v=x8QyB75A39E" target="_blank">Intuit's journey to the cloud: Protecting native AWS services </a>| 
 |DEM21-S|<a href="https://www.youtube.com/watch?v=nv7K6_O44Xs" target="_blank">Capitalize on data and AI with IBM Cloud Pak for Data on AWS </a>| 
+|DEM22-S|<a href="https://www.youtube.com/watch?v=VkA2A71fego" target="_blank">Enhancing cloud security with continuous compliance </a>| 
 |DEM23-S|<a href="https://www.youtube.com/watch?v=xPRIx5T0OTU" target="_blank">Radically simple data protection with AWS and Druva </a>| 
+|DEM24-S|<a href="https://www.youtube.com/watch?v=Eeil2VBsgT8" target="_blank">Reinvent your pipeline with GitLab, Kubernetes, and Amazon EKS </a>| 
 |DEM25-S|<a href="https://www.youtube.com/watch?v=41Hta5Fx6mU" target="_blank">Managing decisions with Amazon Kinesis for better outcomes </a>| 
 |DEM26-S|<a href="https://www.youtube.com/watch?v=QpHM6DXxcDI" target="_blank">How to create a location-aware chatbot, and why </a>| 
 |DEM27-S|<a href="https://www.youtube.com/watch?v=9uNlSANqvSQ" target="_blank">Drive transformation through machine learning with Amazon SageMaker </a>| 
@@ -645,12 +749,14 @@
 |DEM35-S|<a href="https://www.youtube.com/watch?v=j9is3lFZC2I" target="_blank">Building a Kubernetes Operator in Quarkus </a>| 
 |DEM36-S|<a href="https://www.youtube.com/watch?v=GyBP5A322ts" target="_blank">App modernization on AWS, described by engineers who have done it </a>| 
 |DEM37-S|<a href="https://www.youtube.com/watch?v=8o7pcglmuBo" target="_blank">Delivering the enterprise data cloud </a>| 
+|DEM38-S|<a href="https://www.youtube.com/watch?v=m6MHwfqyqBs" target="_blank">Prescriptive approach to cloud: From on-premises to cloud in 9 months </a>| 
 |DEM39-S|<a href="https://www.youtube.com/watch?v=CClS-oJkyWc" target="_blank">Optimize cloud migration and operations with AWS and ServiceNow </a>| 
 |DEM40-S|<a href="https://www.youtube.com/watch?v=XJLGN3aaFOo" target="_blank">Accelerating AI pipelines w/ NVIDIA on AWS: An autonomous driving case </a>| 
 |DEM41-S|<a href="https://www.youtube.com/watch?v=msBW1prj_Rs" target="_blank">VMware Cloud on AWS: Automation and integration, the real power of API </a>| 
 |DEM42-S|<a href="https://www.youtube.com/watch?v=9iCJFf2th5Q" target="_blank">Go event-driven with AWS Lambda & Event Mesh </a>| 
 |DEM43-S|<a href="https://www.youtube.com/watch?v=xMHmXREyQk8" target="_blank">Unlock excellent end user experience with hybrid cloud DaaS </a>| 
 |DEM44-S|<a href="https://www.youtube.com/watch?v=zoKBjRiVMFc" target="_blank">From discovery to optimization: Four steps to cloud adoption </a>| 
+|DEM45-S|<a href="https://www.youtube.com/watch?v=o_A8dLF2D50" target="_blank">Advance securely: Safely migrating to AWS </a>| 
 |DEM46-S|<a href="https://www.youtube.com/watch?v=iygt2jjRgbM" target="_blank">Cloud security is a shared responsibility: What does that really mean? </a>| 
 |DEM47-S|<a href="https://www.youtube.com/watch?v=RJAHOqpRRS0" target="_blank">Running SAP applications on AWS, managed and optimized by IBM </a>| 
 |DEM48-S|<a href="https://www.youtube.com/watch?v=Y6GGgvV1YS0" target="_blank">How blockchain for business is already changing your everyday life </a>| 
@@ -665,15 +771,21 @@
 |DEM57-S|<a href="https://www.youtube.com/watch?v=SKsFaDoP800" target="_blank">Dynamic edge protection </a>| 
 |DEM58-S|<a href="https://www.youtube.com/watch?v=LEFrAIQkqGo" target="_blank">How you can scale up with Amazon EC2 for up to 90% less </a>| 
 |DEM59-S|<a href="https://www.youtube.com/watch?v=64t7us6UhVw" target="_blank">Sercomm presents a total solution for future smart homes and buildings </a>| 
+|DEM60-S|<a href="https://www.youtube.com/watch?v=kNxutTkTx_E" target="_blank">Optimizing data delivery for faster, better analytical insights </a>| 
 |DOP204-S|<a href="https://www.youtube.com/watch?v=g1mlD4d1ro0" target="_blank">Transforming IT pros to DevOps gurus: Ssecure your new tech stacks </a>| 
 |DOP205-S|<a href="https://www.youtube.com/watch?v=HfEl9GXZC0s" target="_blank">Amplifying CI/CD helped Wag! reduce release process by 600% </a>| 
 |DOP206-S|<a href="https://www.youtube.com/watch?v=IMlyW-8EF-I" target="_blank">Breaking the monolith with style and speed </a>| 
+|DOP217-S|<a href="https://www.youtube.com/watch?v=wga1O20jjEs" target="_blank">A great customer experience with the automated NOC-free environment </a>| 
 |DOP218-S|<a href="https://www.youtube.com/watch?v=s_V7R40B8Gs" target="_blank">Designing an open-source observability stack for Kubernetes </a>| 
+|DOP307-S|<a href="https://www.youtube.com/watch?v=jwHn3wTxr1A" target="_blank">Fast-track Kubernetes and platform rebuilds with observability </a>| 
+|DOP308-S|<a href="https://www.youtube.com/watch?v=qM5-v8tRLRY" target="_blank">Building a culture of observability </a>| 
+|DOP322-S|<a href="https://www.youtube.com/watch?v=KJNj37ZXPqE" target="_blank">Continuous delivery to AWS with GitHub Actions </a>| 
 |ENT210-S|<a href="https://www.youtube.com/watch?v=iqNRHGASK0w" target="_blank">The future of cloud management </a>| 
 |ENT212-S|<a href="https://www.youtube.com/watch?v=IaaSOztuzyU" target="_blank">Transform your business with the VMware & AWS hybrid cloud </a>| 
 |ENT213-S|<a href="https://www.youtube.com/watch?v=i4ZUUEaQQC8" target="_blank">New IT for new pharma: Cloud as catalyst for Sanofi innovation </a>| 
 |ENT227-S|<a href="https://www.youtube.com/watch?v=Fnh9mvhl6Ow" target="_blank">DXC Technology and AWS accelerating digital transformation globally </a>| 
 |ENT232-S|<a href="https://www.youtube.com/watch?v=e9qAQxrxOp0" target="_blank">Merck drives innovation with a “real-world data exchange” on AWS </a>| 
+|ENT233-S|<a href="https://www.youtube.com/watch?v=_SWmGfvdocI" target="_blank">Atlassian’s journey to cloud-native architecture </a>| 
 |ENT234-S|<a href="https://www.youtube.com/watch?v=j40lwgwAITA" target="_blank">Venerable accelerates its modernization journey with AWS </a>| 
 |ENT235-S|<a href="https://www.youtube.com/watch?v=thoRTwGm7lI" target="_blank">How Salesforce and AWS accelerate the contact center </a>| 
 |ENT239-S|<a href="https://www.youtube.com/watch?v=TONw-m-saso" target="_blank">Protect and migrate your compute instances with Zerto </a>| 
@@ -704,11 +816,11 @@
 |SEC220-S|<a href="https://www.youtube.com/watch?v=1HJQdFcUh2g" target="_blank">Avoiding cloud security anti-patterns the right way </a>| 
 |SEC221-S|<a href="https://www.youtube.com/watch?v=MGhmKPqw0-0" target="_blank">Securing the Super Bowl at CBS Interactive </a>| 
 |SEC222-S|<a href="https://www.youtube.com/watch?v=uDx9CQJK_Ec" target="_blank">Protecting you from you: Misconfiguration-caused breaches </a>| 
+|SEC313-S|<a href="https://www.youtube.com/watch?v=IwgBXISXK7E" target="_blank">Beyond the scripts: Governance automation master class </a>| 
 |SEC329-S|<a href="https://www.youtube.com/watch?v=5z9ffdVX0O0" target="_blank">Zoom scales security capabilities with Splunk and AWS </a>| 
 |SEC336-S|<a href="https://www.youtube.com/watch?v=4guGXxUBknY" target="_blank">Pacific Dental shifts left with McAfee for cloud security automation </a>| 
 |STG207-S|<a href="https://www.youtube.com/watch?v=uKeU8VDpBQ4" target="_blank">Five hybrid cloud backup and disaster recovery mistakes to avoid </a>| 
 |STG210-S|<a href="https://www.youtube.com/watch?v=YnJ4F1mnfYM" target="_blank">Real-world Veeam backup & disaster recovery with AWS: A customer view </a>| 
-|STG233-S|<a href="https://www.youtube.com/watch?v=mFXYDT4Y8lI" target="_blank">Move workloads to AWS faster with Dell Technologies Cloud </a>| 
 |STG236-S|<a href="https://www.youtube.com/watch?v=OWQopyr8knE" target="_blank">Ensure AWS data recoverability, ft. MassMutual & Boston Scientific </a>| 
 |STG237-S|<a href="https://www.youtube.com/watch?v=ZKj8QxjOqog" target="_blank">Learn how GMI achieves high performance for its databases </a>| 
 |STG239-S|<a href="https://www.youtube.com/watch?v=v0RXARe2hlI" target="_blank">Intuit delivers cloud services to drive customer satisfaction </a>| 
@@ -716,17 +828,21 @@
 |STG365-S|<a href="https://www.youtube.com/watch?v=z9mBuT3b4PE" target="_blank">Self-service disaster recovery for AWS with Druva </a>| 
 |SVS209-S|<a href="https://www.youtube.com/watch?v=2PzqC_N8rCg" target="_blank">Powering digital billboards with serverless </a>| 
 |SVS210-S|<a href="https://www.youtube.com/watch?v=f0kn-CMLHyg" target="_blank">Automatically scale a serverless app with Amazon Textract & MongoDB </a>| 
+|SVS219-S|<a href="https://www.youtube.com/watch?v=AaZL_PGwnd8" target="_blank">Serverless at scale </a>| 
+|SVS227-S|<a href="https://www.youtube.com/watch?v=0vF4TWluhAA" target="_blank">Delivering agility at McDonald's with microservices transformation </a>| 
 
 
 
 
-### Startup <a name="26"></a>
+### Startup <a name="30"></a>
 
 | ClassId |       |
 |-|-|
 |STP201|<a href="https://www.youtube.com/watch?v=arDI64ja6KA" target="_blank">How Ginkgo Bioworks uses AWS to make organisms </a>| 
 |STP202|<a href="https://www.youtube.com/watch?v=UbeJ6qb1yC8" target="_blank">Flexport: Using AI/ML to make global shipping easy </a>| 
 |STP203|<a href="https://www.youtube.com/watch?v=pHxuFKGALK0" target="_blank">The modern startup: A look at today’s most successful architectures </a>| 
+|STP205|<a href="https://www.youtube.com/watch?v=H_92psVTLYc" target="_blank">How Affirm leverages AWS to support a unified data lake </a>| 
+|STP206|<a href="https://www.youtube.com/watch?v=SzRl1Kzo4lE" target="_blank">Building the future of writing with AWS Lambda </a>| 
 |STP207|<a href="https://www.youtube.com/watch?v=ag1ysrnC0iM" target="_blank">How Coinbase handles incident management by leveraging AWS </a>| 
 |STP208|<a href="https://www.youtube.com/watch?v=Dg_ZuyqUV1M" target="_blank">How to build a company founded on engineering principles </a>| 
 |STP301|<a href="https://www.youtube.com/watch?v=gsGT0CYAPW4" target="_blank">Personal Capital: Lessons from a year with Amazon EKS </a>| 
@@ -735,28 +851,50 @@
 
 
 
-### Storage <a name="27"></a>
+### Storage <a name="31"></a>
 
 | ClassId |       |
 |-|-|
 |STG202|<a href="https://www.youtube.com/watch?v=iV2Tk6ApbVY" target="_blank">What's new in AWS file storage </a>| 
+|STG203-R2|<a href="https://www.youtube.com/watch?v=VUFX8W8bvjo" target="_blank">[REPEAT 2] What's new with Amazon S3 and Amazon S3 Glacier </a>| 
 |STG204-R1|<a href="https://www.youtube.com/watch?v=KAuS-ge_X7Y" target="_blank">Get your data to AWS: How to choose and use data migration services </a>| 
 |STG208|<a href="https://www.youtube.com/watch?v=7gNXfo5HZN8" target="_blank">Backup-and-restore and disaster-recovery solutions with AWS </a>| 
 |STG211|<a href="https://www.youtube.com/watch?v=NZVCyrHgEUI" target="_blank">How to use AWS storage for on-premises file-based applications </a>| 
 |STG213|<a href="https://www.youtube.com/watch?v=a-Qjd2baGQg" target="_blank">Storage for hybrid cloud and edge computing: Bring AWS to you </a>| 
 |STG214|<a href="https://www.youtube.com/watch?v=ZXf64YpiSY8" target="_blank">Data migration and edge computing with the AWS Snow family </a>| 
 |STG217|<a href="https://www.youtube.com/watch?v=J60yQRXwE3k" target="_blank">Shift your tape backups to AWS to save time and money </a>| 
+|STG238|<a href="https://www.youtube.com/watch?v=RJfF8aMrdyY" target="_blank">Deep dive: File storage for business-critical applications </a>| 
 |STG240-R2|<a href="https://www.youtube.com/watch?v=UPzsRk2lFWE" target="_blank">Guidelines and design patterns for optimizing cost in Amazon S3 </a>| 
 |STG302-R|<a href="https://www.youtube.com/watch?v=N_3IaOVcIO0" target="_blank">[REPEAT] Best practices for Amazon S3 (including storage classes) </a>| 
 |STG302-R1|<a href="https://www.youtube.com/watch?v=HT3QiuzgjZg" target="_blank">Best practices for Amazon S3, ft. Instructure </a>| 
+|STG302-R2|<a href="https://www.youtube.com/watch?v=mLV0GT2UVcs" target="_blank">Best practices for Amazon S3, ft. Thomson Reuters </a>| 
 |STG303-R1|<a href="https://www.youtube.com/watch?v=wsMWANWNoqQ" target="_blank">[REPEAT 1] Deep dive on Amazon EBS </a>| 
 |STG305-R|<a href="https://www.youtube.com/watch?v=xdTjJuEWe2k" target="_blank">[REPEAT] Build hybrid storage architectures with AWS Storage Gateway </a>| 
 |STG305-R1|<a href="https://www.youtube.com/watch?v=iGYNhNLFnJs" target="_blank">Build hybrid storage architectures with AWS Storage Gateway </a>| 
 |STG307-R1|<a href="https://www.youtube.com/watch?v=ZADHiZa3Hjo" target="_blank">Amazon S3 & FSx for Lustre: Dive on high-performance file storage </a>| 
 |STG333|<a href="https://www.youtube.com/watch?v=rWuuFfjOqZQ" target="_blank">Migrate and modernize SFTP file transfer workflows with AWS </a>| 
+|STG341|<a href="https://www.youtube.com/watch?v=av8DpL0uFjc" target="_blank">Deep dive on AWS Backup, ft. Rackspace </a>| 
+|STG343|<a href="https://www.youtube.com/watch?v=54AhwfME6wI" target="_blank">Optimize your storage performance with Amazon S3, ft. Lyft </a>| 
 |STG359-R|<a href="https://www.youtube.com/watch?v=bqGQBZNtx50" target="_blank">Implementing a data lake on Amazon S3 ft. Sweetgreen </a>| 
 |STG359-R1|<a href="https://www.youtube.com/watch?v=9MzaGFdPfg4" target="_blank">Implementing a data lake on Amazon S3 ft. AppsFlyer </a>| 
 |STG364|<a href="https://www.youtube.com/watch?v=cc_me0l0PfA" target="_blank">Securing Amazon EFS for container and data science applications </a>| 
+
+
+
+
+### Windows & .Net <a name="32"></a>
+
+| ClassId |       |
+|-|-|
+|WIN201-L|<a href="https://www.youtube.com/watch?v=Phm6J2sUC9w" target="_blank">Five new features of Microsoft and .NET on AWS that you want to learn </a>| 
+|WIN202-R1|<a href="https://www.youtube.com/watch?v=zBifSQ-kWTQ" target="_blank">[REPEAT 1] How to cost-optimize your Microsoft workloads on AWS </a>| 
+|WIN301-R1|<a href="https://www.youtube.com/watch?v=CxDRZ9aMvFk" target="_blank">[REPEAT 1] Modernizing Microsoft SQL Server on AWS </a>| 
+|WIN302|<a href="https://www.youtube.com/watch?v=yZ3JzqaqynI" target="_blank">Migrating Microsoft applications to AWS like an expert </a>| 
+|WIN308-R1|<a href="https://www.youtube.com/watch?v=UfPGdYbtDTg" target="_blank">[REPEAT 1] Developing serverless .NET Core on AWS </a>| 
+|WIN309|<a href="https://www.youtube.com/watch?v=GIH-MfkZPJA" target="_blank">Containerize .NET Apps with Amazon EKS and AWS Fargate </a>| 
+|WIN310|<a href="https://www.youtube.com/watch?v=cxaFQMWMs7g" target="_blank">Infrastructure as .NET with the AWS CDK </a>| 
+|WIN311|<a href="https://www.youtube.com/watch?v=jZxim5X5JHs" target="_blank">Start using AI/ML/DL in your .NET applications today </a>| 
+|WIN313-R1|<a href="https://www.youtube.com/watch?v=3bKMNJctnVk" target="_blank">[REPEAT 1] Design, migrate, and optimize SQL Server on AWS </a>| 
 
 
 
