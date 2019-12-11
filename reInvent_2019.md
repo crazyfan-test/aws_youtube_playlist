@@ -3,39 +3,40 @@
 
 ### Tracks
 
-* [Daily Recap](#0) (10 Videos)
-* [20-min Presentations](#1) (16 Videos)
-* [AWS Community](#2) (6 Videos)
-* [Alexa](#3) (5 Videos)
-* [Analytics](#4) (33 Videos)
-* [Architecture](#5) (22 Videos)
-* [Artificial Intelligence & Machine Learning](#6) (35 Videos)
-* [Breakout Sessions](#7) (2 Videos)
-* [Compute](#8) (22 Videos)
-* [Containers](#9) (17 Videos)
-* [Databases](#10) (34 Videos)
-* [DevOps](#11) (18 Videos)
-* [End User Computing & Business Apps](#12) (14 Videos)
-* [Enterprise](#13) (22 Videos)
-* [Financial Services](#14) (8 Videos)
-* [Global Partner Summit](#15) (26 Videos)
-* [IoT](#16) (22 Videos)
-* [Life Sciences](#17) (5 Videos)
-* [Management Tools & Governance](#18) (6 Videos)
-* [Manufacturing](#19) (7 Videos)
-* [Marketplace](#20) (6 Videos)
-* [Mobile](#21) (8 Videos)
-* [Netflix](#22) (5 Videos)
-* [Networking](#23) (17 Videos)
-* [Open Source](#24) (13 Videos)
-* [Public Sector](#25) (7 Videos)
-* [Robotics](#26) (5 Videos)
-* [Security, Compliance, and Identity](#27) (27 Videos)
-* [Serverless](#28) (20 Videos)
-* [Sponsorship](#29) (156 Videos)
-* [Startup](#30) (9 Videos)
-* [Storage](#31) (29 Videos)
-* [Windows & .Net](#32) (10 Videos)
+* [AWS re:Invent 2019](#0) (17 Videos)
+* [Daily Recap](#1) (10 Videos)
+* [20-min Presentations](#2) (16 Videos)
+* [AWS Community](#3) (6 Videos)
+* [Alexa](#4) (5 Videos)
+* [Analytics](#5) (33 Videos)
+* [Architecture](#6) (22 Videos)
+* [Artificial Intelligence & Machine Learning](#7) (35 Videos)
+* [Breakout Sessions](#8) (2 Videos)
+* [Compute](#9) (22 Videos)
+* [Containers](#10) (17 Videos)
+* [Databases](#11) (34 Videos)
+* [DevOps](#12) (18 Videos)
+* [End User Computing & Business Apps](#13) (14 Videos)
+* [Enterprise](#14) (22 Videos)
+* [Financial Services](#15) (8 Videos)
+* [Global Partner Summit](#16) (26 Videos)
+* [IoT](#17) (22 Videos)
+* [Life Sciences](#18) (5 Videos)
+* [Management Tools & Governance](#19) (6 Videos)
+* [Manufacturing](#20) (7 Videos)
+* [Marketplace](#21) (6 Videos)
+* [Mobile](#22) (8 Videos)
+* [Netflix](#23) (5 Videos)
+* [Networking](#24) (17 Videos)
+* [Open Source](#25) (13 Videos)
+* [Public Sector](#26) (7 Videos)
+* [Robotics](#27) (5 Videos)
+* [Security, Compliance, and Identity](#28) (27 Videos)
+* [Serverless](#29) (20 Videos)
+* [Sponsorship](#30) (156 Videos)
+* [Startup](#31) (9 Videos)
+* [Storage](#32) (29 Videos)
+* [Windows & .Net](#33) (10 Videos)
 
 
 
@@ -46,7 +47,32 @@
 ### Sessions
 
 
-### Daily Recap <a name="0"></a>
+### AWS re:Invent 2019 <a name="0"></a>
+
+| ClassId |       |
+|-|-|
+|---|<a href="https://www.youtube.com/watch?v=7-31KgImGgU" target="_blank">AWS re:Invent 2019 Keynote: Andy Jassy </a>| 
+|---|<a href="https://www.youtube.com/watch?v=OdzaTbaQwTg" target="_blank">AWS re:Invent 2019 Keynote: Werner Vogels </a>| 
+|---|<a href="https://www.youtube.com/watch?v=GPUWATKe15E" target="_blank">AWS re:Invent 2019 Keynote: Monday Night Live with Peter DeSantis </a>| 
+|---|<a href="https://www.youtube.com/watch?v=rTEGH-bc8FY" target="_blank">AWS re:Invent 2019 Keynote: Global Partner Keynote </a>| 
+|---|<a href="https://www.youtube.com/watch?v=2vdg_45HsTo" target="_blank">AWS DeepComposer - Jonathan Coulton Performance at </a>| 
+|---|<a href="https://www.youtube.com/watch?v=xL34jRhg6ME" target="_blank">AWS DeepRacer League Championship Cup Final 2019 </a>| 
+|---|<a href="https://www.youtube.com/watch?v=3yf-yEEdLGI" target="_blank">AWS and NFL Partner to Transform Player Health and Safety </a>| 
+|---|<a href="https://www.youtube.com/watch?v=XH2EbK9dQlg" target="_blank">Announcing AWS DeepComposer with Jonathan Coulton! </a>| 
+|---|<a href="https://www.youtube.com/watch?v=xgAPe9KBRxw" target="_blank">Daily Recap Episode 1 - Sunday </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Tn9ISQM8Ln0" target="_blank">Daily Recap Episode 2 - Monday </a>| 
+|---|<a href="https://www.youtube.com/watch?v=xxC55HTWPfc" target="_blank">Daily Recap Episode 3 - Tuesday </a>| 
+|---|<a href="https://www.youtube.com/watch?v=IUQG2MHOO-g" target="_blank">Daily Recap Episode 4 - Wednesday </a>| 
+|---|<a href="https://www.youtube.com/watch?v=gjJjtp4rCtM" target="_blank">Now Go Build with Werner Vogels EP8 – Amsterdam </a>| 
+|---|<a href="https://www.youtube.com/watch?v=LGkTttsx7vI" target="_blank">Recap Exclusives - Certification </a>| 
+|---|<a href="https://www.youtube.com/watch?v=xB2Bhft0yyw" target="_blank">Recap Exclusives - Tatonka Champion </a>| 
+|---|<a href="https://www.youtube.com/watch?v=eBX7lPk5qmA" target="_blank">Rob Smedley From Formula 1 Talks About Using AWS to Improve the Fan Experience </a>| 
+|---|<a href="https://www.youtube.com/watch?v=SV9ORK4E71s" target="_blank">Sebastien De Halleux of Saildrone Talks About Using AWS to Monitor Ocean Data </a>| 
+
+
+
+
+### Daily Recap <a name="1"></a>
 
 | ClassId |       |
 |-|-|
@@ -64,7 +90,7 @@
 
 
 
-### 20-min Presentations <a name="1"></a>
+### 20-min Presentations <a name="2"></a>
 
 | ClassId |       |
 |-|-|
@@ -88,7 +114,7 @@
 
 
 
-### AWS Community <a name="2"></a>
+### AWS Community <a name="3"></a>
 
 | ClassId |       |
 |-|-|
@@ -102,7 +128,7 @@
 
 
 
-### Alexa <a name="3"></a>
+### Alexa <a name="4"></a>
 
 | ClassId |       |
 |-|-|
@@ -115,7 +141,7 @@
 
 
 
-### Analytics <a name="4"></a>
+### Analytics <a name="5"></a>
 
 | ClassId |       |
 |-|-|
@@ -156,7 +182,7 @@
 
 
 
-### Architecture <a name="5"></a>
+### Architecture <a name="6"></a>
 
 | ClassId |       |
 |-|-|
@@ -186,7 +212,7 @@
 
 
 
-### Artificial Intelligence & Machine Learning <a name="6"></a>
+### Artificial Intelligence & Machine Learning <a name="7"></a>
 
 | ClassId |       |
 |-|-|
@@ -229,7 +255,7 @@
 
 
 
-### Breakout Sessions <a name="7"></a>
+### Breakout Sessions <a name="8"></a>
 
 | ClassId |       |
 |-|-|
@@ -239,7 +265,7 @@
 
 
 
-### Compute <a name="8"></a>
+### Compute <a name="9"></a>
 
 | ClassId |       |
 |-|-|
@@ -269,7 +295,7 @@
 
 
 
-### Containers <a name="9"></a>
+### Containers <a name="10"></a>
 
 | ClassId |       |
 |-|-|
@@ -294,7 +320,7 @@
 
 
 
-### Databases <a name="10"></a>
+### Databases <a name="11"></a>
 
 | ClassId |       |
 |-|-|
@@ -336,7 +362,7 @@
 
 
 
-### DevOps <a name="11"></a>
+### DevOps <a name="12"></a>
 
 | ClassId |       |
 |-|-|
@@ -362,7 +388,7 @@
 
 
 
-### End User Computing & Business Apps <a name="12"></a>
+### End User Computing & Business Apps <a name="13"></a>
 
 | ClassId |       |
 |-|-|
@@ -384,7 +410,7 @@
 
 
 
-### Enterprise <a name="13"></a>
+### Enterprise <a name="14"></a>
 
 | ClassId |       |
 |-|-|
@@ -414,7 +440,7 @@
 
 
 
-### Financial Services <a name="14"></a>
+### Financial Services <a name="15"></a>
 
 | ClassId |       |
 |-|-|
@@ -430,7 +456,7 @@
 
 
 
-### Global Partner Summit <a name="15"></a>
+### Global Partner Summit <a name="16"></a>
 
 | ClassId |       |
 |-|-|
@@ -464,7 +490,7 @@
 
 
 
-### IoT <a name="16"></a>
+### IoT <a name="17"></a>
 
 | ClassId |       |
 |-|-|
@@ -494,7 +520,7 @@
 
 
 
-### Life Sciences <a name="17"></a>
+### Life Sciences <a name="18"></a>
 
 | ClassId |       |
 |-|-|
@@ -507,7 +533,7 @@
 
 
 
-### Management Tools & Governance <a name="18"></a>
+### Management Tools & Governance <a name="19"></a>
 
 | ClassId |       |
 |-|-|
@@ -521,7 +547,7 @@
 
 
 
-### Manufacturing <a name="19"></a>
+### Manufacturing <a name="20"></a>
 
 | ClassId |       |
 |-|-|
@@ -536,7 +562,7 @@
 
 
 
-### Marketplace <a name="20"></a>
+### Marketplace <a name="21"></a>
 
 | ClassId |       |
 |-|-|
@@ -550,7 +576,7 @@
 
 
 
-### Mobile <a name="21"></a>
+### Mobile <a name="22"></a>
 
 | ClassId |       |
 |-|-|
@@ -566,7 +592,7 @@
 
 
 
-### Netflix <a name="22"></a>
+### Netflix <a name="23"></a>
 
 | ClassId |       |
 |-|-|
@@ -579,7 +605,7 @@
 
 
 
-### Networking <a name="23"></a>
+### Networking <a name="24"></a>
 
 | ClassId |       |
 |-|-|
@@ -604,7 +630,7 @@
 
 
 
-### Open Source <a name="24"></a>
+### Open Source <a name="25"></a>
 
 | ClassId |       |
 |-|-|
@@ -625,7 +651,7 @@
 
 
 
-### Public Sector <a name="25"></a>
+### Public Sector <a name="26"></a>
 
 | ClassId |       |
 |-|-|
@@ -640,7 +666,7 @@
 
 
 
-### Robotics <a name="26"></a>
+### Robotics <a name="27"></a>
 
 | ClassId |       |
 |-|-|
@@ -653,7 +679,7 @@
 
 
 
-### Security, Compliance, and Identity <a name="27"></a>
+### Security, Compliance, and Identity <a name="28"></a>
 
 | ClassId |       |
 |-|-|
@@ -688,7 +714,7 @@
 
 
 
-### Serverless <a name="28"></a>
+### Serverless <a name="29"></a>
 
 | ClassId |       |
 |-|-|
@@ -716,7 +742,7 @@
 
 
 
-### Sponsorship <a name="29"></a>
+### Sponsorship <a name="30"></a>
 
 | ClassId |       |
 |-|-|
@@ -880,7 +906,7 @@
 
 
 
-### Startup <a name="30"></a>
+### Startup <a name="31"></a>
 
 | ClassId |       |
 |-|-|
@@ -897,7 +923,7 @@
 
 
 
-### Storage <a name="31"></a>
+### Storage <a name="32"></a>
 
 | ClassId |       |
 |-|-|
@@ -934,7 +960,7 @@
 
 
 
-### Windows & .Net <a name="32"></a>
+### Windows & .Net <a name="33"></a>
 
 | ClassId |       |
 |-|-|
