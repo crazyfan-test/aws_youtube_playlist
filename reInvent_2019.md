@@ -10,7 +10,7 @@
 * [Alexa](#4) (5 Videos)
 * [Analytics](#5) (33 Videos)
 * [Architecture](#6) (23 Videos)
-* [Artificial Intelligence & Machine Learning](#7) (35 Videos)
+* [Artificial Intelligence & Machine Learning](#7) (43 Videos)
 * [Breakout Sessions](#8) (2 Videos)
 * [Compute](#9) (22 Videos)
 * [Containers](#10) (19 Videos)
@@ -24,7 +24,7 @@
 * [Life Sciences](#18) (5 Videos)
 * [Management Tools & Governance](#19) (8 Videos)
 * [Manufacturing](#20) (6 Videos)
-* [Marketplace](#21) (7 Videos)
+* [Marketplace](#21) (6 Videos)
 * [Mobile](#22) (8 Videos)
 * [Netflix](#23) (5 Videos)
 * [Networking](#24) (17 Videos)
@@ -252,6 +252,14 @@
 |AIM412-R1|<a href="https://www.youtube.com/watch?v=R7cMAXRY-os" target="_blank">Deep learning applications with PyTorch, featuring Freshworks </a>| 
 |AIM413|<a href="https://www.youtube.com/watch?v=gwsnXIA5RZs" target="_blank">Deep dive on Project Jupyter </a>| 
 |MLS201|<a href="https://www.youtube.com/watch?v=dQpHjk4DuY8" target="_blank">Machine Learning Summit </a>| 
+|MLS210-1|<a href="https://www.youtube.com/watch?v=qJQbiPJS9A4" target="_blank">How ML can Help Tailor Immunotherapies to Cancer Patients </a>| 
+|MLS210-2|<a href="https://www.youtube.com/watch?v=BKRN3tq_rSo" target="_blank">Deep learning for disaster management and response </a>| 
+|MLS210-3|<a href="https://www.youtube.com/watch?v=Z1v_aJfyKqA" target="_blank">AI will drive the industrial IoT to the cloud </a>| 
+|MLS210-4|<a href="https://www.youtube.com/watch?v=86Bf34a_d3I" target="_blank">Deep learning in deep nets: Helping fish farmers feed the world </a>| 
+|MLS210-5|<a href="https://www.youtube.com/watch?v=JVczId6jV-c" target="_blank">Deepfakes, audiofakes, and the future of media </a>| 
+|MLS210-6|<a href="https://www.youtube.com/watch?v=9fhk1WFGdpc" target="_blank">From seed to store: AI to optimize the indoor farms of the future </a>| 
+|MLS210-7|<a href="https://www.youtube.com/watch?v=-bElFt0vYms" target="_blank">Big data for tiny patients: Applying ML to pediatrics </a>| 
+|MLS210-8|<a href="https://www.youtube.com/watch?v=fme7fnIF-ls" target="_blank">Machine learning and society: Bias, fairness, and explainability </a>| 
 
 
 
@@ -575,7 +583,6 @@
 |MKT203-R|<a href="https://www.youtube.com/watch?v=UqgVESJc_yc" target="_blank">[REPEAT] Detect network and security anomalies with Traffic Mirroring </a>| 
 |MKT203-R1|<a href="https://www.youtube.com/watch?v=zd9n5I1s1Xo" target="_blank">Detect network and security anomalies with Traffic Mirroring </a>| 
 |MKT204|<a href="https://www.youtube.com/watch?v=aOgJpWMv_po" target="_blank">Automate your security on AWS </a>| 
-|MKT212|<a href="https://www.youtube.com/watch?v=juPltoD2eM8" target="_blank">Deep dive on using AWS Data Exchange for ML and data analytics </a>| 
 |MKT249-P|<a href="https://www.youtube.com/watch?v=iLOXaWpK6ag" target="_blank">Build ML-powered applications with speed </a>| 
 
 
