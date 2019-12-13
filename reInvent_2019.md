@@ -3,7 +3,7 @@
 
 ### Tracks
 
-* [AWS re:Invent 2019](#0) (17 Videos)
+* [AWS re:Invent 2019](#0) (18 Videos)
 * [Daily Recap](#1) (10 Videos)
 * [20-min Presentations](#2) (16 Videos)
 * [AWS Community](#3) (6 Videos)
@@ -12,19 +12,19 @@
 * [Architecture](#6) (23 Videos)
 * [Artificial Intelligence & Machine Learning](#7) (43 Videos)
 * [Breakout Sessions](#8) (2 Videos)
-* [Compute](#9) (22 Videos)
+* [Compute](#9) (23 Videos)
 * [Containers](#10) (19 Videos)
 * [Databases](#11) (34 Videos)
-* [DevOps](#12) (18 Videos)
+* [DevOps](#12) (19 Videos)
 * [End User Computing & Business Apps](#13) (14 Videos)
 * [Enterprise](#14) (22 Videos)
 * [Financial Services](#15) (8 Videos)
 * [Global Partner Summit](#16) (26 Videos)
 * [IoT](#17) (22 Videos)
 * [Life Sciences](#18) (5 Videos)
-* [Management Tools & Governance](#19) (8 Videos)
+* [Management Tools & Governance](#19) (9 Videos)
 * [Manufacturing](#20) (6 Videos)
-* [Marketplace](#21) (6 Videos)
+* [Marketplace](#21) (7 Videos)
 * [Mobile](#22) (8 Videos)
 * [Netflix](#23) (5 Videos)
 * [Networking](#24) (17 Videos)
@@ -35,7 +35,7 @@
 * [Serverless](#29) (20 Videos)
 * [Sponsorship](#30) (156 Videos)
 * [Startup](#31) (9 Videos)
-* [Storage](#32) (29 Videos)
+* [Storage](#32) (28 Videos)
 * [Windows & .Net](#33) (10 Videos)
 
 
@@ -63,6 +63,7 @@
 |---|<a href="https://www.youtube.com/watch?v=Tn9ISQM8Ln0" target="_blank">Daily Recap Episode 2 - Monday </a>| 
 |---|<a href="https://www.youtube.com/watch?v=xxC55HTWPfc" target="_blank">Daily Recap Episode 3 - Tuesday </a>| 
 |---|<a href="https://www.youtube.com/watch?v=IUQG2MHOO-g" target="_blank">Daily Recap Episode 4 - Wednesday </a>| 
+|---|<a href="https://www.youtube.com/watch?v=8kzOj9cStGo" target="_blank">Jeff Dowds of Vanguard Talks About the Journey to the AWS Cloud </a>| 
 |---|<a href="https://www.youtube.com/watch?v=gjJjtp4rCtM" target="_blank">Now Go Build with Werner Vogels EP8 – Amsterdam </a>| 
 |---|<a href="https://www.youtube.com/watch?v=LGkTttsx7vI" target="_blank">Recap Exclusives - Certification </a>| 
 |---|<a href="https://www.youtube.com/watch?v=xB2Bhft0yyw" target="_blank">Recap Exclusives - Tatonka Champion </a>| 
@@ -285,6 +286,7 @@
 |CMP210-R1|<a href="https://www.youtube.com/watch?v=uQ9ry-9uUvo" target="_blank">[REPEAT 1] Dive deep on how to save with AWS Savings Plans </a>| 
 |CMP211-R2|<a href="https://www.youtube.com/watch?v=kMMybKqC2Y0" target="_blank">[REPEAT 2] Amazon EC2 foundations </a>| 
 |CMP213-R|<a href="https://www.youtube.com/watch?v=BV9TZWuAwyk" target="_blank">[NEW LAUNCH!] [REPEAT] Introducing quantum computing with AWS </a>| 
+|CMP214-R1|<a href="https://www.youtube.com/watch?v=9XFuRq0R8nk" target="_blank">[NEW LAUNCH!] EC2 Image Builder: Virtual machine images made easy </a>| 
 |CMP220-P|<a href="https://www.youtube.com/watch?v=id0kOnY6wLw" target="_blank">Remote desktop and application streaming with NICE DCV </a>| 
 |CMP302-R1|<a href="https://www.youtube.com/watch?v=n7AWdZVCq7g" target="_blank">AWS Outposts: Extend the AWS experience to on-premises environments </a>| 
 |CMP302-R2|<a href="https://www.youtube.com/watch?v=8vNnkN7LX8s" target="_blank">AWS Outposts: Extend the AWS experience to on-premises environments </a>| 
@@ -392,6 +394,7 @@
 |DOP326|<a href="https://www.youtube.com/watch?v=o4clRJuH9xU" target="_blank">Deploy your code, scale, and lower cloud costs using Elastic Beanstalk </a>| 
 |DOP328|<a href="https://www.youtube.com/watch?v=VVQIiEOJVEY" target="_blank">Five lessons from principal engineers on building reliable services </a>| 
 |DOP342-R1|<a href="https://www.youtube.com/watch?v=KLxwhsJuZ44" target="_blank">[REPEAT 1] Amazon's approach to building resilient services </a>| 
+|DOP343-R|<a href="https://www.youtube.com/watch?v=U5y7JI_mHk8" target="_blank">[REPEAT] Introduction to the AWS CLI v2 </a>| 
 |DOP402-R1|<a href="https://www.youtube.com/watch?v=9As_ZIjUGmY" target="_blank">[REPEAT 1] Deep dive into AWS Cloud Development Kit </a>| 
 |DOP404-R1|<a href="https://www.youtube.com/watch?v=bCgD2bX1LI4" target="_blank">[REPEAT 1] Amazon's approach to high-availability deployment </a>| 
 |DOP408-R2|<a href="https://www.youtube.com/watch?v=pRGF7TidkNM" target="_blank">[REPEAT 2] What's new in AWS CloudFormation </a>| 
@@ -552,6 +555,7 @@
 |MGT220-P|<a href="https://www.youtube.com/watch?v=_PrFgbuEqLA" target="_blank">Centralize control & visualization of your multi-account environments </a>| 
 |MGT221-P|<a href="https://www.youtube.com/watch?v=pwxQAxqM8is" target="_blank">Application configuration as code </a>| 
 |MGT222-P|<a href="https://www.youtube.com/watch?v=MhHxEgCpCws" target="_blank">Developing resource providers with new AWS CloudFormation tools </a>| 
+|MGT301-R1|<a href="https://www.youtube.com/watch?v=nLYGbotqHd0" target="_blank">Cut through the chaos: Gain operational visibility and insight </a>| 
 |MGT302-R1|<a href="https://www.youtube.com/watch?v=GUMSgdB-l6s" target="_blank">Enable AWS adoption at scale with automation and governance </a>| 
 |MGT303-R1|<a href="https://www.youtube.com/watch?v=u8u9DXwNoIs" target="_blank">[REPEAT 1] How to ensure configuration compliance </a>| 
 |MGT304|<a href="https://www.youtube.com/watch?v=bGBVPIpQMYk" target="_blank">Automate everything: Options and best practices </a>| 
@@ -583,6 +587,7 @@
 |MKT203-R|<a href="https://www.youtube.com/watch?v=UqgVESJc_yc" target="_blank">[REPEAT] Detect network and security anomalies with Traffic Mirroring </a>| 
 |MKT203-R1|<a href="https://www.youtube.com/watch?v=zd9n5I1s1Xo" target="_blank">Detect network and security anomalies with Traffic Mirroring </a>| 
 |MKT204|<a href="https://www.youtube.com/watch?v=aOgJpWMv_po" target="_blank">Automate your security on AWS </a>| 
+|MKT212|<a href="https://www.youtube.com/watch?v=KgxTClsHSr4" target="_blank">Deep dive on using AWS Data Exchange for ML and data analytics </a>| 
 |MKT249-P|<a href="https://www.youtube.com/watch?v=iLOXaWpK6ag" target="_blank">Build ML-powered applications with speed </a>| 
 
 
@@ -952,7 +957,6 @@
 |STG302-R1|<a href="https://www.youtube.com/watch?v=HT3QiuzgjZg" target="_blank">Best practices for Amazon S3, ft. Instructure </a>| 
 |STG302-R2|<a href="https://www.youtube.com/watch?v=mLV0GT2UVcs" target="_blank">Best practices for Amazon S3, ft. Thomson Reuters </a>| 
 |STG303-R1|<a href="https://www.youtube.com/watch?v=wsMWANWNoqQ" target="_blank">[REPEAT 1] Deep dive on Amazon EBS </a>| 
-|STG304-R1|<a href="https://www.youtube.com/watch?v=D4IBQap7Brk" target="_blank">Network file system (NFS) evolved: Deep dive on Amazon EFS </a>| 
 |STG305-R|<a href="https://www.youtube.com/watch?v=xdTjJuEWe2k" target="_blank">[REPEAT] Build hybrid storage architectures with AWS Storage Gateway </a>| 
 |STG305-R1|<a href="https://www.youtube.com/watch?v=iGYNhNLFnJs" target="_blank">Build hybrid storage architectures with AWS Storage Gateway </a>| 
 |STG306-R1|<a href="https://www.youtube.com/watch?v=_x_Geur93oc" target="_blank">[REPEAT 1] Deep dive on Amazon FSx for Windows File Server </a>| 
