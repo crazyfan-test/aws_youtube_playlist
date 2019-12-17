@@ -3,7 +3,7 @@
 
 ### Tracks
 
-* [AWS re:Invent 2019](#0) (18 Videos)
+* [AWS re:Invent 2019](#0) (19 Videos)
 * [Daily Recap](#1) (10 Videos)
 * [20-min Presentations](#2) (16 Videos)
 * [AI & Machine Learning Summit](#3) (9 Videos)
@@ -26,18 +26,19 @@
 * [Management Tools & Governance](#20) (10 Videos)
 * [Manufacturing](#21) (6 Videos)
 * [Marketplace](#22) (7 Videos)
-* [Mobile](#23) (8 Videos)
-* [Netflix](#24) (5 Videos)
-* [Networking](#25) (17 Videos)
-* [Open Source](#26) (12 Videos)
-* [Public Sector](#27) (5 Videos)
-* [Robotics](#28) (5 Videos)
-* [Security, Compliance, and Identity](#29) (27 Videos)
-* [Serverless](#30) (20 Videos)
-* [Sponsorship](#31) (156 Videos)
-* [Startup](#32) (9 Videos)
-* [Storage](#33) (29 Videos)
-* [Windows & .Net](#34) (10 Videos)
+* [Media Solutions](#23) (3 Videos)
+* [Mobile](#24) (8 Videos)
+* [Netflix](#25) (5 Videos)
+* [Networking](#26) (17 Videos)
+* [Open Source](#27) (12 Videos)
+* [Public Sector](#28) (5 Videos)
+* [Robotics](#29) (5 Videos)
+* [Security, Compliance, and Identity](#30) (27 Videos)
+* [Serverless](#31) (20 Videos)
+* [Sponsorship](#32) (156 Videos)
+* [Startup](#33) (9 Videos)
+* [Storage](#34) (29 Videos)
+* [Windows & .Net](#35) (10 Videos)
 
 
 
@@ -64,6 +65,7 @@
 |---|<a href="https://www.youtube.com/watch?v=Tn9ISQM8Ln0" target="_blank">Daily Recap Episode 2 - Monday </a>| 
 |---|<a href="https://www.youtube.com/watch?v=xxC55HTWPfc" target="_blank">Daily Recap Episode 3 - Tuesday </a>| 
 |---|<a href="https://www.youtube.com/watch?v=IUQG2MHOO-g" target="_blank">Daily Recap Episode 4 - Wednesday </a>| 
+|---|<a href="https://www.youtube.com/watch?v=BCcujAcbi-8" target="_blank">Daphne Koller of insitro Talks About Using AWS to Transform Drug Development </a>| 
 |---|<a href="https://www.youtube.com/watch?v=8kzOj9cStGo" target="_blank">Jeff Dowds of Vanguard Talks About the Journey to the AWS Cloud </a>| 
 |---|<a href="https://www.youtube.com/watch?v=gjJjtp4rCtM" target="_blank">Now Go Build with Werner Vogels EP8 – Amsterdam </a>| 
 |---|<a href="https://www.youtube.com/watch?v=LGkTttsx7vI" target="_blank">Recap Exclusives - Certification </a>| 
@@ -411,7 +413,7 @@
 |DOP320-R1|<a href="https://www.youtube.com/watch?v=OO7hiIBQtc8" target="_blank">[REPEAT 1] Strategies for securing code in the cloud and on premises </a>| 
 |DOP321|<a href="https://www.youtube.com/watch?v=65Im9OvsT_0" target="_blank">Migrating .NET frameworks to the cloud </a>| 
 |DOP326|<a href="https://www.youtube.com/watch?v=o4clRJuH9xU" target="_blank">Deploy your code, scale, and lower cloud costs using Elastic Beanstalk </a>| 
-|DOP328|<a href="https://www.youtube.com/watch?v=VVQIiEOJVEY" target="_blank">Five lessons from principal engineers on building reliable services </a>| 
+|DOP328|<a href="https://www.youtube.com/watch?v=sKRdemSirDM" target="_blank">Introducing The Amazon Builders’ Library </a>| 
 |DOP342-R1|<a href="https://www.youtube.com/watch?v=KLxwhsJuZ44" target="_blank">[REPEAT 1] Amazon's approach to building resilient services </a>| 
 |DOP343-R|<a href="https://www.youtube.com/watch?v=U5y7JI_mHk8" target="_blank">[REPEAT] Introduction to the AWS CLI v2 </a>| 
 |DOP402-R1|<a href="https://www.youtube.com/watch?v=9As_ZIjUGmY" target="_blank">[REPEAT 1] Deep dive into AWS Cloud Development Kit </a>| 
@@ -613,7 +615,18 @@
 
 
 
-### Mobile <a name="23"></a>
+### Media Solutions <a name="23"></a>
+
+| ClassId |       |
+|-|-|
+|MDS202-R1|<a href="https://www.youtube.com/watch?v=XaDJHU4SJTI" target="_blank">[REPEAT 1] Optimizing live video feeds to the cloud and the consumer </a>| 
+|MDS303-R1|<a href="https://www.youtube.com/watch?v=JFVzXMf0fWQ" target="_blank">Evolution of personalization/recommendation for video workflows </a>| 
+|MDS313-R1|<a href="https://www.youtube.com/watch?v=cd40-l-6EmI" target="_blank">[REPEAT 1] Hotstar: Live streaming at record scale </a>| 
+
+
+
+
+### Mobile <a name="24"></a>
 
 | ClassId |       |
 |-|-|
@@ -629,7 +642,7 @@
 
 
 
-### Netflix <a name="24"></a>
+### Netflix <a name="25"></a>
 
 | ClassId |       |
 |-|-|
@@ -642,7 +655,7 @@
 
 
 
-### Networking <a name="25"></a>
+### Networking <a name="26"></a>
 
 | ClassId |       |
 |-|-|
@@ -667,7 +680,7 @@
 
 
 
-### Open Source <a name="26"></a>
+### Open Source <a name="27"></a>
 
 | ClassId |       |
 |-|-|
@@ -687,7 +700,7 @@
 
 
 
-### Public Sector <a name="27"></a>
+### Public Sector <a name="28"></a>
 
 | ClassId |       |
 |-|-|
@@ -700,7 +713,7 @@
 
 
 
-### Robotics <a name="28"></a>
+### Robotics <a name="29"></a>
 
 | ClassId |       |
 |-|-|
@@ -713,7 +726,7 @@
 
 
 
-### Security, Compliance, and Identity <a name="29"></a>
+### Security, Compliance, and Identity <a name="30"></a>
 
 | ClassId |       |
 |-|-|
@@ -748,7 +761,7 @@
 
 
 
-### Serverless <a name="30"></a>
+### Serverless <a name="31"></a>
 
 | ClassId |       |
 |-|-|
@@ -776,7 +789,7 @@
 
 
 
-### Sponsorship <a name="31"></a>
+### Sponsorship <a name="32"></a>
 
 | ClassId |       |
 |-|-|
@@ -940,7 +953,7 @@
 
 
 
-### Startup <a name="32"></a>
+### Startup <a name="33"></a>
 
 | ClassId |       |
 |-|-|
@@ -957,7 +970,7 @@
 
 
 
-### Storage <a name="33"></a>
+### Storage <a name="34"></a>
 
 | ClassId |       |
 |-|-|
@@ -994,7 +1007,7 @@
 
 
 
-### Windows & .Net <a name="34"></a>
+### Windows & .Net <a name="35"></a>
 
 | ClassId |       |
 |-|-|
