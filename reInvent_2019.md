@@ -14,7 +14,7 @@
 * [Artificial Intelligence & Machine Learning](#8) (44 Videos)
 * [Breakout Sessions](#9) (2 Videos)
 * [Compute](#10) (24 Videos)
-* [Containers](#11) (18 Videos)
+* [Containers](#11) (19 Videos)
 * [Databases](#12) (34 Videos)
 * [DevOps](#13) (19 Videos)
 * [End User Computing & Business Apps](#14) (14 Videos)
@@ -24,13 +24,13 @@
 * [IoT](#18) (22 Videos)
 * [Life Sciences](#19) (5 Videos)
 * [Management Tools & Governance](#20) (10 Videos)
-* [Manufacturing](#21) (6 Videos)
+* [Manufacturing](#21) (7 Videos)
 * [Marketplace](#22) (7 Videos)
 * [Media Solutions](#23) (3 Videos)
 * [Mobile](#24) (8 Videos)
 * [Netflix](#25) (5 Videos)
 * [Networking](#26) (17 Videos)
-* [Open Source](#27) (12 Videos)
+* [Open Source](#27) (13 Videos)
 * [Public Sector](#28) (5 Videos)
 * [Robotics](#29) (5 Videos)
 * [Security, Compliance, and Identity](#30) (27 Videos)
@@ -340,6 +340,7 @@
 |CON322-R1|<a href="https://www.youtube.com/watch?v=gNDi6l2tIws" target="_blank">[REPEAT 1] All in on AWS Fargate for high-security workloads </a>| 
 |CON323-R1|<a href="https://www.youtube.com/watch?v=h3syq1vbplE" target="_blank">[REPEAT 1] AWS App Mesh under the hood </a>| 
 |CON324-R1|<a href="https://www.youtube.com/watch?v=OpNBldEww0Q" target="_blank">[NEW LAUNCH!] [REPEAT 1] Cost Optimization with Containers and Spot </a>| 
+|CON325-R1|<a href="https://www.youtube.com/watch?v=v9xuKAdShFw" target="_blank">[NEW LAUNCH!] Enabling application-first thinking with Amazon ECS </a>| 
 |CON326-R1|<a href="https://www.youtube.com/watch?v=m-3tMXmWWQw" target="_blank">[NEW LAUNCH!] Running Kubernetes Applications on AWS Fargate </a>| 
 |CON327-R1|<a href="https://www.youtube.com/watch?v=BNl2vNpeHRA" target="_blank">Oversubscription at scale: Running tons of containers w/ Kubernetes </a>| 
 |CON328-R1|<a href="https://www.youtube.com/watch?v=O1NQrIm_4cg" target="_blank">[REPEAT 1] Improving observability of your containers </a>| 
@@ -404,7 +405,7 @@
 |DOP208-R1|<a href="https://www.youtube.com/watch?v=yQiRli2ZPxU" target="_blank">[REPEAT 1] Amazon’s approach to failing successfully </a>| 
 |DOP209-R1|<a href="https://www.youtube.com/watch?v=wugkTArXBYo" target="_blank">[REPEAT 1] Introduction to DevOps on AWS </a>| 
 |DOP210-L|<a href="https://www.youtube.com/watch?v=p9IybVJp5QM" target="_blank">Leadership Session: Developer Tools on AWS </a>| 
-|DOP211|<a href="https://www.youtube.com/watch?v=WYuo0bIZre0" target="_blank">[NEW LAUNCH!] Amazon CodeGuru: Automated code reviews </a>| 
+|DOP211|<a href="https://www.youtube.com/watch?v=WYuo0bIZre0" target="_blank">[NEW LAUNCH!] Introduction to Amazon CodeGuru </a>| 
 |DOP212|<a href="https://www.youtube.com/watch?v=DzQQVDVBiVQ" target="_blank">Best practices for building your business on AWS IQ </a>| 
 |DOP301-R1|<a href="https://www.youtube.com/watch?v=n1d20Yok000" target="_blank">Amazon's approach to running service-oriented organizations </a>| 
 |DOP302-R1|<a href="https://www.youtube.com/watch?v=bJHHQM7GGro" target="_blank">[REPEAT 1] Best practices for authoring AWS CloudFormation </a>| 
@@ -455,7 +456,7 @@
 |ENT214|<a href="https://www.youtube.com/watch?v=W_vPguyzx5U" target="_blank">Cloud migration in the face of data-center eviction </a>| 
 |ENT215|<a href="https://www.youtube.com/watch?v=jOUoNggMBvo" target="_blank">Five steps AMS leverages to accelerate cloud adoption </a>| 
 |ENT216|<a href="https://www.youtube.com/watch?v=TIFPIZWhP3E" target="_blank">Differentiation through innovation </a>| 
-|ENT218-R|<a href="https://www.youtube.com/watch?v=_RaA0fU1g2A" target="_blank">[REPEAT] Executing a large-scale migration to AWS </a>| 
+|ENT218-R|<a href="https://www.youtube.com/watch?v=D9tbD3WlgXU" target="_blank">[REPEAT] Executing a large-scale migration to AWS </a>| 
 |ENT218-R1|<a href="https://www.youtube.com/watch?v=wklWIjDL2Rw" target="_blank">[REPEAT 1] Executing a large-scale migration to AWS </a>| 
 |ENT224-R1|<a href="https://www.youtube.com/watch?v=2ZQKPUD7vKE" target="_blank">[REPEAT 1] Amazon culture of innovation </a>| 
 |ENT225|<a href="https://www.youtube.com/watch?v=P8_JRcgMhQY" target="_blank">The why, what & how of transforming and innovating with SAP solutions </a>| 
@@ -593,6 +594,7 @@
 |MFG201|<a href="https://www.youtube.com/watch?v=wyvDCUtf_5o" target="_blank">Optimizing Aerospace manufacturing operations & supply chain with AWS </a>| 
 |MFG202|<a href="https://www.youtube.com/watch?v=dlaEtd0oM2M" target="_blank">Building on AWS: The architecture of the Siemens MindSphere platform </a>| 
 |MFG203|<a href="https://www.youtube.com/watch?v=dczU1w1BiJk" target="_blank">Modernizing pharmaceutical manufacturing with IoT and AI/ML </a>| 
+|MFG204|<a href="https://www.youtube.com/watch?v=t9ED1BseanA" target="_blank">Volkswagen takes production to the cloud </a>| 
 |MFG205-L|<a href="https://www.youtube.com/watch?v=4WYoO52GW4M" target="_blank">Leadership session: From BI to AI at INVISTA </a>| 
 |MFG206-L|<a href="https://www.youtube.com/watch?v=RuRnhVj5hIo" target="_blank">Leadership session: AWS for the Semiconductor industry </a>| 
 |MFG304|<a href="https://www.youtube.com/watch?v=Gmc04Lqw_Po" target="_blank">Electronic design automation: Scaling EDA workflows </a>| 
@@ -686,6 +688,7 @@
 |-|-|
 |OPN201|<a href="https://www.youtube.com/watch?v=kZ66pI_d5WE" target="_blank">Change is coming to robotics development: The shift to ROS 2 </a>| 
 |OPN204|<a href="https://www.youtube.com/watch?v=Gr4VR2gvO9I" target="_blank">Secure your Open Distro for Elasticsearch cluster </a>| 
+|OPN205-R1|<a href="https://www.youtube.com/watch?v=LsYlf7ggyrY" target="_blank">[REPEAT 1] Contributing to the AWS Construct Library </a>| 
 |OPN207|<a href="https://www.youtube.com/watch?v=ZsEOhCOFOe4" target="_blank">PartiQL: One query language for all of your data </a>| 
 |OPN208-R2|<a href="https://www.youtube.com/watch?v=7aJItKmoeWo" target="_blank">[REPEAT 2] Building modern APIs with GraphQL </a>| 
 |OPN210|<a href="https://www.youtube.com/watch?v=LPE-Qg0JSPY" target="_blank">Using open source to re-architect monolithic applications </a>| 
