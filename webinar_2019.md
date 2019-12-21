@@ -3,30 +3,33 @@
 
 ### Tracks
 
-* [AR/VR](#0) (3 Videos)
-* [Application Integration](#1) (1 Videos)
-* [Blockchain](#2) (4 Videos)
-* [Compute](#3) (20 Videos)
-* [Containers](#4) (13 Videos)
-* [Customer Enablement](#5) (1 Videos)
-* [Data Lakes & Analytics](#6) (19 Videos)
-* [Databases](#7) (20 Videos)
-* [DevOps](#8) (10 Videos)
-* [End-User Computing](#9) (8 Videos)
-* [Enterprise](#10) (15 Videos)
-* [Industry Solutions](#11) (1 Videos)
-* [IoT](#12) (11 Videos)
-* [Machine Learning](#13) (26 Videos)
-* [Management Tools](#14) (3 Videos)
-* [Marketplace](#15) (3 Videos)
-* [Migration](#16) (6 Videos)
-* [Mobile](#17) (6 Videos)
-* [Networking & Content Delivery](#18) (10 Videos)
-* [Productivity & Business Solutions](#19) (4 Videos)
-* [Robotics](#20) (7 Videos)
-* [Security, Identity & Compliance](#21) (14 Videos)
-* [Serverless](#22) (14 Videos)
-* [Storage](#23) (15 Videos)
+* [AR/VR](#0) (5 Videos)
+* [AWS Marketplace](#1) (3 Videos)
+* [Application Integration](#2) (1 Videos)
+* [Blockchain](#3) (4 Videos)
+* [Compute](#4) (45 Videos)
+* [Containers](#5) (27 Videos)
+* [Customer Enablement](#6) (1 Videos)
+* [Customer Engagement](#7) (1 Videos)
+* [Data Lakes & Analytics](#8) (21 Videos)
+* [Databases](#9) (21 Videos)
+* [DevOps](#10) (10 Videos)
+* [End-User Computing](#11) (10 Videos)
+* [Enterprise & Hybrid](#12) (15 Videos)
+* [HPC Education](#13) (1 Videos)
+* [Industry Solutions](#14) (2 Videos)
+* [IoT](#15) (12 Videos)
+* [Machine Learning](#16) (27 Videos)
+* [Management Tools](#17) (9 Videos)
+* [Migration](#18) (6 Videos)
+* [Mobile](#19) (6 Videos)
+* [Networking & Content Delivery](#20) (11 Videos)
+* [Productivity & Business Solutions](#21) (4 Videos)
+* [Robotics](#22) (7 Videos)
+* [Security, Identity & Compliance](#23) (32 Videos)
+* [Series: Customer Showcase](#24) (3 Videos)
+* [Serverless](#25) (15 Videos)
+* [Storage](#26) (16 Videos)
 
 
 
@@ -44,11 +47,24 @@
 |02/28|<a href="https://www.youtube.com/watch?v=y6hHHy9z0Vo" target="_blank">Build AR/VR Apps with AWS: Creating a Multiplayer Game with Amazon Sumerian </a>| 
 |06/20|<a href="https://www.youtube.com/watch?v=4XEY_TgxkEI" target="_blank">Create a Digital Asset with Amazon Sumerian and AWS IoT </a>| 
 |10/30|<a href="https://www.youtube.com/watch?v=AlRhqQ7fmec" target="_blank">Using Physics in Your 3D Applications with Amazon Sumerian </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=suxDrzZEtkQ" target="_blank">Creating and Publishing AR, VR and 3D Applications with Amazon Sumerian </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=OGmy3E2kMok" target="_blank">How to Create a Chatbot Using Amazon Sumerian and Sumerian Hosts </a>| 
 
 
 
 
-### Application Integration <a name="1"></a>
+### AWS Marketplace <a name="1"></a>
+
+| Date |       |
+|-|-|
+|05/16|<a href="https://www.youtube.com/watch?v=xX2bz52yr4w" target="_blank">How to Build a Private Marketplace & Govern Software Provisioning with Speed </a>| 
+|09/30|<a href="https://www.youtube.com/watch?v=55o6yEK17CA" target="_blank">Advancing Software Procurement in a Containerized World </a>| 
+|11/18|<a href="https://www.youtube.com/watch?v=DyFuSxF5CUc" target="_blank">Introduction to Seller Private Offers </a>| 
+
+
+
+
+### Application Integration <a name="2"></a>
 
 | Date |       |
 |-|-|
@@ -57,7 +73,7 @@
 
 
 
-### Blockchain <a name="2"></a>
+### Blockchain <a name="3"></a>
 
 | Date |       |
 |-|-|
@@ -69,12 +85,12 @@
 
 
 
-### Compute <a name="3"></a>
+### Compute <a name="4"></a>
 
 | Date |       |
 |-|-|
-|02/21|<a href="https://www.youtube.com/watch?v=9pMJfOq_PsM" target="_blank">What's New in Amazon EC2 </a>| 
 |02/21|<a href="https://www.youtube.com/watch?v=l8bRhno-LEo" target="_blank">Deploy and Scale Your First Cloud Application with Amazon Lightsail </a>| 
+|02/21|<a href="https://www.youtube.com/watch?v=9pMJfOq_PsM" target="_blank">What's New in Amazon EC2 </a>| 
 |03/26|<a href="https://www.youtube.com/watch?v=sNT5PstZpS8" target="_blank">Technical Deep Dive: Running Amazon EC2 Workloads at Scale </a>| 
 |03/27|<a href="https://www.youtube.com/watch?v=Cnn3BYsE6ug" target="_blank">Introduction to AWS Outposts </a>| 
 |03/28|<a href="https://www.youtube.com/watch?v=OqfH8LnsnWw" target="_blank">Deep Dive on OpenMPI and Elastic Fabric Adapter (EFA) </a>| 
@@ -93,11 +109,36 @@
 |10/24|<a href="https://www.youtube.com/watch?v=8rAvNbCJ7M0" target="_blank">Computational Fluid Dynamics on AWS </a>| 
 |10/29|<a href="https://www.youtube.com/watch?v=cAOqcvUQ_WM" target="_blank">Monitoring Your .NET and SQL Server Applications on Amazon EC2 </a>| 
 |10/31|<a href="https://www.youtube.com/watch?v=EKLJE4oKgSU" target="_blank">Optimize Your Costs with AWS Compute Pricing Options </a>| 
+|12/16|<a href="https://www.youtube.com/watch?v=b5Ojn2BLRA4" target="_blank">Identify Optimal EC2 Instance Type Using AWS Compute Optimizer </a>| 
+|12/18|<a href="https://www.youtube.com/watch?v=CV3HOybhr90" target="_blank">New! AWS Outposts: Get Started in 3 Simple Steps </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=58YLszT2Ay8" target="_blank">Developing Deep Learning Models for Computer Vision w/ Amazon EC2 P3 Instances - AWS Tech Talks </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=O4uw7eIVrZs" target="_blank">Save up to 90% on CI/CD Workloads with Amazon EC2 Spot Instances </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=sDOlj-j5RZg" target="_blank">Using Amazon Lightsail to Create a Database </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=S1Vf4orJqcw" target="_blank">Running Cost Effective Batch Workloads w/ AWS Batch & Amazon EC2 Spot Instances </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=wEDbGYnsqAg" target="_blank">Hybrid Cloud Customer Use Cases on AWS: Part 2 </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=EmW0C6QPujE" target="_blank">Introducing New Amazon EC2 T3 Instances </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=ja_xYQU8hVg" target="_blank">Accelerating Product Development with HPC on AWS </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=pamsb-g6m94" target="_blank">High Performance Computing on AWS </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=QX3PDkOqXLE" target="_blank">Technical Deep Dive on Amazon EC2 Fleet </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=HeTuYfoXWik" target="_blank">Accelerate Machine Learning Workloads Using Amazon EC2 P3 Instances </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=fy8jomT8Hzc" target="_blank">Ensuring Your Windows Server Workloads Are Well-Architected </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=Pr7HQFZpTx0" target="_blank">Accelerating Containerized Workloads with Amazon EC2 Spot Instances </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=fscMSO_vQ7o" target="_blank">Accelerating Life Sciences with HPC on AWS </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=ljJlxccq-xg" target="_blank">Creating and Managing a WordPress Website with Amazon Lightsail </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=FyY_Lyc5Ddg" target="_blank">Best Practices for Running Amazon EC2 Spot Instances with Amazon EMR </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=z5M-ahXYu3o" target="_blank">Deep Dive on Amazon EC2 Accelerated Computing </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=DH7NJcG2jak" target="_blank">How to Bring Microsoft Apps to AWS </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=m7xTGuDVVsw" target="_blank">High Performance Computing in the Cloud </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=cu6uZp-qBt4" target="_blank">Introduction to Microsoft Workloads on AWS </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=By8y9HFUGPM" target="_blank">Building High Availability Apps on Lightsail: Load Balancing and Block Storage </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=AwxXL2-zDbI" target="_blank">Building an Immersive VR Streaming Solution on AWS </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=eWFEJmsddV0" target="_blank">The Nitro Project: Next-Generation EC2 Infrastructure </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=7tp9lZK8ZD4" target="_blank">Introducing the New Simplified Access Model for EC2 Spot Instances </a>| 
 
 
 
 
-### Containers <a name="4"></a>
+### Containers <a name="5"></a>
 
 | Date |       |
 |-|-|
@@ -114,11 +155,25 @@
 |08/22|<a href="https://www.youtube.com/watch?v=9gq1jZsLYUM" target="_blank">The Power of 'And': Leveraging Lambda and Containers in Your Modern Applications </a>| 
 |09/26|<a href="https://www.youtube.com/watch?v=184S7ki6fJA" target="_blank">Develop a Web App Using Amazon ECS and AWS Cloud Development Kit (CDK) </a>| 
 |11/19|<a href="https://www.youtube.com/watch?v=HaT9Yc1g170" target="_blank">AWS Container Logging Deep Dive: FireLens, Fluentd, and Fluent Bit </a>| 
+|12/16|<a href="https://www.youtube.com/watch?v=HkBleSbYu4k" target="_blank">Using Fargate Spot to Optimize Costs for Serverless Containers </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=9k2APeq0ORM" target="_blank">Running Kubernetes on AWS Fargate </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=u1XmPdc3rc4" target="_blank">Introduction to AWS App Mesh </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=Alw8Gyw_Zqk" target="_blank">Monitor the World: Meaningful Metrics for Containerized Apps and Clusters </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=42wH1nRKPT0" target="_blank">Customer Showcase: How 99designs Used AWS Fargate to Manage their Containerized Application </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=1xdEp-FR7lM" target="_blank">Scaling a Containerized Application Seamlessly with AWS Fargate </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=CarajwQKKFs" target="_blank">How Talroo Used AWS Fargate to Improve their Application Scaling </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=TZRpWhFAXX0" target="_blank">Distributed Tracing for Kubernetes Applications on AWS </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=x7lQGc-x7II" target="_blank">How Harry's Shaved Off Their Operational Overhead by Moving to AWS Fargate </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=77RW-R6GkVk" target="_blank">Moving your Containers to Amazon EKS </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=2SxKKDXKrXQ" target="_blank">Building Microservices with the 12 Factor App Pattern on AWS </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=WLD7wqJzKEw" target="_blank">New Features for Building Powerful Containerized Microservices on AWS </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=wrZvlJlcZio" target="_blank">Introducing AWS Fargate </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=rV_NCvs9iGE" target="_blank">Running Kubernetes with Amazon EKS </a>| 
 
 
 
 
-### Customer Enablement <a name="5"></a>
+### Customer Enablement <a name="6"></a>
 
 | Date |       |
 |-|-|
@@ -127,7 +182,16 @@
 
 
 
-### Data Lakes & Analytics <a name="6"></a>
+### Customer Engagement <a name="7"></a>
+
+| Date |       |
+|-|-|
+|12/17|<a href="https://www.youtube.com/watch?v=zBxJJwR3klE" target="_blank">Omnichannel Contact Center: Unifying Voice and Chat </a>| 
+
+
+
+
+### Data Lakes & Analytics <a name="8"></a>
 
 | Date |       |
 |-|-|
@@ -150,11 +214,13 @@
 |10/23|<a href="https://www.youtube.com/watch?v=kQwuYPQ1Yl8" target="_blank">Practical Tips for Migrating Your IBM Netezza Data Warehouse to the Cloud </a>| 
 |10/31|<a href="https://www.youtube.com/watch?v=_ZGBcwkJI2A" target="_blank">Alert on Your Log Data with Amazon Elasticsearch Service </a>| 
 |11/21|<a href="https://www.youtube.com/watch?v=BuYuBuLPjGo" target="_blank">Combining All AWS Analytics Services Around a Data Lake </a>| 
+|12/16|<a href="https://www.youtube.com/watch?v=7nwzXKdux44" target="_blank">Amazon Athena New Preview Features: Federated Query, User-Defined Functions, and Embedded ML </a>| 
+|12/19|<a href="https://www.youtube.com/watch?v=rJvyemm-orQ" target="_blank">Amazon Redshift Reimagined: RA3 and AQUA </a>| 
 
 
 
 
-### Databases <a name="7"></a>
+### Databases <a name="9"></a>
 
 | Date |       |
 |-|-|
@@ -178,11 +244,12 @@
 |11/18|<a href="https://www.youtube.com/watch?v=_Yaq4KDD3tg" target="_blank">Getting Started with Migrating Data Online to Fully-Managed Amazon ElastiCache </a>| 
 |11/22|<a href="https://www.youtube.com/watch?v=3Lsim9M8h-I" target="_blank">Deploy Managed Databases On Premises with Amazon RDS on VMware </a>| 
 |11/26|<a href="https://www.youtube.com/watch?v=DqTiS-EJTXY" target="_blank">How Amazon.com Broke Free from Oracle - AWS Fireside Chat </a>| 
+|12/17|<a href="https://www.youtube.com/watch?v=tseqO-SJQu0" target="_blank">What's New in Amazon Aurora </a>| 
 
 
 
 
-### DevOps <a name="8"></a>
+### DevOps <a name="10"></a>
 
 | Date |       |
 |-|-|
@@ -200,7 +267,7 @@
 
 
 
-### End-User Computing <a name="9"></a>
+### End-User Computing <a name="11"></a>
 
 | Date |       |
 |-|-|
@@ -212,11 +279,13 @@
 |08/29|<a href="https://www.youtube.com/watch?v=ZpEoBlU036c" target="_blank">Easily Move to Windows 10 with Amazon WorkSpaces </a>| 
 |10/24|<a href="https://www.youtube.com/watch?v=ciLOLmXvx2o" target="_blank">Why Software Vendors Are Choosing Application Streaming Instead of Rewriting Their Desktop Apps </a>| 
 |10/29|<a href="https://www.youtube.com/watch?v=sNEjcFYOBRE" target="_blank">Move Your Desktops and Apps to AWS End-User Computing </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=UFaFZhON-Wo" target="_blank">How to Use Amazon Linux WorkSpaces for Agile Development </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=cqHkBfk1ugI" target="_blank">Work Without Workstations with AppStream 2.0 </a>| 
 
 
 
 
-### Enterprise <a name="10"></a>
+### Enterprise & Hybrid <a name="12"></a>
 
 | Date |       |
 |-|-|
@@ -239,16 +308,26 @@
 
 
 
-### Industry Solutions <a name="11"></a>
+### HPC Education <a name="13"></a>
+
+| Date |       |
+|-|-|
+|12/16|<a href="https://www.youtube.com/watch?v=FEIkzg72D5s" target="_blank">Launch a Thousand Core HPC Cluster in Minutes with AWS CfnCluster </a>| 
+
+
+
+
+### Industry Solutions <a name="14"></a>
 
 | Date |       |
 |-|-|
 |07/23|<a href="https://www.youtube.com/watch?v=o7AtlN1baaw" target="_blank">Healthcare Data Interoperability with the AWS Cloud </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=Bujv_cVru0s" target="_blank">Tape-to-Cloud Media Migration Walkthrough </a>| 
 
 
 
 
-### IoT <a name="12"></a>
+### IoT <a name="15"></a>
 
 | Date |       |
 |-|-|
@@ -263,11 +342,12 @@
 |09/25|<a href="https://www.youtube.com/watch?v=fZxhtlOmvmE" target="_blank">Complex Monitoring for Industrial with AWS IoT Data Services </a>| 
 |10/30|<a href="https://www.youtube.com/watch?v=kgXYO5Iqklo" target="_blank">Connected Devices at Scale: A Deep Dive into the AWS Smart Product Solution </a>| 
 |11/21|<a href="https://www.youtube.com/watch?v=IngLSd39yYU" target="_blank">Driving Overall Equipment Effectiveness (OEE) Across Your Industrial Facilities </a>| 
+|12/18|<a href="https://www.youtube.com/watch?v=f5xF7CWbrsY" target="_blank">What's New with AWS IoT </a>| 
 
 
 
 
-### Machine Learning <a name="13"></a>
+### Machine Learning <a name="16"></a>
 
 | Date |       |
 |-|-|
@@ -297,33 +377,29 @@
 |10/29|<a href="https://www.youtube.com/watch?v=BXBLc5YYTHg" target="_blank">AI-Powered Health Data Masking </a>| 
 |11/18|<a href="https://www.youtube.com/watch?v=WiCougIDRsw" target="_blank">Deploying Cost-Effective Deep Learning Inference </a>| 
 |11/22|<a href="https://www.youtube.com/watch?v=XtzmRwlfP9w" target="_blank">Anomaly Detection Using Machine Learning with Amazon SageMaker </a>| 
+|12/19|<a href="https://www.youtube.com/watch?v=8M016w0hzt8" target="_blank">Transforming Healthcare with AI </a>| 
 
 
 
 
-### Management Tools <a name="14"></a>
+### Management Tools <a name="17"></a>
 
 | Date |       |
 |-|-|
 |03/29|<a href="https://www.youtube.com/watch?v=_lnp6IN_W6Q" target="_blank">Deep Dive on Inventory Management and Configuration Compliance in AWS </a>| 
 |08/27|<a href="https://www.youtube.com/watch?v=1oZGakvhPWY" target="_blank">Observability with Containers: Deep Dive with Amazon CloudWatch and AWS X-Ray </a>| 
 |11/21|<a href="https://www.youtube.com/watch?v=HuVZqx8IHd4" target="_blank">How to Detect and Mitigate Guardrail Violations with AWS Control Tower </a>| 
+|12/17|<a href="https://www.youtube.com/watch?v=OD8H63C0E0I" target="_blank">Automate Code Reviews and Application Performance Recommendations with Amazon CodeGuru </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=IyOfVxjDq6k" target="_blank">Implementing Governance & Compliance in Multi-Account, Multi-Region Scenario </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=qd49Ahonhq4" target="_blank">Automated Windows and Linux Patching </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=1Ck_me4azMw" target="_blank">Gaining Better Observability of Your VMs with Amazon CloudWatch </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=S8BddpQCXUM" target="_blank">Optimizing Application Performance and Costs with Auto Scaling </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=4paIhD2VzKA" target="_blank">Achieving Global Consistency Using AWS CloudFormation StackSets </a>| 
 
 
 
 
-### Marketplace <a name="15"></a>
-
-| Date |       |
-|-|-|
-|05/16|<a href="https://www.youtube.com/watch?v=xX2bz52yr4w" target="_blank">How to Build a Private Marketplace & Govern Software Provisioning with Speed </a>| 
-|09/30|<a href="https://www.youtube.com/watch?v=55o6yEK17CA" target="_blank">Advancing Software Procurement in a Containerized World </a>| 
-|11/18|<a href="https://www.youtube.com/watch?v=DyFuSxF5CUc" target="_blank">Introduction to Seller Private Offers </a>| 
-
-
-
-
-### Migration <a name="16"></a>
+### Migration <a name="18"></a>
 
 | Date |       |
 |-|-|
@@ -337,7 +413,7 @@
 
 
 
-### Mobile <a name="17"></a>
+### Mobile <a name="19"></a>
 
 | Date |       |
 |-|-|
@@ -351,7 +427,7 @@
 
 
 
-### Networking & Content Delivery <a name="18"></a>
+### Networking & Content Delivery <a name="20"></a>
 
 | Date |       |
 |-|-|
@@ -365,11 +441,12 @@
 |08/22|<a href="https://www.youtube.com/watch?v=A_2qq9fFxVU" target="_blank">AWS Transit Gateway Reference Architectures for Many Amazon VPCs </a>| 
 |09/25|<a href="https://www.youtube.com/watch?v=ybXqv1rUeHk" target="_blank">Building Highly Available and Performant Applications using AWS Global Accelerator </a>| 
 |10/04|<a href="https://www.youtube.com/watch?v=cIZvZMZD8_o" target="_blank">AWS Office Hours: Amazon CloudFront </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=xjH7GI95Pgg" target="_blank">Introduction to AWS Transit Gateway Network Manager </a>| 
 
 
 
 
-### Productivity & Business Solutions <a name="19"></a>
+### Productivity & Business Solutions <a name="21"></a>
 
 | Date |       |
 |-|-|
@@ -381,7 +458,7 @@
 
 
 
-### Robotics <a name="20"></a>
+### Robotics <a name="22"></a>
 
 | Date |       |
 |-|-|
@@ -396,7 +473,7 @@
 
 
 
-### Security, Identity & Compliance <a name="21"></a>
+### Security, Identity & Compliance <a name="23"></a>
 
 | Date |       |
 |-|-|
@@ -414,11 +491,40 @@
 |10/01|<a href="https://www.youtube.com/watch?v=gAWKu33Mvb0" target="_blank">Deep Dive on Running Active Directory on AWS </a>| 
 |10/29|<a href="https://www.youtube.com/watch?v=w-zbsmpi7vw" target="_blank">Using AWS Firewall Manager to Manage VPC Security Groups </a>| 
 |11/21|<a href="https://www.youtube.com/watch?v=7eC5eUVt_VI" target="_blank">Scale Permissions Management in AWS Using Attribute-Based Access Control </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=o0NDi01YPXs" target="_blank">Introduction to AWS Security Hub </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=PcK-hG6LvBw" target="_blank">AWS Office Hours: Amazon GuardDuty Tips and Tricks </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=ydrcyy1nrQM" target="_blank">Getting to Know AWS Secrets Manager </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=LChSrke5U2o" target="_blank">Threat Response Scenarios Using Amazon GuardDuty </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=Zrnro4ohXdA" target="_blank">Enhanced Security Analytics Using AWS WAF Full Logging </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=eLQIVLTALDk" target="_blank">Automate Threat Mitigation Using AWS WAF and Amazon GuardDuty </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=jysDM2L1IN4" target="_blank">Get Started with Well-Architected Security Best Practices </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=4P_J3OiH42g" target="_blank">Using Amazon Inspector to Discover Potential Security Issues </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=Y3Gn_iP3FlE" target="_blank">Understanding AWS Secrets Manager </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=nDDBcP-iiSs" target="_blank">Introducing AWS Certificate Manager Private Certificate Authority (CA) </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=1nir_Mdy3bQ" target="_blank">Introducing AWS Firewall Manager </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=f7RB6k7cP6k" target="_blank">Amazon GuardDuty - Let's Attack My Account! </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=WI4EVgShkn0" target="_blank">Protect Your Game Servers from DDoS Attacks </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=113PCU8Ef6s" target="_blank">Navigating GDPR Compliance on AWS </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=2apSeOjDwZo" target="_blank">The Evolution of Identity and Access Management on AWS </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=Ygq4u0B0rF0" target="_blank">How to Secure Sensitive Customer Data Using Amazon CloudFront </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=o2YaIsps5LY" target="_blank">Deep Dive on Amazon GuardDuty </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=8jyhsnh0ALQ" target="_blank">Deep Dive on AWS Single Sign-On </a>| 
 
 
 
 
-### Serverless <a name="22"></a>
+### Series: Customer Showcase <a name="24"></a>
+
+| Date |       |
+|-|-|
+|01/25|<a href="https://www.youtube.com/watch?v=Nqt_JDan7oc" target="_blank">Customer Showcase: How Dow Jones Uses AWS to Create a Secure Perimeter Around Its Web Properties </a>| 
+|01/25|<a href="https://www.youtube.com/watch?v=5m8oFxH_Ryk" target="_blank">Customer Showcase: Taking Serverless to the Edge </a>| 
+|06/20|<a href="https://www.youtube.com/watch?v=7EcMBKI4BpU" target="_blank">Customer Showcase: Extending Machine Learning to Industrial IoT Applications at the Edge </a>| 
+
+
+
+
+### Serverless <a name="25"></a>
 
 | Date |       |
 |-|-|
@@ -436,11 +542,12 @@
 |10/02|<a href="https://www.youtube.com/watch?v=28B4L1fnnGM" target="_blank">Deep Dive on Amazon EventBridge </a>| 
 |10/21|<a href="https://www.youtube.com/watch?v=lKbeBBV1gyc" target="_blank">Advanced Serverless Orchestration with AWS Step Functions </a>| 
 |10/31|<a href="https://www.youtube.com/watch?v=JCqpS2RuayM" target="_blank">Managing Serverless Applications with SAM Templates </a>| 
+|12/20|<a href="https://www.youtube.com/watch?v=dgj9cvqgYYs" target="_blank">Using Relational Databases with AWS Lambda - Easy Connection Pooling </a>| 
 
 
 
 
-### Storage <a name="23"></a>
+### Storage <a name="26"></a>
 
 | Date |       |
 |-|-|
@@ -459,6 +566,7 @@
 |10/23|<a href="https://www.youtube.com/watch?v=jx2OqfAoalQ" target="_blank">Reduce File Storage TCO with Amazon EFS and Amazon FSx for Windows File Server </a>| 
 |11/22|<a href="https://www.youtube.com/watch?v=4elbexkByFQ" target="_blank">What's New with AWS Storage </a>| 
 |11/25|<a href="https://www.youtube.com/watch?v=-0-jujMLw6Y" target="_blank">Configuring and Managing Amazon S3 Replication </a>| 
+|12/19|<a href="https://www.youtube.com/watch?v=VS9OzJclhDk" target="_blank">What's New with Amazon S3 </a>| 
 
 
 
