@@ -7,38 +7,48 @@
 * [Daily Recap](#1) (10 Videos)
 * [20-min Presentations](#2) (16 Videos)
 * [AI & Machine Learning Summit](#3) (9 Videos)
-* [AWS Community](#4) (6 Videos)
-* [Alexa](#5) (5 Videos)
-* [Analytics](#6) (33 Videos)
-* [Architecture](#7) (23 Videos)
-* [Artificial Intelligence & Machine Learning](#8) (44 Videos)
-* [Breakout Sessions](#9) (2 Videos)
-* [Compute](#10) (24 Videos)
-* [Containers](#11) (19 Videos)
-* [Databases](#12) (34 Videos)
-* [DevOps](#13) (19 Videos)
-* [End User Computing & Business Apps](#14) (14 Videos)
-* [Enterprise](#15) (22 Videos)
-* [Financial Services](#16) (8 Videos)
-* [Global Partner Summit](#17) (26 Videos)
-* [IoT](#18) (22 Videos)
-* [Life Sciences](#19) (5 Videos)
-* [Management Tools & Governance](#20) (10 Videos)
-* [Manufacturing](#21) (7 Videos)
-* [Marketplace](#22) (7 Videos)
-* [Media Solutions](#23) (3 Videos)
-* [Mobile](#24) (8 Videos)
-* [Netflix](#25) (5 Videos)
-* [Networking](#26) (17 Videos)
-* [Open Source](#27) (13 Videos)
-* [Public Sector](#28) (5 Videos)
-* [Robotics](#29) (5 Videos)
-* [Security, Compliance, and Identity](#30) (27 Videos)
-* [Serverless](#31) (20 Videos)
-* [Sponsorship](#32) (156 Videos)
-* [Startup](#33) (9 Videos)
-* [Storage](#34) (29 Videos)
-* [Windows & .Net](#35) (10 Videos)
+* [AR/VR](#4) (3 Videos)
+* [AWS Community](#5) (6 Videos)
+* [Advertising and Marketing](#6) (3 Videos)
+* [Alexa](#7) (5 Videos)
+* [Amazon.com](#8) (3 Videos)
+* [Analytics](#9) (34 Videos)
+* [Architecture](#10) (23 Videos)
+* [Artificial Intelligence & Machine Learning](#11) (46 Videos)
+* [Automotive](#12) (3 Videos)
+* [Blockchain](#13) (4 Videos)
+* [Breakout Sessions](#14) (2 Videos)
+* [Compute](#15) (24 Videos)
+* [Containers](#16) (20 Videos)
+* [Databases](#17) (34 Videos)
+* [DevOps](#18) (19 Videos)
+* [End User Computing & Business Apps](#19) (14 Videos)
+* [Enterprise](#20) (22 Videos)
+* [Financial Services](#21) (8 Videos)
+* [Games/GameTech](#22) (4 Videos)
+* [Global Partner Summit](#23) (26 Videos)
+* [Healthcare](#24) (3 Videos)
+* [IoT](#25) (22 Videos)
+* [Life Sciences](#26) (5 Videos)
+* [Management Tools & Governance](#27) (10 Videos)
+* [Manufacturing](#28) (7 Videos)
+* [Marketplace](#29) (7 Videos)
+* [Media Solutions](#30) (5 Videos)
+* [Mobile](#31) (8 Videos)
+* [Netflix](#32) (5 Videos)
+* [Networking](#33) (17 Videos)
+* [Open Source](#34) (13 Videos)
+* [Public Sector](#35) (5 Videos)
+* [Retail](#36) (4 Videos)
+* [Robotics](#37) (5 Videos)
+* [Security, Compliance, and Identity](#38) (27 Videos)
+* [Serverless](#39) (20 Videos)
+* [Sponsorship](#40) (156 Videos)
+* [Startup](#41) (9 Videos)
+* [Storage](#42) (30 Videos)
+* [Telecom](#43) (4 Videos)
+* [We Power Tech](#44) (4 Videos)
+* [Windows & .Net](#45) (10 Videos)
 
 
 
@@ -135,7 +145,18 @@
 
 
 
-### AWS Community <a name="4"></a>
+### AR/VR <a name="4"></a>
+
+| ClassId |       |
+|-|-|
+|ARV201-R1|<a href="https://www.youtube.com/watch?v=SCW5EGM2OmU" target="_blank">[REPEAT 1] Create 3D web apps with AWS </a>| 
+|ARV203|<a href="https://www.youtube.com/watch?v=JC3YitPgl7E" target="_blank">Create digital twins using AWS IoT Core and Amazon Sumerian </a>| 
+|ARV204-R1|<a href="https://www.youtube.com/watch?v=pS0lvm6Aky0" target="_blank">[REPEAT 1] Create augmented reality experiences with AWS </a>| 
+
+
+
+
+### AWS Community <a name="5"></a>
 
 | ClassId |       |
 |-|-|
@@ -149,7 +170,18 @@
 
 
 
-### Alexa <a name="5"></a>
+### Advertising and Marketing <a name="6"></a>
+
+| ClassId |       |
+|-|-|
+|ADM201-L|<a href="https://www.youtube.com/watch?v=aSsEfm3fk0g" target="_blank">Leadership session: Digital marketing and ad technology </a>| 
+|ADM203|<a href="https://www.youtube.com/watch?v=QmMJ_PMTH3U" target="_blank">Reimagining advertising analytics & identity resolution at scale </a>| 
+|ADM302-R1|<a href="https://www.youtube.com/watch?v=FKgivdwzO5g" target="_blank">End-to-end machine learning using Spark and Amazon SageMaker </a>| 
+
+
+
+
+### Alexa <a name="7"></a>
 
 | ClassId |       |
 |-|-|
@@ -162,7 +194,18 @@
 
 
 
-### Analytics <a name="6"></a>
+### Amazon.com <a name="8"></a>
+
+| ClassId |       |
+|-|-|
+|AMZ301|<a href="https://www.youtube.com/watch?v=N9XZ1VXEnp4" target="_blank">Amazon.com: Enterprise database migration at scale </a>| 
+|AMZ304|<a href="https://www.youtube.com/watch?v=nNfmvrS5vEE" target="_blank">Prime Video: Processing analytics at petabyte scale </a>| 
+|AMZ305|<a href="https://www.youtube.com/watch?v=VMSCBZZXiGI" target="_blank">Building a virtual fob with Amazon Key for Business and AWS IoT </a>| 
+
+
+
+
+### Analytics <a name="9"></a>
 
 | ClassId |       |
 |-|-|
@@ -172,6 +215,7 @@
 |ANT207-R1|<a href="https://www.youtube.com/watch?v=V8yaocQZpr0" target="_blank">Simplifying and modernizing home search at Compass with Amazon ES </a>| 
 |ANT213-R|<a href="https://www.youtube.com/watch?v=JtBxTe1jU_U" target="_blank">[REPEAT] State-of-the-art cloud data warehousing, featuring Comcast </a>| 
 |ANT213-R1|<a href="https://www.youtube.com/watch?v=40hG-QL5-Hk" target="_blank">State-of-the-art cloud data warehousing, featuring Asurion </a>| 
+|ANT217|<a href="https://www.youtube.com/watch?v=8m3iJayTpxI" target="_blank">Embedding analytics into applications with Amazon QuickSight </a>| 
 |ANT218-R1|<a href="https://www.youtube.com/watch?v=Wk9Hf4cwUFM" target="_blank">[REPEAT 1] Data lakes and data integration with AWS Lake Formation </a>| 
 |ANT229|<a href="https://www.youtube.com/watch?v=8OIbomasiN8" target="_blank">[NEW LAUNCH!] Introducing UltraWarm for Amazon Elasticsearch Service </a>| 
 |ANT230|<a href="https://www.youtube.com/watch?v=6pZrE_tveLI" target="_blank">[NEW LAUNCH!] Amazon Redshift reimagined: RA3 and AQUA </a>| 
@@ -203,7 +247,7 @@
 
 
 
-### Architecture <a name="7"></a>
+### Architecture <a name="10"></a>
 
 | ClassId |       |
 |-|-|
@@ -234,7 +278,7 @@
 
 
 
-### Artificial Intelligence & Machine Learning <a name="8"></a>
+### Artificial Intelligence & Machine Learning <a name="11"></a>
 
 | ClassId |       |
 |-|-|
@@ -249,6 +293,7 @@
 |AIM215-R|<a href="https://www.youtube.com/watch?v=mKVZukgtkcA" target="_blank">[NEW LAUNCH!] Amazon SageMaker Autopilot: Auto-generate ML models </a>| 
 |AIM216-R|<a href="https://www.youtube.com/watch?v=x-HoZLdUOyU" target="_blank">[NEW LAUNCH!] Amazon SageMaker Debugger: Insights into ML model </a>| 
 |AIM216-R1|<a href="https://www.youtube.com/watch?v=S8907xvgGso" target="_blank">[NEW LAUNCH!] Amazon SageMaker Debugger: Insights into ML model </a>| 
+|AIM218-L|<a href="https://www.youtube.com/watch?v=dIMweqd3vlc" target="_blank">Leadership session: Machine learning </a>| 
 |AIM230-R1|<a href="https://www.youtube.com/watch?v=K59N25u4zak" target="_blank">[NEW LAUNCH!] New Amazon SageMaker notebook experience </a>| 
 |AIM232|<a href="https://www.youtube.com/watch?v=Kqv6HpsOfUQ" target="_blank">Media discovery and compliance with Amazon Rekognition </a>| 
 |AIM240-P|<a href="https://www.youtube.com/watch?v=Q6IajUU6DsI" target="_blank">What can you build with AI? No ML experience required </a>| 
@@ -258,6 +303,7 @@
 |AIM308|<a href="https://www.youtube.com/watch?v=6WJxzKsIFKA" target="_blank">Build accurate training datasets with Amazon SageMaker Ground Truth </a>| 
 |AIM311-R1|<a href="https://www.youtube.com/watch?v=vRB9Uncsia8" target="_blank">The right instance type in Amazon SageMaker, ft. Texas Instruments </a>| 
 |AIM312|<a href="https://www.youtube.com/watch?v=81_jcZc2lNM" target="_blank">Predict future business outcomes using Amazon Forecast </a>| 
+|AIM313-R1|<a href="https://www.youtube.com/watch?v=sZ1KR8k8j1c" target="_blank">[REPEAT 1] Adding computer vision to your applications </a>| 
 |AIM322-R1|<a href="https://www.youtube.com/watch?v=ZkPQtjETrBw" target="_blank">[REPEAT 1] Fraud: How to detect and prevent it using ML </a>| 
 |AIM323|<a href="https://www.youtube.com/watch?v=XCE3PnGb3As" target="_blank">Delight your customers with ML-based personalized recommendations </a>| 
 |AIM325-R|<a href="https://www.youtube.com/watch?v=FzdeBDCd0kQ" target="_blank">[NEW LAUNCH!] Amazon Augmented AI for human review of ML predictions </a>| 
@@ -286,7 +332,30 @@
 
 
 
-### Breakout Sessions <a name="9"></a>
+### Automotive <a name="12"></a>
+
+| ClassId |       |
+|-|-|
+|AUT305|<a href="https://www.youtube.com/watch?v=XPILFr7Bikk" target="_blank">Alexa, where's my car? Test driving AWS connected vehicle solution 2.0 </a>| 
+|AUT306|<a href="https://www.youtube.com/watch?v=9fH3y5p8ewE" target="_blank">Creating a data-driven, cloud-native ecosystem at BMW Group </a>| 
+|AUT307|<a href="https://www.youtube.com/watch?v=tujQ9cvls04" target="_blank">Navigating the winding road toward driverless mobility </a>| 
+
+
+
+
+### Blockchain <a name="13"></a>
+
+| ClassId |       |
+|-|-|
+|BLC203|<a href="https://www.youtube.com/watch?v=TMQuN0eqPck" target="_blank">Why you need a ledger database: BMW, DVLA, & Sage discuss use cases </a>| 
+|BLC204|<a href="https://www.youtube.com/watch?v=UxroP6xf9ZM" target="_blank">Enterprise solutions with blockchain: Nestlé, Sony Music, & Workday </a>| 
+|BLC301-R|<a href="https://www.youtube.com/watch?v=oCqEtoL_-J0" target="_blank">[REPEAT] Dive deep into Managed Blockchain </a>| 
+|BLC301-R1|<a href="https://www.youtube.com/watch?v=WndmiQOAoXk" target="_blank">[REPEAT 1] Dive deep into Managed Blockchain </a>| 
+
+
+
+
+### Breakout Sessions <a name="14"></a>
 
 | ClassId |       |
 |-|-|
@@ -296,11 +365,11 @@
 
 
 
-### Compute <a name="10"></a>
+### Compute <a name="15"></a>
 
 | ClassId |       |
 |-|-|
-|CMP201-L|<a href="https://www.youtube.com/watch?v=Cqa1BHos1sg" target="_blank">Leadership session: What’s new in compute? </a>| 
+|CMP201-L|<a href="https://www.youtube.com/watch?v=Z7orZl5A2_o" target="_blank">Leadership session: What’s new in compute? </a>| 
 |CMP202-R1|<a href="https://www.youtube.com/watch?v=_dvh4P2FVbw" target="_blank">Better, faster, cheaper compute: Cost-optimizing Amazon EC2 </a>| 
 |CMP203|<a href="https://www.youtube.com/watch?v=h1nC5mWiU7I" target="_blank">Studio in the cloud: Content production on AWS </a>| 
 |CMP204-R1|<a href="https://www.youtube.com/watch?v=g70bvcGlPY4" target="_blank">[REPEAT 1] HPC on AWS: Innovating without infrastructure constraints </a>| 
@@ -328,7 +397,7 @@
 
 
 
-### Containers <a name="11"></a>
+### Containers <a name="16"></a>
 
 | ClassId |       |
 |-|-|
@@ -336,6 +405,7 @@
 |CON213-L|<a href="https://www.youtube.com/watch?v=IcXjZMRSCcU" target="_blank">Using containers & serverless to accelerate application development </a>| 
 |CON217|<a href="https://www.youtube.com/watch?v=IQdUeq9dkKQ" target="_blank">Roadmaps for containers, application networking & Amazon Linux at AWS </a>| 
 |CON218|<a href="https://www.youtube.com/watch?v=YMO1NuEGXfk" target="_blank">How Amazon Lex uses Amazon ECS to process batches at scale </a>| 
+|CON235-P|<a href="https://www.youtube.com/watch?v=n_rRb8u1GSM" target="_blank">Cloud-native machine learning at Lyft with AWS Batch and Amazon EKS </a>| 
 |CON306-R1|<a href="https://www.youtube.com/watch?v=ULlqukKVKBo" target="_blank">Building machine-learning infrastructure on Amazon EKS with Kubeflow </a>| 
 |CON322-R1|<a href="https://www.youtube.com/watch?v=gNDi6l2tIws" target="_blank">[REPEAT 1] All in on AWS Fargate for high-security workloads </a>| 
 |CON323-R1|<a href="https://www.youtube.com/watch?v=h3syq1vbplE" target="_blank">[REPEAT 1] AWS App Mesh under the hood </a>| 
@@ -355,7 +425,7 @@
 
 
 
-### Databases <a name="12"></a>
+### Databases <a name="17"></a>
 
 | ClassId |       |
 |-|-|
@@ -397,7 +467,7 @@
 
 
 
-### DevOps <a name="13"></a>
+### DevOps <a name="18"></a>
 
 | ClassId |       |
 |-|-|
@@ -424,7 +494,7 @@
 
 
 
-### End User Computing & Business Apps <a name="14"></a>
+### End User Computing & Business Apps <a name="19"></a>
 
 | ClassId |       |
 |-|-|
@@ -446,7 +516,7 @@
 
 
 
-### Enterprise <a name="15"></a>
+### Enterprise <a name="20"></a>
 
 | ClassId |       |
 |-|-|
@@ -465,7 +535,7 @@
 |ENT231|<a href="https://www.youtube.com/watch?v=yHzJw007oO8" target="_blank">How to go from zero to hundreds of certified AWS engineers </a>| 
 |ENT236|<a href="https://www.youtube.com/watch?v=cWeMp2qnRB0" target="_blank">Best practices to become data-driven with AWS </a>| 
 |ENT237|<a href="https://www.youtube.com/watch?v=Eggzu48L11o" target="_blank">Transform your enterprise using AWS experience-based accelerators </a>| 
-|ENT241|<a href="https://www.youtube.com/watch?v=RGXB4rkkcXc" target="_blank">How ENGIE, HP & SAP itself are transforming their SAP solutions </a>| 
+|ENT241|<a href="https://www.youtube.com/watch?v=rcDp5awfESQ" target="_blank">How ENGIE, HP & SAP itself are transforming their SAP solutions </a>| 
 |ENT267-P|<a href="https://www.youtube.com/watch?v=zRYVdHHEtGA" target="_blank">AWS & sustainability: Unlocking impact at scale </a>| 
 |ENT307-R1|<a href="https://www.youtube.com/watch?v=JWwnz4uw2PI" target="_blank">[REPEAT 1] Strategies and tools to migrate hundreds of applications </a>| 
 |ENT317|<a href="https://www.youtube.com/watch?v=Ip2YpcGCcaA" target="_blank">Inside story of Phillips 66 SAP S/4HANA business transformation </a>| 
@@ -476,7 +546,7 @@
 
 
 
-### Financial Services <a name="16"></a>
+### Financial Services <a name="21"></a>
 
 | ClassId |       |
 |-|-|
@@ -492,7 +562,19 @@
 
 
 
-### Global Partner Summit <a name="17"></a>
+### Games/GameTech <a name="22"></a>
+
+| ClassId |       |
+|-|-|
+|GAM301|<a href="https://www.youtube.com/watch?v=U-NsVcDKU0Y" target="_blank">How Rovio teaches Angry Birds to fly in the cloud using ML </a>| 
+|GAM302|<a href="https://www.youtube.com/watch?v=IlB3xfMXn0w" target="_blank">How CAPCOM builds fun games fast with containers, data, and ML </a>| 
+|GAM303|<a href="https://www.youtube.com/watch?v=ir33m9RJxs0" target="_blank">How Call of Duty uses ML to personalize player engagement </a>| 
+|GAM304|<a href="https://www.youtube.com/watch?v=2eEKuK5eOC4" target="_blank">Migrating the live Pokémon database to Aurora PostgreSQL </a>| 
+
+
+
+
+### Global Partner Summit <a name="23"></a>
 
 | ClassId |       |
 |-|-|
@@ -526,7 +608,18 @@
 
 
 
-### IoT <a name="18"></a>
+### Healthcare <a name="24"></a>
+
+| ClassId |       |
+|-|-|
+|HLC201-L|<a href="https://www.youtube.com/watch?v=jPE4HuHRHsE" target="_blank">Healthcare leadership: Data-driven care for individuals & populations </a>| 
+|HLC307|<a href="https://www.youtube.com/watch?v=ulk2XwXh6MM" target="_blank">Creating a personalized digital front door for Healthcare patients </a>| 
+|HLC308|<a href="https://www.youtube.com/watch?v=Ie7wZ4ixDLE" target="_blank">Healthcare data interoperability on AWS </a>| 
+
+
+
+
+### IoT <a name="25"></a>
 
 | ClassId |       |
 |-|-|
@@ -556,7 +649,7 @@
 
 
 
-### Life Sciences <a name="19"></a>
+### Life Sciences <a name="26"></a>
 
 | ClassId |       |
 |-|-|
@@ -569,7 +662,7 @@
 
 
 
-### Management Tools & Governance <a name="20"></a>
+### Management Tools & Governance <a name="27"></a>
 
 | ClassId |       |
 |-|-|
@@ -587,7 +680,7 @@
 
 
 
-### Manufacturing <a name="21"></a>
+### Manufacturing <a name="28"></a>
 
 | ClassId |       |
 |-|-|
@@ -602,7 +695,7 @@
 
 
 
-### Marketplace <a name="22"></a>
+### Marketplace <a name="29"></a>
 
 | ClassId |       |
 |-|-|
@@ -617,18 +710,20 @@
 
 
 
-### Media Solutions <a name="23"></a>
+### Media Solutions <a name="30"></a>
 
 | ClassId |       |
 |-|-|
 |MDS202-R1|<a href="https://www.youtube.com/watch?v=XaDJHU4SJTI" target="_blank">[REPEAT 1] Optimizing live video feeds to the cloud and the consumer </a>| 
+|MDS301|<a href="https://www.youtube.com/watch?v=aZO1mgD9yJI" target="_blank">WarnerMedia/HBO’s cloud-based linear playout system </a>| 
 |MDS303-R1|<a href="https://www.youtube.com/watch?v=JFVzXMf0fWQ" target="_blank">Evolution of personalization/recommendation for video workflows </a>| 
+|MDS311-R1|<a href="https://www.youtube.com/watch?v=om7Yk59mE5Q" target="_blank">[REPEAT 1] Live broadcasting on AWS </a>| 
 |MDS313-R1|<a href="https://www.youtube.com/watch?v=cd40-l-6EmI" target="_blank">[REPEAT 1] Hotstar: Live streaming at record scale </a>| 
 
 
 
 
-### Mobile <a name="24"></a>
+### Mobile <a name="31"></a>
 
 | ClassId |       |
 |-|-|
@@ -644,7 +739,7 @@
 
 
 
-### Netflix <a name="25"></a>
+### Netflix <a name="32"></a>
 
 | ClassId |       |
 |-|-|
@@ -657,7 +752,7 @@
 
 
 
-### Networking <a name="26"></a>
+### Networking <a name="33"></a>
 
 | ClassId |       |
 |-|-|
@@ -682,7 +777,7 @@
 
 
 
-### Open Source <a name="27"></a>
+### Open Source <a name="34"></a>
 
 | ClassId |       |
 |-|-|
@@ -703,7 +798,7 @@
 
 
 
-### Public Sector <a name="28"></a>
+### Public Sector <a name="35"></a>
 
 | ClassId |       |
 |-|-|
@@ -716,7 +811,19 @@
 
 
 
-### Robotics <a name="29"></a>
+### Retail <a name="36"></a>
+
+| ClassId |       |
+|-|-|
+|RET202-L|<a href="https://www.youtube.com/watch?v=rHdpPHheY9M" target="_blank">AI/ML drives CPG transformation & customer engagement </a>| 
+|RET203-L|<a href="https://www.youtube.com/watch?v=UMFgLDk4nwQ" target="_blank">Leadership session: Born from retail, built for retailers </a>| 
+|RET204|<a href="https://www.youtube.com/watch?v=4Y3ddj06OOs" target="_blank">Deckers Brands & Kmart Australia's approaches to retail transformation </a>| 
+|RET205|<a href="https://www.youtube.com/watch?v=p2TMxAS6T_A" target="_blank">How rue21 & Kimberly-Clark use analytics to lead customer journeys </a>| 
+
+
+
+
+### Robotics <a name="37"></a>
 
 | ClassId |       |
 |-|-|
@@ -729,7 +836,7 @@
 
 
 
-### Security, Compliance, and Identity <a name="30"></a>
+### Security, Compliance, and Identity <a name="38"></a>
 
 | ClassId |       |
 |-|-|
@@ -764,7 +871,7 @@
 
 
 
-### Serverless <a name="31"></a>
+### Serverless <a name="39"></a>
 
 | ClassId |       |
 |-|-|
@@ -792,7 +899,7 @@
 
 
 
-### Sponsorship <a name="32"></a>
+### Sponsorship <a name="40"></a>
 
 | ClassId |       |
 |-|-|
@@ -920,7 +1027,7 @@
 |IOT215-S|<a href="https://www.youtube.com/watch?v=Li2TcbKZHWQ" target="_blank">Harness the full potential of your IoT data </a>| 
 |IOT216-S|<a href="https://www.youtube.com/watch?v=XawVbJnqz6o" target="_blank">The circular supply chain, and the drive for sustainability </a>| 
 |IOT217-S|<a href="https://www.youtube.com/watch?v=i7IFBSpVbxw" target="_blank">Making the CASE: Cloud-based innovation in the automotive industry </a>| 
-|MDS203-S|<a href="https://www.youtube.com/watch?v=JcAUOZnvxjg" target="_blank">Cultures of belonging: Workplace diversity, equity, & inclusion </a>| 
+|MDS203-S|<a href="https://www.youtube.com/watch?v=HhoCwdnar0M" target="_blank">Cultures of belonging: Workplace diversity, equity, & inclusion </a>| 
 |MGT203-S|<a href="https://www.youtube.com/watch?v=T64UQqD_BeE" target="_blank">Simple path to AWS Managed Services (AMS) </a>| 
 |MGT204-S|<a href="https://www.youtube.com/watch?v=3pFkDTXfj08" target="_blank">Cox Automotive uses PagerDuty to speed up DevOps & cloud innovation </a>| 
 |MGT205-S|<a href="https://www.youtube.com/watch?v=nHDCJx894xA" target="_blank">Finding the signal in the noise when running cloud-native apps </a>| 
@@ -956,7 +1063,7 @@
 
 
 
-### Startup <a name="33"></a>
+### Startup <a name="41"></a>
 
 | ClassId |       |
 |-|-|
@@ -973,10 +1080,11 @@
 
 
 
-### Storage <a name="34"></a>
+### Storage <a name="42"></a>
 
 | ClassId |       |
 |-|-|
+|STG201-L|<a href="https://www.youtube.com/watch?v=39vAsGi6eEI" target="_blank">Leadership session: Storage state of the union </a>| 
 |STG202|<a href="https://www.youtube.com/watch?v=iV2Tk6ApbVY" target="_blank">What's new in AWS file storage </a>| 
 |STG203-R2|<a href="https://www.youtube.com/watch?v=VUFX8W8bvjo" target="_blank">[REPEAT 2] What's new with Amazon S3 and Amazon S3 Glacier </a>| 
 |STG204-R1|<a href="https://www.youtube.com/watch?v=KAuS-ge_X7Y" target="_blank">Get your data to AWS: How to choose and use data migration services </a>| 
@@ -1010,7 +1118,31 @@
 
 
 
-### Windows & .Net <a name="35"></a>
+### Telecom <a name="43"></a>
+
+| ClassId |       |
+|-|-|
+|TLC205-L|<a href="https://www.youtube.com/watch?v=psHBBjtedew" target="_blank">Leadership session: Join T-Mobile in a rapid cloud-native journey </a>| 
+|TLC303|<a href="https://www.youtube.com/watch?v=7Vsvfjvx48k" target="_blank">How Vodafone's Intelligent Care platform utilizes AWS </a>| 
+|TLC304|<a href="https://www.youtube.com/watch?v=6T8Gah36oKQ" target="_blank">Zero to cloud: BT’s CCOE challenges, solutions, and patterns </a>| 
+|TLC305|<a href="https://www.youtube.com/watch?v=2uUfs2y6tz8" target="_blank">Industry 4.0 with mobile edge network services powered by AWS Outposts </a>| 
+
+
+
+
+### We Power Tech <a name="44"></a>
+
+| ClassId |       |
+|-|-|
+|WPT201|<a href="https://www.youtube.com/watch?v=1lHef3a-3is" target="_blank">We Power Tech: The importance of inclusive design </a>| 
+|WPT202|<a href="https://www.youtube.com/watch?v=ATly5iqxAWo" target="_blank">We Power Tech: Promoting fairness in AI/ML </a>| 
+|WPT203|<a href="https://www.youtube.com/watch?v=81YyX1A2CSA" target="_blank">We Power Tech: In diversity and inclusion, details matter </a>| 
+|WPT204|<a href="https://www.youtube.com/watch?v=qjMCH7dLvw0" target="_blank">We Power Tech: Women shifting to an abundance mindset </a>| 
+
+
+
+
+### Windows & .Net <a name="45"></a>
 
 | ClassId |       |
 |-|-|
