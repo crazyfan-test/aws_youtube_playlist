@@ -3,7 +3,7 @@
 
 ### Tracks
 
-* [AWS re:Invent 2019](#0) (19 Videos)
+* [AWS re:Invent 2019](#0) (22 Videos)
 * [Daily Recap](#1) (10 Videos)
 * [20-min Presentations](#2) (16 Videos)
 * [AI & Machine Learning Summit](#3) (9 Videos)
@@ -69,13 +69,16 @@
 |---|<a href="https://www.youtube.com/watch?v=rTEGH-bc8FY" target="_blank">AWS re:Invent 2019 Keynote: Global Partner Keynote </a>| 
 |---|<a href="https://www.youtube.com/watch?v=2vdg_45HsTo" target="_blank">AWS DeepComposer - Jonathan Coulton Performance at </a>| 
 |---|<a href="https://www.youtube.com/watch?v=xL34jRhg6ME" target="_blank">AWS DeepRacer League Championship Cup Final 2019 </a>| 
-|---|<a href="https://www.youtube.com/watch?v=3yf-yEEdLGI" target="_blank">AWS and NFL Partner to Transform Player Health and Safety </a>| 
-|---|<a href="https://www.youtube.com/watch?v=XH2EbK9dQlg" target="_blank">Announcing AWS DeepComposer with Jonathan Coulton! </a>| 
+|---|<a href="https://www.youtube.com/watch?v=XH2EbK9dQlg" target="_blank">Announcing AWS DeepComposer with Dr. Matt Wood, feat. Jonathan Coulton </a>| 
+|---|<a href="https://www.youtube.com/watch?v=3IkFlKo8YAY" target="_blank">Brent Shafer of Cerner Talks About Using AWS to Transform Healthcare </a>| 
+|---|<a href="https://www.youtube.com/watch?v=Lym4N5i14vw" target="_blank">Christopher Cerruto of Avis Budget Group Talks About Cloud Transformation </a>| 
 |---|<a href="https://www.youtube.com/watch?v=xgAPe9KBRxw" target="_blank">Daily Recap Episode 1 - Sunday </a>| 
 |---|<a href="https://www.youtube.com/watch?v=Tn9ISQM8Ln0" target="_blank">Daily Recap Episode 2 - Monday </a>| 
 |---|<a href="https://www.youtube.com/watch?v=xxC55HTWPfc" target="_blank">Daily Recap Episode 3 - Tuesday </a>| 
 |---|<a href="https://www.youtube.com/watch?v=IUQG2MHOO-g" target="_blank">Daily Recap Episode 4 - Wednesday </a>| 
 |---|<a href="https://www.youtube.com/watch?v=BCcujAcbi-8" target="_blank">Daphne Koller of insitro Talks About Using AWS to Transform Drug Development </a>| 
+|---|<a href="https://www.youtube.com/watch?v=D2wr8TcSe5Y" target="_blank">Dr. Martin Hofmann of Volkswagen Talks about Using AWS for Its Industrial Cloud </a>| 
+|---|<a href="https://www.youtube.com/watch?v=ha6duyoEPJc" target="_blank">Hans Vestberg of Verizon Talks About Collaborating With AWS on 5G </a>| 
 |---|<a href="https://www.youtube.com/watch?v=8kzOj9cStGo" target="_blank">Jeff Dowds of Vanguard Talks About the Journey to the AWS Cloud </a>| 
 |---|<a href="https://www.youtube.com/watch?v=gjJjtp4rCtM" target="_blank">Now Go Build with Werner Vogels EP8 – Amsterdam </a>| 
 |---|<a href="https://www.youtube.com/watch?v=LGkTttsx7vI" target="_blank">Recap Exclusives - Certification </a>| 
