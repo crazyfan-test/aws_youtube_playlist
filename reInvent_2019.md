@@ -15,7 +15,7 @@
 * [Analytics](#9) (34 Videos)
 * [Architecture](#10) (23 Videos)
 * [Artificial Intelligence & Machine Learning](#11) (46 Videos)
-* [Automotive](#12) (3 Videos)
+* [Automotive](#12) (4 Videos)
 * [Blockchain](#13) (4 Videos)
 * [Breakout Sessions](#14) (2 Videos)
 * [Compute](#15) (24 Videos)
@@ -339,6 +339,7 @@
 
 | ClassId |       |
 |-|-|
+|AUT202-L|<a href="https://www.youtube.com/watch?v=ESydY2RYUe0" target="_blank">Leadership session: Automotive industry innovation in the cloud </a>| 
 |AUT305|<a href="https://www.youtube.com/watch?v=XPILFr7Bikk" target="_blank">Alexa, where's my car? Test driving AWS connected vehicle solution 2.0 </a>| 
 |AUT306|<a href="https://www.youtube.com/watch?v=9fH3y5p8ewE" target="_blank">Creating a data-driven, cloud-native ecosystem at BMW Group </a>| 
 |AUT307|<a href="https://www.youtube.com/watch?v=tujQ9cvls04" target="_blank">Navigating the winding road toward driverless mobility </a>| 
@@ -457,7 +458,7 @@
 |DAT362-R|<a href="https://www.youtube.com/watch?v=cSPLC-BY7Vc" target="_blank">[REPEAT] Dive deep into AWS SCT and AWS DMS </a>| 
 |DAT363-R1|<a href="https://www.youtube.com/watch?v=SldtNAonxEk" target="_blank">[REPEAT 1] Migrating your data warehouses to Amazon Redshift </a>| 
 |DAT364-R1|<a href="https://www.youtube.com/watch?v=R4Vj88iqu5s" target="_blank">[REPEAT 1] Deep dive on new features in Amazon RDS for SQL Server </a>| 
-|DAT365-R1|<a href="https://www.youtube.com/watch?v=6RZe_hu9aOk" target="_blank">[REPEAT 1] Deep dive on new features in Amazon RDS for Oracle </a>| 
+|DAT365-R1|<a href="https://www.youtube.com/watch?v=co_RYSJNEhs" target="_blank">[REPEAT 1] Deep dive on new features in Amazon RDS for Oracle </a>| 
 |DAT371|<a href="https://www.youtube.com/watch?v=DInYm0YWS4w" target="_blank">Norton Storage Platform’s journey from Cassandra to Amazon DynamoDB </a>| 
 |DAT372|<a href="https://www.youtube.com/watch?v=qmb7ssDH6Pg" target="_blank">Migrating your databases to Amazon DocumentDB </a>| 
 |DAT373|<a href="https://www.youtube.com/watch?v=5PahcAcEOcs" target="_blank">Data platform engineering: How Vanguard is migrating data to AWS </a>| 
