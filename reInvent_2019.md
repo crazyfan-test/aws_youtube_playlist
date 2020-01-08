@@ -45,7 +45,7 @@
 * [Serverless](#39) (20 Videos)
 * [Sponsorship](#40) (156 Videos)
 * [Startup](#41) (9 Videos)
-* [Storage](#42) (30 Videos)
+* [Storage](#42) (31 Videos)
 * [Telecom](#43) (4 Videos)
 * [We Power Tech](#44) (4 Videos)
 * [Windows & .Net](#45) (10 Videos)
@@ -1098,6 +1098,7 @@
 |STG213|<a href="https://www.youtube.com/watch?v=a-Qjd2baGQg" target="_blank">Storage for hybrid cloud and edge computing: Bring AWS to you </a>| 
 |STG214|<a href="https://www.youtube.com/watch?v=ZXf64YpiSY8" target="_blank">Data migration and edge computing with the AWS Snow family </a>| 
 |STG217|<a href="https://www.youtube.com/watch?v=J60yQRXwE3k" target="_blank">Shift your tape backups to AWS to save time and money </a>| 
+|STG234|<a href="https://www.youtube.com/watch?v=M4eFZtZJDKk" target="_blank">Data archiving & digital preservation solutions with AWS, ft. Team Coco </a>| 
 |STG238|<a href="https://www.youtube.com/watch?v=RJfF8aMrdyY" target="_blank">Deep dive: File storage for business-critical applications </a>| 
 |STG240-R2|<a href="https://www.youtube.com/watch?v=UPzsRk2lFWE" target="_blank">Guidelines and design patterns for optimizing cost in Amazon S3 </a>| 
 |STG301-R3|<a href="https://www.youtube.com/watch?v=2nkF_AK96BE" target="_blank">[REPEAT 3] Deep dive on Amazon S3 security and management </a>| 
