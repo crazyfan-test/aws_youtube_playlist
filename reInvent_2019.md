@@ -4,51 +4,53 @@
 ### Tracks
 
 * [AWS re:Invent 2019](#0) (22 Videos)
-* [Daily Recap](#1) (10 Videos)
+* [Daily Recap](#1) (11 Videos)
 * [20-min Presentations](#2) (16 Videos)
-* [AI & Machine Learning Summit](#3) (9 Videos)
-* [AR/VR](#4) (3 Videos)
-* [AWS Community](#5) (6 Videos)
-* [Advertising and Marketing](#6) (3 Videos)
-* [Alexa](#7) (5 Videos)
-* [Amazon.com](#8) (3 Videos)
-* [Analytics](#9) (34 Videos)
-* [Architecture](#10) (23 Videos)
-* [Artificial Intelligence & Machine Learning](#11) (46 Videos)
-* [Automotive](#12) (4 Videos)
-* [Blockchain](#13) (4 Videos)
-* [Breakout Sessions](#14) (2 Videos)
-* [Compute](#15) (24 Videos)
-* [Containers](#16) (20 Videos)
-* [Databases](#17) (34 Videos)
-* [DevOps](#18) (19 Videos)
-* [End User Computing & Business Apps](#19) (14 Videos)
-* [Enterprise](#20) (22 Videos)
-* [Financial Services](#21) (8 Videos)
-* [Games/GameTech](#22) (4 Videos)
-* [Global Partner Summit](#23) (26 Videos)
-* [Healthcare](#24) (3 Videos)
-* [IoT](#25) (22 Videos)
-* [Life Sciences](#26) (5 Videos)
-* [Management Tools & Governance](#27) (10 Videos)
-* [Manufacturing](#28) (7 Videos)
-* [Marketplace](#29) (7 Videos)
-* [Media Solutions](#30) (5 Videos)
-* [Mobile](#31) (8 Videos)
-* [Netflix](#32) (5 Videos)
-* [Networking](#33) (17 Videos)
-* [Open Source](#34) (13 Videos)
-* [Public Sector](#35) (5 Videos)
-* [Retail](#36) (4 Videos)
-* [Robotics](#37) (5 Videos)
-* [Security, Compliance, and Identity](#38) (27 Videos)
-* [Serverless](#39) (20 Videos)
-* [Sponsorship](#40) (156 Videos)
-* [Startup](#41) (9 Videos)
-* [Storage](#42) (31 Videos)
-* [Telecom](#43) (4 Videos)
-* [We Power Tech](#44) (4 Videos)
-* [Windows & .Net](#45) (10 Videos)
+* [: Deloitte Sessions](#3) (7 Videos)
+* [AI & Machine Learning Summit](#4) (9 Videos)
+* [AR/VR](#5) (3 Videos)
+* [AWS Community](#6) (6 Videos)
+* [Advertising and Marketing](#7) (3 Videos)
+* [Alexa](#8) (5 Videos)
+* [Amazon.com](#9) (3 Videos)
+* [Analytics](#10) (34 Videos)
+* [Application integration](#11) (4 Videos)
+* [Architecture](#12) (23 Videos)
+* [Artificial Intelligence & Machine Learning](#13) (46 Videos)
+* [Automotive](#14) (4 Videos)
+* [Blockchain](#15) (4 Videos)
+* [Breakout Sessions](#16) (2 Videos)
+* [Compute](#17) (24 Videos)
+* [Containers](#18) (20 Videos)
+* [Databases](#19) (34 Videos)
+* [DevOps](#20) (18 Videos)
+* [End User Computing & Business Apps](#21) (14 Videos)
+* [Enterprise](#22) (22 Videos)
+* [Financial Services](#23) (8 Videos)
+* [Games/GameTech](#24) (4 Videos)
+* [Global Partner Summit](#25) (26 Videos)
+* [Healthcare](#26) (3 Videos)
+* [IoT](#27) (23 Videos)
+* [Life Sciences](#28) (5 Videos)
+* [Management Tools & Governance](#29) (10 Videos)
+* [Manufacturing](#30) (7 Videos)
+* [Marketplace](#31) (7 Videos)
+* [Media Solutions](#32) (6 Videos)
+* [Mobile](#33) (8 Videos)
+* [Netflix](#34) (5 Videos)
+* [Networking](#35) (18 Videos)
+* [Open Source](#36) (13 Videos)
+* [Public Sector](#37) (5 Videos)
+* [Retail](#38) (4 Videos)
+* [Robotics](#39) (5 Videos)
+* [Security, Compliance, and Identity](#40) (27 Videos)
+* [Serverless](#41) (20 Videos)
+* [Sponsorship](#42) (156 Videos)
+* [Startup](#43) (9 Videos)
+* [Storage](#44) (31 Videos)
+* [Telecom](#45) (4 Videos)
+* [We Power Tech](#46) (4 Videos)
+* [Windows & .Net](#47) (10 Videos)
 
 
 
@@ -103,6 +105,7 @@
 |---|<a href="https://www.youtube.com/watch?v=LGkTttsx7vI" target="_blank">Recap Exclusives - Certification </a>| 
 |---|<a href="https://www.youtube.com/watch?v=z3zroh2IWNo" target="_blank">Recap Exclusives - Charity Activity </a>| 
 |---|<a href="https://www.youtube.com/watch?v=xB2Bhft0yyw" target="_blank">Recap Exclusives - Tatonka Champion </a>| 
+|---|<a href="https://www.youtube.com/watch?v=NsodEKqXdgc" target="_blank">re:Invent re:Cap </a>| 
 
 
 
@@ -131,7 +134,22 @@
 
 
 
-### AI & Machine Learning Summit <a name="3"></a>
+### : Deloitte Sessions <a name="3"></a>
+
+| ClassId |       |
+|-|-|
+|AIM231-S|<a href="https://www.youtube.com/watch?v=fvozGNfl_1A" target="_blank">Think Forward Initiative: People making better financial decisions </a>| 
+|ANT238-R|<a href="https://www.youtube.com/watch?v=gi9m6sHVvkg" target="_blank">AWS Data Exchange: Find & subscribe to third-party data in the cloud </a>| 
+|ARC221-S|<a href="https://www.youtube.com/watch?v=pfRWUfvBiac" target="_blank">Spirit AeroSystems’ Factory of the Future powered by AWS </a>| 
+|ARC223-S|<a href="https://www.youtube.com/watch?v=S0rePOssEHs" target="_blank">Reimagine SME banking: OpenDATA-enabled innovation at Rabobank </a>| 
+|ARC414-S|<a href="https://www.youtube.com/watch?v=ePCJniekE6Y" target="_blank">Accelerated analytics: Building the next-gen data platform for Hertz </a>| 
+|ENT232-S|<a href="https://www.youtube.com/watch?v=e9qAQxrxOp0" target="_blank">Merck drives innovation with a “real-world data exchange” on AWS </a>| 
+|MDS203-S|<a href="https://www.youtube.com/watch?v=HhoCwdnar0M" target="_blank">Cultures of belonging: Workplace diversity, equity, & inclusion </a>| 
+
+
+
+
+### AI & Machine Learning Summit <a name="4"></a>
 
 | ClassId |       |
 |-|-|
@@ -148,7 +166,7 @@
 
 
 
-### AR/VR <a name="4"></a>
+### AR/VR <a name="5"></a>
 
 | ClassId |       |
 |-|-|
@@ -159,7 +177,7 @@
 
 
 
-### AWS Community <a name="5"></a>
+### AWS Community <a name="6"></a>
 
 | ClassId |       |
 |-|-|
@@ -173,7 +191,7 @@
 
 
 
-### Advertising and Marketing <a name="6"></a>
+### Advertising and Marketing <a name="7"></a>
 
 | ClassId |       |
 |-|-|
@@ -184,7 +202,7 @@
 
 
 
-### Alexa <a name="7"></a>
+### Alexa <a name="8"></a>
 
 | ClassId |       |
 |-|-|
@@ -197,7 +215,7 @@
 
 
 
-### Amazon.com <a name="8"></a>
+### Amazon.com <a name="9"></a>
 
 | ClassId |       |
 |-|-|
@@ -208,7 +226,7 @@
 
 
 
-### Analytics <a name="9"></a>
+### Analytics <a name="10"></a>
 
 | ClassId |       |
 |-|-|
@@ -250,7 +268,19 @@
 
 
 
-### Architecture <a name="10"></a>
+### Application integration <a name="11"></a>
+
+| ClassId |       |
+|-|-|
+|API304|<a href="https://www.youtube.com/watch?v=2rikdPIFc_Q" target="_blank">Scalable serverless event-driven applications using Amazon SQS & Lambda </a>| 
+|API313|<a href="https://www.youtube.com/watch?v=goQiU67s-fg" target="_blank">Nondisruptive strategies for application migration </a>| 
+|API315-R3|<a href="https://www.youtube.com/watch?v=K6Ehvt656Ss" target="_blank">[REPEAT 3] Application integration patterns for microservices </a>| 
+|API320|<a href="https://www.youtube.com/watch?v=Hih-bF8qYgU" target="_blank">[NEW LAUNCH!] Building event-driven architectures w/ Amazon EventBridge </a>| 
+
+
+
+
+### Architecture <a name="12"></a>
 
 | ClassId |       |
 |-|-|
@@ -281,7 +311,7 @@
 
 
 
-### Artificial Intelligence & Machine Learning <a name="11"></a>
+### Artificial Intelligence & Machine Learning <a name="13"></a>
 
 | ClassId |       |
 |-|-|
@@ -335,7 +365,7 @@
 
 
 
-### Automotive <a name="12"></a>
+### Automotive <a name="14"></a>
 
 | ClassId |       |
 |-|-|
@@ -347,7 +377,7 @@
 
 
 
-### Blockchain <a name="13"></a>
+### Blockchain <a name="15"></a>
 
 | ClassId |       |
 |-|-|
@@ -359,7 +389,7 @@
 
 
 
-### Breakout Sessions <a name="14"></a>
+### Breakout Sessions <a name="16"></a>
 
 | ClassId |       |
 |-|-|
@@ -369,7 +399,7 @@
 
 
 
-### Compute <a name="15"></a>
+### Compute <a name="17"></a>
 
 | ClassId |       |
 |-|-|
@@ -401,7 +431,7 @@
 
 
 
-### Containers <a name="16"></a>
+### Containers <a name="18"></a>
 
 | ClassId |       |
 |-|-|
@@ -429,7 +459,7 @@
 
 
 
-### Databases <a name="17"></a>
+### Databases <a name="19"></a>
 
 | ClassId |       |
 |-|-|
@@ -471,7 +501,7 @@
 
 
 
-### DevOps <a name="18"></a>
+### DevOps <a name="20"></a>
 
 | ClassId |       |
 |-|-|
@@ -481,7 +511,6 @@
 |DOP210-L|<a href="https://www.youtube.com/watch?v=p9IybVJp5QM" target="_blank">Leadership Session: Developer Tools on AWS </a>| 
 |DOP211|<a href="https://www.youtube.com/watch?v=WYuo0bIZre0" target="_blank">[NEW LAUNCH!] Introduction to Amazon CodeGuru </a>| 
 |DOP212|<a href="https://www.youtube.com/watch?v=DzQQVDVBiVQ" target="_blank">Best practices for building your business on AWS IQ </a>| 
-|DOP301-R1|<a href="https://www.youtube.com/watch?v=n1d20Yok000" target="_blank">Amazon's approach to running service-oriented organizations </a>| 
 |DOP302-R1|<a href="https://www.youtube.com/watch?v=bJHHQM7GGro" target="_blank">[REPEAT 1] Best practices for authoring AWS CloudFormation </a>| 
 |DOP309-R1|<a href="https://www.youtube.com/watch?v=ztiPjey2rfY" target="_blank">[REPEAT 1] Improving resiliency with chaos engineering </a>| 
 |DOP310-R1|<a href="https://www.youtube.com/watch?v=NeR7FhHqDGQ" target="_blank">[REPEAT 1] Amazon’s approach to security during development </a>| 
@@ -498,7 +527,7 @@
 
 
 
-### End User Computing & Business Apps <a name="19"></a>
+### End User Computing & Business Apps <a name="21"></a>
 
 | ClassId |       |
 |-|-|
@@ -520,7 +549,7 @@
 
 
 
-### Enterprise <a name="20"></a>
+### Enterprise <a name="22"></a>
 
 | ClassId |       |
 |-|-|
@@ -550,7 +579,7 @@
 
 
 
-### Financial Services <a name="21"></a>
+### Financial Services <a name="23"></a>
 
 | ClassId |       |
 |-|-|
@@ -566,7 +595,7 @@
 
 
 
-### Games/GameTech <a name="22"></a>
+### Games/GameTech <a name="24"></a>
 
 | ClassId |       |
 |-|-|
@@ -578,7 +607,7 @@
 
 
 
-### Global Partner Summit <a name="23"></a>
+### Global Partner Summit <a name="25"></a>
 
 | ClassId |       |
 |-|-|
@@ -612,7 +641,7 @@
 
 
 
-### Healthcare <a name="24"></a>
+### Healthcare <a name="26"></a>
 
 | ClassId |       |
 |-|-|
@@ -623,7 +652,7 @@
 
 
 
-### IoT <a name="25"></a>
+### IoT <a name="27"></a>
 
 | ClassId |       |
 |-|-|
@@ -633,6 +662,7 @@
 |IOT210-R1|<a href="https://www.youtube.com/watch?v=awctUFGg2n8" target="_blank">[REPEAT 1] Post-launch planning for IoT deployments </a>| 
 |IOT213|<a href="https://www.youtube.com/watch?v=fQZzInv0XJg" target="_blank">What's new with AWS IoT connectivity and control services? </a>| 
 |IOT214|<a href="https://www.youtube.com/watch?v=sPBlry5c3fQ" target="_blank">What's new with AWS IoT Device Software? </a>| 
+|IOT214|<a href="https://www.youtube.com/watch?v=PI3ZwRo4_JU" target="_blank">What's new with AWS IoT Device Software? </a>| 
 |IOT218|<a href="https://www.youtube.com/watch?v=4v3BXtv7g2k" target="_blank">Accelerating your IoT journey w/ the AWS IoT and APN Partner community </a>| 
 |IOT220-R1|<a href="https://www.youtube.com/watch?v=CisowBIMtYw" target="_blank">[REPEAT 1] Building end-to-end solutions </a>| 
 |IOT221-R1|<a href="https://www.youtube.com/watch?v=JNqXkdGadeY" target="_blank">Driving operational performance across industrial facilities w/ AWS </a>| 
@@ -653,7 +683,7 @@
 
 
 
-### Life Sciences <a name="26"></a>
+### Life Sciences <a name="28"></a>
 
 | ClassId |       |
 |-|-|
@@ -666,7 +696,7 @@
 
 
 
-### Management Tools & Governance <a name="27"></a>
+### Management Tools & Governance <a name="29"></a>
 
 | ClassId |       |
 |-|-|
@@ -684,7 +714,7 @@
 
 
 
-### Manufacturing <a name="28"></a>
+### Manufacturing <a name="30"></a>
 
 | ClassId |       |
 |-|-|
@@ -699,7 +729,7 @@
 
 
 
-### Marketplace <a name="29"></a>
+### Marketplace <a name="31"></a>
 
 | ClassId |       |
 |-|-|
@@ -714,10 +744,11 @@
 
 
 
-### Media Solutions <a name="30"></a>
+### Media Solutions <a name="32"></a>
 
 | ClassId |       |
 |-|-|
+|MDS201|<a href="https://www.youtube.com/watch?v=A5YG_9Uv6IM" target="_blank">Latest Media & Entertainment industry news from AWS </a>| 
 |MDS202-R1|<a href="https://www.youtube.com/watch?v=XaDJHU4SJTI" target="_blank">[REPEAT 1] Optimizing live video feeds to the cloud and the consumer </a>| 
 |MDS301|<a href="https://www.youtube.com/watch?v=aZO1mgD9yJI" target="_blank">WarnerMedia/HBO’s cloud-based linear playout system </a>| 
 |MDS303-R1|<a href="https://www.youtube.com/watch?v=JFVzXMf0fWQ" target="_blank">Evolution of personalization/recommendation for video workflows </a>| 
@@ -727,7 +758,7 @@
 
 
 
-### Mobile <a name="31"></a>
+### Mobile <a name="33"></a>
 
 | ClassId |       |
 |-|-|
@@ -743,7 +774,7 @@
 
 
 
-### Netflix <a name="32"></a>
+### Netflix <a name="34"></a>
 
 | ClassId |       |
 |-|-|
@@ -756,7 +787,7 @@
 
 
 
-### Networking <a name="33"></a>
+### Networking <a name="35"></a>
 
 | ClassId |       |
 |-|-|
@@ -773,6 +804,7 @@
 |NET318-R1|<a href="https://www.youtube.com/watch?v=3ud_LLpzOAE" target="_blank">Building highly available applications using Global Accelerator </a>| 
 |NET320-R1|<a href="https://www.youtube.com/watch?v=Ot1kcQfUIdg" target="_blank">[REPEAT 1] The right AWS network architecture for the right reason </a>| 
 |NET321|<a href="https://www.youtube.com/watch?v=abOFqytVqBU" target="_blank">AWS PrivateLink deployments: DNS mechanisms for routing & resiliency </a>| 
+|NET322-R1|<a href="https://www.youtube.com/watch?v=S9NMA3ACZDM" target="_blank">Shared VPC: Simplify your AWS Cloud scale network with VPC sharing </a>| 
 |NET339|<a href="https://www.youtube.com/watch?v=UObQZ3R9_4c" target="_blank">Innovation and operation of the AWS global network infrastructure </a>| 
 |NET406-R1|<a href="https://www.youtube.com/watch?v=9Nikqn_02Oc" target="_blank">[REPEAT 1] AWS Transit Gateway reference architectures for many VPCs </a>| 
 |NET407-R2|<a href="https://www.youtube.com/watch?v=HKh54BkaOK0" target="_blank">Get the most from Elastic Load Balancing for different workloads </a>| 
@@ -781,7 +813,7 @@
 
 
 
-### Open Source <a name="34"></a>
+### Open Source <a name="36"></a>
 
 | ClassId |       |
 |-|-|
@@ -802,7 +834,7 @@
 
 
 
-### Public Sector <a name="35"></a>
+### Public Sector <a name="37"></a>
 
 | ClassId |       |
 |-|-|
@@ -815,7 +847,7 @@
 
 
 
-### Retail <a name="36"></a>
+### Retail <a name="38"></a>
 
 | ClassId |       |
 |-|-|
@@ -827,7 +859,7 @@
 
 
 
-### Robotics <a name="37"></a>
+### Robotics <a name="39"></a>
 
 | ClassId |       |
 |-|-|
@@ -840,7 +872,7 @@
 
 
 
-### Security, Compliance, and Identity <a name="38"></a>
+### Security, Compliance, and Identity <a name="40"></a>
 
 | ClassId |       |
 |-|-|
@@ -875,7 +907,7 @@
 
 
 
-### Serverless <a name="39"></a>
+### Serverless <a name="41"></a>
 
 | ClassId |       |
 |-|-|
@@ -903,7 +935,7 @@
 
 
 
-### Sponsorship <a name="40"></a>
+### Sponsorship <a name="42"></a>
 
 | ClassId |       |
 |-|-|
@@ -1067,7 +1099,7 @@
 
 
 
-### Startup <a name="41"></a>
+### Startup <a name="43"></a>
 
 | ClassId |       |
 |-|-|
@@ -1084,7 +1116,7 @@
 
 
 
-### Storage <a name="42"></a>
+### Storage <a name="44"></a>
 
 | ClassId |       |
 |-|-|
@@ -1123,7 +1155,7 @@
 
 
 
-### Telecom <a name="43"></a>
+### Telecom <a name="45"></a>
 
 | ClassId |       |
 |-|-|
@@ -1135,7 +1167,7 @@
 
 
 
-### We Power Tech <a name="44"></a>
+### We Power Tech <a name="46"></a>
 
 | ClassId |       |
 |-|-|
@@ -1147,7 +1179,7 @@
 
 
 
-### Windows & .Net <a name="45"></a>
+### Windows & .Net <a name="47"></a>
 
 | ClassId |       |
 |-|-|
