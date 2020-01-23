@@ -6,23 +6,23 @@
 * [AWS re:Invent 2019](#0) (22 Videos)
 * [Daily Recap](#1) (11 Videos)
 * [20-min Presentations](#2) (16 Videos)
-* [: Deloitte Sessions](#3) (7 Videos)
-* [AI & Machine Learning Summit](#4) (9 Videos)
-* [AR/VR](#5) (3 Videos)
-* [AWS Community](#6) (6 Videos)
-* [Advertising and Marketing](#7) (3 Videos)
-* [Alexa](#8) (5 Videos)
-* [Amazon.com](#9) (3 Videos)
-* [Analytics](#10) (34 Videos)
-* [Application integration](#11) (4 Videos)
-* [Architecture](#12) (23 Videos)
-* [Artificial Intelligence & Machine Learning](#13) (46 Videos)
-* [Automotive](#14) (4 Videos)
-* [Blockchain](#15) (4 Videos)
-* [Breakout Sessions](#16) (2 Videos)
-* [Compute](#17) (24 Videos)
-* [Containers](#18) (20 Videos)
-* [Databases](#19) (34 Videos)
+* [AI & Machine Learning Summit](#3) (9 Videos)
+* [AR/VR](#4) (3 Videos)
+* [AWS Community](#5) (6 Videos)
+* [Advertising and Marketing](#6) (3 Videos)
+* [Alexa](#7) (5 Videos)
+* [Amazon.com](#8) (3 Videos)
+* [Analytics](#9) (34 Videos)
+* [Application integration](#10) (4 Videos)
+* [Architecture](#11) (23 Videos)
+* [Artificial Intelligence & Machine Learning](#12) (46 Videos)
+* [Automotive](#13) (4 Videos)
+* [Blockchain](#14) (4 Videos)
+* [Breakout Sessions](#15) (2 Videos)
+* [Compute](#16) (24 Videos)
+* [Containers](#17) (20 Videos)
+* [Databases](#18) (35 Videos)
+* [Deloitte Sessions](#19) (7 Videos)
 * [DevOps](#20) (18 Videos)
 * [End User Computing & Business Apps](#21) (14 Videos)
 * [Enterprise](#22) (22 Videos)
@@ -30,9 +30,9 @@
 * [Games/GameTech](#24) (4 Videos)
 * [Global Partner Summit](#25) (26 Videos)
 * [Healthcare](#26) (3 Videos)
-* [IoT](#27) (23 Videos)
+* [IoT](#27) (22 Videos)
 * [Life Sciences](#28) (5 Videos)
-* [Management Tools & Governance](#29) (10 Videos)
+* [Management Tools & Governance](#29) (9 Videos)
 * [Manufacturing](#30) (7 Videos)
 * [Marketplace](#31) (7 Videos)
 * [Media Solutions](#32) (6 Videos)
@@ -134,22 +134,7 @@
 
 
 
-### : Deloitte Sessions <a name="3"></a>
-
-| ClassId |       |
-|-|-|
-|AIM231-S|<a href="https://www.youtube.com/watch?v=fvozGNfl_1A" target="_blank">Think Forward Initiative: People making better financial decisions </a>| 
-|ANT238-R|<a href="https://www.youtube.com/watch?v=gi9m6sHVvkg" target="_blank">AWS Data Exchange: Find & subscribe to third-party data in the cloud </a>| 
-|ARC221-S|<a href="https://www.youtube.com/watch?v=pfRWUfvBiac" target="_blank">Spirit AeroSystems’ Factory of the Future powered by AWS </a>| 
-|ARC223-S|<a href="https://www.youtube.com/watch?v=S0rePOssEHs" target="_blank">Reimagine SME banking: OpenDATA-enabled innovation at Rabobank </a>| 
-|ARC414-S|<a href="https://www.youtube.com/watch?v=ePCJniekE6Y" target="_blank">Accelerated analytics: Building the next-gen data platform for Hertz </a>| 
-|ENT232-S|<a href="https://www.youtube.com/watch?v=e9qAQxrxOp0" target="_blank">Merck drives innovation with a “real-world data exchange” on AWS </a>| 
-|MDS203-S|<a href="https://www.youtube.com/watch?v=HhoCwdnar0M" target="_blank">Cultures of belonging: Workplace diversity, equity, & inclusion </a>| 
-
-
-
-
-### AI & Machine Learning Summit <a name="4"></a>
+### AI & Machine Learning Summit <a name="3"></a>
 
 | ClassId |       |
 |-|-|
@@ -166,7 +151,7 @@
 
 
 
-### AR/VR <a name="5"></a>
+### AR/VR <a name="4"></a>
 
 | ClassId |       |
 |-|-|
@@ -177,7 +162,7 @@
 
 
 
-### AWS Community <a name="6"></a>
+### AWS Community <a name="5"></a>
 
 | ClassId |       |
 |-|-|
@@ -191,7 +176,7 @@
 
 
 
-### Advertising and Marketing <a name="7"></a>
+### Advertising and Marketing <a name="6"></a>
 
 | ClassId |       |
 |-|-|
@@ -202,7 +187,7 @@
 
 
 
-### Alexa <a name="8"></a>
+### Alexa <a name="7"></a>
 
 | ClassId |       |
 |-|-|
@@ -215,7 +200,7 @@
 
 
 
-### Amazon.com <a name="9"></a>
+### Amazon.com <a name="8"></a>
 
 | ClassId |       |
 |-|-|
@@ -226,7 +211,7 @@
 
 
 
-### Analytics <a name="10"></a>
+### Analytics <a name="9"></a>
 
 | ClassId |       |
 |-|-|
@@ -268,7 +253,7 @@
 
 
 
-### Application integration <a name="11"></a>
+### Application integration <a name="10"></a>
 
 | ClassId |       |
 |-|-|
@@ -280,7 +265,7 @@
 
 
 
-### Architecture <a name="12"></a>
+### Architecture <a name="11"></a>
 
 | ClassId |       |
 |-|-|
@@ -311,7 +296,7 @@
 
 
 
-### Artificial Intelligence & Machine Learning <a name="13"></a>
+### Artificial Intelligence & Machine Learning <a name="12"></a>
 
 | ClassId |       |
 |-|-|
@@ -365,7 +350,7 @@
 
 
 
-### Automotive <a name="14"></a>
+### Automotive <a name="13"></a>
 
 | ClassId |       |
 |-|-|
@@ -377,7 +362,7 @@
 
 
 
-### Blockchain <a name="15"></a>
+### Blockchain <a name="14"></a>
 
 | ClassId |       |
 |-|-|
@@ -389,7 +374,7 @@
 
 
 
-### Breakout Sessions <a name="16"></a>
+### Breakout Sessions <a name="15"></a>
 
 | ClassId |       |
 |-|-|
@@ -399,7 +384,7 @@
 
 
 
-### Compute <a name="17"></a>
+### Compute <a name="16"></a>
 
 | ClassId |       |
 |-|-|
@@ -431,7 +416,7 @@
 
 
 
-### Containers <a name="18"></a>
+### Containers <a name="17"></a>
 
 | ClassId |       |
 |-|-|
@@ -459,7 +444,7 @@
 
 
 
-### Databases <a name="19"></a>
+### Databases <a name="18"></a>
 
 | ClassId |       |
 |-|-|
@@ -486,6 +471,7 @@
 |DAT360-R1|<a href="https://www.youtube.com/watch?v=Brhwab-qp1E" target="_blank">Analytical use cases with AWS Database Migration Service (AWS DMS) </a>| 
 |DAT361|<a href="https://www.youtube.com/watch?v=dSqNAlYAAoQ" target="_blank">Deep dive on Amazon Neptune </a>| 
 |DAT362-R|<a href="https://www.youtube.com/watch?v=cSPLC-BY7Vc" target="_blank">[REPEAT] Dive deep into AWS SCT and AWS DMS </a>| 
+|DAT362-R1|<a href="https://www.youtube.com/watch?v=kJs9U4ys5FE" target="_blank">[REPEAT 1] Dive deep into AWS SCT and AWS DMS </a>| 
 |DAT363-R1|<a href="https://www.youtube.com/watch?v=SldtNAonxEk" target="_blank">[REPEAT 1] Migrating your data warehouses to Amazon Redshift </a>| 
 |DAT364-R1|<a href="https://www.youtube.com/watch?v=R4Vj88iqu5s" target="_blank">[REPEAT 1] Deep dive on new features in Amazon RDS for SQL Server </a>| 
 |DAT365-R1|<a href="https://www.youtube.com/watch?v=co_RYSJNEhs" target="_blank">[REPEAT 1] Deep dive on new features in Amazon RDS for Oracle </a>| 
@@ -497,6 +483,21 @@
 |DAT382|<a href="https://www.youtube.com/watch?v=9mTwxghXvlE" target="_blank">Aurora Serverless: Scalable, cost-effective application deployment </a>| 
 |DAT403-R1|<a href="https://www.youtube.com/watch?v=6yqfmXiZTlM" target="_blank">[REPEAT 1] Amazon DynamoDB deep dive: Advanced design patterns </a>| 
 |DAT404-R1|<a href="https://www.youtube.com/watch?v=p0C0jakzYuc" target="_blank">Amazon Aurora Multi-Master: Scaling out database write performance </a>| 
+
+
+
+
+### Deloitte Sessions <a name="19"></a>
+
+| ClassId |       |
+|-|-|
+|AIM231-S|<a href="https://www.youtube.com/watch?v=fvozGNfl_1A" target="_blank">Think Forward Initiative: People making better financial decisions </a>| 
+|ANT238-R|<a href="https://www.youtube.com/watch?v=gi9m6sHVvkg" target="_blank">AWS Data Exchange: Find & subscribe to third-party data in the cloud </a>| 
+|ARC221-S|<a href="https://www.youtube.com/watch?v=pfRWUfvBiac" target="_blank">Spirit AeroSystems’ Factory of the Future powered by AWS </a>| 
+|ARC223-S|<a href="https://www.youtube.com/watch?v=S0rePOssEHs" target="_blank">Reimagine SME banking: OpenDATA-enabled innovation at Rabobank </a>| 
+|ARC414-S|<a href="https://www.youtube.com/watch?v=ePCJniekE6Y" target="_blank">Accelerated analytics: Building the next-gen data platform for Hertz </a>| 
+|ENT232-S|<a href="https://www.youtube.com/watch?v=e9qAQxrxOp0" target="_blank">Merck drives innovation with a “real-world data exchange” on AWS </a>| 
+|MDS203-S|<a href="https://www.youtube.com/watch?v=HhoCwdnar0M" target="_blank">Cultures of belonging: Workplace diversity, equity, & inclusion </a>| 
 
 
 
@@ -661,7 +662,6 @@
 |IOT209-R1|<a href="https://www.youtube.com/watch?v=gPyOT6HjS_k" target="_blank">[REPEAT 1] Building smarter devices for a better life </a>| 
 |IOT210-R1|<a href="https://www.youtube.com/watch?v=awctUFGg2n8" target="_blank">[REPEAT 1] Post-launch planning for IoT deployments </a>| 
 |IOT213|<a href="https://www.youtube.com/watch?v=fQZzInv0XJg" target="_blank">What's new with AWS IoT connectivity and control services? </a>| 
-|IOT214|<a href="https://www.youtube.com/watch?v=sPBlry5c3fQ" target="_blank">What's new with AWS IoT Device Software? </a>| 
 |IOT214|<a href="https://www.youtube.com/watch?v=PI3ZwRo4_JU" target="_blank">What's new with AWS IoT Device Software? </a>| 
 |IOT218|<a href="https://www.youtube.com/watch?v=4v3BXtv7g2k" target="_blank">Accelerating your IoT journey w/ the AWS IoT and APN Partner community </a>| 
 |IOT220-R1|<a href="https://www.youtube.com/watch?v=CisowBIMtYw" target="_blank">[REPEAT 1] Building end-to-end solutions </a>| 
@@ -702,7 +702,6 @@
 |-|-|
 |MGT201-L|<a href="https://www.youtube.com/watch?v=xdJSUnPcPPI" target="_blank">Leadership session: AWS management and governance services </a>| 
 |MGT220-P|<a href="https://www.youtube.com/watch?v=_PrFgbuEqLA" target="_blank">Centralize control & visualization of your multi-account environments </a>| 
-|MGT221-P|<a href="https://www.youtube.com/watch?v=pwxQAxqM8is" target="_blank">Application configuration as code </a>| 
 |MGT222-P|<a href="https://www.youtube.com/watch?v=MhHxEgCpCws" target="_blank">Developing resource providers with new AWS CloudFormation tools </a>| 
 |MGT301-R1|<a href="https://www.youtube.com/watch?v=nLYGbotqHd0" target="_blank">Cut through the chaos: Gain operational visibility and insight </a>| 
 |MGT302-R1|<a href="https://www.youtube.com/watch?v=GUMSgdB-l6s" target="_blank">Enable AWS adoption at scale with automation and governance </a>| 
