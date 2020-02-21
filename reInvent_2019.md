@@ -19,7 +19,7 @@
 * [Automotive](#13) (4 Videos)
 * [Blockchain](#14) (4 Videos)
 * [Breakout Sessions](#15) (2 Videos)
-* [Compute](#16) (24 Videos)
+* [Compute](#16) (25 Videos)
 * [Containers](#17) (20 Videos)
 * [Databases](#18) (35 Videos)
 * [Deloitte Sessions](#19) (7 Videos)
@@ -43,14 +43,14 @@
 * [Public Sector](#37) (5 Videos)
 * [Retail](#38) (4 Videos)
 * [Robotics](#39) (5 Videos)
-* [Security, Compliance, and Identity](#40) (27 Videos)
+* [Security, Compliance, and Identity](#40) (28 Videos)
 * [Serverless](#41) (20 Videos)
 * [Sponsorship](#42) (156 Videos)
 * [Startup](#43) (9 Videos)
 * [Storage](#44) (31 Videos)
 * [Telecom](#45) (4 Videos)
 * [We Power Tech](#46) (4 Videos)
-* [Windows & .Net](#47) (10 Videos)
+* [Windows & .Net](#47) (11 Videos)
 
 
 
@@ -412,6 +412,7 @@
 |CMP331-R1|<a href="https://www.youtube.com/watch?v=7q5AeoKsGJw" target="_blank">Save up to 90% and run production workloads on Spot Instances </a>| 
 |CMP332|<a href="https://www.youtube.com/watch?v=QDMYydSWwWk" target="_blank">Simplifying Microsoft architectures with AWS services </a>| 
 |CMP338-R1|<a href="https://www.youtube.com/watch?v=sRuGbJpYdD0" target="_blank">Deep dive on AWS Nitro security for apps running on Amazon EC2 </a>| 
+|CMP372-P|<a href="https://www.youtube.com/watch?v=LWTAbVU9rbc" target="_blank">Using AWS ParallelCluster to simplify HPC cluster management </a>| 
 
 
 
@@ -890,6 +891,7 @@
 |SEC316-R1|<a href="https://www.youtube.com/watch?v=XO4CALyzbVM" target="_blank">Access control confidence: Right access to the right things </a>| 
 |SEC318-R1|<a href="https://www.youtube.com/watch?v=E1NaYN_fJUo" target="_blank">DIY guide to runbooks, incident reports, and incident response </a>| 
 |SEC325-R2|<a href="https://www.youtube.com/watch?v=zVJnenaD3U8" target="_blank">Architecting security & governance across your landing zone </a>| 
+|SEC332-R1|<a href="https://www.youtube.com/watch?v=5AH7ISqyF4M" target="_blank">Bot mitigation at the edge </a>| 
 |SEC337|<a href="https://www.youtube.com/watch?v=x2T8tCo_6C0" target="_blank">Toyota Motor North America: Securing the cloud with AWS KMS </a>| 
 |SEC338|<a href="https://www.youtube.com/watch?v=EI9TrCbK1p0" target="_blank">How FINRA builds serverless data-masking pipelines across accounts </a>| 
 |SEC339|<a href="https://www.youtube.com/watch?v=kNtiskRtfeY" target="_blank">Actionable threat hunting in AWS </a>| 
@@ -1192,6 +1194,7 @@
 |WIN311|<a href="https://www.youtube.com/watch?v=jZxim5X5JHs" target="_blank">Start using AI/ML/DL in your .NET applications today </a>| 
 |WIN312-R|<a href="https://www.youtube.com/watch?v=j1Fhaeh_MFA" target="_blank">[REPEAT] Active Directory on AWS to support Windows workloads </a>| 
 |WIN313-R1|<a href="https://www.youtube.com/watch?v=3bKMNJctnVk" target="_blank">[REPEAT 1] Design, migrate, and optimize SQL Server on AWS </a>| 
+|WIN330-P|<a href="https://www.youtube.com/watch?v=0xZW0cjYCD0" target="_blank">Operationalizing Microsoft workloads </a>| 
 
 
 
