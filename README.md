@@ -4,7 +4,7 @@ Collections of videos from AWS re:Invent & webinar
 
 
 ## re:Invent
-
+* [re:Invent 2023](reInvent_2023.md)
 * [re:Invent 2019](reInvent_2019.md)
 * [re:Invent 2018](reInvent_2018.md)
 * [re:Invent 2017](reInvent_2017.md)
