@@ -1,7 +1,7 @@
 
 
 
-### Tracks
+### Catalog
 
 * [AI](#0) (21 Videos)
 * [Big Data](#1) (18 Videos)
